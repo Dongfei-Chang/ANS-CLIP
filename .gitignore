@@ -1,0 +1,56 @@
+# Python编译缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter缓存
+.ipynb_checkpoints/
+
+# Python工具缓存
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python虚拟环境
+.venv/
+venv/
+env/
+
+# Python打包文件
+build/
+dist/
+*.egg-info/
+
+# 密钥和环境变量
+.env
+.env.*
+!.env.example
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# Windows和macOS系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 日志文件
+*.log
+logs/
+
+# 实验输出
+output/
+outputs/
+runs/
+wandb/
+checkpoints/
+
+# 模型权重
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors

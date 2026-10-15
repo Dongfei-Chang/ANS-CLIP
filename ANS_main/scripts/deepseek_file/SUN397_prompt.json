@@ -1,0 +1,6768 @@
+{
+  "abbey": {
+    "positive": [
+      "a photo of a abbey."
+    ],
+    "negative": [
+      "this is not a photo of a abbey."
+    ],
+    "deepLow": [
+      "abbey with stone arches, stained glass windows, moss-covered walls, towering spires, and cobblestone courtyard"
+    ],
+    "ori": [
+      "a photo of a abbey."
+    ],
+    "deepHigh": [
+      "The abbey is religious building."
+    ]
+  },
+  "airplane cabin": {
+    "positive": [
+      "a photo of a airplane cabin."
+    ],
+    "negative": [
+      "this is not a photo of a airplane cabin."
+    ],
+    "deepLow": [
+      "airplane cabin with blue fabric seats, silver metal trim, small oval windows, overhead storage bins, and patterned carpet flooring"
+    ],
+    "ori": [
+      "a photo of a airplane cabin."
+    ],
+    "deepHigh": [
+      "The airplane cabin is passenger seating area."
+    ]
+  },
+  "airport terminal": {
+    "positive": [
+      "a photo of a airport terminal."
+    ],
+    "negative": [
+      "this is not a photo of a airport terminal."
+    ],
+    "deepLow": [
+      "airport terminal with glass walls, steel beams, bright LED lights, polished floors, and moving walkways"
+    ],
+    "ori": [
+      "a photo of a airport terminal."
+    ],
+    "deepHigh": [
+      "The airport terminal is transportation hub."
+    ]
+  },
+  "alley": {
+    "positive": [
+      "a photo of a alley."
+    ],
+    "negative": [
+      "this is not a photo of a alley."
+    ],
+    "deepLow": [
+      "alley with cobblestone path, weathered brick walls, dim lantern light, ivy vines, narrow passage"
+    ],
+    "ori": [
+      "a photo of a alley."
+    ],
+    "deepHigh": [
+      "The alley is narrow urban passage."
+    ]
+  },
+  "amphitheater": {
+    "positive": [
+      "a photo of a amphitheater."
+    ],
+    "negative": [
+      "this is not a photo of a amphitheater."
+    ],
+    "deepLow": [
+      "amphitheater with tiered stone seating, arched entryways, sandy performance area, weathered gray walls, circular layout"
+    ],
+    "ori": [
+      "a photo of a amphitheater."
+    ],
+    "deepHigh": [
+      "The amphitheater is outdoor performance venue."
+    ]
+  },
+  "amusement arcade": {
+    "positive": [
+      "a photo of a amusement arcade."
+    ],
+    "negative": [
+      "this is not a photo of a amusement arcade."
+    ],
+    "deepLow": [
+      "amusement arcade with neon lights, colorful game cabinets, glossy floors, flashing screens, and arcade carpet patterns"
+    ],
+    "ori": [
+      "a photo of a amusement arcade."
+    ],
+    "deepHigh": [
+      "The amusement arcade is entertainment venue."
+    ]
+  },
+  "amusement park": {
+    "positive": [
+      "a photo of a amusement park."
+    ],
+    "negative": [
+      "this is not a photo of a amusement park."
+    ],
+    "deepLow": [
+      "amusement park with bright neon lights, spinning ferris wheel, striped tents, colorful balloons, and smooth metal roller coasters"
+    ],
+    "ori": [
+      "a photo of a amusement park."
+    ],
+    "deepHigh": [
+      "The amusement park is entertainment venue."
+    ]
+  },
+  "anechoic chamber": {
+    "positive": [
+      "a photo of a anechoic chamber."
+    ],
+    "negative": [
+      "this is not a photo of a anechoic chamber."
+    ],
+    "deepLow": [
+      "anechoic chamber with dark gray foam wedges, metallic floor grid, dim blue lighting, soundproof walls, angular ceiling"
+    ],
+    "ori": [
+      "a photo of a anechoic chamber."
+    ],
+    "deepHigh": [
+      "The anechoic chamber is sound-absorbing room."
+    ]
+  },
+  "outdoor apartment building": {
+    "positive": [
+      "a photo of a outdoor apartment building."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor apartment building."
+    ],
+    "deepLow": [
+      "outdoor apartment building, beige stucco walls, rectangular windows, black iron balconies, terracotta roof tiles"
+    ],
+    "ori": [
+      "a photo of a outdoor apartment building."
+    ],
+    "deepHigh": [
+      "The outdoor apartment building is residential complex."
+    ]
+  },
+  "indoor apse": {
+    "positive": [
+      "a photo of a indoor apse."
+    ],
+    "negative": [
+      "this is not a photo of a indoor apse."
+    ],
+    "deepLow": [
+      "indoor apse with curved stone walls, arched ceiling, stained glass windows, mosaic floor, dim candlelight"
+    ],
+    "ori": [
+      "a photo of a indoor apse."
+    ],
+    "deepHigh": [
+      "The indoor apse is semicircular recess space."
+    ]
+  },
+  "aquarium": {
+    "positive": [
+      "a photo of a aquarium."
+    ],
+    "negative": [
+      "this is not a photo of a aquarium."
+    ],
+    "deepLow": [
+      "aquarium with blue water, glass walls, colorful fish, bubbling filters, and sandy bottom"
+    ],
+    "ori": [
+      "a photo of a aquarium."
+    ],
+    "deepHigh": [
+      "The aquarium is aquatic exhibit."
+    ]
+  },
+  "aqueduct": {
+    "positive": [
+      "a photo of a aqueduct."
+    ],
+    "negative": [
+      "this is not a photo of a aqueduct."
+    ],
+    "deepLow": [
+      "aqueduct, stone arches, weathered gray bricks, flowing water channel, symmetrical spans, moss-covered surfaces"
+    ],
+    "ori": [
+      "a photo of a aqueduct."
+    ],
+    "deepHigh": [
+      "The aqueduct is ancient water transport structure."
+    ]
+  },
+  "arch": {
+    "positive": [
+      "a photo of a arch."
+    ],
+    "negative": [
+      "this is not a photo of a arch."
+    ],
+    "deepLow": [
+      "arched stone bridge, weathered gray bricks, moss-covered surface, rounded shape, spanning water"
+    ],
+    "ori": [
+      "a photo of a arch."
+    ],
+    "deepHigh": [
+      "The arch is architectural structure."
+    ]
+  },
+  "archive": {
+    "positive": [
+      "a photo of a archive."
+    ],
+    "negative": [
+      "this is not a photo of a archive."
+    ],
+    "deepLow": [
+      "archive with aged brown leather, stacked yellowed papers, metal clasps, and handwritten labels"
+    ],
+    "ori": [
+      "a photo of a archive."
+    ],
+    "deepHigh": [
+      "The archive is storage facility."
+    ]
+  },
+  "outdoor arrival gate": {
+    "positive": [
+      "a photo of a outdoor arrival gate."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor arrival gate."
+    ],
+    "deepLow": [
+      "outdoor arrival gate with metal railings, glass panels, bright signage, sleek lines, and overhead canopy"
+    ],
+    "ori": [
+      "a photo of a outdoor arrival gate."
+    ],
+    "deepHigh": [
+      "The outdoor arrival gate is entry point structure."
+    ]
+  },
+  "art gallery": {
+    "positive": [
+      "a photo of a art gallery."
+    ],
+    "negative": [
+      "this is not a photo of a art gallery."
+    ],
+    "deepLow": [
+      "art gallery with white walls, polished wood floors, large abstract paintings, and track lighting"
+    ],
+    "ori": [
+      "a photo of a art gallery."
+    ],
+    "deepHigh": [
+      "The art gallery is exhibition space."
+    ]
+  },
+  "art school": {
+    "positive": [
+      "a photo of a art school."
+    ],
+    "negative": [
+      "this is not a photo of a art school."
+    ],
+    "deepLow": [
+      "art school with white walls, colorful paint splatters, wooden easels, scattered brushes, and large north-facing windows"
+    ],
+    "ori": [
+      "a photo of a art school."
+    ],
+    "deepHigh": [
+      "The art school is creative learning environment."
+    ]
+  },
+  "art studio": {
+    "positive": [
+      "a photo of a art studio."
+    ],
+    "negative": [
+      "this is not a photo of a art studio."
+    ],
+    "deepLow": [
+      "art studio with splattered paint walls, wooden easels, scattered brushes, ceramic palettes, and natural light"
+    ],
+    "ori": [
+      "a photo of a art studio."
+    ],
+    "deepHigh": [
+      "The art studio is creative workspace."
+    ]
+  },
+  "assembly line": {
+    "positive": [
+      "a photo of a assembly line."
+    ],
+    "negative": [
+      "this is not a photo of a assembly line."
+    ],
+    "deepLow": [
+      "assembly line with metallic conveyor belts, robotic arms, orange safety barriers, and uniformed workers assembling products"
+    ],
+    "ori": [
+      "a photo of a assembly line."
+    ],
+    "deepHigh": [
+      "The assembly line is industrial production system."
+    ]
+  },
+  "outdoor athletic field": {
+    "positive": [
+      "a photo of a outdoor athletic field."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor athletic field."
+    ],
+    "deepLow": [
+      "outdoor athletic field with bright green turf, white boundary lines, red running track, metal goalposts, and bleacher seating"
+    ],
+    "ori": [
+      "a photo of a outdoor athletic field."
+    ],
+    "deepHigh": [
+      "The outdoor athletic field is sports playing surface."
+    ]
+  },
+  "public atrium": {
+    "positive": [
+      "a photo of a public atrium."
+    ],
+    "negative": [
+      "this is not a photo of a public atrium."
+    ],
+    "deepLow": [
+      "public atrium with glass ceiling, marble floors, potted palms, modern benches, sunlight reflections"
+    ],
+    "ori": [
+      "a photo of a public atrium."
+    ],
+    "deepHigh": [
+      "The public atrium is spacious indoor gathering area."
+    ]
+  },
+  "attic": {
+    "positive": [
+      "a photo of a attic."
+    ],
+    "negative": [
+      "this is not a photo of a attic."
+    ],
+    "deepLow": [
+      "attic with wooden beams, dusty floor, cobweb corners, slanted roof, old trunks"
+    ],
+    "ori": [
+      "a photo of a attic."
+    ],
+    "deepHigh": [
+      "The attic is storage space."
+    ]
+  },
+  "auditorium": {
+    "positive": [
+      "a photo of a auditorium."
+    ],
+    "negative": [
+      "this is not a photo of a auditorium."
+    ],
+    "deepLow": [
+      "auditorium with tiered seating, curved wooden panels, blue velvet chairs, spotlit stage, arched ceiling"
+    ],
+    "ori": [
+      "a photo of a auditorium."
+    ],
+    "deepHigh": [
+      "The auditorium is performance space."
+    ]
+  },
+  "auto factory": {
+    "positive": [
+      "a photo of a auto factory."
+    ],
+    "negative": [
+      "this is not a photo of a auto factory."
+    ],
+    "deepLow": [
+      "auto factory with metallic silver walls, large glass windows, conveyor belts, bright overhead lights, and robotic arms"
+    ],
+    "ori": [
+      "a photo of a auto factory."
+    ],
+    "deepHigh": [
+      "The auto factory is industrial assembly plant."
+    ]
+  },
+  "badlands": {
+    "positive": [
+      "a photo of a badlands."
+    ],
+    "negative": [
+      "this is not a photo of a badlands."
+    ],
+    "deepLow": [
+      "badlands, rugged terrain, layered sedimentary rock, earthy red and tan hues, deep gullies, sparse vegetation"
+    ],
+    "ori": [
+      "a photo of a badlands."
+    ],
+    "deepHigh": [
+      "The badlands is arid eroded landscape."
+    ]
+  },
+  "indoor badminton court": {
+    "positive": [
+      "a photo of a indoor badminton court."
+    ],
+    "negative": [
+      "this is not a photo of a indoor badminton court."
+    ],
+    "deepLow": [
+      "indoor badminton court, wooden floor, white boundary lines, high ceiling, bright overhead lights, blue net"
+    ],
+    "ori": [
+      "a photo of a indoor badminton court."
+    ],
+    "deepHigh": [
+      "The indoor badminton court is sports facility."
+    ]
+  },
+  "baggage claim": {
+    "positive": [
+      "a photo of a baggage claim."
+    ],
+    "negative": [
+      "this is not a photo of a baggage claim."
+    ],
+    "deepLow": [
+      "baggage claim with black conveyor belts, silver metal rails, colorful suitcases, bright LED signs, and bustling crowds"
+    ],
+    "ori": [
+      "a photo of a baggage claim."
+    ],
+    "deepHigh": [
+      "The baggage claim is luggage retrieval area."
+    ]
+  },
+  "shop bakery": {
+    "positive": [
+      "a photo of a shop bakery."
+    ],
+    "negative": [
+      "this is not a photo of a shop bakery."
+    ],
+    "deepLow": [
+      "shop bakery with warm wooden shelves, glass display cases, golden-brown pastries, white flour-dusted counter, checkered floor tiles"
+    ],
+    "ori": [
+      "a photo of a shop bakery."
+    ],
+    "deepHigh": [
+      "The shop bakery is food retail establishment."
+    ]
+  },
+  "exterior balcony": {
+    "positive": [
+      "a photo of a exterior balcony."
+    ],
+    "negative": [
+      "this is not a photo of a exterior balcony."
+    ],
+    "deepLow": [
+      "exterior balcony with wrought iron railings, wooden floor, potted plants, white walls, arched windows"
+    ],
+    "ori": [
+      "a photo of a exterior balcony."
+    ],
+    "deepHigh": [
+      "The exterior balcony is outdoor extension."
+    ]
+  },
+  "interior balcony": {
+    "positive": [
+      "a photo of a interior balcony."
+    ],
+    "negative": [
+      "this is not a photo of a interior balcony."
+    ],
+    "deepLow": [
+      "interior balcony with wrought iron railings, wooden floor planks, potted ferns, soft ambient lighting, whitewashed brick walls"
+    ],
+    "ori": [
+      "a photo of a interior balcony."
+    ],
+    "deepHigh": [
+      "The interior balcony is elevated viewing platform."
+    ]
+  },
+  "ball pit": {
+    "positive": [
+      "a photo of a ball pit."
+    ],
+    "negative": [
+      "this is not a photo of a ball pit."
+    ],
+    "deepLow": [
+      "ball pit with vibrant plastic balls, mixed colors, soft texture, round shapes, and shallow depth"
+    ],
+    "ori": [
+      "a photo of a ball pit."
+    ],
+    "deepHigh": [
+      "The ball pit is childrens play area."
+    ]
+  },
+  "ballroom": {
+    "positive": [
+      "a photo of a ballroom."
+    ],
+    "negative": [
+      "this is not a photo of a ballroom."
+    ],
+    "deepLow": [
+      "ballroom with crystal chandeliers, polished marble floors, gold-trimmed walls, velvet drapes, arched ceilings"
+    ],
+    "ori": [
+      "a photo of a ballroom."
+    ],
+    "deepHigh": [
+      "The ballroom is large dance hall."
+    ]
+  },
+  "bamboo forest": {
+    "positive": [
+      "a photo of a bamboo forest."
+    ],
+    "negative": [
+      "this is not a photo of a bamboo forest."
+    ],
+    "deepLow": [
+      "bamboo forest, tall green stalks, slender leaves, dappled sunlight, smooth cylindrical stems"
+    ],
+    "ori": [
+      "a photo of a bamboo forest."
+    ],
+    "deepHigh": [
+      "The bamboo forest is dense grove of tall green stalks."
+    ]
+  },
+  "banquet hall": {
+    "positive": [
+      "a photo of a banquet hall."
+    ],
+    "negative": [
+      "this is not a photo of a banquet hall."
+    ],
+    "deepLow": [
+      "banquet hall with crystal chandeliers, gold-trimmed walls, marble floors, arched windows, velvet drapes"
+    ],
+    "ori": [
+      "a photo of a banquet hall."
+    ],
+    "deepHigh": [
+      "The banquet hall is event venue."
+    ]
+  },
+  "bar": {
+    "positive": [
+      "a photo of a bar."
+    ],
+    "negative": [
+      "this is not a photo of a bar."
+    ],
+    "deepLow": [
+      "bar with dark wood counter, brass railings, neon signs, glass shelves, and stacked liquor bottles."
+    ],
+    "ori": [
+      "a photo of a bar."
+    ],
+    "deepHigh": [
+      "The bar is social drinking establishment."
+    ]
+  },
+  "barn": {
+    "positive": [
+      "a photo of a barn."
+    ],
+    "negative": [
+      "this is not a photo of a barn."
+    ],
+    "deepLow": [
+      "barn, weathered red wood siding, steep gabled roof, large sliding doors, hayloft window, surrounded by golden hay bales"
+    ],
+    "ori": [
+      "a photo of a barn."
+    ],
+    "deepHigh": [
+      "The barn is agricultural building."
+    ]
+  },
+  "barndoor": {
+    "positive": [
+      "a photo of a barndoor."
+    ],
+    "negative": [
+      "this is not a photo of a barndoor."
+    ],
+    "deepLow": [
+      "barndoor with weathered gray wood, horizontal slats, rusty metal hinges, and chipped paint edges"
+    ],
+    "ori": [
+      "a photo of a barndoor."
+    ],
+    "deepHigh": [
+      "The barndoor is rustic farm entrance."
+    ]
+  },
+  "baseball field": {
+    "positive": [
+      "a photo of a baseball field."
+    ],
+    "negative": [
+      "this is not a photo of a baseball field."
+    ],
+    "deepLow": [
+      "baseball field with green grass, brown dirt infield, white chalk lines, red clay pitchers mound, metal bleachers"
+    ],
+    "ori": [
+      "a photo of a baseball field."
+    ],
+    "deepHigh": [
+      "The baseball field is sports arena."
+    ]
+  },
+  "basement": {
+    "positive": [
+      "a photo of a basement."
+    ],
+    "negative": [
+      "this is not a photo of a basement."
+    ],
+    "deepLow": [
+      "basement with concrete walls, dim lighting, exposed pipes, wooden shelves, and stacked boxes"
+    ],
+    "ori": [
+      "a photo of a basement."
+    ],
+    "deepHigh": [
+      "The basement is underground storage space."
+    ]
+  },
+  "basilica": {
+    "positive": [
+      "a photo of a basilica."
+    ],
+    "negative": [
+      "this is not a photo of a basilica."
+    ],
+    "deepLow": [
+      "basilica with towering white marble columns, arched stained glass windows, domed golden roof, intricate stone carvings, wide stone steps."
+    ],
+    "ori": [
+      "a photo of a basilica."
+    ],
+    "deepHigh": [
+      "The basilica is large religious building."
+    ]
+  },
+  "outdoor basketball court": {
+    "positive": [
+      "a photo of a outdoor basketball court."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor basketball court."
+    ],
+    "deepLow": [
+      "outdoor basketball court, orange rim, black asphalt surface, white boundary lines, chain-link fence, cracked pavement"
+    ],
+    "ori": [
+      "a photo of a outdoor basketball court."
+    ],
+    "deepHigh": [
+      "The outdoor basketball court is sports facility."
+    ]
+  },
+  "bathroom": {
+    "positive": [
+      "a photo of a bathroom."
+    ],
+    "negative": [
+      "this is not a photo of a bathroom."
+    ],
+    "deepLow": [
+      "bathroom with white tiles, blue accents, glass shower door, wooden cabinet, round mirror"
+    ],
+    "ori": [
+      "a photo of a bathroom."
+    ],
+    "deepHigh": [
+      "The bathroom is personal hygiene space."
+    ]
+  },
+  "batters box": {
+    "positive": [
+      "a photo of a batters box."
+    ],
+    "negative": [
+      "this is not a photo of a batters box."
+    ],
+    "deepLow": [
+      "batters box, white chalk lines, rectangular shape, rough dirt texture, home plate corner, batters foot marks"
+    ],
+    "ori": [
+      "a photo of a batters box."
+    ],
+    "deepHigh": [
+      "The batters box is rectangular chalk outline."
+    ]
+  },
+  "bayou": {
+    "positive": [
+      "a photo of a bayou."
+    ],
+    "negative": [
+      "this is not a photo of a bayou."
+    ],
+    "deepLow": [
+      "bayou with murky green water, twisted cypress roots, Spanish moss draping, golden sunset reflections, rippling surface"
+    ],
+    "ori": [
+      "a photo of a bayou."
+    ],
+    "deepHigh": [
+      "The bayou is slow-moving wetland."
+    ]
+  },
+  "indoor bazaar": {
+    "positive": [
+      "a photo of a indoor bazaar."
+    ],
+    "negative": [
+      "this is not a photo of a indoor bazaar."
+    ],
+    "deepLow": [
+      "indoor bazaar with vibrant textiles, woven baskets, brass lanterns, patterned rugs, wooden stalls"
+    ],
+    "ori": [
+      "a photo of a indoor bazaar."
+    ],
+    "deepHigh": [
+      "The indoor bazaar is bustling marketplace."
+    ]
+  },
+  "outdoor bazaar": {
+    "positive": [
+      "a photo of a outdoor bazaar."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor bazaar."
+    ],
+    "deepLow": [
+      "outdoor bazaar with vibrant striped awnings, wooden stalls, woven baskets, colorful textiles, and bustling crowds"
+    ],
+    "ori": [
+      "a photo of a outdoor bazaar."
+    ],
+    "deepHigh": [
+      "The outdoor bazaar is bustling marketplace."
+    ]
+  },
+  "beach": {
+    "positive": [
+      "a photo of a beach."
+    ],
+    "negative": [
+      "this is not a photo of a beach."
+    ],
+    "deepLow": [
+      "beach with golden sand, turquoise waves, white foam, scattered seashells, and palm tree shadows"
+    ],
+    "ori": [
+      "a photo of a beach."
+    ],
+    "deepHigh": [
+      "The beach is coastal shoreline."
+    ]
+  },
+  "bedroom": {
+    "positive": [
+      "a photo of a bedroom."
+    ],
+    "negative": [
+      "this is not a photo of a bedroom."
+    ],
+    "deepLow": [
+      "bedroom with white walls, wooden floor, blue bedsheet, fluffy pillows, large window"
+    ],
+    "ori": [
+      "a photo of a bedroom."
+    ],
+    "deepHigh": [
+      "The bedroom is sleeping quarters."
+    ]
+  },
+  "berth": {
+    "positive": [
+      "a photo of a berth."
+    ],
+    "negative": [
+      "this is not a photo of a berth."
+    ],
+    "deepLow": [
+      "berth with weathered wooden planks, rusted metal cleats, frayed blue ropes, and chipped white paint"
+    ],
+    "ori": [
+      "a photo of a berth."
+    ],
+    "deepHigh": [
+      "The berth is sleeping accommodation."
+    ]
+  },
+  "biology laboratory": {
+    "positive": [
+      "a photo of a biology laboratory."
+    ],
+    "negative": [
+      "this is not a photo of a biology laboratory."
+    ],
+    "deepLow": [
+      "biology laboratory with white lab coats, glass beakers, blue reagent bottles, stainless steel counters, and microscope on black table"
+    ],
+    "ori": [
+      "a photo of a biology laboratory."
+    ],
+    "deepHigh": [
+      "The biology laboratory is scientific research space."
+    ]
+  },
+  "indoor bistro": {
+    "positive": [
+      "a photo of a indoor bistro."
+    ],
+    "negative": [
+      "this is not a photo of a indoor bistro."
+    ],
+    "deepLow": [
+      "indoor bistro with rustic wooden tables, checkered floors, vintage pendant lights, exposed brick walls, cozy booth seating"
+    ],
+    "ori": [
+      "a photo of a indoor bistro."
+    ],
+    "deepHigh": [
+      "The indoor bistro is cozy dining space."
+    ]
+  },
+  "boardwalk": {
+    "positive": [
+      "a photo of a boardwalk."
+    ],
+    "negative": [
+      "this is not a photo of a boardwalk."
+    ],
+    "deepLow": [
+      "boardwalk with weathered wooden planks, gray-blue railings, sandy edges, and scattered seashells"
+    ],
+    "ori": [
+      "a photo of a boardwalk."
+    ],
+    "deepHigh": [
+      "The boardwalk is waterfront promenade."
+    ]
+  },
+  "boat deck": {
+    "positive": [
+      "a photo of a boat deck."
+    ],
+    "negative": [
+      "this is not a photo of a boat deck."
+    ],
+    "deepLow": [
+      "boat deck with weathered wooden planks, white rope coils, blue storage bins, and metal railings"
+    ],
+    "ori": [
+      "a photo of a boat deck."
+    ],
+    "deepHigh": [
+      "The boat deck is open outdoor surface."
+    ]
+  },
+  "boathouse": {
+    "positive": [
+      "a photo of a boathouse."
+    ],
+    "negative": [
+      "this is not a photo of a boathouse."
+    ],
+    "deepLow": [
+      "boathouse with weathered wood siding, moss-covered roof, rectangular windows, faded blue paint, and dock extending into water"
+    ],
+    "ori": [
+      "a photo of a boathouse."
+    ],
+    "deepHigh": [
+      "The boathouse is waterfront structure."
+    ]
+  },
+  "bookstore": {
+    "positive": [
+      "a photo of a bookstore."
+    ],
+    "negative": [
+      "this is not a photo of a bookstore."
+    ],
+    "deepLow": [
+      "bookstore with wooden shelves, stacked colorful books, cozy reading nooks, warm lighting, vintage decor"
+    ],
+    "ori": [
+      "a photo of a bookstore."
+    ],
+    "deepHigh": [
+      "The bookstore is retail space."
+    ]
+  },
+  "indoor booth": {
+    "positive": [
+      "a photo of a indoor booth."
+    ],
+    "negative": [
+      "this is not a photo of a indoor booth."
+    ],
+    "deepLow": [
+      "indoor booth with glossy white panels, LED strip lighting, curved counter, black marble surface, digital display screen"
+    ],
+    "ori": [
+      "a photo of a indoor booth."
+    ],
+    "deepHigh": [
+      "The indoor booth is exhibition space."
+    ]
+  },
+  "botanical garden": {
+    "positive": [
+      "a photo of a botanical garden."
+    ],
+    "negative": [
+      "this is not a photo of a botanical garden."
+    ],
+    "deepLow": [
+      "botanical garden with vibrant flower beds, winding stone paths, lush green foliage, towering palm trees, and colorful butterfly displays"
+    ],
+    "ori": [
+      "a photo of a botanical garden."
+    ],
+    "deepHigh": [
+      "The botanical garden is plant collection space."
+    ]
+  },
+  "indoor bow window": {
+    "positive": [
+      "a photo of a indoor bow window."
+    ],
+    "negative": [
+      "this is not a photo of a indoor bow window."
+    ],
+    "deepLow": [
+      "indoor bow window, curved glass panes, wooden white frame, floral patterned cushions, sunlight streaming through"
+    ],
+    "ori": [
+      "a photo of a indoor bow window."
+    ],
+    "deepHigh": [
+      "The indoor bow window is curved seating area."
+    ]
+  },
+  "outdoor bow window": {
+    "positive": [
+      "a photo of a outdoor bow window."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor bow window."
+    ],
+    "deepLow": [
+      "outdoor bow window with curved glass panes, white wooden frame, floral patterned curtains, and potted plants on the ledge"
+    ],
+    "ori": [
+      "a photo of a outdoor bow window."
+    ],
+    "deepHigh": [
+      "The outdoor bow window is architectural feature."
+    ]
+  },
+  "bowling alley": {
+    "positive": [
+      "a photo of a bowling alley."
+    ],
+    "negative": [
+      "this is not a photo of a bowling alley."
+    ],
+    "deepLow": [
+      "bowling alley with glossy wooden lanes, neon scoreboards, colorful bowling balls, polished metal ball returns, and patterned carpeted seating"
+    ],
+    "ori": [
+      "a photo of a bowling alley."
+    ],
+    "deepHigh": [
+      "The bowling alley is recreational facility."
+    ]
+  },
+  "boxing ring": {
+    "positive": [
+      "a photo of a boxing ring."
+    ],
+    "negative": [
+      "this is not a photo of a boxing ring."
+    ],
+    "deepLow": [
+      "boxing ring with blue canvas, white ropes, red corner pads, square shape, bright spotlights"
+    ],
+    "ori": [
+      "a photo of a boxing ring."
+    ],
+    "deepHigh": [
+      "The boxing ring is combat sports arena."
+    ]
+  },
+  "indoor brewery": {
+    "positive": [
+      "a photo of a indoor brewery."
+    ],
+    "negative": [
+      "this is not a photo of a indoor brewery."
+    ],
+    "deepLow": [
+      "indoor brewery, copper vats, wooden barrels, brick walls, warm lighting, stainless steel counters"
+    ],
+    "ori": [
+      "a photo of a indoor brewery."
+    ],
+    "deepHigh": [
+      "The indoor brewery is industrial beverage production facility."
+    ]
+  },
+  "bridge": {
+    "positive": [
+      "a photo of a bridge."
+    ],
+    "negative": [
+      "this is not a photo of a bridge."
+    ],
+    "deepLow": [
+      "steel suspension bridge, gray cables, arched towers, concrete pillars, river below"
+    ],
+    "ori": [
+      "a photo of a bridge."
+    ],
+    "deepHigh": [
+      "The bridge is a connecting structure."
+    ]
+  },
+  "building facade": {
+    "positive": [
+      "a photo of a building facade."
+    ],
+    "negative": [
+      "this is not a photo of a building facade."
+    ],
+    "deepLow": [
+      "building facade with gray stone texture, arched windows, ornate carvings, and a weathered bronze door"
+    ],
+    "ori": [
+      "a photo of a building facade."
+    ],
+    "deepHigh": [
+      "The building facade is architectural exterior."
+    ]
+  },
+  "bullring": {
+    "positive": [
+      "a photo of a bullring."
+    ],
+    "negative": [
+      "this is not a photo of a bullring."
+    ],
+    "deepLow": [
+      "bullring with sandy arena, red wooden barriers, circular shape, tiered seating, and arched entryways"
+    ],
+    "ori": [
+      "a photo of a bullring."
+    ],
+    "deepHigh": [
+      "The bullring is circular arena."
+    ]
+  },
+  "burial chamber": {
+    "positive": [
+      "a photo of a burial chamber."
+    ],
+    "negative": [
+      "this is not a photo of a burial chamber."
+    ],
+    "deepLow": [
+      "burial chamber with stone walls, carved hieroglyphs, dim torchlight, dusty floor, arched ceiling"
+    ],
+    "ori": [
+      "a photo of a burial chamber."
+    ],
+    "deepHigh": [
+      "The burial chamber is subterranean tomb space."
+    ]
+  },
+  "bus interior": {
+    "positive": [
+      "a photo of a bus interior."
+    ],
+    "negative": [
+      "this is not a photo of a bus interior."
+    ],
+    "deepLow": [
+      "bus interior with blue vinyl seats, silver handrails, black rubber flooring, large rectangular windows, and overhead luggage racks"
+    ],
+    "ori": [
+      "a photo of a bus interior."
+    ],
+    "deepHigh": [
+      "The bus interior is passenger seating area."
+    ]
+  },
+  "butchers shop": {
+    "positive": [
+      "a photo of a butchers shop."
+    ],
+    "negative": [
+      "this is not a photo of a butchers shop."
+    ],
+    "deepLow": [
+      "butchers shop with white tiled walls, stainless steel counters, hanging meat hooks, red-checkered floor, glass display cases"
+    ],
+    "ori": [
+      "a photo of a butchers shop."
+    ],
+    "deepHigh": [
+      "The butchers shop is a meat retail space."
+    ]
+  },
+  "butte": {
+    "positive": [
+      "a photo of a butte."
+    ],
+    "negative": [
+      "this is not a photo of a butte."
+    ],
+    "deepLow": [
+      "butte, flat-topped, steep cliffs, layered sedimentary rock, earthy red and tan hues, sparse vegetation"
+    ],
+    "ori": [
+      "a photo of a butte."
+    ],
+    "deepHigh": [
+      "The butte is isolated hill formation."
+    ]
+  },
+  "outdoor cabin": {
+    "positive": [
+      "a photo of a outdoor cabin."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor cabin."
+    ],
+    "deepLow": [
+      "outdoor cabin with brown wooden logs, stone chimney, green metal roof, and pine tree surroundings"
+    ],
+    "ori": [
+      "a photo of a outdoor cabin."
+    ],
+    "deepHigh": [
+      "The outdoor cabin is rustic woodland dwelling."
+    ]
+  },
+  "cafeteria": {
+    "positive": [
+      "a photo of a cafeteria."
+    ],
+    "negative": [
+      "this is not a photo of a cafeteria."
+    ],
+    "deepLow": [
+      "cafeteria with long tables, plastic chairs, stainless steel counters, bright overhead lights, tiled floors"
+    ],
+    "ori": [
+      "a photo of a cafeteria."
+    ],
+    "deepHigh": [
+      "The cafeteria is food service area."
+    ]
+  },
+  "campsite": {
+    "positive": [
+      "a photo of a campsite."
+    ],
+    "negative": [
+      "this is not a photo of a campsite."
+    ],
+    "deepLow": [
+      "campsite with green tent, crackling orange campfire, wooden picnic table, rocky terrain, blue sleeping bags"
+    ],
+    "ori": [
+      "a photo of a campsite."
+    ],
+    "deepHigh": [
+      "The campsite is outdoor recreational area."
+    ]
+  },
+  "campus": {
+    "positive": [
+      "a photo of a campus."
+    ],
+    "negative": [
+      "this is not a photo of a campus."
+    ],
+    "deepLow": [
+      "campus with brick buildings, green lawns, tree-lined pathways, modern glass facades, and scattered benches"
+    ],
+    "ori": [
+      "a photo of a campus."
+    ],
+    "deepHigh": [
+      "The campus is academic institution grounds."
+    ]
+  },
+  "natural canal": {
+    "positive": [
+      "a photo of a natural canal."
+    ],
+    "negative": [
+      "this is not a photo of a natural canal."
+    ],
+    "deepLow": [
+      "natural canal with turquoise water, smooth stone banks, lush green reeds, rippling reflections, curved bends"
+    ],
+    "ori": [
+      "a photo of a natural canal."
+    ],
+    "deepHigh": [
+      "The natural canal is waterway passage."
+    ]
+  },
+  "urban canal": {
+    "positive": [
+      "a photo of a urban canal."
+    ],
+    "negative": [
+      "this is not a photo of a urban canal."
+    ],
+    "deepLow": [
+      "urban canal, reflective dark water, brick-lined edges, arched stone bridges, scattered floating leaves, muted urban backdrop"
+    ],
+    "ori": [
+      "a photo of a urban canal."
+    ],
+    "deepHigh": [
+      "The urban canal is a man-made waterway."
+    ]
+  },
+  "candy store": {
+    "positive": [
+      "a photo of a candy store."
+    ],
+    "negative": [
+      "this is not a photo of a candy store."
+    ],
+    "deepLow": [
+      "candy store with rainbow-colored jars, glass counters, striped awnings, gumball machines, and shiny wrappers"
+    ],
+    "ori": [
+      "a photo of a candy store."
+    ],
+    "deepHigh": [
+      "The candy store is colorful retail space."
+    ]
+  },
+  "canyon": {
+    "positive": [
+      "a photo of a canyon."
+    ],
+    "negative": [
+      "this is not a photo of a canyon."
+    ],
+    "deepLow": [
+      "canyon with layered red rock walls, rugged textures, winding river below, steep cliffs, and dusty orange hues"
+    ],
+    "ori": [
+      "a photo of a canyon."
+    ],
+    "deepHigh": [
+      "The canyon is deep geological formation."
+    ]
+  },
+  "backseat car interior": {
+    "positive": [
+      "a photo of a backseat car interior."
+    ],
+    "negative": [
+      "this is not a photo of a backseat car interior."
+    ],
+    "deepLow": [
+      "backseat car interior with black leather seats, gray fabric headrests, silver seat buckles, and a small storage pocket"
+    ],
+    "ori": [
+      "a photo of a backseat car interior."
+    ],
+    "deepHigh": [
+      "The backseat car interior is passenger seating area."
+    ]
+  },
+  "frontseat car interior": {
+    "positive": [
+      "a photo of a frontseat car interior."
+    ],
+    "negative": [
+      "this is not a photo of a frontseat car interior."
+    ],
+    "deepLow": [
+      "frontseat car interior with black leather seats, silver stitching, glossy dashboard, and circular air vents"
+    ],
+    "ori": [
+      "a photo of a frontseat car interior."
+    ],
+    "deepHigh": [
+      "The frontseat car interior is driver cabin space."
+    ]
+  },
+  "carrousel": {
+    "positive": [
+      "a photo of a carrousel."
+    ],
+    "negative": [
+      "this is not a photo of a carrousel."
+    ],
+    "deepLow": [
+      "carrousel with vibrant painted horses, gold trim, striped canopy, mirrored center, and polished wooden platform"
+    ],
+    "ori": [
+      "a photo of a carrousel."
+    ],
+    "deepHigh": [
+      "The carrousel is amusement ride."
+    ]
+  },
+  "indoor casino": {
+    "positive": [
+      "a photo of a indoor casino."
+    ],
+    "negative": [
+      "this is not a photo of a indoor casino."
+    ],
+    "deepLow": [
+      "indoor casino with neon-lit slot machines, plush red carpets, gold-trimmed tables, mirrored ceilings, smoky ambiance"
+    ],
+    "ori": [
+      "a photo of a indoor casino."
+    ],
+    "deepHigh": [
+      "The indoor casino is gambling establishment."
+    ]
+  },
+  "castle": {
+    "positive": [
+      "a photo of a castle."
+    ],
+    "negative": [
+      "this is not a photo of a castle."
+    ],
+    "deepLow": [
+      "castle with gray stone walls, tall turrets, arched windows, moss-covered surfaces, and a drawbridge"
+    ],
+    "ori": [
+      "a photo of a castle."
+    ],
+    "deepHigh": [
+      "The castle is fortified structure."
+    ]
+  },
+  "catacomb": {
+    "positive": [
+      "a photo of a catacomb."
+    ],
+    "negative": [
+      "this is not a photo of a catacomb."
+    ],
+    "deepLow": [
+      "catacomb with arched stone walls, dim torchlight, cobweb-covered niches, and narrow passageways"
+    ],
+    "ori": [
+      "a photo of a catacomb."
+    ],
+    "deepHigh": [
+      "The catacomb is underground burial site."
+    ]
+  },
+  "indoor cathedral": {
+    "positive": [
+      "a photo of a indoor cathedral."
+    ],
+    "negative": [
+      "this is not a photo of a indoor cathedral."
+    ],
+    "deepLow": [
+      "indoor cathedral with vaulted ceilings, stained glass windows, stone arches, and ornate carvings"
+    ],
+    "ori": [
+      "a photo of a indoor cathedral."
+    ],
+    "deepHigh": [
+      "The indoor cathedral is religious worship space."
+    ]
+  },
+  "outdoor cathedral": {
+    "positive": [
+      "a photo of a outdoor cathedral."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor cathedral."
+    ],
+    "deepLow": [
+      "outdoor cathedral with towering spires, stained glass windows, arched doorways, stone walls, and intricate carvings"
+    ],
+    "ori": [
+      "a photo of a outdoor cathedral."
+    ],
+    "deepHigh": [
+      "The outdoor cathedral is religious architecture."
+    ]
+  },
+  "indoor cavern": {
+    "positive": [
+      "a photo of a indoor cavern."
+    ],
+    "negative": [
+      "this is not a photo of a indoor cavern."
+    ],
+    "deepLow": [
+      "indoor cavern with rough stone walls, dim amber lighting, arched ceilings, damp textures, scattered stalactites"
+    ],
+    "ori": [
+      "a photo of a indoor cavern."
+    ],
+    "deepHigh": [
+      "The indoor cavern is subterranean chamber."
+    ]
+  },
+  "cemetery": {
+    "positive": [
+      "a photo of a cemetery."
+    ],
+    "negative": [
+      "this is not a photo of a cemetery."
+    ],
+    "deepLow": [
+      "cemetery with gray tombstones, green overgrown grass, cracked pathways, wrought iron gates, scattered white flowers"
+    ],
+    "ori": [
+      "a photo of a cemetery."
+    ],
+    "deepHigh": [
+      "The cemetery is burial ground."
+    ]
+  },
+  "chalet": {
+    "positive": [
+      "a photo of a chalet."
+    ],
+    "negative": [
+      "this is not a photo of a chalet."
+    ],
+    "deepLow": [
+      "chalet with wooden beams, steep A-frame roof, stone chimney, flower boxes, and snow-covered eaves"
+    ],
+    "ori": [
+      "a photo of a chalet."
+    ],
+    "deepHigh": [
+      "The chalet is mountain lodge."
+    ]
+  },
+  "cheese factory": {
+    "positive": [
+      "a photo of a cheese factory."
+    ],
+    "negative": [
+      "this is not a photo of a cheese factory."
+    ],
+    "deepLow": [
+      "cheese factory, stainless steel vats, yellow cheese wheels, white-coated workers, brick walls, conveyor belts"
+    ],
+    "ori": [
+      "a photo of a cheese factory."
+    ],
+    "deepHigh": [
+      "The cheese factory is dairy processing facility."
+    ]
+  },
+  "chemistry lab": {
+    "positive": [
+      "a photo of a chemistry lab."
+    ],
+    "negative": [
+      "this is not a photo of a chemistry lab."
+    ],
+    "deepLow": [
+      "chemistry lab with glass beakers, blue liquid, stainless steel tables, white lab coats, and black rubber tubing"
+    ],
+    "ori": [
+      "a photo of a chemistry lab."
+    ],
+    "deepHigh": [
+      "The chemistry lab is scientific workspace."
+    ]
+  },
+  "indoor chicken coop": {
+    "positive": [
+      "a photo of a indoor chicken coop."
+    ],
+    "negative": [
+      "this is not a photo of a indoor chicken coop."
+    ],
+    "deepLow": [
+      "indoor chicken coop, wooden slats, wire mesh walls, nesting boxes, straw bedding, warm lighting"
+    ],
+    "ori": [
+      "a photo of a indoor chicken coop."
+    ],
+    "deepHigh": [
+      "The indoor chicken coop is a sheltered poultry habitat."
+    ]
+  },
+  "outdoor chicken coop": {
+    "positive": [
+      "a photo of a outdoor chicken coop."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor chicken coop."
+    ],
+    "deepLow": [
+      "outdoor chicken coop, wooden slats, wire mesh fencing, sloped roof, nesting boxes, earthy brown tones"
+    ],
+    "ori": [
+      "a photo of a outdoor chicken coop."
+    ],
+    "deepHigh": [
+      "The outdoor chicken coop is a fenced enclosure with a small shelter."
+    ]
+  },
+  "childs room": {
+    "positive": [
+      "a photo of a childs room."
+    ],
+    "negative": [
+      "this is not a photo of a childs room."
+    ],
+    "deepLow": [
+      "childs room with pastel blue walls, fluffy white rug, wooden toy chest, polka dot curtains, stuffed animals"
+    ],
+    "ori": [
+      "a photo of a childs room."
+    ],
+    "deepHigh": [
+      "The childs room is playful space."
+    ]
+  },
+  "indoor church": {
+    "positive": [
+      "a photo of a indoor church."
+    ],
+    "negative": [
+      "this is not a photo of a indoor church."
+    ],
+    "deepLow": [
+      "indoor church with arched ceilings, stained glass windows, wooden pews, stone floors, and candlelit altars"
+    ],
+    "ori": [
+      "a photo of a indoor church."
+    ],
+    "deepHigh": [
+      "The indoor church is religious space."
+    ]
+  },
+  "outdoor church": {
+    "positive": [
+      "a photo of a outdoor church."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor church."
+    ],
+    "deepLow": [
+      "outdoor church, stone walls, arched doorway, wooden cross, stained glass windows, cobblestone path"
+    ],
+    "ori": [
+      "a photo of a outdoor church."
+    ],
+    "deepHigh": [
+      "The outdoor church is open-air worship space."
+    ]
+  },
+  "classroom": {
+    "positive": [
+      "a photo of a classroom."
+    ],
+    "negative": [
+      "this is not a photo of a classroom."
+    ],
+    "deepLow": [
+      "classroom with wooden desks, white chalkboard, blue chairs, tiled floor, large windows"
+    ],
+    "ori": [
+      "a photo of a classroom."
+    ],
+    "deepHigh": [
+      "The classroom is educational space."
+    ]
+  },
+  "clean room": {
+    "positive": [
+      "a photo of a clean room."
+    ],
+    "negative": [
+      "this is not a photo of a clean room."
+    ],
+    "deepLow": [
+      "clean room with white walls, glossy floors, stainless steel surfaces, bright LED lighting, minimal furniture."
+    ],
+    "ori": [
+      "a photo of a clean room."
+    ],
+    "deepHigh": [
+      "The clean room is sterile environment."
+    ]
+  },
+  "cliff": {
+    "positive": [
+      "a photo of a cliff."
+    ],
+    "negative": [
+      "this is not a photo of a cliff."
+    ],
+    "deepLow": [
+      "cliff with jagged edges, layered sedimentary rock, earthy brown tones, rough texture, steep vertical drop"
+    ],
+    "ori": [
+      "a photo of a cliff."
+    ],
+    "deepHigh": [
+      "The cliff is steep rock face."
+    ]
+  },
+  "indoor cloister": {
+    "positive": [
+      "a photo of a indoor cloister."
+    ],
+    "negative": [
+      "this is not a photo of a indoor cloister."
+    ],
+    "deepLow": [
+      "indoor cloister with arched stone walkways, terracotta tiles, ivy-covered columns, and soft diffused light"
+    ],
+    "ori": [
+      "a photo of a indoor cloister."
+    ],
+    "deepHigh": [
+      "The indoor cloister is enclosed walkway space."
+    ]
+  },
+  "closet": {
+    "positive": [
+      "a photo of a closet."
+    ],
+    "negative": [
+      "this is not a photo of a closet."
+    ],
+    "deepLow": [
+      "closet with white sliding doors, wooden shelves, mirrored panels, and hanging rods, organized neatly"
+    ],
+    "ori": [
+      "a photo of a closet."
+    ],
+    "deepHigh": [
+      "The closet is storage space."
+    ]
+  },
+  "clothing store": {
+    "positive": [
+      "a photo of a clothing store."
+    ],
+    "negative": [
+      "this is not a photo of a clothing store."
+    ],
+    "deepLow": [
+      "clothing store with glass storefront, colorful mannequins, racks of folded fabrics, bright LED lighting, sleek metal fixtures"
+    ],
+    "ori": [
+      "a photo of a clothing store."
+    ],
+    "deepHigh": [
+      "The clothing store is retail space."
+    ]
+  },
+  "coast": {
+    "positive": [
+      "a photo of a coast."
+    ],
+    "negative": [
+      "this is not a photo of a coast."
+    ],
+    "deepLow": [
+      "coast with golden sand, turquoise waves, jagged rocks, white foam, and distant sailboats"
+    ],
+    "ori": [
+      "a photo of a coast."
+    ],
+    "deepHigh": [
+      "The coast is shoreline landscape."
+    ]
+  },
+  "cockpit": {
+    "positive": [
+      "a photo of a cockpit."
+    ],
+    "negative": [
+      "this is not a photo of a cockpit."
+    ],
+    "deepLow": [
+      "cockpit with black leather seats, silver control panels, glowing blue displays, and padded headrests"
+    ],
+    "ori": [
+      "a photo of a cockpit."
+    ],
+    "deepHigh": [
+      "The cockpit is flight control center."
+    ]
+  },
+  "coffee shop": {
+    "positive": [
+      "a photo of a coffee shop."
+    ],
+    "negative": [
+      "this is not a photo of a coffee shop."
+    ],
+    "deepLow": [
+      "coffee shop with warm wood tables, exposed brick walls, chalkboard menus, ceramic mugs, and hanging pendant lights"
+    ],
+    "ori": [
+      "a photo of a coffee shop."
+    ],
+    "deepHigh": [
+      "The coffee shop is a beverage-serving establishment."
+    ]
+  },
+  "computer room": {
+    "positive": [
+      "a photo of a computer room."
+    ],
+    "negative": [
+      "this is not a photo of a computer room."
+    ],
+    "deepLow": [
+      "computer room with blue LED lights, black mesh chairs, white desks, glass partitions, and cable management trays"
+    ],
+    "ori": [
+      "a photo of a computer room."
+    ],
+    "deepHigh": [
+      "The computer room is technological workspace."
+    ]
+  },
+  "conference center": {
+    "positive": [
+      "a photo of a conference center."
+    ],
+    "negative": [
+      "this is not a photo of a conference center."
+    ],
+    "deepLow": [
+      "conference center with glass facade, modern angular design, neutral-toned interiors, plush carpeting, LED lighting panels"
+    ],
+    "ori": [
+      "a photo of a conference center."
+    ],
+    "deepHigh": [
+      "The conference center is event venue."
+    ]
+  },
+  "conference room": {
+    "positive": [
+      "a photo of a conference room."
+    ],
+    "negative": [
+      "this is not a photo of a conference room."
+    ],
+    "deepLow": [
+      "conference room with long wooden table, black leather chairs, glass walls, whiteboard, and ceiling spotlights"
+    ],
+    "ori": [
+      "a photo of a conference room."
+    ],
+    "deepHigh": [
+      "The conference room is meeting space."
+    ]
+  },
+  "construction site": {
+    "positive": [
+      "a photo of a construction site."
+    ],
+    "negative": [
+      "this is not a photo of a construction site."
+    ],
+    "deepLow": [
+      "construction site with orange safety cones, yellow excavators, gray concrete piles, metal scaffolding, dusty brown ground"
+    ],
+    "ori": [
+      "a photo of a construction site."
+    ],
+    "deepHigh": [
+      "The construction site is active work zone."
+    ]
+  },
+  "control room": {
+    "positive": [
+      "a photo of a control room."
+    ],
+    "negative": [
+      "this is not a photo of a control room."
+    ],
+    "deepLow": [
+      "control room with blue LED panels, metallic consoles, glass touchscreens, black rubber flooring, and glowing dials"
+    ],
+    "ori": [
+      "a photo of a control room."
+    ],
+    "deepHigh": [
+      "The control room is operational hub."
+    ]
+  },
+  "outdoor control tower": {
+    "positive": [
+      "a photo of a outdoor control tower."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor control tower."
+    ],
+    "deepLow": [
+      "outdoor control tower, tall rectangular structure, glass windows, metal railings, antenna on top, gray concrete base"
+    ],
+    "ori": [
+      "a photo of a outdoor control tower."
+    ],
+    "deepHigh": [
+      "The outdoor control tower is aviation structure."
+    ]
+  },
+  "corn field": {
+    "positive": [
+      "a photo of a corn field."
+    ],
+    "negative": [
+      "this is not a photo of a corn field."
+    ],
+    "deepLow": [
+      "corn field, tall green stalks, golden tassels, orderly rows, broad leaves, sunlit husks"
+    ],
+    "ori": [
+      "a photo of a corn field."
+    ],
+    "deepHigh": [
+      "The corn field is agricultural land."
+    ]
+  },
+  "corral": {
+    "positive": [
+      "a photo of a corral."
+    ],
+    "negative": [
+      "this is not a photo of a corral."
+    ],
+    "deepLow": [
+      "corral with weathered wooden posts, rusty metal gates, dry dirt ground, scattered hay bales, and split-rail fencing"
+    ],
+    "ori": [
+      "a photo of a corral."
+    ],
+    "deepHigh": [
+      "The corral is livestock enclosure."
+    ]
+  },
+  "corridor": {
+    "positive": [
+      "a photo of a corridor."
+    ],
+    "negative": [
+      "this is not a photo of a corridor."
+    ],
+    "deepLow": [
+      "corridor with white walls, gray tiled floor, fluorescent ceiling lights, glass doors at end, narrow rectangular shape"
+    ],
+    "ori": [
+      "a photo of a corridor."
+    ],
+    "deepHigh": [
+      "The corridor is connecting passageway."
+    ]
+  },
+  "cottage garden": {
+    "positive": [
+      "a photo of a cottage garden."
+    ],
+    "negative": [
+      "this is not a photo of a cottage garden."
+    ],
+    "deepLow": [
+      "cottage garden with pastel blooms, winding gravel paths, rustic wooden fences, climbing roses, and wildflower clusters"
+    ],
+    "ori": [
+      "a photo of a cottage garden."
+    ],
+    "deepHigh": [
+      "The cottage garden is informal planting space."
+    ]
+  },
+  "courthouse": {
+    "positive": [
+      "a photo of a courthouse."
+    ],
+    "negative": [
+      "this is not a photo of a courthouse."
+    ],
+    "deepLow": [
+      "courthouse with grand marble columns, wide stone steps, symmetrical facade, tall arched windows, and a domed roof"
+    ],
+    "ori": [
+      "a photo of a courthouse."
+    ],
+    "deepHigh": [
+      "The courthouse is legal building."
+    ]
+  },
+  "courtroom": {
+    "positive": [
+      "a photo of a courtroom."
+    ],
+    "negative": [
+      "this is not a photo of a courtroom."
+    ],
+    "deepLow": [
+      "courtroom with wooden benches, marble floors, high ceilings, judges podium, and stained glass windows"
+    ],
+    "ori": [
+      "a photo of a courtroom."
+    ],
+    "deepHigh": [
+      "The courtroom is judicial space."
+    ]
+  },
+  "courtyard": {
+    "positive": [
+      "a photo of a courtyard."
+    ],
+    "negative": [
+      "this is not a photo of a courtyard."
+    ],
+    "deepLow": [
+      "courtyard with cobblestone floor, arched doorways, terracotta pots, ivy-covered walls, and a central fountain"
+    ],
+    "ori": [
+      "a photo of a courtyard."
+    ],
+    "deepHigh": [
+      "The courtyard is enclosed open space."
+    ]
+  },
+  "exterior covered bridge": {
+    "positive": [
+      "a photo of a exterior covered bridge."
+    ],
+    "negative": [
+      "this is not a photo of a exterior covered bridge."
+    ],
+    "deepLow": [
+      "exterior covered bridge, weathered wooden planks, rust-red paint, arched roof, stone foundations, surrounded by autumn trees"
+    ],
+    "ori": [
+      "a photo of a exterior covered bridge."
+    ],
+    "deepHigh": [
+      "The exterior covered bridge is wooden structure with a roof."
+    ]
+  },
+  "creek": {
+    "positive": [
+      "a photo of a creek."
+    ],
+    "negative": [
+      "this is not a photo of a creek."
+    ],
+    "deepLow": [
+      "creek with clear water, smooth rocks, green moss patches, gentle ripples, sandy banks"
+    ],
+    "ori": [
+      "a photo of a creek."
+    ],
+    "deepHigh": [
+      "The creek is flowing waterway."
+    ]
+  },
+  "crevasse": {
+    "positive": [
+      "a photo of a crevasse."
+    ],
+    "negative": [
+      "this is not a photo of a crevasse."
+    ],
+    "deepLow": [
+      "crevasse, deep blue ice walls, jagged edges, snow-dusted ridges, shadowy depths"
+    ],
+    "ori": [
+      "a photo of a crevasse."
+    ],
+    "deepHigh": [
+      "The crevasse is deep glacial crack."
+    ]
+  },
+  "crosswalk": {
+    "positive": [
+      "a photo of a crosswalk."
+    ],
+    "negative": [
+      "this is not a photo of a crosswalk."
+    ],
+    "deepLow": [
+      "crosswalk, white striped pattern, black asphalt background, rectangular shape, pedestrian crossing sign nearby"
+    ],
+    "ori": [
+      "a photo of a crosswalk."
+    ],
+    "deepHigh": [
+      "The crosswalk is pedestrian pathway."
+    ]
+  },
+  "office cubicle": {
+    "positive": [
+      "a photo of a office cubicle."
+    ],
+    "negative": [
+      "this is not a photo of a office cubicle."
+    ],
+    "deepLow": [
+      "office cubicle with gray fabric walls, black metal frame, beige laminate desk, scattered papers, and a swivel chair"
+    ],
+    "ori": [
+      "a photo of a office cubicle."
+    ],
+    "deepHigh": [
+      "The office cubicle is partitioned workspace."
+    ]
+  },
+  "dam": {
+    "positive": [
+      "a photo of a dam."
+    ],
+    "negative": [
+      "this is not a photo of a dam."
+    ],
+    "deepLow": [
+      "dam with gray concrete walls, curved spillway, blue reservoir water, rocky surroundings, metal railings"
+    ],
+    "ori": [
+      "a photo of a dam."
+    ],
+    "deepHigh": [
+      "The dam is water barrier structure."
+    ]
+  },
+  "delicatessen": {
+    "positive": [
+      "a photo of a delicatessen."
+    ],
+    "negative": [
+      "this is not a photo of a delicatessen."
+    ],
+    "deepLow": [
+      "delicatessen with glass display cases, cured meats hanging, colorful cheese wheels, marble countertops, vintage signage"
+    ],
+    "ori": [
+      "a photo of a delicatessen."
+    ],
+    "deepHigh": [
+      "The delicatessen is food shop."
+    ]
+  },
+  "dentists office": {
+    "positive": [
+      "a photo of a dentists office."
+    ],
+    "negative": [
+      "this is not a photo of a dentists office."
+    ],
+    "deepLow": [
+      "dentists office with white walls, blue vinyl chairs, stainless steel tools, glass cabinets, and tiled floors"
+    ],
+    "ori": [
+      "a photo of a dentists office."
+    ],
+    "deepHigh": [
+      "The dentists office is medical treatment room."
+    ]
+  },
+  "sand desert": {
+    "positive": [
+      "a photo of a sand desert."
+    ],
+    "negative": [
+      "this is not a photo of a sand desert."
+    ],
+    "deepLow": [
+      "sand desert, golden dunes, wavy patterns, fine grains, sparse shrubs, distant horizon"
+    ],
+    "ori": [
+      "a photo of a sand desert."
+    ],
+    "deepHigh": [
+      "The sand desert is arid landscape."
+    ]
+  },
+  "vegetation desert": {
+    "positive": [
+      "a photo of a vegetation desert."
+    ],
+    "negative": [
+      "this is not a photo of a vegetation desert."
+    ],
+    "deepLow": [
+      "vegetation desert with spiky cacti, sandy soil, scattered shrubs, muted green tones, dry cracked ground"
+    ],
+    "ori": [
+      "a photo of a vegetation desert."
+    ],
+    "deepHigh": [
+      "The vegetation desert is arid landscape."
+    ]
+  },
+  "indoor diner": {
+    "positive": [
+      "a photo of a indoor diner."
+    ],
+    "negative": [
+      "this is not a photo of a indoor diner."
+    ],
+    "deepLow": [
+      "indoor diner with red vinyl booths, checkerboard floors, chrome counter stools, neon signs, retro jukebox"
+    ],
+    "ori": [
+      "a photo of a indoor diner."
+    ],
+    "deepHigh": [
+      "The indoor diner is retro-style eatery."
+    ]
+  },
+  "outdoor diner": {
+    "positive": [
+      "a photo of a outdoor diner."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor diner."
+    ],
+    "deepLow": [
+      "outdoor diner with checkered tablecloths, metal chairs, string lights, retro signage, and umbrella shades"
+    ],
+    "ori": [
+      "a photo of a outdoor diner."
+    ],
+    "deepHigh": [
+      "The outdoor diner is retro roadside eatery."
+    ]
+  },
+  "home dinette": {
+    "positive": [
+      "a photo of a home dinette."
+    ],
+    "negative": [
+      "this is not a photo of a home dinette."
+    ],
+    "deepLow": [
+      "home dinette with round glass table, white cushioned chairs, floral upholstery, wooden legs, modern lighting"
+    ],
+    "ori": [
+      "a photo of a home dinette."
+    ],
+    "deepHigh": [
+      "The home dinette is casual dining space."
+    ]
+  },
+  "vehicle dinette": {
+    "positive": [
+      "a photo of a vehicle dinette."
+    ],
+    "negative": [
+      "this is not a photo of a vehicle dinette."
+    ],
+    "deepLow": [
+      "vehicle dinette, compact booth seating, faux leather upholstery, chrome trim, foldable table, checkered floor mat"
+    ],
+    "ori": [
+      "a photo of a vehicle dinette."
+    ],
+    "deepHigh": [
+      "The vehicle dinette is compact seating area."
+    ]
+  },
+  "dining car": {
+    "positive": [
+      "a photo of a dining car."
+    ],
+    "negative": [
+      "this is not a photo of a dining car."
+    ],
+    "deepLow": [
+      "dining car with polished wood tables, brass light fixtures, checkered floor tiles, large windows, and upholstered booth seats"
+    ],
+    "ori": [
+      "a photo of a dining car."
+    ],
+    "deepHigh": [
+      "The dining car is a train restaurant."
+    ]
+  },
+  "dining room": {
+    "positive": [
+      "a photo of a dining room."
+    ],
+    "negative": [
+      "this is not a photo of a dining room."
+    ],
+    "deepLow": [
+      "dining room with wooden table, white chairs, floral centerpiece, large window, hardwood floors"
+    ],
+    "ori": [
+      "a photo of a dining room."
+    ],
+    "deepHigh": [
+      "The dining room is eating space."
+    ]
+  },
+  "discotheque": {
+    "positive": [
+      "a photo of a discotheque."
+    ],
+    "negative": [
+      "this is not a photo of a discotheque."
+    ],
+    "deepLow": [
+      "discotheque with mirrored walls, neon lights, glossy dance floor, spinning disco ball, vibrant colors."
+    ],
+    "ori": [
+      "a photo of a discotheque."
+    ],
+    "deepHigh": [
+      "The discotheque is nightlife entertainment venue."
+    ]
+  },
+  "dock": {
+    "positive": [
+      "a photo of a dock."
+    ],
+    "negative": [
+      "this is not a photo of a dock."
+    ],
+    "deepLow": [
+      "wooden dock, weathered gray planks, metal cleats, rope ties, calm water reflections"
+    ],
+    "ori": [
+      "a photo of a dock."
+    ],
+    "deepHigh": [
+      "The dock is waterfront structure."
+    ]
+  },
+  "outdoor doorway": {
+    "positive": [
+      "a photo of a outdoor doorway."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor doorway."
+    ],
+    "deepLow": [
+      "outdoor doorway with weathered wooden frame, chipped blue paint, arched shape, wrought iron hinges, stone threshold"
+    ],
+    "ori": [
+      "a photo of a outdoor doorway."
+    ],
+    "deepHigh": [
+      "The outdoor doorway is exterior entrance."
+    ]
+  },
+  "dorm room": {
+    "positive": [
+      "a photo of a dorm room."
+    ],
+    "negative": [
+      "this is not a photo of a dorm room."
+    ],
+    "deepLow": [
+      "dorm room with twin bed, blue plaid comforter, wooden desk, string lights, cluttered textbooks"
+    ],
+    "ori": [
+      "a photo of a dorm room."
+    ],
+    "deepHigh": [
+      "The dorm room is student living space."
+    ]
+  },
+  "driveway": {
+    "positive": [
+      "a photo of a driveway."
+    ],
+    "negative": [
+      "this is not a photo of a driveway."
+    ],
+    "deepLow": [
+      "driveway with gray concrete surface, black asphalt edges, white painted lines, cracked texture, bordered by green hedges"
+    ],
+    "ori": [
+      "a photo of a driveway."
+    ],
+    "deepHigh": [
+      "The driveway is paved vehicle path."
+    ]
+  },
+  "outdoor driving range": {
+    "positive": [
+      "a photo of a outdoor driving range."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor driving range."
+    ],
+    "deepLow": [
+      "outdoor driving range, lush green turf, white golf balls, rectangular tee boxes, blue distance markers, clear blue sky"
+    ],
+    "ori": [
+      "a photo of a outdoor driving range."
+    ],
+    "deepHigh": [
+      "The outdoor driving range is sports practice facility."
+    ]
+  },
+  "drugstore": {
+    "positive": [
+      "a photo of a drugstore."
+    ],
+    "negative": [
+      "this is not a photo of a drugstore."
+    ],
+    "deepLow": [
+      "drugstore with bright neon signs, glass-fronted shelves, white tile floors, and rows of colorful product packaging"
+    ],
+    "ori": [
+      "a photo of a drugstore."
+    ],
+    "deepHigh": [
+      "The drugstore is retail pharmacy."
+    ]
+  },
+  "electrical substation": {
+    "positive": [
+      "a photo of a electrical substation."
+    ],
+    "negative": [
+      "this is not a photo of a electrical substation."
+    ],
+    "deepLow": [
+      "electrical substation with gray metal transformers, high-voltage power lines, lattice steel towers, ceramic insulators, and warning signs"
+    ],
+    "ori": [
+      "a photo of a electrical substation."
+    ],
+    "deepHigh": [
+      "The electrical substation is power distribution facility."
+    ]
+  },
+  "door elevator": {
+    "positive": [
+      "a photo of a door elevator."
+    ],
+    "negative": [
+      "this is not a photo of a door elevator."
+    ],
+    "deepLow": [
+      "door elevator with metallic silver panels, horizontal grooves, glass window strip, black rubber edges, and illuminated floor indicator"
+    ],
+    "ori": [
+      "a photo of a door elevator."
+    ],
+    "deepHigh": [
+      "The door elevator is vertical transport access."
+    ]
+  },
+  "interior elevator": {
+    "positive": [
+      "a photo of a interior elevator."
+    ],
+    "negative": [
+      "this is not a photo of a interior elevator."
+    ],
+    "deepLow": [
+      "interior elevator with mirrored walls, stainless steel buttons, geometric carpet pattern, soft LED lighting, glass handrails"
+    ],
+    "ori": [
+      "a photo of a interior elevator."
+    ],
+    "deepHigh": [
+      "The interior elevator is enclosed vertical transport."
+    ]
+  },
+  "elevator shaft": {
+    "positive": [
+      "a photo of a elevator shaft."
+    ],
+    "negative": [
+      "this is not a photo of a elevator shaft."
+    ],
+    "deepLow": [
+      "elevator shaft with metal rails, concrete walls, dim lighting, exposed cables, and steel doors"
+    ],
+    "ori": [
+      "a photo of a elevator shaft."
+    ],
+    "deepHigh": [
+      "The elevator shaft is vertical passageway."
+    ]
+  },
+  "engine room": {
+    "positive": [
+      "a photo of a engine room."
+    ],
+    "negative": [
+      "this is not a photo of a engine room."
+    ],
+    "deepLow": [
+      "engine room, metallic silver pipes, greasy black machinery, glowing orange dials, rusted iron panels, dim yellow lighting"
+    ],
+    "ori": [
+      "a photo of a engine room."
+    ],
+    "deepHigh": [
+      "The engine room is industrial machinery space."
+    ]
+  },
+  "indoor escalator": {
+    "positive": [
+      "a photo of a indoor escalator."
+    ],
+    "negative": [
+      "this is not a photo of a indoor escalator."
+    ],
+    "deepLow": [
+      "indoor escalator, silver metal steps, glass side panels, black rubber handrails, bright overhead lighting, moving mechanical parts"
+    ],
+    "ori": [
+      "a photo of a indoor escalator."
+    ],
+    "deepHigh": [
+      "The indoor escalator is moving staircase."
+    ]
+  },
+  "excavation": {
+    "positive": [
+      "a photo of a excavation."
+    ],
+    "negative": [
+      "this is not a photo of a excavation."
+    ],
+    "deepLow": [
+      "excavation with deep brown soil, rugged rocks, scattered debris, metallic excavator tracks, and uneven terrain"
+    ],
+    "ori": [
+      "a photo of a excavation."
+    ],
+    "deepHigh": [
+      "The excavation is archaeological dig site."
+    ]
+  },
+  "indoor factory": {
+    "positive": [
+      "a photo of a indoor factory."
+    ],
+    "negative": [
+      "this is not a photo of a indoor factory."
+    ],
+    "deepLow": [
+      "indoor factory with gray metal beams, concrete floors, orange safety cones, overhead fluorescent lights, and conveyor belts."
+    ],
+    "ori": [
+      "a photo of a indoor factory."
+    ],
+    "deepHigh": [
+      "The indoor factory is industrial workspace."
+    ]
+  },
+  "fairway": {
+    "positive": [
+      "a photo of a fairway."
+    ],
+    "negative": [
+      "this is not a photo of a fairway."
+    ],
+    "deepLow": [
+      "fairway with lush green grass, smooth texture, gentle slopes, striped mowing patterns, bordered by rough terrain"
+    ],
+    "ori": [
+      "a photo of a fairway."
+    ],
+    "deepHigh": [
+      "The fairway is grassy playing surface."
+    ]
+  },
+  "fastfood restaurant": {
+    "positive": [
+      "a photo of a fastfood restaurant."
+    ],
+    "negative": [
+      "this is not a photo of a fastfood restaurant."
+    ],
+    "deepLow": [
+      "fastfood restaurant, bright red and yellow signage, glossy plastic booths, large drive-thru window, neon menu boards"
+    ],
+    "ori": [
+      "a photo of a fastfood restaurant."
+    ],
+    "deepHigh": [
+      "The fastfood restaurant is quick-service eatery."
+    ]
+  },
+  "cultivated field": {
+    "positive": [
+      "a photo of a cultivated field."
+    ],
+    "negative": [
+      "this is not a photo of a cultivated field."
+    ],
+    "deepLow": [
+      "cultivated field, neat rows of crops, vibrant green leaves, brown soil patches, linear irrigation channels"
+    ],
+    "ori": [
+      "a photo of a cultivated field."
+    ],
+    "deepHigh": [
+      "The cultivated field is agricultural land."
+    ]
+  },
+  "wild field": {
+    "positive": [
+      "a photo of a wild field."
+    ],
+    "negative": [
+      "this is not a photo of a wild field."
+    ],
+    "deepLow": [
+      "wild field, golden tall grass, scattered wildflowers, rolling hills, blue sky backdrop"
+    ],
+    "ori": [
+      "a photo of a wild field."
+    ],
+    "deepHigh": [
+      "The wild field is natural landscape."
+    ]
+  },
+  "fire escape": {
+    "positive": [
+      "a photo of a fire escape."
+    ],
+    "negative": [
+      "this is not a photo of a fire escape."
+    ],
+    "deepLow": [
+      "fire escape, rusty metal, zigzag stairs, black railings, peeling paint, urban backdrop"
+    ],
+    "ori": [
+      "a photo of a fire escape."
+    ],
+    "deepHigh": [
+      "The fire escape is exterior stairway structure."
+    ]
+  },
+  "fire station": {
+    "positive": [
+      "a photo of a fire station."
+    ],
+    "negative": [
+      "this is not a photo of a fire station."
+    ],
+    "deepLow": [
+      "fire station, red brick facade, large garage doors, shiny fire trucks, tall observation tower, reflective emergency lights"
+    ],
+    "ori": [
+      "a photo of a fire station."
+    ],
+    "deepHigh": [
+      "The fire station is emergency service building."
+    ]
+  },
+  "indoor firing range": {
+    "positive": [
+      "a photo of a indoor firing range."
+    ],
+    "negative": [
+      "this is not a photo of a indoor firing range."
+    ],
+    "deepLow": [
+      "indoor firing range with gray concrete walls, black rubber flooring, yellow safety lines, metal target holders, bright overhead lights"
+    ],
+    "ori": [
+      "a photo of a indoor firing range."
+    ],
+    "deepHigh": [
+      "The indoor firing range is a shooting practice facility."
+    ]
+  },
+  "fishpond": {
+    "positive": [
+      "a photo of a fishpond."
+    ],
+    "negative": [
+      "this is not a photo of a fishpond."
+    ],
+    "deepLow": [
+      "fishpond with blue-green water, lily pads, circular shape, stone edges, koi fish"
+    ],
+    "ori": [
+      "a photo of a fishpond."
+    ],
+    "deepHigh": [
+      "The fishpond is aquatic habitat."
+    ]
+  },
+  "indoor florist shop": {
+    "positive": [
+      "a photo of a indoor florist shop."
+    ],
+    "negative": [
+      "this is not a photo of a indoor florist shop."
+    ],
+    "deepLow": [
+      "indoor florist shop with vibrant blooms, glass vases, wooden shelves, floral wallpaper, and hanging dried arrangements"
+    ],
+    "ori": [
+      "a photo of a indoor florist shop."
+    ],
+    "deepHigh": [
+      "The indoor florist shop is floral retail space."
+    ]
+  },
+  "food court": {
+    "positive": [
+      "a photo of a food court."
+    ],
+    "negative": [
+      "this is not a photo of a food court."
+    ],
+    "deepLow": [
+      "food court with bright neon signs, stainless steel counters, tiled floors, plastic chairs, and diverse food stalls"
+    ],
+    "ori": [
+      "a photo of a food court."
+    ],
+    "deepHigh": [
+      "The food court is bustling dining space."
+    ]
+  },
+  "broadleaf forest": {
+    "positive": [
+      "a photo of a broadleaf forest."
+    ],
+    "negative": [
+      "this is not a photo of a broadleaf forest."
+    ],
+    "deepLow": [
+      "broadleaf forest, dense green canopy, large oval leaves, rough bark textures, dappled sunlight patches"
+    ],
+    "ori": [
+      "a photo of a broadleaf forest."
+    ],
+    "deepHigh": [
+      "The broadleaf forest is deciduous woodland."
+    ]
+  },
+  "needleleaf forest": {
+    "positive": [
+      "a photo of a needleleaf forest."
+    ],
+    "negative": [
+      "this is not a photo of a needleleaf forest."
+    ],
+    "deepLow": [
+      "needleleaf forest with tall evergreen trees, dark green needles, rough bark, and conical shapes"
+    ],
+    "ori": [
+      "a photo of a needleleaf forest."
+    ],
+    "deepHigh": [
+      "The needleleaf forest is coniferous woodland."
+    ]
+  },
+  "forest path": {
+    "positive": [
+      "a photo of a forest path."
+    ],
+    "negative": [
+      "this is not a photo of a forest path."
+    ],
+    "deepLow": [
+      "forest path, dappled sunlight, moss-covered rocks, winding dirt trail, tall pine trees, fallen brown leaves"
+    ],
+    "ori": [
+      "a photo of a forest path."
+    ],
+    "deepHigh": [
+      "The forest path is natural trail."
+    ]
+  },
+  "forest road": {
+    "positive": [
+      "a photo of a forest road."
+    ],
+    "negative": [
+      "this is not a photo of a forest road."
+    ],
+    "deepLow": [
+      "forest road with dirt path, tall green trees, dappled sunlight, scattered leaves, rough bark textures"
+    ],
+    "ori": [
+      "a photo of a forest road."
+    ],
+    "deepHigh": [
+      "The forest road is unpaved dirt path."
+    ]
+  },
+  "formal garden": {
+    "positive": [
+      "a photo of a formal garden."
+    ],
+    "negative": [
+      "this is not a photo of a formal garden."
+    ],
+    "deepLow": [
+      "formal garden with geometric hedges, symmetrical gravel paths, vibrant flower beds, ornate stone fountains, and manicured lawns"
+    ],
+    "ori": [
+      "a photo of a formal garden."
+    ],
+    "deepHigh": [
+      "The formal garden is symmetrical landscape design."
+    ]
+  },
+  "fountain": {
+    "positive": [
+      "a photo of a fountain."
+    ],
+    "negative": [
+      "this is not a photo of a fountain."
+    ],
+    "deepLow": [
+      "fountain with tiered stone bowls, cascading water streams, moss-covered edges, and bronze fish sculptures"
+    ],
+    "ori": [
+      "a photo of a fountain."
+    ],
+    "deepHigh": [
+      "The fountain is water feature."
+    ]
+  },
+  "galley": {
+    "positive": [
+      "a photo of a galley."
+    ],
+    "negative": [
+      "this is not a photo of a galley."
+    ],
+    "deepLow": [
+      "galley with white cabinetry, stainless steel countertops, compact layout, nautical blue accents, glossy surfaces"
+    ],
+    "ori": [
+      "a photo of a galley."
+    ],
+    "deepHigh": [
+      "The galley is ship kitchen."
+    ]
+  },
+  "game room": {
+    "positive": [
+      "a photo of a game room."
+    ],
+    "negative": [
+      "this is not a photo of a game room."
+    ],
+    "deepLow": [
+      "game room with neon-lit walls, plush carpet, arcade machines, LED strip lighting, and a pool table"
+    ],
+    "ori": [
+      "a photo of a game room."
+    ],
+    "deepHigh": [
+      "The game room is entertainment space."
+    ]
+  },
+  "indoor garage": {
+    "positive": [
+      "a photo of a indoor garage."
+    ],
+    "negative": [
+      "this is not a photo of a indoor garage."
+    ],
+    "deepLow": [
+      "indoor garage, concrete floor, metal shelves, white walls, hanging fluorescent lights, parked car"
+    ],
+    "ori": [
+      "a photo of a indoor garage."
+    ],
+    "deepHigh": [
+      "The indoor garage is vehicle storage space."
+    ]
+  },
+  "garbage dump": {
+    "positive": [
+      "a photo of a garbage dump."
+    ],
+    "negative": [
+      "this is not a photo of a garbage dump."
+    ],
+    "deepLow": [
+      "garbage dump with piled black bags, rusted metal scraps, scattered plastic bottles, muddy ground, foul odor"
+    ],
+    "ori": [
+      "a photo of a garbage dump."
+    ],
+    "deepHigh": [
+      "The garbage dump is waste disposal site."
+    ]
+  },
+  "gas station": {
+    "positive": [
+      "a photo of a gas station."
+    ],
+    "negative": [
+      "this is not a photo of a gas station."
+    ],
+    "deepLow": [
+      "gas station with bright red pumps, concrete pavement, neon signage, glass windows, and metal roof"
+    ],
+    "ori": [
+      "a photo of a gas station."
+    ],
+    "deepHigh": [
+      "The gas station is fuel service facility."
+    ]
+  },
+  "exterior gazebo": {
+    "positive": [
+      "a photo of a exterior gazebo."
+    ],
+    "negative": [
+      "this is not a photo of a exterior gazebo."
+    ],
+    "deepLow": [
+      "exterior gazebo with white wooden lattice, pointed roof, green vines, and stone floor"
+    ],
+    "ori": [
+      "a photo of a exterior gazebo."
+    ],
+    "deepHigh": [
+      "The exterior gazebo is outdoor shelter structure."
+    ]
+  },
+  "indoor general store": {
+    "positive": [
+      "a photo of a indoor general store."
+    ],
+    "negative": [
+      "this is not a photo of a indoor general store."
+    ],
+    "deepLow": [
+      "indoor general store with wooden shelves, colorful product labels, glass jars, woven baskets, and checkered floor tiles"
+    ],
+    "ori": [
+      "a photo of a indoor general store."
+    ],
+    "deepHigh": [
+      "The indoor general store is retail space."
+    ]
+  },
+  "outdoor general store": {
+    "positive": [
+      "a photo of a outdoor general store."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor general store."
+    ],
+    "deepLow": [
+      "outdoor general store with wooden porch, faded red paint, metal roof, stacked crates, and hanging lanterns"
+    ],
+    "ori": [
+      "a photo of a outdoor general store."
+    ],
+    "deepHigh": [
+      "The outdoor general store is rustic retail building."
+    ]
+  },
+  "gift shop": {
+    "positive": [
+      "a photo of a gift shop."
+    ],
+    "negative": [
+      "this is not a photo of a gift shop."
+    ],
+    "deepLow": [
+      "gift shop with colorful ribbons, glass trinkets, wooden shelves, striped wrapping paper, shiny gift boxes"
+    ],
+    "ori": [
+      "a photo of a gift shop."
+    ],
+    "deepHigh": [
+      "The gift shop is souvenir retail space."
+    ]
+  },
+  "golf course": {
+    "positive": [
+      "a photo of a golf course."
+    ],
+    "negative": [
+      "this is not a photo of a golf course."
+    ],
+    "deepLow": [
+      "golf course with lush green fairways, sandy bunkers, rolling hills, water hazards, and manicured putting greens"
+    ],
+    "ori": [
+      "a photo of a golf course."
+    ],
+    "deepHigh": [
+      "The golf course is outdoor sports facility."
+    ]
+  },
+  "indoor greenhouse": {
+    "positive": [
+      "a photo of a indoor greenhouse."
+    ],
+    "negative": [
+      "this is not a photo of a indoor greenhouse."
+    ],
+    "deepLow": [
+      "indoor greenhouse with glass walls, lush green plants, wooden shelves, hanging pots, and warm LED lighting"
+    ],
+    "ori": [
+      "a photo of a indoor greenhouse."
+    ],
+    "deepHigh": [
+      "The indoor greenhouse is plant cultivation space."
+    ]
+  },
+  "outdoor greenhouse": {
+    "positive": [
+      "a photo of a outdoor greenhouse."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor greenhouse."
+    ],
+    "deepLow": [
+      "outdoor greenhouse with glass panels, metal frame, lush green plants, wooden shelves, and sunlight reflections"
+    ],
+    "ori": [
+      "a photo of a outdoor greenhouse."
+    ],
+    "deepHigh": [
+      "The outdoor greenhouse is plant cultivation structure."
+    ]
+  },
+  "indoor gymnasium": {
+    "positive": [
+      "a photo of a indoor gymnasium."
+    ],
+    "negative": [
+      "this is not a photo of a indoor gymnasium."
+    ],
+    "deepLow": [
+      "indoor gymnasium with polished wood floors, blue padded walls, basketball hoops, fluorescent lighting, and rubber mat areas"
+    ],
+    "ori": [
+      "a photo of a indoor gymnasium."
+    ],
+    "deepHigh": [
+      "The indoor gymnasium is sports facility."
+    ]
+  },
+  "indoor hangar": {
+    "positive": [
+      "a photo of a indoor hangar."
+    ],
+    "negative": [
+      "this is not a photo of a indoor hangar."
+    ],
+    "deepLow": [
+      "indoor hangar with gray concrete floors, metal beams, high ceilings, large aircraft, and dim lighting"
+    ],
+    "ori": [
+      "a photo of a indoor hangar."
+    ],
+    "deepHigh": [
+      "The indoor hangar is aircraft storage facility."
+    ]
+  },
+  "outdoor hangar": {
+    "positive": [
+      "a photo of a outdoor hangar."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor hangar."
+    ],
+    "deepLow": [
+      "outdoor hangar with corrugated metal walls, faded blue paint, open sliding doors, concrete floor, and exposed steel beams"
+    ],
+    "ori": [
+      "a photo of a outdoor hangar."
+    ],
+    "deepHigh": [
+      "The outdoor hangar is aircraft storage structure."
+    ]
+  },
+  "harbor": {
+    "positive": [
+      "a photo of a harbor."
+    ],
+    "negative": [
+      "this is not a photo of a harbor."
+    ],
+    "deepLow": [
+      "harbor with blue water, wooden docks, white sailboats, rusted anchors, and seagulls flying"
+    ],
+    "ori": [
+      "a photo of a harbor."
+    ],
+    "deepHigh": [
+      "The harbor is coastal water area."
+    ]
+  },
+  "hayfield": {
+    "positive": [
+      "a photo of a hayfield."
+    ],
+    "negative": [
+      "this is not a photo of a hayfield."
+    ],
+    "deepLow": [
+      "hayfield, golden dried grass, rolling hills, scattered hay bales, earthy brown soil, wavy texture"
+    ],
+    "ori": [
+      "a photo of a hayfield."
+    ],
+    "deepHigh": [
+      "The hayfield is grassy expanse."
+    ]
+  },
+  "heliport": {
+    "positive": [
+      "a photo of a heliport."
+    ],
+    "negative": [
+      "this is not a photo of a heliport."
+    ],
+    "deepLow": [
+      "heliport, large white H marking, gray concrete pad, bright yellow safety lines, surrounding chain-link fence"
+    ],
+    "ori": [
+      "a photo of a heliport."
+    ],
+    "deepHigh": [
+      "The heliport is aviation landing zone."
+    ]
+  },
+  "herb garden": {
+    "positive": [
+      "a photo of a herb garden."
+    ],
+    "negative": [
+      "this is not a photo of a herb garden."
+    ],
+    "deepLow": [
+      "herb garden with lush green leaves, purple basil sprigs, textured terracotta pots, and fragrant rosemary stems"
+    ],
+    "ori": [
+      "a photo of a herb garden."
+    ],
+    "deepHigh": [
+      "The herb garden is aromatic planting space."
+    ]
+  },
+  "highway": {
+    "positive": [
+      "a photo of a highway."
+    ],
+    "negative": [
+      "this is not a photo of a highway."
+    ],
+    "deepLow": [
+      "highway with smooth asphalt, white lane markings, metal guardrails, green roadside signs, and distant vehicles"
+    ],
+    "ori": [
+      "a photo of a highway."
+    ],
+    "deepHigh": [
+      "The highway is multi-lane roadway."
+    ]
+  },
+  "hill": {
+    "positive": [
+      "a photo of a hill."
+    ],
+    "negative": [
+      "this is not a photo of a hill."
+    ],
+    "deepLow": [
+      "hill with grassy slopes, rocky outcrops, winding dirt paths, scattered wildflowers, and distant tree line."
+    ],
+    "ori": [
+      "a photo of a hill."
+    ],
+    "deepHigh": [
+      "The hill is elevated landform."
+    ]
+  },
+  "home office": {
+    "positive": [
+      "a photo of a home office."
+    ],
+    "negative": [
+      "this is not a photo of a home office."
+    ],
+    "deepLow": [
+      "home office with wooden desk, white walls, black leather chair, potted plant, framed artwork"
+    ],
+    "ori": [
+      "a photo of a home office."
+    ],
+    "deepHigh": [
+      "The home office is a workspace environment."
+    ]
+  },
+  "hospital": {
+    "positive": [
+      "a photo of a hospital."
+    ],
+    "negative": [
+      "this is not a photo of a hospital."
+    ],
+    "deepLow": [
+      "hospital with white walls, blue signage, glass doors, sterile lighting, tiled floors"
+    ],
+    "ori": [
+      "a photo of a hospital."
+    ],
+    "deepHigh": [
+      "The hospital is medical facility."
+    ]
+  },
+  "hospital room": {
+    "positive": [
+      "a photo of a hospital room."
+    ],
+    "negative": [
+      "this is not a photo of a hospital room."
+    ],
+    "deepLow": [
+      "hospital room with white walls, blue curtains, metal bed frame, tiled floor, fluorescent lighting"
+    ],
+    "ori": [
+      "a photo of a hospital room."
+    ],
+    "deepHigh": [
+      "The hospital room is medical treatment space."
+    ]
+  },
+  "hot spring": {
+    "positive": [
+      "a photo of a hot spring."
+    ],
+    "negative": [
+      "this is not a photo of a hot spring."
+    ],
+    "deepLow": [
+      "hot spring with steamy turquoise water, rocky edges, bubbling surface, misty surroundings, mineral deposits"
+    ],
+    "ori": [
+      "a photo of a hot spring."
+    ],
+    "deepHigh": [
+      "The hot spring is geothermal water pool."
+    ]
+  },
+  "outdoor hot tub": {
+    "positive": [
+      "a photo of a outdoor hot tub."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor hot tub."
+    ],
+    "deepLow": [
+      "outdoor hot tub, wooden deck surround, blue water jets, curved edges, frosted glass panels"
+    ],
+    "ori": [
+      "a photo of a outdoor hot tub."
+    ],
+    "deepHigh": [
+      "The outdoor hot tub is a relaxing water feature."
+    ]
+  },
+  "outdoor hotel": {
+    "positive": [
+      "a photo of a outdoor hotel."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor hotel."
+    ],
+    "deepLow": [
+      "outdoor hotel with white stucco walls, terracotta roof tiles, arched doorways, lush palm trees, and blue-tiled fountain"
+    ],
+    "ori": [
+      "a photo of a outdoor hotel."
+    ],
+    "deepHigh": [
+      "The outdoor hotel is resort accommodation."
+    ]
+  },
+  "hotel room": {
+    "positive": [
+      "a photo of a hotel room."
+    ],
+    "negative": [
+      "this is not a photo of a hotel room."
+    ],
+    "deepLow": [
+      "hotel room with plush white bedding, wooden nightstands, patterned carpet, floor-to-ceiling windows, and soft ambient lighting"
+    ],
+    "ori": [
+      "a photo of a hotel room."
+    ],
+    "deepHigh": [
+      "The hotel room is temporary lodging space."
+    ]
+  },
+  "house": {
+    "positive": [
+      "a photo of a house."
+    ],
+    "negative": [
+      "this is not a photo of a house."
+    ],
+    "deepLow": [
+      "house with white wooden siding, blue shutters, brick chimney, peaked roof, and flower-lined walkway."
+    ],
+    "ori": [
+      "a photo of a house."
+    ],
+    "deepHigh": [
+      "The house is residential building."
+    ]
+  },
+  "outdoor hunting lodge": {
+    "positive": [
+      "a photo of a outdoor hunting lodge."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor hunting lodge."
+    ],
+    "deepLow": [
+      "outdoor hunting lodge with log walls, stone fireplace, antler chandelier, wooden beams, and rustic leather furniture"
+    ],
+    "ori": [
+      "a photo of a outdoor hunting lodge."
+    ],
+    "deepHigh": [
+      "The outdoor hunting lodge is rustic wilderness retreat."
+    ]
+  },
+  "ice cream parlor": {
+    "positive": [
+      "a photo of a ice cream parlor."
+    ],
+    "negative": [
+      "this is not a photo of a ice cream parlor."
+    ],
+    "deepLow": [
+      "ice cream parlor, pastel pink walls, chrome counter, neon sign, glass display case, colorful scoops"
+    ],
+    "ori": [
+      "a photo of a ice cream parlor."
+    ],
+    "deepHigh": [
+      "The ice cream parlor is frozen dessert shop."
+    ]
+  },
+  "ice floe": {
+    "positive": [
+      "a photo of a ice floe."
+    ],
+    "negative": [
+      "this is not a photo of a ice floe."
+    ],
+    "deepLow": [
+      "ice floe, jagged edges, smooth glossy surface, pale blue hues, scattered cracks, floating on dark water"
+    ],
+    "ori": [
+      "a photo of a ice floe."
+    ],
+    "deepHigh": [
+      "The ice floe is floating ice sheet."
+    ]
+  },
+  "ice shelf": {
+    "positive": [
+      "a photo of a ice shelf."
+    ],
+    "negative": [
+      "this is not a photo of a ice shelf."
+    ],
+    "deepLow": [
+      "ice shelf with jagged blue edges, smooth white surface, deep crevasses, and layered textures"
+    ],
+    "ori": [
+      "a photo of a ice shelf."
+    ],
+    "deepHigh": [
+      "The ice shelf is floating ice sheet."
+    ]
+  },
+  "indoor ice skating rink": {
+    "positive": [
+      "a photo of a indoor ice skating rink."
+    ],
+    "negative": [
+      "this is not a photo of a indoor ice skating rink."
+    ],
+    "deepLow": [
+      "indoor ice skating rink, smooth white ice surface, blue padded walls, circular shape, bright overhead lights, reflective flooring."
+    ],
+    "ori": [
+      "a photo of a indoor ice skating rink."
+    ],
+    "deepHigh": [
+      "The indoor ice skating rink is recreational frozen surface."
+    ]
+  },
+  "outdoor ice skating rink": {
+    "positive": [
+      "a photo of a outdoor ice skating rink."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor ice skating rink."
+    ],
+    "deepLow": [
+      "outdoor ice skating rink, smooth icy surface, white snow banks, colorful string lights, wooden railings, skaters gliding"
+    ],
+    "ori": [
+      "a photo of a outdoor ice skating rink."
+    ],
+    "deepHigh": [
+      "The outdoor ice skating rink is frozen recreational surface."
+    ]
+  },
+  "iceberg": {
+    "positive": [
+      "a photo of a iceberg."
+    ],
+    "negative": [
+      "this is not a photo of a iceberg."
+    ],
+    "deepLow": [
+      "iceberg, jagged blue-white peaks, smooth underwater base, cracked surface, floating in dark water"
+    ],
+    "ori": [
+      "a photo of a iceberg."
+    ],
+    "deepHigh": [
+      "The iceberg is floating ice mass."
+    ]
+  },
+  "igloo": {
+    "positive": [
+      "a photo of a igloo."
+    ],
+    "negative": [
+      "this is not a photo of a igloo."
+    ],
+    "deepLow": [
+      "igloo, dome-shaped, white snow blocks, smooth icy surface, small arched entrance, surrounded by snow"
+    ],
+    "ori": [
+      "a photo of a igloo."
+    ],
+    "deepHigh": [
+      "The igloo is snow shelter."
+    ]
+  },
+  "industrial area": {
+    "positive": [
+      "a photo of a industrial area."
+    ],
+    "negative": [
+      "this is not a photo of a industrial area."
+    ],
+    "deepLow": [
+      "industrial area with gray metal buildings, tall smokestacks, concrete surfaces, rusted pipes, and scattered shipping containers"
+    ],
+    "ori": [
+      "a photo of a industrial area."
+    ],
+    "deepHigh": [
+      "The industrial area is manufacturing zone."
+    ]
+  },
+  "outdoor inn": {
+    "positive": [
+      "a photo of a outdoor inn."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor inn."
+    ],
+    "deepLow": [
+      "outdoor inn with wooden beams, stone fireplace, cobblestone path, ivy-covered walls, lantern-lit entrance"
+    ],
+    "ori": [
+      "a photo of a outdoor inn."
+    ],
+    "deepHigh": [
+      "The outdoor inn is lodging establishment."
+    ]
+  },
+  "islet": {
+    "positive": [
+      "a photo of a islet."
+    ],
+    "negative": [
+      "this is not a photo of a islet."
+    ],
+    "deepLow": [
+      "islet with rocky outcrops, sandy shores, sparse green vegetation, and turquoise surrounding waters"
+    ],
+    "ori": [
+      "a photo of a islet."
+    ],
+    "deepHigh": [
+      "The islet is small landform."
+    ]
+  },
+  "indoor jacuzzi": {
+    "positive": [
+      "a photo of a indoor jacuzzi."
+    ],
+    "negative": [
+      "this is not a photo of a indoor jacuzzi."
+    ],
+    "deepLow": [
+      "indoor jacuzzi, round shape, blue mosaic tiles, chrome jets, wooden deck edges, steam rising"
+    ],
+    "ori": [
+      "a photo of a indoor jacuzzi."
+    ],
+    "deepHigh": [
+      "The indoor jacuzzi is a relaxing water feature."
+    ]
+  },
+  "indoor jail": {
+    "positive": [
+      "a photo of a indoor jail."
+    ],
+    "negative": [
+      "this is not a photo of a indoor jail."
+    ],
+    "deepLow": [
+      "indoor jail with gray concrete walls, metal bars, dim lighting, cold floor tiles, and small high windows"
+    ],
+    "ori": [
+      "a photo of a indoor jail."
+    ],
+    "deepHigh": [
+      "The indoor jail is secure confinement facility."
+    ]
+  },
+  "jail cell": {
+    "positive": [
+      "a photo of a jail cell."
+    ],
+    "negative": [
+      "this is not a photo of a jail cell."
+    ],
+    "deepLow": [
+      "jail cell with gray metal bars, concrete walls, small cot, dim lighting, heavy steel door"
+    ],
+    "ori": [
+      "a photo of a jail cell."
+    ],
+    "deepHigh": [
+      "The jail cell is confined enclosure."
+    ]
+  },
+  "jewelry shop": {
+    "positive": [
+      "a photo of a jewelry shop."
+    ],
+    "negative": [
+      "this is not a photo of a jewelry shop."
+    ],
+    "deepLow": [
+      "jewelry shop, glass display cases, sparkling gold rings, velvet-lined trays, diamond necklaces, warm ambient lighting"
+    ],
+    "ori": [
+      "a photo of a jewelry shop."
+    ],
+    "deepHigh": [
+      "The jewelry shop is luxury retail space."
+    ]
+  },
+  "kasbah": {
+    "positive": [
+      "a photo of a kasbah."
+    ],
+    "negative": [
+      "this is not a photo of a kasbah."
+    ],
+    "deepLow": [
+      "kasbah with tan mud-brick walls, arched doorways, geometric tile patterns, and palm tree shadows"
+    ],
+    "ori": [
+      "a photo of a kasbah."
+    ],
+    "deepHigh": [
+      "The kasbah is fortified citadel."
+    ]
+  },
+  "indoor kennel": {
+    "positive": [
+      "a photo of a indoor kennel."
+    ],
+    "negative": [
+      "this is not a photo of a indoor kennel."
+    ],
+    "deepLow": [
+      "indoor kennel with gray cushioned walls, black metal bars, soft fleece bedding, and a sliding door latch"
+    ],
+    "ori": [
+      "a photo of a indoor kennel."
+    ],
+    "deepHigh": [
+      "The indoor kennel is pet containment space."
+    ]
+  },
+  "outdoor kennel": {
+    "positive": [
+      "a photo of a outdoor kennel."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor kennel."
+    ],
+    "deepLow": [
+      "outdoor kennel with metal wire mesh, wooden roof, gray paint, slanted design, and secure latch"
+    ],
+    "ori": [
+      "a photo of a outdoor kennel."
+    ],
+    "deepHigh": [
+      "The outdoor kennel is secure animal enclosure."
+    ]
+  },
+  "kindergarden classroom": {
+    "positive": [
+      "a photo of a kindergarden classroom."
+    ],
+    "negative": [
+      "this is not a photo of a kindergarden classroom."
+    ],
+    "deepLow": [
+      "kindergarden classroom with bright primary colors, round wooden tables, alphabet posters, soft carpet squares, and cubby storage"
+    ],
+    "ori": [
+      "a photo of a kindergarden classroom."
+    ],
+    "deepHigh": [
+      "The kindergarten classroom is colorful learning environment."
+    ]
+  },
+  "kitchen": {
+    "positive": [
+      "a photo of a kitchen."
+    ],
+    "negative": [
+      "this is not a photo of a kitchen."
+    ],
+    "deepLow": [
+      "kitchen with white cabinets, stainless steel appliances, marble countertops, subway tile backsplash, wooden flooring"
+    ],
+    "ori": [
+      "a photo of a kitchen."
+    ],
+    "deepHigh": [
+      "The kitchen is food preparation space."
+    ]
+  },
+  "kitchenette": {
+    "positive": [
+      "a photo of a kitchenette."
+    ],
+    "negative": [
+      "this is not a photo of a kitchenette."
+    ],
+    "deepLow": [
+      "kitchenette with white cabinets, stainless steel appliances, gray marble countertops, subway tile backsplash, wooden bar stools"
+    ],
+    "ori": [
+      "a photo of a kitchenette."
+    ],
+    "deepHigh": [
+      "The kitchenette is compact cooking space."
+    ]
+  },
+  "outdoor labyrinth": {
+    "positive": [
+      "a photo of a outdoor labyrinth."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor labyrinth."
+    ],
+    "deepLow": [
+      "outdoor labyrinth with stone walls, moss-covered paths, circular layout, weathered textures, and shadowy corners"
+    ],
+    "ori": [
+      "a photo of a outdoor labyrinth."
+    ],
+    "deepHigh": [
+      "The outdoor labyrinth is winding pathway."
+    ]
+  },
+  "natural lake": {
+    "positive": [
+      "a photo of a natural lake."
+    ],
+    "negative": [
+      "this is not a photo of a natural lake."
+    ],
+    "deepLow": [
+      "natural lake, deep blue water, smooth surface, surrounded by green pine trees, rocky shoreline"
+    ],
+    "ori": [
+      "a photo of a natural lake."
+    ],
+    "deepHigh": [
+      "The natural lake is freshwater body."
+    ]
+  },
+  "landfill": {
+    "positive": [
+      "a photo of a landfill."
+    ],
+    "negative": [
+      "this is not a photo of a landfill."
+    ],
+    "deepLow": [
+      "landfill with gray dirt mounds, scattered plastic bags, crushed metal debris, torn cardboard pieces, and muddy tire tracks"
+    ],
+    "ori": [
+      "a photo of a landfill."
+    ],
+    "deepHigh": [
+      "The landfill is waste disposal site."
+    ]
+  },
+  "landing deck": {
+    "positive": [
+      "a photo of a landing deck."
+    ],
+    "negative": [
+      "this is not a photo of a landing deck."
+    ],
+    "deepLow": [
+      "landing deck with gray metal grid flooring, bright yellow safety markings, black rubber edges, and circular helipad patterns"
+    ],
+    "ori": [
+      "a photo of a landing deck."
+    ],
+    "deepHigh": [
+      "The landing deck is aircraft arrival zone."
+    ]
+  },
+  "laundromat": {
+    "positive": [
+      "a photo of a laundromat."
+    ],
+    "negative": [
+      "this is not a photo of a laundromat."
+    ],
+    "deepLow": [
+      "laundromat with rows of silver washers, bright fluorescent lights, tiled floors, folding tables, and spinning dryers"
+    ],
+    "ori": [
+      "a photo of a laundromat."
+    ],
+    "deepHigh": [
+      "The laundromat is self-service laundry facility."
+    ]
+  },
+  "lecture room": {
+    "positive": [
+      "a photo of a lecture room."
+    ],
+    "negative": [
+      "this is not a photo of a lecture room."
+    ],
+    "deepLow": [
+      "lecture room with tiered wooden seats, white projector screen, dark blue carpet, and fluorescent ceiling lights."
+    ],
+    "ori": [
+      "a photo of a lecture room."
+    ],
+    "deepHigh": [
+      "The lecture room is tiered seating space."
+    ]
+  },
+  "indoor library": {
+    "positive": [
+      "a photo of a indoor library."
+    ],
+    "negative": [
+      "this is not a photo of a indoor library."
+    ],
+    "deepLow": [
+      "indoor library with wooden shelves, rows of colorful book spines, soft carpeted floors, arched windows, and warm lighting"
+    ],
+    "ori": [
+      "a photo of a indoor library."
+    ],
+    "deepHigh": [
+      "The indoor library is book-filled space."
+    ]
+  },
+  "outdoor library": {
+    "positive": [
+      "a photo of a outdoor library."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor library."
+    ],
+    "deepLow": [
+      "outdoor library with wooden shelves, scattered books, leafy canopy, stone pathways, rustic benches"
+    ],
+    "ori": [
+      "a photo of a outdoor library."
+    ],
+    "deepHigh": [
+      "The outdoor library is open-air reading space."
+    ]
+  },
+  "outdoor lido deck": {
+    "positive": [
+      "a photo of a outdoor lido deck."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor lido deck."
+    ],
+    "deepLow": [
+      "outdoor lido deck, wooden planks, turquoise railings, striped umbrellas, sun loungers, ocean view"
+    ],
+    "ori": [
+      "a photo of a outdoor lido deck."
+    ],
+    "deepHigh": [
+      "The outdoor lido deck is recreational swimming area."
+    ]
+  },
+  "lift bridge": {
+    "positive": [
+      "a photo of a lift bridge."
+    ],
+    "negative": [
+      "this is not a photo of a lift bridge."
+    ],
+    "deepLow": [
+      "lift bridge, steel truss structure, weathered gray paint, vertical lift mechanism, parallel roadways, industrial rivet patterns"
+    ],
+    "ori": [
+      "a photo of a lift bridge."
+    ],
+    "deepHigh": [
+      "The lift bridge is movable roadway structure."
+    ]
+  },
+  "lighthouse": {
+    "positive": [
+      "a photo of a lighthouse."
+    ],
+    "negative": [
+      "this is not a photo of a lighthouse."
+    ],
+    "deepLow": [
+      "lighthouse with white tower, red conical roof, black railings, striped pattern, stone base"
+    ],
+    "ori": [
+      "a photo of a lighthouse."
+    ],
+    "deepHigh": [
+      "The lighthouse is coastal tower."
+    ]
+  },
+  "limousine interior": {
+    "positive": [
+      "a photo of a limousine interior."
+    ],
+    "negative": [
+      "this is not a photo of a limousine interior."
+    ],
+    "deepLow": [
+      "limousine interior, black leather seats, chrome accents, ambient LED lighting, plush carpet flooring, tinted privacy windows"
+    ],
+    "ori": [
+      "a photo of a limousine interior."
+    ],
+    "deepHigh": [
+      "The limousine interior is luxury passenger compartment."
+    ]
+  },
+  "living room": {
+    "positive": [
+      "a photo of a living room."
+    ],
+    "negative": [
+      "this is not a photo of a living room."
+    ],
+    "deepLow": [
+      "living room with beige leather sofa, wooden coffee table, blue patterned rug, large bay window, potted plants"
+    ],
+    "ori": [
+      "a photo of a living room."
+    ],
+    "deepHigh": [
+      "The living room is a comfortable social space."
+    ]
+  },
+  "lobby": {
+    "positive": [
+      "a photo of a lobby."
+    ],
+    "negative": [
+      "this is not a photo of a lobby."
+    ],
+    "deepLow": [
+      "lobby with marble floors, glass chandeliers, leather sofas, potted palms, gold accents"
+    ],
+    "ori": [
+      "a photo of a lobby."
+    ],
+    "deepHigh": [
+      "The lobby is reception area."
+    ]
+  },
+  "lock chamber": {
+    "positive": [
+      "a photo of a lock chamber."
+    ],
+    "negative": [
+      "this is not a photo of a lock chamber."
+    ],
+    "deepLow": [
+      "lock chamber with steel rivets, rusted iron door, circular gears, moss-covered walls, dim overhead lighting"
+    ],
+    "ori": [
+      "a photo of a lock chamber."
+    ],
+    "deepHigh": [
+      "The lock chamber is waterway passage structure."
+    ]
+  },
+  "locker room": {
+    "positive": [
+      "a photo of a locker room."
+    ],
+    "negative": [
+      "this is not a photo of a locker room."
+    ],
+    "deepLow": [
+      "locker room with gray metal lockers, blue benches, white tiled floor, and fluorescent lighting"
+    ],
+    "ori": [
+      "a photo of a locker room."
+    ],
+    "deepHigh": [
+      "The locker room is changing facility."
+    ]
+  },
+  "mansion": {
+    "positive": [
+      "a photo of a mansion."
+    ],
+    "negative": [
+      "this is not a photo of a mansion."
+    ],
+    "deepLow": [
+      "mansion with white marble columns, arched windows, red brick facade, manicured hedges, grand circular driveway"
+    ],
+    "ori": [
+      "a photo of a mansion."
+    ],
+    "deepHigh": [
+      "The mansion is luxurious residence."
+    ]
+  },
+  "manufactured home": {
+    "positive": [
+      "a photo of a manufactured home."
+    ],
+    "negative": [
+      "this is not a photo of a manufactured home."
+    ],
+    "deepLow": [
+      "manufactured home with tan vinyl siding, white trim, rectangular windows, metal roof, small front porch."
+    ],
+    "ori": [
+      "a photo of a manufactured home."
+    ],
+    "deepHigh": [
+      "The manufactured home is prefabricated housing."
+    ]
+  },
+  "indoor market": {
+    "positive": [
+      "a photo of a indoor market."
+    ],
+    "negative": [
+      "this is not a photo of a indoor market."
+    ],
+    "deepLow": [
+      "indoor market with wooden stalls, colorful fabrics, hanging lanterns, fresh produce displays, cobblestone floor"
+    ],
+    "ori": [
+      "a photo of a indoor market."
+    ],
+    "deepHigh": [
+      "The indoor market is commercial space."
+    ]
+  },
+  "outdoor market": {
+    "positive": [
+      "a photo of a outdoor market."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor market."
+    ],
+    "deepLow": [
+      "outdoor market with colorful stalls, striped awnings, fresh produce piles, woven baskets, cobblestone ground"
+    ],
+    "ori": [
+      "a photo of a outdoor market."
+    ],
+    "deepHigh": [
+      "The outdoor market is open-air shopping area."
+    ]
+  },
+  "marsh": {
+    "positive": [
+      "a photo of a marsh."
+    ],
+    "negative": [
+      "this is not a photo of a marsh."
+    ],
+    "deepLow": [
+      "marsh with tall green reeds, brown muddy water, scattered lily pads, and misty horizon"
+    ],
+    "ori": [
+      "a photo of a marsh."
+    ],
+    "deepHigh": [
+      "The marsh is wetland area."
+    ]
+  },
+  "martial arts gym": {
+    "positive": [
+      "a photo of a martial arts gym."
+    ],
+    "negative": [
+      "this is not a photo of a martial arts gym."
+    ],
+    "deepLow": [
+      "martial arts gym with blue mats, wooden floors, punching bags, mirrored walls, and padded training equipment"
+    ],
+    "ori": [
+      "a photo of a martial arts gym."
+    ],
+    "deepHigh": [
+      "The martial arts gym is training facility."
+    ]
+  },
+  "mausoleum": {
+    "positive": [
+      "a photo of a mausoleum."
+    ],
+    "negative": [
+      "this is not a photo of a mausoleum."
+    ],
+    "deepLow": [
+      "mausoleum with white marble walls, domed roof, intricate carvings, black iron gates, surrounded by cypress trees"
+    ],
+    "ori": [
+      "a photo of a mausoleum."
+    ],
+    "deepHigh": [
+      "The mausoleum is monumental tomb structure."
+    ]
+  },
+  "medina": {
+    "positive": [
+      "a photo of a medina."
+    ],
+    "negative": [
+      "this is not a photo of a medina."
+    ],
+    "deepLow": [
+      "medina with narrow alleys, whitewashed walls, blue wooden doors, terracotta roofs, and vibrant market stalls."
+    ],
+    "ori": [
+      "a photo of a medina."
+    ],
+    "deepHigh": [
+      "The medina is historic urban quarter."
+    ]
+  },
+  "water moat": {
+    "positive": [
+      "a photo of a water moat."
+    ],
+    "negative": [
+      "this is not a photo of a water moat."
+    ],
+    "deepLow": [
+      "water moat, dark blue water, stone walls, rippling surface, surrounding castle, reflective sheen"
+    ],
+    "ori": [
+      "a photo of a water moat."
+    ],
+    "deepHigh": [
+      "The water moat is defensive water feature."
+    ]
+  },
+  "outdoor monastery": {
+    "positive": [
+      "a photo of a outdoor monastery."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor monastery."
+    ],
+    "deepLow": [
+      "outdoor monastery with stone arches, terracotta roof tiles, cobblestone courtyard, ivy-covered walls, and wooden doors"
+    ],
+    "ori": [
+      "a photo of a outdoor monastery."
+    ],
+    "deepHigh": [
+      "The outdoor monastery is religious retreat."
+    ]
+  },
+  "indoor mosque": {
+    "positive": [
+      "a photo of a indoor mosque."
+    ],
+    "negative": [
+      "this is not a photo of a indoor mosque."
+    ],
+    "deepLow": [
+      "indoor mosque with arched doorways, intricate tile patterns, domed ceiling, soft carpeted floors, and warm golden lighting"
+    ],
+    "ori": [
+      "a photo of a indoor mosque."
+    ],
+    "deepHigh": [
+      "The indoor mosque is religious prayer hall."
+    ]
+  },
+  "outdoor mosque": {
+    "positive": [
+      "a photo of a outdoor mosque."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor mosque."
+    ],
+    "deepLow": [
+      "outdoor mosque with white domes, blue tile patterns, arched doorways, minaret tower, stone courtyard"
+    ],
+    "ori": [
+      "a photo of a outdoor mosque."
+    ],
+    "deepHigh": [
+      "The outdoor mosque is religious structure."
+    ]
+  },
+  "motel": {
+    "positive": [
+      "a photo of a motel."
+    ],
+    "negative": [
+      "this is not a photo of a motel."
+    ],
+    "deepLow": [
+      "motel with neon sign, stucco walls, rectangular windows, asphalt parking lot, vintage awning"
+    ],
+    "ori": [
+      "a photo of a motel."
+    ],
+    "deepHigh": [
+      "The motel is roadside lodging."
+    ]
+  },
+  "mountain": {
+    "positive": [
+      "a photo of a mountain."
+    ],
+    "negative": [
+      "this is not a photo of a mountain."
+    ],
+    "deepLow": [
+      "mountain with jagged peaks, snow-capped ridges, rocky slopes, evergreen patches, and misty valleys"
+    ],
+    "ori": [
+      "a photo of a mountain."
+    ],
+    "deepHigh": [
+      "The mountain is natural landform."
+    ]
+  },
+  "mountain snowy": {
+    "positive": [
+      "a photo of a mountain snowy."
+    ],
+    "negative": [
+      "this is not a photo of a mountain snowy."
+    ],
+    "deepLow": [
+      "mountain snowy, jagged peaks, white snow cover, rocky outcrops, blue shadows, steep slopes"
+    ],
+    "ori": [
+      "a photo of a mountain snowy."
+    ],
+    "deepHigh": [
+      "The mountain snowy is white-capped peak."
+    ]
+  },
+  "indoor movie theater": {
+    "positive": [
+      "a photo of a indoor movie theater."
+    ],
+    "negative": [
+      "this is not a photo of a indoor movie theater."
+    ],
+    "deepLow": [
+      "indoor movie theater with plush red seats, dim blue lighting, curved silver screen, velvet curtains, and tiered rows"
+    ],
+    "ori": [
+      "a photo of a indoor movie theater."
+    ],
+    "deepHigh": [
+      "The indoor movie theater is dark entertainment venue."
+    ]
+  },
+  "indoor museum": {
+    "positive": [
+      "a photo of a indoor museum."
+    ],
+    "negative": [
+      "this is not a photo of a indoor museum."
+    ],
+    "deepLow": [
+      "indoor museum with marble floors, glass display cases, dim lighting, high ceilings, and intricate wall carvings"
+    ],
+    "ori": [
+      "a photo of a indoor museum."
+    ],
+    "deepHigh": [
+      "The indoor museum is cultural exhibition space."
+    ]
+  },
+  "music store": {
+    "positive": [
+      "a photo of a music store."
+    ],
+    "negative": [
+      "this is not a photo of a music store."
+    ],
+    "deepLow": [
+      "music store with glossy guitars, wooden shelves, colorful vinyl records, neon signs, and glass display cases"
+    ],
+    "ori": [
+      "a photo of a music store."
+    ],
+    "deepHigh": [
+      "The music store is retail space."
+    ]
+  },
+  "music studio": {
+    "positive": [
+      "a photo of a music studio."
+    ],
+    "negative": [
+      "this is not a photo of a music studio."
+    ],
+    "deepLow": [
+      "music studio with black sound panels, silver microphone, wooden mixing desk, LED lights, acoustic foam tiles"
+    ],
+    "ori": [
+      "a photo of a music studio."
+    ],
+    "deepHigh": [
+      "The music studio is sound recording space."
+    ]
+  },
+  "outdoor nuclear power plant": {
+    "positive": [
+      "a photo of a outdoor nuclear power plant."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor nuclear power plant."
+    ],
+    "deepLow": [
+      "outdoor nuclear power plant, massive cooling towers, cylindrical concrete structures, steam plumes, metallic reactor dome, chain-link fencing"
+    ],
+    "ori": [
+      "a photo of a outdoor nuclear power plant."
+    ],
+    "deepHigh": [
+      "The outdoor nuclear power plant is industrial energy facility."
+    ]
+  },
+  "nursery": {
+    "positive": [
+      "a photo of a nursery."
+    ],
+    "negative": [
+      "this is not a photo of a nursery."
+    ],
+    "deepLow": [
+      "nursery with pastel pink walls, soft plush toys, wooden crib, floral curtains, and fluffy white rug"
+    ],
+    "ori": [
+      "a photo of a nursery."
+    ],
+    "deepHigh": [
+      "The nursery is infant care room."
+    ]
+  },
+  "oast house": {
+    "positive": [
+      "a photo of a oast house."
+    ],
+    "negative": [
+      "this is not a photo of a oast house."
+    ],
+    "deepLow": [
+      "oast house, conical roof, white-painted walls, red brick base, circular shape, timber cowl"
+    ],
+    "ori": [
+      "a photo of a oast house."
+    ],
+    "deepHigh": [
+      "The oast house is agricultural building."
+    ]
+  },
+  "outdoor observatory": {
+    "positive": [
+      "a photo of a outdoor observatory."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor observatory."
+    ],
+    "deepLow": [
+      "outdoor observatory with white dome, metallic railings, circular platform, and telescope silhouettes"
+    ],
+    "ori": [
+      "a photo of a outdoor observatory."
+    ],
+    "deepHigh": [
+      "The outdoor observatory is astronomical viewing structure."
+    ]
+  },
+  "ocean": {
+    "positive": [
+      "a photo of a ocean."
+    ],
+    "negative": [
+      "this is not a photo of a ocean."
+    ],
+    "deepLow": [
+      "ocean with deep blue waves, white foam crests, golden sunlight reflections, and smooth rippled surface"
+    ],
+    "ori": [
+      "a photo of a ocean."
+    ],
+    "deepHigh": [
+      "The ocean is vast body of water."
+    ]
+  },
+  "office": {
+    "positive": [
+      "a photo of a office."
+    ],
+    "negative": [
+      "this is not a photo of a office."
+    ],
+    "deepLow": [
+      "office with gray cubicles, glass partitions, black chairs, whiteboards, and fluorescent lighting"
+    ],
+    "ori": [
+      "a photo of a office."
+    ],
+    "deepHigh": [
+      "The office is professional workspace."
+    ]
+  },
+  "office building": {
+    "positive": [
+      "a photo of a office building."
+    ],
+    "negative": [
+      "this is not a photo of a office building."
+    ],
+    "deepLow": [
+      "office building with glass facade, rectangular windows, steel frame, blue tinted panels, modern design"
+    ],
+    "ori": [
+      "a photo of a office building."
+    ],
+    "deepHigh": [
+      "The office building is commercial workspace."
+    ]
+  },
+  "outdoor oil refinery": {
+    "positive": [
+      "a photo of a outdoor oil refinery."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor oil refinery."
+    ],
+    "deepLow": [
+      "outdoor oil refinery with silver cylindrical tanks, tangled steel pipes, orange safety railings, black asphalt ground, and billowing white smoke"
+    ],
+    "ori": [
+      "a photo of a outdoor oil refinery."
+    ],
+    "deepHigh": [
+      "The outdoor oil refinery is industrial complex."
+    ]
+  },
+  "oilrig": {
+    "positive": [
+      "a photo of a oilrig."
+    ],
+    "negative": [
+      "this is not a photo of a oilrig."
+    ],
+    "deepLow": [
+      "oilrig, towering metal structure, rusted steel beams, orange safety rails, dark pipes snaking vertically, surrounded by ocean"
+    ],
+    "ori": [
+      "a photo of a oilrig."
+    ],
+    "deepHigh": [
+      "The oilrig is industrial structure."
+    ]
+  },
+  "operating room": {
+    "positive": [
+      "a photo of a operating room."
+    ],
+    "negative": [
+      "this is not a photo of a operating room."
+    ],
+    "deepLow": [
+      "operating room with bright white walls, stainless steel tables, blue surgical drapes, overhead LED lights, and sterile tile floors."
+    ],
+    "ori": [
+      "a photo of a operating room."
+    ],
+    "deepHigh": [
+      "The operating room is sterile medical environment."
+    ]
+  },
+  "orchard": {
+    "positive": [
+      "a photo of a orchard."
+    ],
+    "negative": [
+      "this is not a photo of a orchard."
+    ],
+    "deepLow": [
+      "orchard with rows of leafy trees, ripe red apples, dappled sunlight, and textured bark"
+    ],
+    "ori": [
+      "a photo of a orchard."
+    ],
+    "deepHigh": [
+      "The orchard is fruit tree grove."
+    ]
+  },
+  "outdoor outhouse": {
+    "positive": [
+      "a photo of a outdoor outhouse."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor outhouse."
+    ],
+    "deepLow": [
+      "outdoor outhouse with weathered wood, slanted roof, rusty hinges, chipped paint, and small ventilation hole"
+    ],
+    "ori": [
+      "a photo of a outdoor outhouse."
+    ],
+    "deepHigh": [
+      "The outdoor outhouse is small rustic structure."
+    ]
+  },
+  "pagoda": {
+    "positive": [
+      "a photo of a pagoda."
+    ],
+    "negative": [
+      "this is not a photo of a pagoda."
+    ],
+    "deepLow": [
+      "pagoda with tiered wooden roofs, curved eaves, red and gold paint, intricate carvings, stone base"
+    ],
+    "ori": [
+      "a photo of a pagoda."
+    ],
+    "deepHigh": [
+      "The pagoda is tiered tower structure."
+    ]
+  },
+  "palace": {
+    "positive": [
+      "a photo of a palace."
+    ],
+    "negative": [
+      "this is not a photo of a palace."
+    ],
+    "deepLow": [
+      "palace with golden domes, white marble walls, arched windows, intricate carvings, and lush gardens"
+    ],
+    "ori": [
+      "a photo of a palace."
+    ],
+    "deepHigh": [
+      "The palace is royal residence."
+    ]
+  },
+  "pantry": {
+    "positive": [
+      "a photo of a pantry."
+    ],
+    "negative": [
+      "this is not a photo of a pantry."
+    ],
+    "deepLow": [
+      "pantry with wooden shelves, glass jars, woven baskets, metal containers, and warm lighting"
+    ],
+    "ori": [
+      "a photo of a pantry."
+    ],
+    "deepHigh": [
+      "The pantry is food storage area."
+    ]
+  },
+  "park": {
+    "positive": [
+      "a photo of a park."
+    ],
+    "negative": [
+      "this is not a photo of a park."
+    ],
+    "deepLow": [
+      "park with lush green grass, winding stone pathways, tall leafy trees, wooden benches, and colorful flower beds."
+    ],
+    "ori": [
+      "a photo of a park."
+    ],
+    "deepHigh": [
+      "The park is recreational green space."
+    ]
+  },
+  "indoor parking garage": {
+    "positive": [
+      "a photo of a indoor parking garage."
+    ],
+    "negative": [
+      "this is not a photo of a indoor parking garage."
+    ],
+    "deepLow": [
+      "indoor parking garage with gray concrete walls, yellow parking lines, dim fluorescent lighting, metal support beams, and parked cars"
+    ],
+    "ori": [
+      "a photo of a indoor parking garage."
+    ],
+    "deepHigh": [
+      "The indoor parking garage is vehicle storage facility."
+    ]
+  },
+  "outdoor parking garage": {
+    "positive": [
+      "a photo of a outdoor parking garage."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor parking garage."
+    ],
+    "deepLow": [
+      "outdoor parking garage, gray concrete walls, metal railings, angular structure, open-air design, asphalt flooring"
+    ],
+    "ori": [
+      "a photo of a outdoor parking garage."
+    ],
+    "deepHigh": [
+      "The outdoor parking garage is multi-level vehicle storage structure."
+    ]
+  },
+  "parking lot": {
+    "positive": [
+      "a photo of a parking lot."
+    ],
+    "negative": [
+      "this is not a photo of a parking lot."
+    ],
+    "deepLow": [
+      "parking lot with gray asphalt, white striped lines, scattered yellow curbs, and parked cars"
+    ],
+    "ori": [
+      "a photo of a parking lot."
+    ],
+    "deepHigh": [
+      "The parking lot is vehicle storage area."
+    ]
+  },
+  "parlor": {
+    "positive": [
+      "a photo of a parlor."
+    ],
+    "negative": [
+      "this is not a photo of a parlor."
+    ],
+    "deepLow": [
+      "parlor with velvet drapes, ornate wooden furniture, floral wallpaper, chandelier lighting, plush carpet"
+    ],
+    "ori": [
+      "a photo of a parlor."
+    ],
+    "deepHigh": [
+      "The parlor is a formal sitting room."
+    ]
+  },
+  "pasture": {
+    "positive": [
+      "a photo of a pasture."
+    ],
+    "negative": [
+      "this is not a photo of a pasture."
+    ],
+    "deepLow": [
+      "pasture with lush green grass, scattered wildflowers, rolling hills, grazing cows, and wooden fences"
+    ],
+    "ori": [
+      "a photo of a pasture."
+    ],
+    "deepHigh": [
+      "The pasture is grassy field."
+    ]
+  },
+  "patio": {
+    "positive": [
+      "a photo of a patio."
+    ],
+    "negative": [
+      "this is not a photo of a patio."
+    ],
+    "deepLow": [
+      "patio with gray stone tiles, wooden pergola, potted succulents, woven outdoor rug, string lights"
+    ],
+    "ori": [
+      "a photo of a patio."
+    ],
+    "deepHigh": [
+      "The patio is outdoor living space."
+    ]
+  },
+  "pavilion": {
+    "positive": [
+      "a photo of a pavilion."
+    ],
+    "negative": [
+      "this is not a photo of a pavilion."
+    ],
+    "deepLow": [
+      "pavilion with white marble columns, domed roof, intricate carvings, surrounded by lush greenery, stone base"
+    ],
+    "ori": [
+      "a photo of a pavilion."
+    ],
+    "deepHigh": [
+      "The pavilion is open-air structure."
+    ]
+  },
+  "pharmacy": {
+    "positive": [
+      "a photo of a pharmacy."
+    ],
+    "negative": [
+      "this is not a photo of a pharmacy."
+    ],
+    "deepLow": [
+      "pharmacy with white shelves, blue cross sign, glass medicine cabinets, clean tiled floor, bright fluorescent lighting."
+    ],
+    "ori": [
+      "a photo of a pharmacy."
+    ],
+    "deepHigh": [
+      "The pharmacy is a medical retail store."
+    ]
+  },
+  "phone booth": {
+    "positive": [
+      "a photo of a phone booth."
+    ],
+    "negative": [
+      "this is not a photo of a phone booth."
+    ],
+    "deepLow": [
+      "phone booth, red metal frame, glass panels, curved roof, small shelf inside, vintage design"
+    ],
+    "ori": [
+      "a photo of a phone booth."
+    ],
+    "deepHigh": [
+      "The phone booth is a public telephone enclosure."
+    ]
+  },
+  "physics laboratory": {
+    "positive": [
+      "a photo of a physics laboratory."
+    ],
+    "negative": [
+      "this is not a photo of a physics laboratory."
+    ],
+    "deepLow": [
+      "physics laboratory with white lab coats, black chalkboards, silver instruments, glass beakers, and glowing blue screens"
+    ],
+    "ori": [
+      "a photo of a physics laboratory."
+    ],
+    "deepHigh": [
+      "The physics laboratory is scientific workspace."
+    ]
+  },
+  "picnic area": {
+    "positive": [
+      "a photo of a picnic area."
+    ],
+    "negative": [
+      "this is not a photo of a picnic area."
+    ],
+    "deepLow": [
+      "picnic area with wooden tables, green grass, checkered blankets, wicker baskets, and scattered pine trees"
+    ],
+    "ori": [
+      "a photo of a picnic area."
+    ],
+    "deepHigh": [
+      "The picnic area is outdoor dining space."
+    ]
+  },
+  "indoor pilothouse": {
+    "positive": [
+      "a photo of a indoor pilothouse."
+    ],
+    "negative": [
+      "this is not a photo of a indoor pilothouse."
+    ],
+    "deepLow": [
+      "indoor pilothouse with wooden dashboard, brass dials, navy blue upholstery, round portholes, and glossy control panels"
+    ],
+    "ori": [
+      "a photo of a indoor pilothouse."
+    ],
+    "deepHigh": [
+      "The indoor pilothouse is nautical control room."
+    ]
+  },
+  "outdoor planetarium": {
+    "positive": [
+      "a photo of a outdoor planetarium."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor planetarium."
+    ],
+    "deepLow": [
+      "outdoor planetarium with white dome, metallic frame, star projections, dark blue backdrop, smooth curved surface"
+    ],
+    "ori": [
+      "a photo of a outdoor planetarium."
+    ],
+    "deepHigh": [
+      "The outdoor planetarium is open-air stargazing venue."
+    ]
+  },
+  "playground": {
+    "positive": [
+      "a photo of a playground."
+    ],
+    "negative": [
+      "this is not a photo of a playground."
+    ],
+    "deepLow": [
+      "playground with bright blue slides, yellow swing sets, green rubber flooring, red climbing frames, and wooden benches"
+    ],
+    "ori": [
+      "a photo of a playground."
+    ],
+    "deepHigh": [
+      "The playground is recreational space."
+    ]
+  },
+  "playroom": {
+    "positive": [
+      "a photo of a playroom."
+    ],
+    "negative": [
+      "this is not a photo of a playroom."
+    ],
+    "deepLow": [
+      "playroom with bright primary colors, soft foam mats, round bean bags, striped curtains, and wooden toy shelves"
+    ],
+    "ori": [
+      "a photo of a playroom."
+    ],
+    "deepHigh": [
+      "The playroom is recreational space."
+    ]
+  },
+  "plaza": {
+    "positive": [
+      "a photo of a plaza."
+    ],
+    "negative": [
+      "this is not a photo of a plaza."
+    ],
+    "deepLow": [
+      "plaza with cobblestone pavement, arched walkways, bronze statues, and potted olive trees"
+    ],
+    "ori": [
+      "a photo of a plaza."
+    ],
+    "deepHigh": [
+      "The plaza is open public square."
+    ]
+  },
+  "indoor podium": {
+    "positive": [
+      "a photo of a indoor podium."
+    ],
+    "negative": [
+      "this is not a photo of a indoor podium."
+    ],
+    "deepLow": [
+      "indoor podium, wooden base, smooth black surface, rectangular shape, silver trim edges, LED lighting underneath"
+    ],
+    "ori": [
+      "a photo of a indoor podium."
+    ],
+    "deepHigh": [
+      "The indoor podium is a raised speaking platform."
+    ]
+  },
+  "outdoor podium": {
+    "positive": [
+      "a photo of a outdoor podium."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor podium."
+    ],
+    "deepLow": [
+      "outdoor podium, wooden platform, white painted edges, rectangular shape, metal railings, weathered texture"
+    ],
+    "ori": [
+      "a photo of a outdoor podium."
+    ],
+    "deepHigh": [
+      "The outdoor podium is ceremonial platform."
+    ]
+  },
+  "pond": {
+    "positive": [
+      "a photo of a pond."
+    ],
+    "negative": [
+      "this is not a photo of a pond."
+    ],
+    "deepLow": [
+      "pond with still blue water, green lily pads, scattered white flowers, smooth rocks, and rippling reflections"
+    ],
+    "ori": [
+      "a photo of a pond."
+    ],
+    "deepHigh": [
+      "The pond is small water body."
+    ]
+  },
+  "establishment poolroom": {
+    "positive": [
+      "a photo of a establishment poolroom."
+    ],
+    "negative": [
+      "this is not a photo of a establishment poolroom."
+    ],
+    "deepLow": [
+      "establishment poolroom with green felt tables, wooden cues, dim lighting, chalk marks, and striped balls"
+    ],
+    "ori": [
+      "a photo of a establishment poolroom."
+    ],
+    "deepHigh": [
+      "The establishment poolroom is recreational gaming space."
+    ]
+  },
+  "home poolroom": {
+    "positive": [
+      "a photo of a home poolroom."
+    ],
+    "negative": [
+      "this is not a photo of a home poolroom."
+    ],
+    "deepLow": [
+      "home poolroom with green felt tables, wooden cues, striped balls, dim lighting, leather chairs"
+    ],
+    "ori": [
+      "a photo of a home poolroom."
+    ],
+    "deepHigh": [
+      "The home poolroom is recreational game space."
+    ]
+  },
+  "outdoor power plant": {
+    "positive": [
+      "a photo of a outdoor power plant."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor power plant."
+    ],
+    "deepLow": [
+      "outdoor power plant with gray steel towers, high-voltage wires, concrete foundations, and industrial piping, under blue sky."
+    ],
+    "ori": [
+      "a photo of a outdoor power plant."
+    ],
+    "deepHigh": [
+      "The outdoor power plant is industrial facility."
+    ]
+  },
+  "promenade deck": {
+    "positive": [
+      "a photo of a promenade deck."
+    ],
+    "negative": [
+      "this is not a photo of a promenade deck."
+    ],
+    "deepLow": [
+      "promenade deck, wooden planks, white railings, blue striped awnings, ocean view, lounge chairs"
+    ],
+    "ori": [
+      "a photo of a promenade deck."
+    ],
+    "deepHigh": [
+      "The promenade deck is outdoor walking area."
+    ]
+  },
+  "indoor pub": {
+    "positive": [
+      "a photo of a indoor pub."
+    ],
+    "negative": [
+      "this is not a photo of a indoor pub."
+    ],
+    "deepLow": [
+      "indoor pub, dim lighting, wooden bar counter, brick walls, brass fixtures, stained glass windows"
+    ],
+    "ori": [
+      "a photo of a indoor pub."
+    ],
+    "deepHigh": [
+      "The indoor pub is social drinking establishment."
+    ]
+  },
+  "pulpit": {
+    "positive": [
+      "a photo of a pulpit."
+    ],
+    "negative": [
+      "this is not a photo of a pulpit."
+    ],
+    "deepLow": [
+      "pulpit, wooden carved panels, dark oak finish, arched design, raised platform, intricate scrollwork"
+    ],
+    "ori": [
+      "a photo of a pulpit."
+    ],
+    "deepHigh": [
+      "The pulpit is religious platform."
+    ]
+  },
+  "putting green": {
+    "positive": [
+      "a photo of a putting green."
+    ],
+    "negative": [
+      "this is not a photo of a putting green."
+    ],
+    "deepLow": [
+      "putting green, manicured grass, smooth texture, circular shape, flagstick hole, bright green color"
+    ],
+    "ori": [
+      "a photo of a putting green."
+    ],
+    "deepHigh": [
+      "The putting green is manicured grass surface."
+    ]
+  },
+  "racecourse": {
+    "positive": [
+      "a photo of a racecourse."
+    ],
+    "negative": [
+      "this is not a photo of a racecourse."
+    ],
+    "deepLow": [
+      "racecourse with green turf, white railings, oval track, grandstands, and colorful jockey silks"
+    ],
+    "ori": [
+      "a photo of a racecourse."
+    ],
+    "deepHigh": [
+      "The racecourse is sporting venue."
+    ]
+  },
+  "raceway": {
+    "positive": [
+      "a photo of a raceway."
+    ],
+    "negative": [
+      "this is not a photo of a raceway."
+    ],
+    "deepLow": [
+      "raceway with smooth asphalt surface, bright white lane markings, green grass borders, metal guardrails, and curved track sections"
+    ],
+    "ori": [
+      "a photo of a raceway."
+    ],
+    "deepHigh": [
+      "The raceway is motorsports track."
+    ]
+  },
+  "raft": {
+    "positive": [
+      "a photo of a raft."
+    ],
+    "negative": [
+      "this is not a photo of a raft."
+    ],
+    "deepLow": [
+      "inflatable raft, bright orange, rubber texture, oval shape, black handles, air valves visible"
+    ],
+    "ori": [
+      "a photo of a raft."
+    ],
+    "deepHigh": [
+      "The raft is floating watercraft."
+    ]
+  },
+  "railroad track": {
+    "positive": [
+      "a photo of a railroad track."
+    ],
+    "negative": [
+      "this is not a photo of a railroad track."
+    ],
+    "deepLow": [
+      "railroad track, parallel steel rails, weathered wooden ties, gravel ballast, rusted metal spikes, straight vanishing perspective"
+    ],
+    "ori": [
+      "a photo of a railroad track."
+    ],
+    "deepHigh": [
+      "The railroad track is transportation pathway."
+    ]
+  },
+  "rainforest": {
+    "positive": [
+      "a photo of a rainforest."
+    ],
+    "negative": [
+      "this is not a photo of a rainforest."
+    ],
+    "deepLow": [
+      "rainforest with dense green canopy, twisted vines, glossy leaves, misty air, vibrant orchids"
+    ],
+    "ori": [
+      "a photo of a rainforest."
+    ],
+    "deepHigh": [
+      "The rainforest is dense jungle environment."
+    ]
+  },
+  "reception": {
+    "positive": [
+      "a photo of a reception."
+    ],
+    "negative": [
+      "this is not a photo of a reception."
+    ],
+    "deepLow": [
+      "reception with sleek marble counter, modern chairs, glass partitions, warm lighting, potted plants"
+    ],
+    "ori": [
+      "a photo of a reception."
+    ],
+    "deepHigh": [
+      "The reception is front desk area."
+    ]
+  },
+  "recreation room": {
+    "positive": [
+      "a photo of a recreation room."
+    ],
+    "negative": [
+      "this is not a photo of a recreation room."
+    ],
+    "deepLow": [
+      "recreation room with plush blue sofas, wooden foosball table, striped rug, neon wall signs, and retro arcade machine"
+    ],
+    "ori": [
+      "a photo of a recreation room."
+    ],
+    "deepHigh": [
+      "The recreation room is entertainment space."
+    ]
+  },
+  "residential neighborhood": {
+    "positive": [
+      "a photo of a residential neighborhood."
+    ],
+    "negative": [
+      "this is not a photo of a residential neighborhood."
+    ],
+    "deepLow": [
+      "residential neighborhood with pastel houses, manicured lawns, paved sidewalks, and tree-lined streets"
+    ],
+    "ori": [
+      "a photo of a residential neighborhood."
+    ],
+    "deepHigh": [
+      "The residential neighborhood is housing community."
+    ]
+  },
+  "restaurant": {
+    "positive": [
+      "a photo of a restaurant."
+    ],
+    "negative": [
+      "this is not a photo of a restaurant."
+    ],
+    "deepLow": [
+      "restaurant with wooden tables, brick walls, pendant lighting, checkered floors, and large glass windows"
+    ],
+    "ori": [
+      "a photo of a restaurant."
+    ],
+    "deepHigh": [
+      "The restaurant is dining establishment."
+    ]
+  },
+  "restaurant kitchen": {
+    "positive": [
+      "a photo of a restaurant kitchen."
+    ],
+    "negative": [
+      "this is not a photo of a restaurant kitchen."
+    ],
+    "deepLow": [
+      "restaurant kitchen with stainless steel counters, white subway tiles, hanging copper pans, and black-and-white checkered floor"
+    ],
+    "ori": [
+      "a photo of a restaurant kitchen."
+    ],
+    "deepHigh": [
+      "The restaurant kitchen is culinary workspace."
+    ]
+  },
+  "restaurant patio": {
+    "positive": [
+      "a photo of a restaurant patio."
+    ],
+    "negative": [
+      "this is not a photo of a restaurant patio."
+    ],
+    "deepLow": [
+      "restaurant patio with wooden tables, striped umbrellas, brick walls, potted plants, string lights"
+    ],
+    "ori": [
+      "a photo of a restaurant patio."
+    ],
+    "deepHigh": [
+      "The restaurant patio is outdoor dining area."
+    ]
+  },
+  "rice paddy": {
+    "positive": [
+      "a photo of a rice paddy."
+    ],
+    "negative": [
+      "this is not a photo of a rice paddy."
+    ],
+    "deepLow": [
+      "rice paddy, lush green terraces, water reflections, curved rows, golden rice stalks"
+    ],
+    "ori": [
+      "a photo of a rice paddy."
+    ],
+    "deepHigh": [
+      "The rice paddy is agricultural field."
+    ]
+  },
+  "riding arena": {
+    "positive": [
+      "a photo of a riding arena."
+    ],
+    "negative": [
+      "this is not a photo of a riding arena."
+    ],
+    "deepLow": [
+      "riding arena with tan sand footing, white wooden rails, green hedges, and blue jump standards"
+    ],
+    "ori": [
+      "a photo of a riding arena."
+    ],
+    "deepHigh": [
+      "The riding arena is equestrian training area."
+    ]
+  },
+  "river": {
+    "positive": [
+      "a photo of a river."
+    ],
+    "negative": [
+      "this is not a photo of a river."
+    ],
+    "deepLow": [
+      "river with blue-green water, rippling surface, rocky banks, winding shape, scattered white foam"
+    ],
+    "ori": [
+      "a photo of a river."
+    ],
+    "deepHigh": [
+      "The river is flowing watercourse."
+    ]
+  },
+  "rock arch": {
+    "positive": [
+      "a photo of a rock arch."
+    ],
+    "negative": [
+      "this is not a photo of a rock arch."
+    ],
+    "deepLow": [
+      "rock arch, weathered sandstone, curved shape, layered striations, golden-brown hues, rugged texture."
+    ],
+    "ori": [
+      "a photo of a rock arch."
+    ],
+    "deepHigh": [
+      "The rock arch is natural stone bridge."
+    ]
+  },
+  "rope bridge": {
+    "positive": [
+      "a photo of a rope bridge."
+    ],
+    "negative": [
+      "this is not a photo of a rope bridge."
+    ],
+    "deepLow": [
+      "rope bridge, wooden planks, frayed ropes, swaying structure, moss-covered handrails, deep canyon below"
+    ],
+    "ori": [
+      "a photo of a rope bridge."
+    ],
+    "deepHigh": [
+      "The rope bridge is suspended pathway."
+    ]
+  },
+  "ruin": {
+    "positive": [
+      "a photo of a ruin."
+    ],
+    "negative": [
+      "this is not a photo of a ruin."
+    ],
+    "deepLow": [
+      "ruin with crumbled stone walls, moss-covered surfaces, broken arches, and scattered rubble, under a cloudy sky"
+    ],
+    "ori": [
+      "a photo of a ruin."
+    ],
+    "deepHigh": [
+      "The ruin is ancient structure."
+    ]
+  },
+  "runway": {
+    "positive": [
+      "a photo of a runway."
+    ],
+    "negative": [
+      "this is not a photo of a runway."
+    ],
+    "deepLow": [
+      "runway with smooth asphalt surface, white dashed centerline, bright runway lights, and distant terminal buildings"
+    ],
+    "ori": [
+      "a photo of a runway."
+    ],
+    "deepHigh": [
+      "The runway is aviation landing strip."
+    ]
+  },
+  "sandbar": {
+    "positive": [
+      "a photo of a sandbar."
+    ],
+    "negative": [
+      "this is not a photo of a sandbar."
+    ],
+    "deepLow": [
+      "sandbar, curved shape, golden sand, rippled texture, shallow water edges, scattered shells"
+    ],
+    "ori": [
+      "a photo of a sandbar."
+    ],
+    "deepHigh": [
+      "The sandbar is exposed underwater ridge."
+    ]
+  },
+  "sandbox": {
+    "positive": [
+      "a photo of a sandbox."
+    ],
+    "negative": [
+      "this is not a photo of a sandbox."
+    ],
+    "deepLow": [
+      "sandbox with light brown sand, wooden frame, scattered toy shovels, and small footprints"
+    ],
+    "ori": [
+      "a photo of a sandbox."
+    ],
+    "deepHigh": [
+      "The sandbox is play area with sand."
+    ]
+  },
+  "sauna": {
+    "positive": [
+      "a photo of a sauna."
+    ],
+    "negative": [
+      "this is not a photo of a sauna."
+    ],
+    "deepLow": [
+      "sauna with wooden benches, steam rising, warm lighting, cedar walls, stone heater"
+    ],
+    "ori": [
+      "a photo of a sauna."
+    ],
+    "deepHigh": [
+      "The sauna is a heated room."
+    ]
+  },
+  "schoolhouse": {
+    "positive": [
+      "a photo of a schoolhouse."
+    ],
+    "negative": [
+      "this is not a photo of a schoolhouse."
+    ],
+    "deepLow": [
+      "schoolhouse, wooden walls, white paint, black roof, large bell tower, rectangular windows"
+    ],
+    "ori": [
+      "a photo of a schoolhouse."
+    ],
+    "deepHigh": [
+      "The schoolhouse is educational building."
+    ]
+  },
+  "sea cliff": {
+    "positive": [
+      "a photo of a sea cliff."
+    ],
+    "negative": [
+      "this is not a photo of a sea cliff."
+    ],
+    "deepLow": [
+      "sea cliff with jagged edges, layered gray rock, crashing waves below, scattered green moss, steep vertical drop"
+    ],
+    "ori": [
+      "a photo of a sea cliff."
+    ],
+    "deepHigh": [
+      "The sea cliff is coastal rock formation."
+    ]
+  },
+  "server room": {
+    "positive": [
+      "a photo of a server room."
+    ],
+    "negative": [
+      "this is not a photo of a server room."
+    ],
+    "deepLow": [
+      "server room with blue LED lights, black server racks, silver cables, glossy floors, and cooling vents"
+    ],
+    "ori": [
+      "a photo of a server room."
+    ],
+    "deepHigh": [
+      "The server room is technological infrastructure space."
+    ]
+  },
+  "shed": {
+    "positive": [
+      "a photo of a shed."
+    ],
+    "negative": [
+      "this is not a photo of a shed."
+    ],
+    "deepLow": [
+      "shed with weathered wood panels, rusted metal roof, small square window, peeling white paint, overgrown ivy"
+    ],
+    "ori": [
+      "a photo of a shed."
+    ],
+    "deepHigh": [
+      "The shed is storage structure."
+    ]
+  },
+  "shoe shop": {
+    "positive": [
+      "a photo of a shoe shop."
+    ],
+    "negative": [
+      "this is not a photo of a shoe shop."
+    ],
+    "deepLow": [
+      "shoe shop with glass display cases, polished wooden shelves, colorful sneaker walls, neon lighting, and glossy tiled floors"
+    ],
+    "ori": [
+      "a photo of a shoe shop."
+    ],
+    "deepHigh": [
+      "The shoe shop is footwear retail space."
+    ]
+  },
+  "shopfront": {
+    "positive": [
+      "a photo of a shopfront."
+    ],
+    "negative": [
+      "this is not a photo of a shopfront."
+    ],
+    "deepLow": [
+      "shopfront with blue awning, glass display windows, wooden door, striped signage, and potted plants"
+    ],
+    "ori": [
+      "a photo of a shopfront."
+    ],
+    "deepHigh": [
+      "The shopfront is retail space."
+    ]
+  },
+  "indoor shopping mall": {
+    "positive": [
+      "a photo of a indoor shopping mall."
+    ],
+    "negative": [
+      "this is not a photo of a indoor shopping mall."
+    ],
+    "deepLow": [
+      "indoor shopping mall with polished marble floors, glass storefronts, high arched ceilings, and potted palm trees"
+    ],
+    "ori": [
+      "a photo of a indoor shopping mall."
+    ],
+    "deepHigh": [
+      "The indoor shopping mall is retail complex."
+    ]
+  },
+  "shower": {
+    "positive": [
+      "a photo of a shower."
+    ],
+    "negative": [
+      "this is not a photo of a shower."
+    ],
+    "deepLow": [
+      "shower with white tiles, glass door, chrome fixtures, blue mosaic pattern, rectangular shape"
+    ],
+    "ori": [
+      "a photo of a shower."
+    ],
+    "deepHigh": [
+      "The shower is bathing enclosure."
+    ]
+  },
+  "skatepark": {
+    "positive": [
+      "a photo of a skatepark."
+    ],
+    "negative": [
+      "this is not a photo of a skatepark."
+    ],
+    "deepLow": [
+      "skatepark with concrete ramps, graffiti murals, metal rails, smooth surfaces, bright orange barriers"
+    ],
+    "ori": [
+      "a photo of a skatepark."
+    ],
+    "deepHigh": [
+      "The skatepark is recreational facility."
+    ]
+  },
+  "ski lodge": {
+    "positive": [
+      "a photo of a ski lodge."
+    ],
+    "negative": [
+      "this is not a photo of a ski lodge."
+    ],
+    "deepLow": [
+      "ski lodge with wooden beams, stone fireplace, fur rugs, snow-covered roof, large windows"
+    ],
+    "ori": [
+      "a photo of a ski lodge."
+    ],
+    "deepHigh": [
+      "The ski lodge is a mountain retreat."
+    ]
+  },
+  "ski resort": {
+    "positive": [
+      "a photo of a ski resort."
+    ],
+    "negative": [
+      "this is not a photo of a ski resort."
+    ],
+    "deepLow": [
+      "ski resort with snow-covered slopes, wooden chalets, chairlifts, pine trees, and blue sky"
+    ],
+    "ori": [
+      "a photo of a ski resort."
+    ],
+    "deepHigh": [
+      "The ski resort is snowy mountain recreation area."
+    ]
+  },
+  "ski slope": {
+    "positive": [
+      "a photo of a ski slope."
+    ],
+    "negative": [
+      "this is not a photo of a ski slope."
+    ],
+    "deepLow": [
+      "ski slope with white snow, steep incline, parallel ski tracks, evergreen trees, blue sky"
+    ],
+    "ori": [
+      "a photo of a ski slope."
+    ],
+    "deepHigh": [
+      "The ski slope is snowy incline."
+    ]
+  },
+  "sky": {
+    "positive": [
+      "a photo of a sky."
+    ],
+    "negative": [
+      "this is not a photo of a sky."
+    ],
+    "deepLow": [
+      "sky with swirling pink clouds, golden sunset hues, soft gradient texture, vast open expanse"
+    ],
+    "ori": [
+      "a photo of a sky."
+    ],
+    "deepHigh": [
+      "The sky is atmospheric expanse."
+    ]
+  },
+  "skyscraper": {
+    "positive": [
+      "a photo of a skyscraper."
+    ],
+    "negative": [
+      "this is not a photo of a skyscraper."
+    ],
+    "deepLow": [
+      "skyscraper, glass facade, steel beams, rectangular shape, blue tinted windows, rooftop antenna"
+    ],
+    "ori": [
+      "a photo of a skyscraper."
+    ],
+    "deepHigh": [
+      "The skyscraper is tall building."
+    ]
+  },
+  "slum": {
+    "positive": [
+      "a photo of a slum."
+    ],
+    "negative": [
+      "this is not a photo of a slum."
+    ],
+    "deepLow": [
+      "slum with rusted tin roofs, cracked concrete walls, narrow alleys, faded laundry lines, muddy pathways"
+    ],
+    "ori": [
+      "a photo of a slum."
+    ],
+    "deepHigh": [
+      "The slum is impoverished urban settlement."
+    ]
+  },
+  "snowfield": {
+    "positive": [
+      "a photo of a snowfield."
+    ],
+    "negative": [
+      "this is not a photo of a snowfield."
+    ],
+    "deepLow": [
+      "snowfield, vast white expanse, glistening ice crystals, undulating drifts, scattered evergreen trees"
+    ],
+    "ori": [
+      "a photo of a snowfield."
+    ],
+    "deepHigh": [
+      "The snowfield is vast white landscape."
+    ]
+  },
+  "squash court": {
+    "positive": [
+      "a photo of a squash court."
+    ],
+    "negative": [
+      "this is not a photo of a squash court."
+    ],
+    "deepLow": [
+      "squash court, white walls, hardwood floor, red service lines, glass back wall, bright overhead lights"
+    ],
+    "ori": [
+      "a photo of a squash court."
+    ],
+    "deepHigh": [
+      "The squash court is indoor sports enclosure."
+    ]
+  },
+  "stable": {
+    "positive": [
+      "a photo of a stable."
+    ],
+    "negative": [
+      "this is not a photo of a stable."
+    ],
+    "deepLow": [
+      "stable with wooden beams, hay bales, cobblestone floor, iron horseshoes, and arched doorways"
+    ],
+    "ori": [
+      "a photo of a stable."
+    ],
+    "deepHigh": [
+      "The stable is horse housing."
+    ]
+  },
+  "baseball stadium": {
+    "positive": [
+      "a photo of a baseball stadium."
+    ],
+    "negative": [
+      "this is not a photo of a baseball stadium."
+    ],
+    "deepLow": [
+      "baseball stadium with green outfield grass, brown dirt infield, white foul poles, towering light fixtures, curved grandstand seating"
+    ],
+    "ori": [
+      "a photo of a baseball stadium."
+    ],
+    "deepHigh": [
+      "The baseball stadium is sports venue."
+    ]
+  },
+  "football stadium": {
+    "positive": [
+      "a photo of a football stadium."
+    ],
+    "negative": [
+      "this is not a photo of a football stadium."
+    ],
+    "deepLow": [
+      "football stadium with green turf, white goalposts, tiered seating, bright floodlights, and blue seating sections"
+    ],
+    "ori": [
+      "a photo of a football stadium."
+    ],
+    "deepHigh": [
+      "The football stadium is sports arena."
+    ]
+  },
+  "indoor stage": {
+    "positive": [
+      "a photo of a indoor stage."
+    ],
+    "negative": [
+      "this is not a photo of a indoor stage."
+    ],
+    "deepLow": [
+      "indoor stage with wooden floor, black curtains, spotlight beams, velvet seats, arched backdrop"
+    ],
+    "ori": [
+      "a photo of a indoor stage."
+    ],
+    "deepHigh": [
+      "The indoor stage is performance platform."
+    ]
+  },
+  "staircase": {
+    "positive": [
+      "a photo of a staircase."
+    ],
+    "negative": [
+      "this is not a photo of a staircase."
+    ],
+    "deepLow": [
+      "staircase with wooden steps, black iron railings, white walls, geometric patterns, and natural light"
+    ],
+    "ori": [
+      "a photo of a staircase."
+    ],
+    "deepHigh": [
+      "The staircase is architectural structure."
+    ]
+  },
+  "street": {
+    "positive": [
+      "a photo of a street."
+    ],
+    "negative": [
+      "this is not a photo of a street."
+    ],
+    "deepLow": [
+      "street with cracked asphalt, faded white crosswalk lines, gray concrete sidewalks, scattered autumn leaves, and metal lampposts"
+    ],
+    "ori": [
+      "a photo of a street."
+    ],
+    "deepHigh": [
+      "The street is urban thoroughfare."
+    ]
+  },
+  "subway interior": {
+    "positive": [
+      "a photo of a subway interior."
+    ],
+    "negative": [
+      "this is not a photo of a subway interior."
+    ],
+    "deepLow": [
+      "subway interior with bright fluorescent lights, metallic poles, tiled walls, plastic seats, and sliding glass doors"
+    ],
+    "ori": [
+      "a photo of a subway interior."
+    ],
+    "deepHigh": [
+      "The subway interior is public transit space."
+    ]
+  },
+  "platform subway station": {
+    "positive": [
+      "a photo of a platform subway station."
+    ],
+    "negative": [
+      "this is not a photo of a platform subway station."
+    ],
+    "deepLow": [
+      "platform subway station with tiled walls, concrete floors, yellow safety line, metal benches, overhead fluorescent lights"
+    ],
+    "ori": [
+      "a photo of a platform subway station."
+    ],
+    "deepHigh": [
+      "The platform subway station is transit waiting area."
+    ]
+  },
+  "supermarket": {
+    "positive": [
+      "a photo of a supermarket."
+    ],
+    "negative": [
+      "this is not a photo of a supermarket."
+    ],
+    "deepLow": [
+      "supermarket with bright fluorescent lights, tall metal shelves, colorful product packaging, glossy tiled floors, and shopping carts"
+    ],
+    "ori": [
+      "a photo of a supermarket."
+    ],
+    "deepHigh": [
+      "The supermarket is retail store."
+    ]
+  },
+  "sushi bar": {
+    "positive": [
+      "a photo of a sushi bar."
+    ],
+    "negative": [
+      "this is not a photo of a sushi bar."
+    ],
+    "deepLow": [
+      "sushi bar with wooden counter, fresh fish display, bamboo mats, ceramic plates, and hanging paper lanterns"
+    ],
+    "ori": [
+      "a photo of a sushi bar."
+    ],
+    "deepHigh": [
+      "The sushi bar is Japanese dining establishment."
+    ]
+  },
+  "swamp": {
+    "positive": [
+      "a photo of a swamp."
+    ],
+    "negative": [
+      "this is not a photo of a swamp."
+    ],
+    "deepLow": [
+      "swamp with murky green water, tangled roots, floating lily pads, moss-covered logs, and misty atmosphere"
+    ],
+    "ori": [
+      "a photo of a swamp."
+    ],
+    "deepHigh": [
+      "The swamp is wetland area."
+    ]
+  },
+  "indoor swimming pool": {
+    "positive": [
+      "a photo of a indoor swimming pool."
+    ],
+    "negative": [
+      "this is not a photo of a indoor swimming pool."
+    ],
+    "deepLow": [
+      "indoor swimming pool, turquoise water, white tile walls, glass ceiling, rectangular shape, blue lane markers"
+    ],
+    "ori": [
+      "a photo of a indoor swimming pool."
+    ],
+    "deepHigh": [
+      "The indoor swimming pool is recreational aquatic facility."
+    ]
+  },
+  "outdoor swimming pool": {
+    "positive": [
+      "a photo of a outdoor swimming pool."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor swimming pool."
+    ],
+    "deepLow": [
+      "outdoor swimming pool, rectangular shape, turquoise water, smooth concrete edges, blue mosaic tiles, sun loungers nearby"
+    ],
+    "ori": [
+      "a photo of a outdoor swimming pool."
+    ],
+    "deepHigh": [
+      "The outdoor swimming pool is recreational water facility."
+    ]
+  },
+  "indoor synagogue": {
+    "positive": [
+      "a photo of a indoor synagogue."
+    ],
+    "negative": [
+      "this is not a photo of a indoor synagogue."
+    ],
+    "deepLow": [
+      "indoor synagogue with arched wooden doors, blue velvet drapes, gold menorah, stained glass windows, mosaic tile floor"
+    ],
+    "ori": [
+      "a photo of a indoor synagogue."
+    ],
+    "deepHigh": [
+      "The indoor synagogue is religious worship space."
+    ]
+  },
+  "outdoor synagogue": {
+    "positive": [
+      "a photo of a outdoor synagogue."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor synagogue."
+    ],
+    "deepLow": [
+      "outdoor synagogue with white stone walls, arched windows, blue dome, intricate carvings, and cobblestone courtyard"
+    ],
+    "ori": [
+      "a photo of a outdoor synagogue."
+    ],
+    "deepHigh": [
+      "The outdoor synagogue is religious gathering space."
+    ]
+  },
+  "television studio": {
+    "positive": [
+      "a photo of a television studio."
+    ],
+    "negative": [
+      "this is not a photo of a television studio."
+    ],
+    "deepLow": [
+      "television studio with bright LED lights, black soundproof walls, glossy cameras, colorful backdrop, metal equipment racks"
+    ],
+    "ori": [
+      "a photo of a television studio."
+    ],
+    "deepHigh": [
+      "The television studio is broadcast production space."
+    ]
+  },
+  "east asia temple": {
+    "positive": [
+      "a photo of a east asia temple."
+    ],
+    "negative": [
+      "this is not a photo of a east asia temple."
+    ],
+    "deepLow": [
+      "east asia temple, curved tiled roofs, red wooden pillars, intricate dragon carvings, stone lion statues, gold accents"
+    ],
+    "ori": [
+      "a photo of a east asia temple."
+    ],
+    "deepHigh": [
+      "The east asia temple is religious building."
+    ]
+  },
+  "south asia temple": {
+    "positive": [
+      "a photo of a south asia temple."
+    ],
+    "negative": [
+      "this is not a photo of a south asia temple."
+    ],
+    "deepLow": [
+      "south asia temple, intricate stone carvings, towering spires, vibrant orange hues, ornate floral patterns, weathered sandstone walls"
+    ],
+    "ori": [
+      "a photo of a south asia temple."
+    ],
+    "deepHigh": [
+      "The south asia temple is religious structure."
+    ]
+  },
+  "indoor tennis court": {
+    "positive": [
+      "a photo of a indoor tennis court."
+    ],
+    "negative": [
+      "this is not a photo of a indoor tennis court."
+    ],
+    "deepLow": [
+      "indoor tennis court, bright green synthetic turf, white boundary lines, high ceiling with metal beams, glass back walls, blue court dividers."
+    ],
+    "ori": [
+      "a photo of a indoor tennis court."
+    ],
+    "deepHigh": [
+      "The indoor tennis court is enclosed sports facility."
+    ]
+  },
+  "outdoor tennis court": {
+    "positive": [
+      "a photo of a outdoor tennis court."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor tennis court."
+    ],
+    "deepLow": [
+      "outdoor tennis court, bright green synthetic turf, white boundary lines, blue perimeter fence, net dividing center, sunny backdrop"
+    ],
+    "ori": [
+      "a photo of a outdoor tennis court."
+    ],
+    "deepHigh": [
+      "The outdoor tennis court is sports facility with net and marked lines."
+    ]
+  },
+  "outdoor tent": {
+    "positive": [
+      "a photo of a outdoor tent."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor tent."
+    ],
+    "deepLow": [
+      "outdoor tent, olive green nylon, dome shape, mesh windows, black waterproof seams, sturdy aluminum poles"
+    ],
+    "ori": [
+      "a photo of a outdoor tent."
+    ],
+    "deepHigh": [
+      "The outdoor tent is temporary shelter."
+    ]
+  },
+  "indoor procenium theater": {
+    "positive": [
+      "a photo of a indoor procenium theater."
+    ],
+    "negative": [
+      "this is not a photo of a indoor procenium theater."
+    ],
+    "deepLow": [
+      "indoor procenium theater, crimson velvet curtains, gilded proscenium arch, tiered seating, ornate ceiling frescoes, polished wooden stage"
+    ],
+    "ori": [
+      "a photo of a indoor procenium theater."
+    ],
+    "deepHigh": [
+      "The indoor procenium theater is performance venue."
+    ]
+  },
+  "indoor seats theater": {
+    "positive": [
+      "a photo of a indoor seats theater."
+    ],
+    "negative": [
+      "this is not a photo of a indoor seats theater."
+    ],
+    "deepLow": [
+      "indoor seats theater with plush red velvet seats, curved rows, gold trim accents, dim ambient lighting, and tiered levels"
+    ],
+    "ori": [
+      "a photo of a indoor seats theater."
+    ],
+    "deepHigh": [
+      "The indoor seats theater is entertainment venue."
+    ]
+  },
+  "thriftshop": {
+    "positive": [
+      "a photo of a thriftshop."
+    ],
+    "negative": [
+      "this is not a photo of a thriftshop."
+    ],
+    "deepLow": [
+      "thriftshop with crowded racks, vintage clothing, wooden shelves, colorful knickknacks, and dim lighting"
+    ],
+    "ori": [
+      "a photo of a thriftshop."
+    ],
+    "deepHigh": [
+      "The thriftshop is secondhand store."
+    ]
+  },
+  "throne room": {
+    "positive": [
+      "a photo of a throne room."
+    ],
+    "negative": [
+      "this is not a photo of a throne room."
+    ],
+    "deepLow": [
+      "throne room with golden arches, crimson velvet drapes, marble floors, intricate carvings, and a jeweled throne"
+    ],
+    "ori": [
+      "a photo of a throne room."
+    ],
+    "deepHigh": [
+      "The throne room is royal audience chamber."
+    ]
+  },
+  "ticket booth": {
+    "positive": [
+      "a photo of a ticket booth."
+    ],
+    "negative": [
+      "this is not a photo of a ticket booth."
+    ],
+    "deepLow": [
+      "ticket booth with glass windows, red metal frame, illuminated sign, counter with cash register, and queue ropes"
+    ],
+    "ori": [
+      "a photo of a ticket booth."
+    ],
+    "deepHigh": [
+      "The ticket booth is a small enclosed structure."
+    ]
+  },
+  "toll plaza": {
+    "positive": [
+      "a photo of a toll plaza."
+    ],
+    "negative": [
+      "this is not a photo of a toll plaza."
+    ],
+    "deepLow": [
+      "toll plaza with gray concrete booths, yellow barrier arms, black asphalt lanes, bright LED signs, and striped traffic cones"
+    ],
+    "ori": [
+      "a photo of a toll plaza."
+    ],
+    "deepHigh": [
+      "The toll plaza is roadway collection point."
+    ]
+  },
+  "topiary garden": {
+    "positive": [
+      "a photo of a topiary garden."
+    ],
+    "negative": [
+      "this is not a photo of a topiary garden."
+    ],
+    "deepLow": [
+      "topiary garden, manicured evergreen shrubs, geometric animal shapes, vibrant green hues, smooth leafy textures, gravel pathways"
+    ],
+    "ori": [
+      "a photo of a topiary garden."
+    ],
+    "deepHigh": [
+      "The topiary garden is sculpted plant display."
+    ]
+  },
+  "tower": {
+    "positive": [
+      "a photo of a tower."
+    ],
+    "negative": [
+      "this is not a photo of a tower."
+    ],
+    "deepLow": [
+      "tower, tall stone structure, spiral staircase, arched windows, moss-covered walls, pointed turret"
+    ],
+    "ori": [
+      "a photo of a tower."
+    ],
+    "deepHigh": [
+      "The tower is tall structure."
+    ]
+  },
+  "toyshop": {
+    "positive": [
+      "a photo of a toyshop."
+    ],
+    "negative": [
+      "this is not a photo of a toyshop."
+    ],
+    "deepLow": [
+      "toyshop with bright primary colors, plush stuffed animals, wooden train sets, rainbow shelves, and checkered floors"
+    ],
+    "ori": [
+      "a photo of a toyshop."
+    ],
+    "deepHigh": [
+      "The toyshop is retail store."
+    ]
+  },
+  "outdoor track": {
+    "positive": [
+      "a photo of a outdoor track."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor track."
+    ],
+    "deepLow": [
+      "outdoor track with bright orange lanes, rough asphalt surface, white start lines, green infield, and metal hurdles"
+    ],
+    "ori": [
+      "a photo of a outdoor track."
+    ],
+    "deepHigh": [
+      "The outdoor track is athletic running surface."
+    ]
+  },
+  "train railway": {
+    "positive": [
+      "a photo of a train railway."
+    ],
+    "negative": [
+      "this is not a photo of a train railway."
+    ],
+    "deepLow": [
+      "train railway with steel tracks, gravel bed, rusted metal sleepers, and parallel lines extending into distance."
+    ],
+    "ori": [
+      "a photo of a train railway."
+    ],
+    "deepHigh": [
+      "The train railway is metal track system."
+    ]
+  },
+  "platform train station": {
+    "positive": [
+      "a photo of a platform train station."
+    ],
+    "negative": [
+      "this is not a photo of a platform train station."
+    ],
+    "deepLow": [
+      "platform train station with gray concrete platforms, steel rail tracks, yellow safety lines, glass roof panels, and digital departure boards"
+    ],
+    "ori": [
+      "a photo of a platform train station."
+    ],
+    "deepHigh": [
+      "The platform train station is transportation hub."
+    ]
+  },
+  "tree farm": {
+    "positive": [
+      "a photo of a tree farm."
+    ],
+    "negative": [
+      "this is not a photo of a tree farm."
+    ],
+    "deepLow": [
+      "tree farm with rows of young saplings, dark green needles, brown bark, and evenly spaced planting patterns"
+    ],
+    "ori": [
+      "a photo of a tree farm."
+    ],
+    "deepHigh": [
+      "The tree farm is cultivated forest plantation."
+    ]
+  },
+  "tree house": {
+    "positive": [
+      "a photo of a tree house."
+    ],
+    "negative": [
+      "this is not a photo of a tree house."
+    ],
+    "deepLow": [
+      "tree house with wooden planks, green roof, rope ladder, round windows, nestled in oak branches"
+    ],
+    "ori": [
+      "a photo of a tree house."
+    ],
+    "deepHigh": [
+      "The tree house is wooden structure built among tree branches."
+    ]
+  },
+  "trench": {
+    "positive": [
+      "a photo of a trench."
+    ],
+    "negative": [
+      "this is not a photo of a trench."
+    ],
+    "deepLow": [
+      "trench, khaki fabric, double-breasted buttons, wide lapels, belt at waist, waterproof material"
+    ],
+    "ori": [
+      "a photo of a trench."
+    ],
+    "deepHigh": [
+      "The trench is military excavation."
+    ]
+  },
+  "underwater coral reef": {
+    "positive": [
+      "a photo of a underwater coral reef."
+    ],
+    "negative": [
+      "this is not a photo of a underwater coral reef."
+    ],
+    "deepLow": [
+      "underwater coral reef with vibrant orange branches, purple polyps, jagged textures, and darting fish"
+    ],
+    "ori": [
+      "a photo of a underwater coral reef."
+    ],
+    "deepHigh": [
+      "The underwater coral reef is vibrant marine ecosystem."
+    ]
+  },
+  "utility room": {
+    "positive": [
+      "a photo of a utility room."
+    ],
+    "negative": [
+      "this is not a photo of a utility room."
+    ],
+    "deepLow": [
+      "utility room with white walls, gray concrete floor, metal shelving, exposed pipes, and stacked storage bins."
+    ],
+    "ori": [
+      "a photo of a utility room."
+    ],
+    "deepHigh": [
+      "The utility room is functional storage space."
+    ]
+  },
+  "valley": {
+    "positive": [
+      "a photo of a valley."
+    ],
+    "negative": [
+      "this is not a photo of a valley."
+    ],
+    "deepLow": [
+      "valley with rolling green hills, winding river, rocky cliffs, scattered wildflowers, and misty morning light"
+    ],
+    "ori": [
+      "a photo of a valley."
+    ],
+    "deepHigh": [
+      "The valley is lowland area."
+    ]
+  },
+  "van interior": {
+    "positive": [
+      "a photo of a van interior."
+    ],
+    "negative": [
+      "this is not a photo of a van interior."
+    ],
+    "deepLow": [
+      "van interior with gray fabric seats, wooden floor panels, black dashboard controls, and small overhead storage compartments"
+    ],
+    "ori": [
+      "a photo of a van interior."
+    ],
+    "deepHigh": [
+      "The van interior is cargo space."
+    ]
+  },
+  "vegetable garden": {
+    "positive": [
+      "a photo of a vegetable garden."
+    ],
+    "negative": [
+      "this is not a photo of a vegetable garden."
+    ],
+    "deepLow": [
+      "vegetable garden, lush green leaves, vibrant red tomatoes, crumbly brown soil, wooden raised beds, scattered gardening tools"
+    ],
+    "ori": [
+      "a photo of a vegetable garden."
+    ],
+    "deepHigh": [
+      "The vegetable garden is cultivated plot."
+    ]
+  },
+  "veranda": {
+    "positive": [
+      "a photo of a veranda."
+    ],
+    "negative": [
+      "this is not a photo of a veranda."
+    ],
+    "deepLow": [
+      "veranda with white wooden railings, potted ferns, checkered floor tiles, wicker chairs, and hanging lanterns"
+    ],
+    "ori": [
+      "a photo of a veranda."
+    ],
+    "deepHigh": [
+      "The veranda is covered outdoor space."
+    ]
+  },
+  "veterinarians office": {
+    "positive": [
+      "a photo of a veterinarians office."
+    ],
+    "negative": [
+      "this is not a photo of a veterinarians office."
+    ],
+    "deepLow": [
+      "veterinarians office with white walls, blue exam tables, stainless steel tools, pet scale, and framed animal posters"
+    ],
+    "ori": [
+      "a photo of a veterinarians office."
+    ],
+    "deepHigh": [
+      "The veterinarians office is medical facility."
+    ]
+  },
+  "viaduct": {
+    "positive": [
+      "a photo of a viaduct."
+    ],
+    "negative": [
+      "this is not a photo of a viaduct."
+    ],
+    "deepLow": [
+      "viaduct with gray stone arches, iron railings, cobblestone path, moss-covered pillars, spanning a river valley"
+    ],
+    "ori": [
+      "a photo of a viaduct."
+    ],
+    "deepHigh": [
+      "The viaduct is elevated transport structure."
+    ]
+  },
+  "videostore": {
+    "positive": [
+      "a photo of a videostore."
+    ],
+    "negative": [
+      "this is not a photo of a videostore."
+    ],
+    "deepLow": [
+      "videostore with neon signs, blue carpet, stacked DVD shelves, glossy posters, dim lighting"
+    ],
+    "ori": [
+      "a photo of a videostore."
+    ],
+    "deepHigh": [
+      "The videostore is retail space."
+    ]
+  },
+  "village": {
+    "positive": [
+      "a photo of a village."
+    ],
+    "negative": [
+      "this is not a photo of a village."
+    ],
+    "deepLow": [
+      "village with cobblestone paths, thatched roofs, wooden fences, vibrant flower gardens, and a central stone well"
+    ],
+    "ori": [
+      "a photo of a village."
+    ],
+    "deepHigh": [
+      "The village is rural settlement."
+    ]
+  },
+  "vineyard": {
+    "positive": [
+      "a photo of a vineyard."
+    ],
+    "negative": [
+      "this is not a photo of a vineyard."
+    ],
+    "deepLow": [
+      "vineyard with neat rows of green vines, brown wooden trellises, rolling hills backdrop, and golden sunlight"
+    ],
+    "ori": [
+      "a photo of a vineyard."
+    ],
+    "deepHigh": [
+      "The vineyard is agricultural land with grapevines."
+    ]
+  },
+  "volcano": {
+    "positive": [
+      "a photo of a volcano."
+    ],
+    "negative": [
+      "this is not a photo of a volcano."
+    ],
+    "deepLow": [
+      "volcano, conical shape, rugged dark rock, billowing gray smoke, glowing orange lava cracks"
+    ],
+    "ori": [
+      "a photo of a volcano."
+    ],
+    "deepHigh": [
+      "The volcano is mountainous landform with eruptive activity."
+    ]
+  },
+  "indoor volleyball court": {
+    "positive": [
+      "a photo of a indoor volleyball court."
+    ],
+    "negative": [
+      "this is not a photo of a indoor volleyball court."
+    ],
+    "deepLow": [
+      "indoor volleyball court, polished wooden floor, white boundary lines, blue and yellow team zones, high ceiling with bright lights, net stretched taut"
+    ],
+    "ori": [
+      "a photo of a indoor volleyball court."
+    ],
+    "deepHigh": [
+      "The indoor volleyball court is sports arena."
+    ]
+  },
+  "outdoor volleyball court": {
+    "positive": [
+      "a photo of a outdoor volleyball court."
+    ],
+    "negative": [
+      "this is not a photo of a outdoor volleyball court."
+    ],
+    "deepLow": [
+      "outdoor volleyball court, white boundary lines, orange sand surface, blue metal poles, green net, surrounded by chain-link fence"
+    ],
+    "ori": [
+      "a photo of a outdoor volleyball court."
+    ],
+    "deepHigh": [
+      "The outdoor volleyball court is sandy playing surface with net."
+    ]
+  },
+  "waiting room": {
+    "positive": [
+      "a photo of a waiting room."
+    ],
+    "negative": [
+      "this is not a photo of a waiting room."
+    ],
+    "deepLow": [
+      "waiting room with beige walls, blue vinyl chairs, glossy tiled floor, large glass windows, ceiling fans"
+    ],
+    "ori": [
+      "a photo of a waiting room."
+    ],
+    "deepHigh": [
+      "The waiting room is seating area."
+    ]
+  },
+  "indoor warehouse": {
+    "positive": [
+      "a photo of a indoor warehouse."
+    ],
+    "negative": [
+      "this is not a photo of a indoor warehouse."
+    ],
+    "deepLow": [
+      "indoor warehouse with gray concrete floors, tall metal shelves, stacked cardboard boxes, fluorescent lighting, and forklift tracks."
+    ],
+    "ori": [
+      "a photo of a indoor warehouse."
+    ],
+    "deepHigh": [
+      "The indoor warehouse is storage facility."
+    ]
+  },
+  "water tower": {
+    "positive": [
+      "a photo of a water tower."
+    ],
+    "negative": [
+      "this is not a photo of a water tower."
+    ],
+    "deepLow": [
+      "water tower, cylindrical metal tank, faded blue paint, rust patches, lattice steel legs, surrounded by trees"
+    ],
+    "ori": [
+      "a photo of a water tower."
+    ],
+    "deepHigh": [
+      "The water tower is elevated storage structure."
+    ]
+  },
+  "block waterfall": {
+    "positive": [
+      "a photo of a block waterfall."
+    ],
+    "negative": [
+      "this is not a photo of a block waterfall."
+    ],
+    "deepLow": [
+      "block waterfall with cascading tiers, smooth granite surfaces, frothy white water, dark moss patches, angular rock formations"
+    ],
+    "ori": [
+      "a photo of a block waterfall."
+    ],
+    "deepHigh": [
+      "The block waterfall is cascading water over stepped rock formations."
+    ]
+  },
+  "fan waterfall": {
+    "positive": [
+      "a photo of a fan waterfall."
+    ],
+    "negative": [
+      "this is not a photo of a fan waterfall."
+    ],
+    "deepLow": [
+      "fan waterfall with tiered white silk, cascading blue ribbons, circular metal frame, delicate pleats, and flowing water-like motion"
+    ],
+    "ori": [
+      "a photo of a fan waterfall."
+    ],
+    "deepHigh": [
+      "The fan waterfall is decorative water feature."
+    ]
+  },
+  "plunge waterfall": {
+    "positive": [
+      "a photo of a plunge waterfall."
+    ],
+    "negative": [
+      "this is not a photo of a plunge waterfall."
+    ],
+    "deepLow": [
+      "plunge waterfall, tall vertical drop, white foamy cascade, dark rocky cliffs, misty spray, lush green surroundings."
+    ],
+    "ori": [
+      "a photo of a plunge waterfall."
+    ],
+    "deepHigh": [
+      "The plunge waterfall is vertical water drop."
+    ]
+  },
+  "watering hole": {
+    "positive": [
+      "a photo of a watering hole."
+    ],
+    "negative": [
+      "this is not a photo of a watering hole."
+    ],
+    "deepLow": [
+      "watering hole with muddy banks, rippling blue water, scattered rocks, lush green foliage, and animal tracks"
+    ],
+    "ori": [
+      "a photo of a watering hole."
+    ],
+    "deepHigh": [
+      "The watering hole is natural water source."
+    ]
+  },
+  "wave": {
+    "positive": [
+      "a photo of a wave."
+    ],
+    "negative": [
+      "this is not a photo of a wave."
+    ],
+    "deepLow": [
+      "wave with foamy white crest, deep blue curves, rough textured surface, sunlight glinting on peaks"
+    ],
+    "ori": [
+      "a photo of a wave."
+    ],
+    "deepHigh": [
+      "The wave is moving water."
+    ]
+  },
+  "beauty salon": {
+    "positive": [
+      "a photo of a beauty salon."
+    ],
+    "negative": [
+      "this is not a photo of a beauty salon."
+    ],
+    "deepLow": [
+      "beauty salon with sleek black chairs, mirrored walls, pastel pink accents, marble countertops, pendant lighting"
+    ],
+    "ori": [
+      "a photo of a beauty salon."
+    ],
+    "deepHigh": [
+      "The beauty salon is personal care establishment."
+    ]
+  },
+  "coral reef underwater": {
+    "positive": [
+      "a photo of a coral reef underwater."
+    ],
+    "negative": [
+      "this is not a photo of a coral reef underwater."
+    ],
+    "deepLow": [
+      "coral reef underwater, vibrant orange branches, purple anemones, sandy seabed, darting fish"
+    ],
+    "ori": [
+      "a photo of a coral reef underwater."
+    ],
+    "deepHigh": [
+      "The coral reef underwater is vibrant marine ecosystem."
+    ]
+  },
+  "barrel storage wine cellar": {
+    "positive": [
+      "a photo of a barrel storage wine cellar."
+    ],
+    "negative": [
+      "this is not a photo of a barrel storage wine cellar."
+    ],
+    "deepLow": [
+      "barrel storage wine cellar, wooden barrels, stacked rows, dark oak texture, dim lighting, cobblestone floor"
+    ],
+    "ori": [
+      "a photo of a barrel storage wine cellar."
+    ],
+    "deepHigh": [
+      "The barrel storage wine cellar is a wine aging facility."
+    ]
+  },
+  "bottle storage wine cellar": {
+    "positive": [
+      "a photo of a bottle storage wine cellar."
+    ],
+    "negative": [
+      "this is not a photo of a bottle storage wine cellar."
+    ],
+    "deepLow": [
+      "bottle storage wine cellar, wooden racks, dark oak finish, metal brackets, dim lighting, arched brick walls"
+    ],
+    "ori": [
+      "a photo of a bottle storage wine cellar."
+    ],
+    "deepHigh": [
+      "The bottle storage wine cellar is temperature-controlled room."
+    ]
+  },
+  "wet bar": {
+    "positive": [
+      "a photo of a wet bar."
+    ],
+    "negative": [
+      "this is not a photo of a wet bar."
+    ],
+    "deepLow": [
+      "wet bar with glossy black countertop, brass faucet, marble backsplash, glass shelves, and mirrored base"
+    ],
+    "ori": [
+      "a photo of a wet bar."
+    ],
+    "deepHigh": [
+      "The wet bar is a serving area with a sink."
+    ]
+  },
+  "wheat field": {
+    "positive": [
+      "a photo of a wheat field."
+    ],
+    "negative": [
+      "this is not a photo of a wheat field."
+    ],
+    "deepLow": [
+      "wheat field, golden yellow stalks, swaying in wind, textured grain heads, rows of tall stems, earthy brown soil"
+    ],
+    "ori": [
+      "a photo of a wheat field."
+    ],
+    "deepHigh": [
+      "The wheat field is golden agricultural expanse."
+    ]
+  },
+  "wind farm": {
+    "positive": [
+      "a photo of a wind farm."
+    ],
+    "negative": [
+      "this is not a photo of a wind farm."
+    ],
+    "deepLow": [
+      "wind farm with tall white turbines, spinning blades, metal lattice towers, green fields, blue sky"
+    ],
+    "ori": [
+      "a photo of a wind farm."
+    ],
+    "deepHigh": [
+      "The wind farm is energy generation landscape."
+    ]
+  },
+  "windmill": {
+    "positive": [
+      "a photo of a windmill."
+    ],
+    "negative": [
+      "this is not a photo of a windmill."
+    ],
+    "deepLow": [
+      "windmill, tall white tower, rotating wooden blades, pointed red roof, grassy field backdrop"
+    ],
+    "ori": [
+      "a photo of a windmill."
+    ],
+    "deepHigh": [
+      "The windmill is tall structure with rotating blades."
+    ]
+  },
+  "yard": {
+    "positive": [
+      "a photo of a yard."
+    ],
+    "negative": [
+      "this is not a photo of a yard."
+    ],
+    "deepLow": [
+      "yard with lush green grass, white picket fence, blooming flowers, stone pathway, wooden bench"
+    ],
+    "ori": [
+      "a photo of a yard."
+    ],
+    "deepHigh": [
+      "The yard is outdoor space."
+    ]
+  },
+  "youth hostel": {
+    "positive": [
+      "a photo of a youth hostel."
+    ],
+    "negative": [
+      "this is not a photo of a youth hostel."
+    ],
+    "deepLow": [
+      "youth hostel with bright blue bunk beds, wooden floors, striped curtains, and a chalkboard wall"
+    ],
+    "ori": [
+      "a photo of a youth hostel."
+    ],
+    "deepHigh": [
+      "The youth hostel is budget accommodation."
+    ]
+  },
+  "indoor wrestling ring": {
+    "positive": [
+      "a photo of a indoor wrestling ring."
+    ],
+    "negative": [
+      "this is not a photo of a indoor wrestling ring."
+    ],
+    "deepLow": [
+      "indoor wrestling ring, blue padded mat, black steel ropes, bright spotlights, crowd barriers, squared canvas"
+    ],
+    "ori": [
+      "a photo of a indoor wrestling ring."
+    ],
+    "deepHigh": [
+      "The indoor wrestling ring is a raised square platform."
+    ]
+  }
+}

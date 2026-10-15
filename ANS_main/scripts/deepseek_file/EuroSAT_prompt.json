@@ -1,0 +1,222 @@
+{
+  "Annual Crop Land": {
+    "positive": [
+      "Annual Crop Land refers to fields where crops are planted and harvested yearly, showing seasonal vegetation changes.",
+      "This area looks like Annual Crop Land with organized rows of growing plants typical of agricultural fields."
+    ],
+    "negative": [
+      "This image does not show Annual Crop Land.",
+      "This is definitely not Annual Crop Land."
+    ],
+    "ori": [
+      "a centered satellite photo of Annual Crop Land."
+    ],
+    "deepLow": [
+      "Annual Crop Land: green or golden fields, straight furrow patterns, rectangular plot shapes, varying crop heights, exposed soil patches"
+    ],
+    "negativePin": [
+      "This image does not show Annual Crop Land; it lacks rows of cultivated plants."
+    ],
+    "deepHigh": [
+      "The Annual Crop Land is seasonal vegetation patterns."
+    ]
+  },
+  "Forest": {
+    "positive": [
+      "Forest is a large area densely covered with trees and undergrowth.",
+      "This landscape looks like a forest with tall trees and thick vegetation."
+    ],
+    "negative": [
+      "This image does not show a forest.",
+      "This is definitely not a forest."
+    ],
+    "ori": [
+      "a centered satellite photo of Forest."
+    ],
+    "deepLow": [
+      "Forest: dense green foliage, rough bark textures, towering tree trunks, dappled sunlight patterns, moss-covered surfaces"
+    ],
+    "negativePin": [
+      "This image does not show Forest; it lacks dense trees and green foliage."
+    ],
+    "deepHigh": [
+      "The Forest is dense tree canopy coverage."
+    ]
+  },
+  "Herbaceous Vegetation Land": {
+    "positive": [
+      "Herbaceous Vegetation Land is covered mainly by non-woody plants such as grasses and herbs.",
+      "This area looks like Herbaceous Vegetation Land with lush green grass and low plants."
+    ],
+    "negative": [
+      "This image does not show Herbaceous Vegetation Land.",
+      "This is definitely not Herbaceous Vegetation Land."
+    ],
+    "ori": [
+      "a centered satellite photo of Herbaceous Vegetation Land."
+    ],
+    "deepLow": [
+      "Herbaceous Vegetation Land: green foliage, slender stems, broad leaves, clustered growth, soft textures"
+    ],
+    "negativePin": [
+      "This image does not show Herbaceous Vegetation Land; it lacks green grasses or low-growing plants."
+    ],
+    "deepHigh": [
+      "The Herbaceous Vegetation Land is perennial non-woody ground cover."
+    ]
+  },
+  "Highway or Road": {
+    "positive": [
+      "Highway or Road refers to paved or unpaved paths designed for vehicle traffic.",
+      "This image shows a highway or road with visible lanes and infrastructure for transportation."
+    ],
+    "negative": [
+      "This image does not show a highway or road.",
+      "This is definitely not a highway or road."
+    ],
+    "ori": [
+      "a centered satellite photo of Highway or Road."
+    ],
+    "deepLow": [
+      "Highway or Road: asphalt surface, white or yellow lane markings, concrete barriers, reflective road studs, weathered tire marks"
+    ],
+    "negativePin": [
+      "This image does not show Highway or Road; it lacks long stretches of paved lanes."
+    ],
+    "deepHigh": [
+      "The Highway or Road is linear transportation infrastructure."
+    ]
+  },
+  "Industrial Buildings": {
+    "positive": [
+      "Industrial Buildings are structures used for manufacturing, storage, or other industrial activities.",
+      "This area looks like Industrial Buildings with large warehouses and factory-like constructions."
+    ],
+    "negative": [
+      "This image does not show Industrial Buildings.",
+      "This is definitely not Industrial Buildings."
+    ],
+    "ori": [
+      "a centered satellite photo of Industrial Buildings."
+    ],
+    "deepLow": [
+      "Industrial Buildings: corrugated metal siding, large rectangular windows, exposed steel beams, concrete foundations, flat or angular roofs"
+    ],
+    "negativePin": [
+      "This image does not show Industrial Buildings; it lacks large factories or smokestacks."
+    ],
+    "deepHigh": [
+      "The Industrial Buildings is large rectangular structures with extensive paved areas."
+    ]
+  },
+  "Pasture Land": {
+    "positive": [
+      "Pasture Land is open land covered with grass used for grazing livestock.",
+      "This landscape looks like Pasture Land with wide grassy areas suitable for animals."
+    ],
+    "negative": [
+      "This image does not show Pasture Land.",
+      "This is definitely not Pasture Land."
+    ],
+    "ori": [
+      "a centered satellite photo of Pasture Land."
+    ],
+    "deepLow": [
+      "Pasture Land: green grassy expanse, scattered wildflowers, rolling hills, wooden fences, grazing livestock"
+    ],
+    "negativePin": [
+      "This image does not show Pasture Land; it lacks open grassy fields with grazing animals."
+    ],
+    "deepHigh": [
+      "The Pasture Land is managed grassland with grazing patterns."
+    ]
+  },
+  "Permanent Crop Land": {
+    "positive": [
+      "Permanent Crop Land includes fields where perennial crops such as orchards or vineyards are cultivated.",
+      "This area looks like Permanent Crop Land with organized plantations that last multiple seasons."
+    ],
+    "negative": [
+      "This image does not show Permanent Crop Land.",
+      "This is definitely not Permanent Crop Land."
+    ],
+    "ori": [
+      "a centered satellite photo of Permanent Crop Land."
+    ],
+    "deepLow": [
+      "Permanent Crop Land: orderly rows of plants, varying shades of green, uniform spacing, textured soil surface, occasional irrigation lines"
+    ],
+    "negativePin": [
+      "This image does not show Permanent Crop Land; it lacks rows of cultivated trees or shrubs."
+    ],
+    "deepHigh": [
+      "The Permanent Crop Land is perennial planting arrangements."
+    ]
+  },
+  "Residential Buildings": {
+    "positive": [
+      "Residential Buildings are areas with houses and living quarters for people.",
+      "This area looks like Residential Buildings with clusters of homes and associated infrastructure."
+    ],
+    "negative": [
+      "This image does not show Residential Buildings.",
+      "This is definitely not Residential Buildings."
+    ],
+    "ori": [
+      "a centered satellite photo of Residential Buildings."
+    ],
+    "deepLow": [
+      "Residential Buildings: brick facade, pitched roof, rectangular windows, wooden shutters, stucco exterior"
+    ],
+    "negativePin": [
+      "This image does not show Residential Buildings; it lacks windows, doors, or roof structures."
+    ],
+    "deepHigh": [
+      "The Residential Buildings is clustered roof patterns with consistent road access."
+    ]
+  },
+  "River": {
+    "positive": [
+      "A River is a natural flowing watercourse usually freshwater, flowing towards an ocean, sea, or lake.",
+      "This landscape looks like a river with visible water flow winding through the terrain."
+    ],
+    "negative": [
+      "This image does not show a river.",
+      "This is definitely not a river."
+    ],
+    "ori": [
+      "a centered satellite photo of River."
+    ],
+    "deepLow": [
+      "River: blue-green water, rippling surface, winding shape, rocky banks, sandy bottom"
+    ],
+    "negativePin": [
+      "This image does not show a river; it lacks flowing water between banks."
+    ],
+    "deepHigh": [
+      "The River is a meandering water channel."
+    ]
+  },
+  "Sea or Lake": {
+    "positive": [
+      "Sea or Lake refers to large bodies of water surrounded by land or connected to oceans.",
+      "This area looks like sea or lake with calm water surface reflecting the surroundings."
+    ],
+    "negative": [
+      "This image does not show sea or lake.",
+      "This is definitely not sea or lake."
+    ],
+    "ori": [
+      "a centered satellite photo of Sea or Lake."
+    ],
+    "deepLow": [
+      "Sea or Lake: deep blue-green hues, rippling water surface, reflective sheen, irregular shoreline, frothy white waves"
+    ],
+    "negativePin": [
+      "This image does not show Sea or Lake; it lacks a large body of water."
+    ],
+    "deepHigh": [
+      "The Sea or Lake is persistent water bodies."
+    ]
+  }
+}

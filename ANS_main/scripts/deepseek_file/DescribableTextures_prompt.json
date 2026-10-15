@@ -1,0 +1,801 @@
+{
+  "banded": {
+    "positive": [
+      "a photo of a banded, a type of texture."
+    ],
+    "negative": [
+      "this is not a banded, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a banded, a type of texture."
+    ],
+    "deepLow": [
+      "banded: alternating color stripes, parallel linear patterns, distinct color contrast, smooth or textured surfaces, uniform width bands"
+    ],
+    "deepHigh": [
+      "The banded is striped pattern with alternating color bands."
+    ]
+  },
+  "blotchy": {
+    "positive": [
+      "a photo of a blotchy, a type of texture."
+    ],
+    "negative": [
+      "this is not a blotchy, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a blotchy, a type of texture."
+    ],
+    "deepLow": [
+      "blotchy: irregular patches, uneven color distribution, mottled texture, contrasting hues, rough or smooth surface variations"
+    ],
+    "deepHigh": [
+      "The blotchy is clustered spotting with uneven distribution and irregular texture."
+    ]
+  },
+  "braided": {
+    "positive": [
+      "a photo of a braided, a type of texture."
+    ],
+    "negative": [
+      "this is not a braided, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a braided, a type of texture."
+    ],
+    "deepLow": [
+      "braided: interwoven strands, glossy or matte finish, rope-like texture, symmetrical pattern, varied thickness"
+    ],
+    "deepHigh": [
+      "The braided is interwoven strands with visible texture definition."
+    ]
+  },
+  "bubbly": {
+    "positive": [
+      "a photo of a bubbly, a type of texture."
+    ],
+    "negative": [
+      "this is not a bubbly, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a bubbly, a type of texture."
+    ],
+    "deepLow": [
+      "bubbly: spherical shapes, glossy surface, transparent or translucent, light-reflective, clustered formation"
+    ],
+    "deepHigh": [
+      "The bubbly is spherical clustering with glossy texture."
+    ]
+  },
+  "bumpy": {
+    "positive": [
+      "a photo of a bumpy, a type of texture."
+    ],
+    "negative": [
+      "this is not a bumpy, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a bumpy, a type of texture."
+    ],
+    "deepLow": [
+      "bumpy: irregular surface, raised protrusions, rough texture, uneven contours, mottled appearance"
+    ],
+    "deepHigh": [
+      "The bumpy is irregular protrusions with coarse texture."
+    ]
+  },
+  "chequered": {
+    "positive": [
+      "a photo of a chequered, a type of texture."
+    ],
+    "negative": [
+      "this is not a chequered, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a chequered, a type of texture."
+    ],
+    "deepLow": [
+      "chequered: alternating colored squares, grid-like pattern, sharp edges, flat surface, contrasting hues"
+    ],
+    "deepHigh": [
+      "The chequered is alternating squares with contrasting colors."
+    ]
+  },
+  "cobwebbed": {
+    "positive": [
+      "a photo of a cobwebbed, a type of texture."
+    ],
+    "negative": [
+      "this is not a cobwebbed, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a cobwebbed, a type of texture."
+    ],
+    "deepLow": [
+      "cobwebbed: silvery-gray strands, tangled web patterns, delicate filament texture, dusty accumulation, irregular mesh shapes"
+    ],
+    "deepHigh": [
+      "The cobwebbed is intricate network pattern with fine filament texture."
+    ]
+  },
+  "cracked": {
+    "positive": [
+      "a photo of a cracked, a type of texture."
+    ],
+    "negative": [
+      "this is not a cracked, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a cracked, a type of texture."
+    ],
+    "deepLow": [
+      "cracked: jagged lines, rough texture, uneven edges, light-colored fissures, fragmented surface"
+    ],
+    "deepHigh": [
+      "The cracked is linear fracture pattern with irregular branching."
+    ]
+  },
+  "crosshatched": {
+    "positive": [
+      "a photo of a crosshatched, a type of texture."
+    ],
+    "negative": [
+      "this is not a crosshatched, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a crosshatched, a type of texture."
+    ],
+    "deepLow": [
+      "crosshatched: intersecting parallel lines, grid-like pattern, varying line density, monochrome or multicolored, ink or pencil medium"
+    ],
+    "deepHigh": [
+      "The crosshatched is intersecting line pattern with layered texture."
+    ]
+  },
+  "crystalline": {
+    "positive": [
+      "a photo of a crystalline, a type of texture."
+    ],
+    "negative": [
+      "this is not a crystalline, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a crystalline, a type of texture."
+    ],
+    "deepLow": [
+      "crystalline: transparent or translucent, geometric facets, prismatic shapes, glassy or metallic sheen, refractive light dispersion"
+    ],
+    "deepHigh": [
+      "The crystalline is geometric arrangement with faceted reflectivity."
+    ]
+  },
+  "dotted": {
+    "positive": [
+      "a photo of a dotted, a type of texture."
+    ],
+    "negative": [
+      "this is not a dotted, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a dotted, a type of texture."
+    ],
+    "deepLow": [
+      "dotted: circular spots, contrasting colors, uniform pattern, smooth surface, random distribution"
+    ],
+    "deepHigh": [
+      "The dotted is circular spotting with uniform distribution."
+    ]
+  },
+  "fibrous": {
+    "positive": [
+      "a photo of a fibrous, a type of texture."
+    ],
+    "negative": [
+      "this is not a fibrous, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a fibrous, a type of texture."
+    ],
+    "deepLow": [
+      "fibrous: stringy texture, matte surface, tangled strands, earthy tones, rough edges"
+    ],
+    "deepHigh": [
+      "The fibrous is thread-like arrangement with linear texture."
+    ]
+  },
+  "flecked": {
+    "positive": [
+      "a photo of a flecked, a type of texture."
+    ],
+    "negative": [
+      "this is not a flecked, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a flecked, a type of texture."
+    ],
+    "deepLow": [
+      "flecked: speckled surface, contrasting color dots, irregular pattern, textured finish, granular appearance"
+    ],
+    "deepHigh": [
+      "The flecked is speckled pattern with scattered distribution."
+    ]
+  },
+  "freckled": {
+    "positive": [
+      "a photo of a freckled, a type of texture."
+    ],
+    "negative": [
+      "this is not a freckled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a freckled, a type of texture."
+    ],
+    "deepLow": [
+      "freckled: light brown spots, scattered pattern, uneven distribution, smooth skin texture, small circular shapes"
+    ],
+    "deepHigh": [
+      "The freckled is clustered spotting with smooth texture."
+    ]
+  },
+  "frilly": {
+    "positive": [
+      "a photo of a frilly, a type of texture."
+    ],
+    "negative": [
+      "this is not a frilly, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a frilly, a type of texture."
+    ],
+    "deepLow": [
+      "frilly: layered ruffles, delicate lace trim, soft pastel colors, gathered fabric folds, lightweight chiffon material"
+    ],
+    "deepHigh": [
+      "The frilly is ruffled edge pattern with delicate texture."
+    ]
+  },
+  "gauzy": {
+    "positive": [
+      "a photo of a gauzy, a type of texture."
+    ],
+    "negative": [
+      "this is not a gauzy, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a gauzy, a type of texture."
+    ],
+    "deepLow": [
+      "gauzy: sheer fabric, translucent appearance, soft texture, delicate weave, pastel colors"
+    ],
+    "deepHigh": [
+      "The gauzy is translucent layering with soft diffusion."
+    ]
+  },
+  "grid": {
+    "positive": [
+      "a photo of a grid, a type of texture."
+    ],
+    "negative": [
+      "this is not a grid, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a grid, a type of texture."
+    ],
+    "deepLow": [
+      "grid: black lines, white background, square cells, uniform spacing, intersecting paths"
+    ],
+    "deepHigh": [
+      "The grid is intersecting lines with uniform spacing."
+    ]
+  },
+  "grooved": {
+    "positive": [
+      "a photo of a grooved, a type of texture."
+    ],
+    "negative": [
+      "this is not a grooved, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a grooved, a type of texture."
+    ],
+    "deepLow": [
+      "grooved: parallel ridges, linear indentations, textured surface, matte finish, uniform spacing"
+    ],
+    "deepHigh": [
+      "The grooved is linear indentation with parallel ridges."
+    ]
+  },
+  "honeycombed": {
+    "positive": [
+      "a photo of a honeycombed, a type of texture."
+    ],
+    "negative": [
+      "this is not a honeycombed, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a honeycombed, a type of texture."
+    ],
+    "deepLow": [
+      "honeycombed: hexagonal pattern, waxy texture, golden-yellow color, repeating cells, porous surface"
+    ],
+    "deepHigh": [
+      "The honeycombed is hexagonal arrangement with waxy texture."
+    ]
+  },
+  "interlaced": {
+    "positive": [
+      "a photo of a interlaced, a type of texture."
+    ],
+    "negative": [
+      "this is not a interlaced, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a interlaced, a type of texture."
+    ],
+    "deepLow": [
+      "interlaced: crisscross pattern, alternating colors, woven texture, grid-like structure, overlapping lines"
+    ],
+    "deepHigh": [
+      "The interlaced is crisscrossing pattern with overlapping strands."
+    ]
+  },
+  "knitted": {
+    "positive": [
+      "a photo of a knitted, a type of texture."
+    ],
+    "negative": [
+      "this is not a knitted, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a knitted, a type of texture."
+    ],
+    "deepLow": [
+      "knitted: woolen yarn, ribbed texture, cable patterns, variegated colors, loose weave"
+    ],
+    "deepHigh": [
+      "The knitted is interlocking loop pattern with fibrous texture."
+    ]
+  },
+  "lacelike": {
+    "positive": [
+      "a photo of a lacelike, a type of texture."
+    ],
+    "negative": [
+      "this is not a lacelike, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a lacelike, a type of texture."
+    ],
+    "deepLow": [
+      "lacelike: delicate white threads, intricate floral patterns, openwork design, fine cotton material, scalloped edges"
+    ],
+    "deepHigh": [
+      "The lacelike is intricate network with delicate patterning."
+    ]
+  },
+  "lined": {
+    "positive": [
+      "a photo of a lined, a type of texture."
+    ],
+    "negative": [
+      "this is not a lined, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a lined, a type of texture."
+    ],
+    "deepLow": [
+      "lined: parallel stripes, uniform spacing, alternating colors, straight edges, textile material"
+    ],
+    "deepHigh": [
+      "The lined is parallel arrangement with directional texture."
+    ]
+  },
+  "marbled": {
+    "positive": [
+      "a photo of a marbled, a type of texture."
+    ],
+    "negative": [
+      "this is not a marbled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a marbled, a type of texture."
+    ],
+    "deepLow": [
+      "marbled: swirling color patterns, smooth polished surface, irregular veining, contrasting hues, stone or paper material"
+    ],
+    "deepHigh": [
+      "The marbled is swirling pattern with veined texture."
+    ]
+  },
+  "matted": {
+    "positive": [
+      "a photo of a matted, a type of texture."
+    ],
+    "negative": [
+      "this is not a matted, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a matted, a type of texture."
+    ],
+    "deepLow": [
+      "matted: flat surface, dull finish, non-reflective texture, muted colors, fibrous material"
+    ],
+    "deepHigh": [
+      "The matted is tangled fibers with a dense texture."
+    ]
+  },
+  "meshed": {
+    "positive": [
+      "a photo of a meshed, a type of texture."
+    ],
+    "negative": [
+      "this is not a meshed, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a meshed, a type of texture."
+    ],
+    "deepLow": [
+      "meshed: interwoven pattern, grid-like structure, perforated surface, flexible material, geometric openings"
+    ],
+    "deepHigh": [
+      "The meshed is interwoven network with fine grid pattern."
+    ]
+  },
+  "paisley": {
+    "positive": [
+      "a photo of a paisley, a type of texture."
+    ],
+    "negative": [
+      "this is not a paisley, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a paisley, a type of texture."
+    ],
+    "deepLow": [
+      "paisley: teardrop-shaped motifs, intricate swirling patterns, rich jewel tones, silk or cotton fabric, ornate decorative details"
+    ],
+    "deepHigh": [
+      "The paisley is teardrop motif with intricate swirling patterns."
+    ]
+  },
+  "perforated": {
+    "positive": [
+      "a photo of a perforated, a type of texture."
+    ],
+    "negative": [
+      "this is not a perforated, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a perforated, a type of texture."
+    ],
+    "deepLow": [
+      "perforated: small circular holes, evenly spaced pattern, smooth edges, metallic or plastic material, grid-like arrangement"
+    ],
+    "deepHigh": [
+      "The perforated is regular hole pattern with porous texture."
+    ]
+  },
+  "pitted": {
+    "positive": [
+      "a photo of a pitted, a type of texture."
+    ],
+    "negative": [
+      "this is not a pitted, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a pitted, a type of texture."
+    ],
+    "deepLow": [
+      "pitted: dimpled surface, irregular depressions, rough texture, uneven patterns, porous appearance"
+    ],
+    "deepHigh": [
+      "The pitted is indented surface with crater-like depressions."
+    ]
+  },
+  "pleated": {
+    "positive": [
+      "a photo of a pleated, a type of texture."
+    ],
+    "negative": [
+      "this is not a pleated, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a pleated, a type of texture."
+    ],
+    "deepLow": [
+      "pleated: folded fabric texture, uniform parallel ridges, lightweight material, geometric pattern, varied color options"
+    ],
+    "deepHigh": [
+      "The pleated is folded arrangement with linear texture."
+    ]
+  },
+  "polka-dotted": {
+    "positive": [
+      "a photo of a polka-dotted, a type of texture."
+    ],
+    "negative": [
+      "this is not a polka-dotted, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a polka-dotted, a type of texture."
+    ],
+    "deepLow": [
+      "polka-dotted: round spots, evenly spaced pattern, contrasting colors, smooth texture, fabric or painted surface"
+    ],
+    "deepHigh": [
+      "The polka-dotted is circular spotting with uniform distribution."
+    ]
+  },
+  "porous": {
+    "positive": [
+      "a photo of a porous, a type of texture."
+    ],
+    "negative": [
+      "this is not a porous, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a porous, a type of texture."
+    ],
+    "deepLow": [
+      "porous: rough surface, irregular holes, grainy texture, uneven edges, sponge-like appearance"
+    ],
+    "deepHigh": [
+      "The porous is perforated surface with irregular cavity distribution."
+    ]
+  },
+  "potholed": {
+    "positive": [
+      "a photo of a potholed, a type of texture."
+    ],
+    "negative": [
+      "this is not a potholed, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a potholed, a type of texture."
+    ],
+    "deepLow": [
+      "potholed: uneven surface, cracked edges, dark asphalt color, rough texture, irregular circular shapes"
+    ],
+    "deepHigh": [
+      "The potholed is cratered surface with irregular depressions."
+    ]
+  },
+  "scaly": {
+    "positive": [
+      "a photo of a scaly, a type of texture."
+    ],
+    "negative": [
+      "this is not a scaly, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a scaly, a type of texture."
+    ],
+    "deepLow": [
+      "scaly: overlapping plates, rough texture, iridescent sheen, jagged edges, muted earth tones"
+    ],
+    "deepHigh": [
+      "The scaly is overlapping plates with dry texture."
+    ]
+  },
+  "smeared": {
+    "positive": [
+      "a photo of a smeared, a type of texture."
+    ],
+    "negative": [
+      "this is not a smeared, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a smeared, a type of texture."
+    ],
+    "deepLow": [
+      "smeared: blurred edges, uneven color distribution, streaked patterns, soft texture, mixed pigments"
+    ],
+    "deepHigh": [
+      "The smeared is streaked appearance with blurred edges."
+    ]
+  },
+  "spiralled": {
+    "positive": [
+      "a photo of a spiralled, a type of texture."
+    ],
+    "negative": [
+      "this is not a spiralled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a spiralled, a type of texture."
+    ],
+    "deepLow": [
+      "spiralled: curved coils, concentric rings, helical shape, smooth texture, gradient coloration"
+    ],
+    "deepHigh": [
+      "The spiralled is curved coil pattern with smooth gradient."
+    ]
+  },
+  "sprinkled": {
+    "positive": [
+      "a photo of a sprinkled, a type of texture."
+    ],
+    "negative": [
+      "this is not a sprinkled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a sprinkled, a type of texture."
+    ],
+    "deepLow": [
+      "sprinkled: tiny round shapes, multicolored specks, uneven distribution, glossy finish, granular texture"
+    ],
+    "deepHigh": [
+      "The sprinkled is scattered distribution with granular texture."
+    ]
+  },
+  "stained": {
+    "positive": [
+      "a photo of a stained, a type of texture."
+    ],
+    "negative": [
+      "this is not a stained, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a stained, a type of texture."
+    ],
+    "deepLow": [
+      "stained: discolored patches, irregular shapes, watermarks, faded hues, porous textures"
+    ],
+    "deepHigh": [
+      "The stained is discolored patches with irregular absorption."
+    ]
+  },
+  "stratified": {
+    "positive": [
+      "a photo of a stratified, a type of texture."
+    ],
+    "negative": [
+      "this is not a stratified, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a stratified, a type of texture."
+    ],
+    "deepLow": [
+      "stratified: layered bands, contrasting colors, sedimentary texture, parallel lines, stacked formation"
+    ],
+    "deepHigh": [
+      "The stratified is layered arrangement with parallel texture."
+    ]
+  },
+  "striped": {
+    "positive": [
+      "a photo of a striped, a type of texture."
+    ],
+    "negative": [
+      "this is not a striped, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a striped, a type of texture."
+    ],
+    "deepLow": [
+      "striped: alternating color bands, parallel lines, uniform width, high contrast colors, smooth texture"
+    ],
+    "deepHigh": [
+      "The striped is linear pattern with alternating color bands."
+    ]
+  },
+  "studded": {
+    "positive": [
+      "a photo of a studded, a type of texture."
+    ],
+    "negative": [
+      "this is not a studded, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a studded, a type of texture."
+    ],
+    "deepLow": [
+      "studded: metal studs, circular protrusions, uniform spacing, leather or fabric base, shiny or matte finish"
+    ],
+    "deepHigh": [
+      "The studded is protruding pattern with raised texture."
+    ]
+  },
+  "swirly": {
+    "positive": [
+      "a photo of a swirly, a type of texture."
+    ],
+    "negative": [
+      "this is not a swirly, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a swirly, a type of texture."
+    ],
+    "deepLow": [
+      "swirly: spiral patterns, curved lines, blended colors, smooth texture, flowing shapes"
+    ],
+    "deepHigh": [
+      "The swirly is spiral pattern with smooth curvature."
+    ]
+  },
+  "veined": {
+    "positive": [
+      "a photo of a veined, a type of texture."
+    ],
+    "negative": [
+      "this is not a veined, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a veined, a type of texture."
+    ],
+    "deepLow": [
+      "veined: branching patterns, contrasting colors, raised or indented texture, organic irregularity, marble-like appearance"
+    ],
+    "deepHigh": [
+      "The veined is branching pattern with linear texture."
+    ]
+  },
+  "waffled": {
+    "positive": [
+      "a photo of a waffled, a type of texture."
+    ],
+    "negative": [
+      "this is not a waffled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a waffled, a type of texture."
+    ],
+    "deepLow": [
+      "waffled: grid-like pattern, golden-brown color, crispy texture, square shape, porous surface"
+    ],
+    "deepHigh": [
+      "The waffled is grid-like pattern with recessed pockets."
+    ]
+  },
+  "woven": {
+    "positive": [
+      "a photo of a woven, a type of texture."
+    ],
+    "negative": [
+      "this is not a woven, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a woven, a type of texture."
+    ],
+    "deepLow": [
+      "woven: crisscrossed fiber patterns, textured surface, natural fiber colors (beige, brown, white), geometric grid-like structure, flexible yet sturdy material"
+    ],
+    "deepHigh": [
+      "The woven is interlocking pattern with crisscross texture."
+    ]
+  },
+  "wrinkled": {
+    "positive": [
+      "a photo of a wrinkled, a type of texture."
+    ],
+    "negative": [
+      "this is not a wrinkled, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a wrinkled, a type of texture."
+    ],
+    "deepLow": [
+      "wrinkled: creased surface, irregular folds, rough texture, uneven patterns, crumpled appearance"
+    ],
+    "deepHigh": [
+      "The wrinkled is folded pattern with creased texture."
+    ]
+  },
+  "zigzagged": {
+    "positive": [
+      "a photo of a zigzagged, a type of texture."
+    ],
+    "negative": [
+      "this is not a zigzagged, which is a type of texture."
+    ],
+    "ori": [
+      "a photo of a zigzagged, a type of texture."
+    ],
+    "deepLow": [
+      "zigzagged: sharp angular turns, alternating diagonal lines, black-and-white contrast, metallic sheen, irregular repeating pattern"
+    ],
+    "deepHigh": [
+      "The zigzagged is angular pattern with sharp directional changes."
+    ]
+  }
+}

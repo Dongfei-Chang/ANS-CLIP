@@ -1,0 +1,1736 @@
+{
+  "passion flower": {
+    "positive": [
+      "a photo of a passion flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a passion flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "passion flower with purple petals, white filaments, green leaves, intricate corona, and curling tendrils"
+    ],
+    "ori": [
+      "a photo of a passion flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The passion flower is intricate floral structure with radial filaments and prominent stamens."
+    ]
+  },
+  "water lily": {
+    "positive": [
+      "a photo of a water lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a water lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "water lily, pink petals with white tips, round floating leaves, yellow stamen center, glossy surface"
+    ],
+    "ori": [
+      "a photo of a water lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The water lily is floating aquatic plant with circular leaves and showy blossoms."
+    ]
+  },
+  "cyclamen": {
+    "positive": [
+      "a photo of a cyclamen, a type of flower."
+    ],
+    "negative": [
+      "this is not a cyclamen, which is a type of flower."
+    ],
+    "deepLow": [
+      "cyclamen with heart-shaped leaves, pink upturned petals, dark green foliage, silver marbled patterns"
+    ],
+    "ori": [
+      "a photo of a cyclamen, a type of flower."
+    ],
+    "deepHigh": [
+      "The cyclamen is nodding flower with swept-back petals."
+    ]
+  },
+  "watercress": {
+    "positive": [
+      "a photo of a watercress, a type of flower."
+    ],
+    "negative": [
+      "this is not a watercress, which is a type of flower."
+    ],
+    "deepLow": [
+      "watercress, dark green leaves, small round shape, crisp texture, white roots, clustered stems"
+    ],
+    "ori": [
+      "a photo of a watercress, a type of flower."
+    ],
+    "deepHigh": [
+      "The watercress is small white-flowered aquatic plant."
+    ]
+  },
+  "frangipani": {
+    "positive": [
+      "a photo of a frangipani, a type of flower."
+    ],
+    "negative": [
+      "this is not a frangipani, which is a type of flower."
+    ],
+    "deepLow": [
+      "frangipani with white petals, yellow center, waxy texture, thick green stems, spiral arrangement"
+    ],
+    "ori": [
+      "a photo of a frangipani, a type of flower."
+    ],
+    "deepHigh": [
+      "The frangipani is a tropical flowering tree with fragrant, five-petaled blossoms in white, yellow, or pink."
+    ]
+  },
+  "wallflower": {
+    "positive": [
+      "a photo of a wallflower, a type of flower."
+    ],
+    "negative": [
+      "this is not a wallflower, which is a type of flower."
+    ],
+    "deepLow": [
+      "wallflower with orange-red petals, velvety texture, slender green stems, clustered blooms, fragrant scent"
+    ],
+    "ori": [
+      "a photo of a wallflower, a type of flower."
+    ],
+    "deepHigh": [
+      "The wallflower is cruciferous flower with four-petaled clusters."
+    ]
+  },
+  "rose": {
+    "positive": [
+      "a photo of a rose, a type of flower."
+    ],
+    "negative": [
+      "this is not a rose, which is a type of flower."
+    ],
+    "deepLow": [
+      "rose with velvety crimson petals, thorny green stem, curled edges, dewdrops, and dark green leaves."
+    ],
+    "ori": [
+      "a photo of a rose, a type of flower."
+    ],
+    "deepHigh": [
+      "The rose is a flowering shrub with layered petals and thorny stems."
+    ]
+  },
+  "petunia": {
+    "positive": [
+      "a photo of a petunia, a type of flower."
+    ],
+    "negative": [
+      "this is not a petunia, which is a type of flower."
+    ],
+    "deepLow": [
+      "petunia with vibrant purple petals, velvety texture, trumpet-shaped blooms, dark green leaves, white-edged margins."
+    ],
+    "ori": [
+      "a photo of a petunia, a type of flower."
+    ],
+    "deepHigh": [
+      "The petunia is trumpet-shaped flower with velvety petals."
+    ]
+  },
+  "poinsettia": {
+    "positive": [
+      "a photo of a poinsettia, a type of flower."
+    ],
+    "negative": [
+      "this is not a poinsettia, which is a type of flower."
+    ],
+    "deepLow": [
+      "poinsettia with vibrant red bracts, dark green leaves, pointed tips, clustered yellow flowers, smooth texture"
+    ],
+    "ori": [
+      "a photo of a poinsettia, a type of flower."
+    ],
+    "deepHigh": [
+      "The poinsettia is a shrub with large red bracts surrounding small yellow flowers."
+    ]
+  },
+  "clematis": {
+    "positive": [
+      "a photo of a clematis, a type of flower."
+    ],
+    "negative": [
+      "this is not a clematis, which is a type of flower."
+    ],
+    "deepLow": [
+      "clematis with purple star-shaped petals, velvety texture, yellow stamens, climbing vine, glossy leaves"
+    ],
+    "ori": [
+      "a photo of a clematis, a type of flower."
+    ],
+    "deepHigh": [
+      "The clematis is climbing vine with large, star-shaped flowers."
+    ]
+  },
+  "hibiscus": {
+    "positive": [
+      "a photo of a hibiscus, a type of flower."
+    ],
+    "negative": [
+      "this is not a hibiscus, which is a type of flower."
+    ],
+    "deepLow": [
+      "hibiscus with vibrant pink petals, dark green glossy leaves, prominent yellow stamen, trumpet-shaped bloom, delicate veining"
+    ],
+    "ori": [
+      "a photo of a hibiscus, a type of flower."
+    ],
+    "deepHigh": [
+      "The hibiscus is large, trumpet-shaped flower with prominent stamens."
+    ]
+  },
+  "lotus": {
+    "positive": [
+      "a photo of a lotus, a type of flower."
+    ],
+    "negative": [
+      "this is not a lotus, which is a type of flower."
+    ],
+    "deepLow": [
+      "lotus with pink layered petals, waxy texture, circular green leaves, yellow stamen center, floating on water."
+    ],
+    "ori": [
+      "a photo of a lotus, a type of flower."
+    ],
+    "deepHigh": [
+      "The lotus is aquatic plant with large, round leaves and layered petals."
+    ]
+  },
+  "anthurium": {
+    "positive": [
+      "a photo of a anthurium, a type of flower."
+    ],
+    "negative": [
+      "this is not a anthurium, which is a type of flower."
+    ],
+    "deepLow": [
+      "anthurium with glossy red heart-shaped spathes, dark green waxy leaves, yellow spadix, and prominent white veins."
+    ],
+    "ori": [
+      "a photo of a anthurium, a type of flower."
+    ],
+    "deepHigh": [
+      "The anthurium is waxy, heart-shaped spathe with a prominent spadix."
+    ]
+  },
+  "thorn apple": {
+    "positive": [
+      "a photo of a thorn apple, a type of flower."
+    ],
+    "negative": [
+      "this is not a thorn apple, which is a type of flower."
+    ],
+    "deepLow": [
+      "thorn apple with white trumpet-shaped flowers, spiky green seed pods, and jagged-edged leaves"
+    ],
+    "ori": [
+      "a photo of a thorn apple, a type of flower."
+    ],
+    "deepHigh": [
+      "The thorn apple is trumpet-shaped flower with spiny fruit capsules."
+    ]
+  },
+  "barbeton daisy": {
+    "positive": [
+      "a photo of a barbeton daisy, a type of flower."
+    ],
+    "negative": [
+      "this is not a barbeton daisy, which is a type of flower."
+    ],
+    "deepLow": [
+      "barbeton daisy, vibrant orange petals, dark green slender stems, fuzzy yellow center, layered petal arrangement"
+    ],
+    "ori": [
+      "a photo of a barbeton daisy, a type of flower."
+    ],
+    "deepHigh": [
+      "The barbeton daisy is a multi-petaled flower with a prominent central disc and vibrant, contrasting colors."
+    ]
+  },
+  "sword lily": {
+    "positive": [
+      "a photo of a sword lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a sword lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "sword lily with tall, sword-shaped leaves, vibrant orange petals, dark red streaks, and smooth, glossy texture"
+    ],
+    "ori": [
+      "a photo of a sword lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The sword lily is tall flowering spike with funnel-shaped blooms."
+    ]
+  },
+  "morning glory": {
+    "positive": [
+      "a photo of a morning glory, a type of flower."
+    ],
+    "negative": [
+      "this is not a morning glory, which is a type of flower."
+    ],
+    "deepLow": [
+      "morning glory with trumpet-shaped blue petals, heart-shaped green leaves, white center, delicate tendrils, climbing vine texture"
+    ],
+    "ori": [
+      "a photo of a morning glory, a type of flower."
+    ],
+    "deepHigh": [
+      "The morning glory is funnel-shaped flower with vibrant, trumpet-like blooms."
+    ]
+  },
+  "columbine": {
+    "positive": [
+      "a photo of a columbine, a type of flower."
+    ],
+    "negative": [
+      "this is not a columbine, which is a type of flower."
+    ],
+    "deepLow": [
+      "columbine with purple-blue petals, white inner spurs, delicate lobed leaves, slender green stems, nodding bell-shaped blooms"
+    ],
+    "ori": [
+      "a photo of a columbine, a type of flower."
+    ],
+    "deepHigh": [
+      "The columbine is spurred flower with bell-shaped petals."
+    ]
+  },
+  "geranium": {
+    "positive": [
+      "a photo of a geranium, a type of flower."
+    ],
+    "negative": [
+      "this is not a geranium, which is a type of flower."
+    ],
+    "deepLow": [
+      "geranium with vibrant pink petals, serrated green leaves, fuzzy stems, clustered blooms, and dark circular markings"
+    ],
+    "ori": [
+      "a photo of a geranium, a type of flower."
+    ],
+    "deepHigh": [
+      "The geranium is rounded cluster of five-petaled flowers."
+    ]
+  },
+  "bishop of llandaff": {
+    "positive": [
+      "a photo of a bishop of llandaff, a type of flower."
+    ],
+    "negative": [
+      "this is not a bishop of llandaff, which is a type of flower."
+    ],
+    "deepLow": [
+      "bishop of llandaff with vibrant red petals, dark green leaves, upright stems, and contrasting yellow stamens"
+    ],
+    "ori": [
+      "a photo of a bishop of llandaff, a type of flower."
+    ],
+    "deepHigh": [
+      "The bishop of llandaff is a dark-leaved dahlia with vibrant red petals and a contrasting yellow center."
+    ]
+  },
+  "tree mallow": {
+    "positive": [
+      "a photo of a tree mallow, a type of flower."
+    ],
+    "negative": [
+      "this is not a tree mallow, which is a type of flower."
+    ],
+    "deepLow": [
+      "tree mallow, pink-purple blooms, velvety leaves, lobed edges, tall slender stems"
+    ],
+    "ori": [
+      "a photo of a tree mallow, a type of flower."
+    ],
+    "deepHigh": [
+      "The tree mallow is tall, woody-stemmed plant with large, hibiscus-like flowers in shades of pink, purple, or white."
+    ]
+  },
+  "pink-yellow dahlia": {
+    "positive": [
+      "a photo of a pink-yellow dahlia, a type of flower."
+    ],
+    "negative": [
+      "this is not a pink-yellow dahlia, which is a type of flower."
+    ],
+    "deepLow": [
+      "pink-yellow dahlia, layered petals, soft pink edges, bright yellow center, dark green leaves, velvety texture"
+    ],
+    "ori": [
+      "a photo of a pink-yellow dahlia, a type of flower."
+    ],
+    "deepHigh": [
+      "The pink-yellow dahlia is a composite flower with layered, vibrant petals in gradient hues."
+    ]
+  },
+  "bee balm": {
+    "positive": [
+      "a photo of a bee balm, a type of flower."
+    ],
+    "negative": [
+      "this is not a bee balm, which is a type of flower."
+    ],
+    "deepLow": [
+      "bee balm, vibrant pink-purple petals, fuzzy green leaves, tubular flower shape, clustered blooms, attracts pollinators"
+    ],
+    "ori": [
+      "a photo of a bee balm, a type of flower."
+    ],
+    "deepHigh": [
+      "The bee balm is tubular flower with whorled clusters."
+    ]
+  },
+  "snapdragon": {
+    "positive": [
+      "a photo of a snapdragon, a type of flower."
+    ],
+    "negative": [
+      "this is not a snapdragon, which is a type of flower."
+    ],
+    "deepLow": [
+      "snapdragon with vibrant pink and white blooms, slender green stems, velvety petals, and dragon-shaped flower heads"
+    ],
+    "ori": [
+      "a photo of a snapdragon, a type of flower."
+    ],
+    "deepHigh": [
+      "The snapdragon is bilaterally symmetrical with tubular florets."
+    ]
+  },
+  "californian poppy": {
+    "positive": [
+      "a photo of a californian poppy, a type of flower."
+    ],
+    "negative": [
+      "this is not a californian poppy, which is a type of flower."
+    ],
+    "deepLow": [
+      "californian poppy with bright orange petals, silky texture, feathery blue-green foliage, cup-shaped blooms, black center spot"
+    ],
+    "ori": [
+      "a photo of a californian poppy, a type of flower."
+    ],
+    "deepHigh": [
+      "The californian poppy is cup-shaped flower with four silky petals."
+    ]
+  },
+  "bird of paradise": {
+    "positive": [
+      "a photo of a bird of paradise, a type of flower."
+    ],
+    "negative": [
+      "this is not a bird of paradise, which is a type of flower."
+    ],
+    "deepLow": [
+      "bird of paradise with orange-blue petals, long green stems, waxy texture, pointed beak-like shape, tropical foliage"
+    ],
+    "ori": [
+      "a photo of a bird of paradise, a type of flower."
+    ],
+    "deepHigh": [
+      "The bird of paradise is tropical plant with orange and blue petals resembling a birds head and beak."
+    ]
+  },
+  "fritillary": {
+    "positive": [
+      "a photo of a fritillary, a type of flower."
+    ],
+    "negative": [
+      "this is not a fritillary, which is a type of flower."
+    ],
+    "deepLow": [
+      "fritillary with orange petals, dark checkered pattern, slender green stem, nodding bell shape, delicate texture"
+    ],
+    "ori": [
+      "a photo of a fritillary, a type of flower."
+    ],
+    "deepHigh": [
+      "The fritillary is nodding bell-shaped flower with checkered or mottled petals."
+    ]
+  },
+  "sweet william": {
+    "positive": [
+      "a photo of a sweet william, a type of flower."
+    ],
+    "negative": [
+      "this is not a sweet william, which is a type of flower."
+    ],
+    "deepLow": [
+      "sweet william with clustered pink and white petals, serrated edges, slender green stems, and a faint spicy fragrance"
+    ],
+    "ori": [
+      "a photo of a sweet william, a type of flower."
+    ],
+    "deepHigh": [
+      "The sweet william is a cluster of small, fragrant flowers with fringed petals in shades of pink, red, and white."
+    ]
+  },
+  "azalea": {
+    "positive": [
+      "a photo of a azalea, a type of flower."
+    ],
+    "negative": [
+      "this is not a azalea, which is a type of flower."
+    ],
+    "deepLow": [
+      "azalea with vibrant pink blooms, glossy dark green leaves, clustered petals, and delicate stamens"
+    ],
+    "ori": [
+      "a photo of a azalea, a type of flower."
+    ],
+    "deepHigh": [
+      "The azalea is bell-shaped flower with clustered blooms."
+    ]
+  },
+  "primula": {
+    "positive": [
+      "a photo of a primula, a type of flower."
+    ],
+    "negative": [
+      "this is not a primula, which is a type of flower."
+    ],
+    "deepLow": [
+      "primula with vibrant pink petals, ruffled edges, dark green leaves, clustered blooms, and velvety texture"
+    ],
+    "ori": [
+      "a photo of a primula, a type of flower."
+    ],
+    "deepHigh": [
+      "The primula is rosette-forming perennial with clusters of colorful, five-petaled flowers."
+    ]
+  },
+  "cape flower": {
+    "positive": [
+      "a photo of a cape flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a cape flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "cape flower with vibrant purple petals, velvety texture, star-shaped blooms, dark green leaves, and delicate white stamens"
+    ],
+    "ori": [
+      "a photo of a cape flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The cape flower is a zygomorphic bloom with bilateral symmetry."
+    ]
+  },
+  "purple coneflower": {
+    "positive": [
+      "a photo of a purple coneflower, a type of flower."
+    ],
+    "negative": [
+      "this is not a purple coneflower, which is a type of flower."
+    ],
+    "deepLow": [
+      "purple coneflower with vibrant purple petals, spiky orange-brown cone center, slender green stem, rough textured leaves, daisy-like shape"
+    ],
+    "ori": [
+      "a photo of a purple coneflower, a type of flower."
+    ],
+    "deepHigh": [
+      "The purple coneflower is composite flower with drooping purple petals and a spiky orange-brown central cone."
+    ]
+  },
+  "colt's foot": {
+    "positive": [
+      "a photo of a colt's foot, a type of flower."
+    ],
+    "negative": [
+      "this is not a colt's foot, which is a type of flower."
+    ],
+    "deepLow": [
+      "colt's foot: colts foot with bright yellow flowers, fuzzy gray-green leaves, scaly stems, early spring bloom, dandelion-like appearance."
+    ],
+    "ori": [
+      "a photo of a colt's foot, a type of flower."
+    ],
+    "deepHigh": [
+      "The colts foot is a low-growing perennial with yellow, dandelion-like flower heads and large, hoof-shaped leaves."
+    ]
+  },
+  "artichoke": {
+    "positive": [
+      "a photo of a artichoke, a type of flower."
+    ],
+    "negative": [
+      "this is not a artichoke, which is a type of flower."
+    ],
+    "deepLow": [
+      "artichoke, green-purple petals, spiky tips, thick stem, layered leaves, rough texture"
+    ],
+    "ori": [
+      "a photo of a artichoke, a type of flower."
+    ],
+    "deepHigh": [
+      "The artichoke is a thistle-like flower bud with overlapping green bracts."
+    ]
+  },
+  "wild pansy": {
+    "positive": [
+      "a photo of a wild pansy, a type of flower."
+    ],
+    "negative": [
+      "this is not a wild pansy, which is a type of flower."
+    ],
+    "deepLow": [
+      "wild pansy with purple, yellow, and white petals, velvety texture, heart-shaped leaves, dark center streaks"
+    ],
+    "ori": [
+      "a photo of a wild pansy, a type of flower."
+    ],
+    "deepHigh": [
+      "The wild pansy is low-growing plant with heart-shaped leaves and five-petaled flowers in purple, yellow, and white combinations."
+    ]
+  },
+  "peruvian lily": {
+    "positive": [
+      "a photo of a peruvian lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a peruvian lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "peruvian lily with trumpet-shaped blooms, vibrant orange petals, dark speckled centers, long slender stems, glossy green leaves"
+    ],
+    "ori": [
+      "a photo of a peruvian lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The peruvian lily is a cluster of trumpet-shaped flowers with speckled petals."
+    ]
+  },
+  "ruby-lipped cattleya": {
+    "positive": [
+      "a photo of a ruby-lipped cattleya, a type of flower."
+    ],
+    "negative": [
+      "this is not a ruby-lipped cattleya, which is a type of flower."
+    ],
+    "deepLow": [
+      "ruby-lipped cattleya with deep pink petals, velvety texture, white throat, ruffled edges, glossy leaves"
+    ],
+    "ori": [
+      "a photo of a ruby-lipped cattleya, a type of flower."
+    ],
+    "deepHigh": [
+      "The ruby-lipped cattleya is orchid with large, showy petals and a deep crimson labellum."
+    ]
+  },
+  "canna lily": {
+    "positive": [
+      "a photo of a canna lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a canna lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "canna lily, large tropical leaves, vibrant orange blooms, striped petals, glossy green stems"
+    ],
+    "ori": [
+      "a photo of a canna lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The canna lily is a tropical plant with large, banana-like leaves and vibrant, asymmetrical flowers."
+    ]
+  },
+  "gazania": {
+    "positive": [
+      "a photo of a gazania, a type of flower."
+    ],
+    "negative": [
+      "this is not a gazania, which is a type of flower."
+    ],
+    "deepLow": [
+      "gazania with bright orange petals, dark center ring, thick green leaves, daisy-like shape, velvety texture."
+    ],
+    "ori": [
+      "a photo of a gazania, a type of flower."
+    ],
+    "deepHigh": [
+      "The gazania is daisy-like flower with vibrant, multicolored petals and a contrasting central disc."
+    ]
+  },
+  "lenten rose": {
+    "positive": [
+      "a photo of a lenten rose, a type of flower."
+    ],
+    "negative": [
+      "this is not a lenten rose, which is a type of flower."
+    ],
+    "deepLow": [
+      "lenten rose with nodding purple-pink blooms, leathery dark green leaves, prominent yellow stamens, mottled petal patterns"
+    ],
+    "ori": [
+      "a photo of a lenten rose, a type of flower."
+    ],
+    "deepHigh": [
+      "The lenten rose is nodding cup-shaped flower with five petal-like sepals."
+    ]
+  },
+  "buttercup": {
+    "positive": [
+      "a photo of a buttercup, a type of flower."
+    ],
+    "negative": [
+      "this is not a buttercup, which is a type of flower."
+    ],
+    "deepLow": [
+      "buttercup with bright yellow petals, glossy texture, round shape, green slender stem, clustered growth"
+    ],
+    "ori": [
+      "a photo of a buttercup, a type of flower."
+    ],
+    "deepHigh": [
+      "The buttercup is glossy yellow flower with five petals."
+    ]
+  },
+  "pelargonium": {
+    "positive": [
+      "a photo of a pelargonium, a type of flower."
+    ],
+    "negative": [
+      "this is not a pelargonium, which is a type of flower."
+    ],
+    "deepLow": [
+      "pelargonium with pink ruffled petals, dark green serrated leaves, and velvety stems"
+    ],
+    "ori": [
+      "a photo of a pelargonium, a type of flower."
+    ],
+    "deepHigh": [
+      "The pelargonium is a flowering plant with rounded, lobed leaves and clusters of five-petaled blooms."
+    ]
+  },
+  "desert-rose": {
+    "positive": [
+      "a photo of a desert-rose, a type of flower."
+    ],
+    "negative": [
+      "this is not a desert-rose, which is a type of flower."
+    ],
+    "deepLow": [
+      "desert-rose with pink layered petals, thick succulent stem, sandy texture, spiral growth pattern, drought-resistant leaves"
+    ],
+    "ori": [
+      "a photo of a desert-rose, a type of flower."
+    ],
+    "deepHigh": [
+      "The desert-rose is succulent shrub with thick, swollen trunk and showy, trumpet-shaped flowers."
+    ]
+  },
+  "hippeastrum": {
+    "positive": [
+      "a photo of a hippeastrum, a type of flower."
+    ],
+    "negative": [
+      "this is not a hippeastrum, which is a type of flower."
+    ],
+    "deepLow": [
+      "hippeastrum with trumpet-shaped red blooms, white striped petals, long green stalk, prominent yellow stamens"
+    ],
+    "ori": [
+      "a photo of a hippeastrum, a type of flower."
+    ],
+    "deepHigh": [
+      "The hippeastrum is large, trumpet-shaped flower with six petals and prominent stamens."
+    ]
+  },
+  "giant white arum lily": {
+    "positive": [
+      "a photo of a giant white arum lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a giant white arum lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "giant white arum lily, large trumpet-shaped bloom, smooth waxy petals, bright yellow spadix, long dark green stems"
+    ],
+    "ori": [
+      "a photo of a giant white arum lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The giant white arum lily is a large, trumpet-shaped flower with a prominent yellow spadix."
+    ]
+  },
+  "marigold": {
+    "positive": [
+      "a photo of a marigold, a type of flower."
+    ],
+    "negative": [
+      "this is not a marigold, which is a type of flower."
+    ],
+    "deepLow": [
+      "marigold with bright orange petals, ruffled edges, dark green leaves, clustered blooms, and a bushy growth habit"
+    ],
+    "ori": [
+      "a photo of a marigold, a type of flower."
+    ],
+    "deepHigh": [
+      "The marigold is composite flower with dense, layered petals in vibrant yellow, orange, or red hues."
+    ]
+  },
+  "orange dahlia": {
+    "positive": [
+      "a photo of a orange dahlia, a type of flower."
+    ],
+    "negative": [
+      "this is not a orange dahlia, which is a type of flower."
+    ],
+    "deepLow": [
+      "orange dahlia with layered petals, vibrant orange hue, dark green leaves, pointed tips, velvety texture"
+    ],
+    "ori": [
+      "a photo of a orange dahlia, a type of flower."
+    ],
+    "deepHigh": [
+      "The orange dahlia is composite flower with layered, ray-like petals."
+    ]
+  },
+  "hard-leaved pocket orchid": {
+    "positive": [
+      "a photo of a hard-leaved pocket orchid, a type of flower."
+    ],
+    "negative": [
+      "this is not a hard-leaved pocket orchid, which is a type of flower."
+    ],
+    "deepLow": [
+      "hard-leaved pocket orchid, waxy dark green leaves, purple-speckled petals, thick leathery texture, short clustered stems"
+    ],
+    "ori": [
+      "a photo of a hard-leaved pocket orchid, a type of flower."
+    ],
+    "deepHigh": [
+      "The hard-leaved pocket orchid is a small terrestrial orchid with a hooded pouch-like lip and stiff, upright leaves."
+    ]
+  },
+  "english marigold": {
+    "positive": [
+      "a photo of a english marigold, a type of flower."
+    ],
+    "negative": [
+      "this is not a english marigold, which is a type of flower."
+    ],
+    "deepLow": [
+      "english marigold with bright orange petals, ruffled edges, dark green leaves, and a compact, bushy growth habit"
+    ],
+    "ori": [
+      "a photo of a english marigold, a type of flower."
+    ],
+    "deepHigh": [
+      "The english marigold is daisy-like flower with vibrant orange or yellow petals and a dark central disc."
+    ]
+  },
+  "stemless gentian": {
+    "positive": [
+      "a photo of a stemless gentian, a type of flower."
+    ],
+    "negative": [
+      "this is not a stemless gentian, which is a type of flower."
+    ],
+    "deepLow": [
+      "stemless gentian, deep blue petals, rosette-shaped leaves, smooth texture, yellow throat, clustered blooms"
+    ],
+    "ori": [
+      "a photo of a stemless gentian, a type of flower."
+    ],
+    "deepHigh": [
+      "The stemless gentian is a low-growing perennial with trumpet-shaped, deep blue flowers that lack visible stems and arise directly from a basal rosette of leaves."
+    ]
+  },
+  "tree poppy": {
+    "positive": [
+      "a photo of a tree poppy, a type of flower."
+    ],
+    "negative": [
+      "this is not a tree poppy, which is a type of flower."
+    ],
+    "deepLow": [
+      "tree poppy with silvery-blue leaves, bright yellow flowers, fuzzy stems, and papery petals"
+    ],
+    "ori": [
+      "a photo of a tree poppy, a type of flower."
+    ],
+    "deepHigh": [
+      "The tree poppy is shrubby perennial with large, crinkled, blue-green leaves and showy, cup-shaped, yellow flowers."
+    ]
+  },
+  "pincushion flower": {
+    "positive": [
+      "a photo of a pincushion flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a pincushion flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "pincushion flower, lavender-blue petals, spiky purple stamens, round clustered blooms, soft fuzzy leaves, slender green stems"
+    ],
+    "ori": [
+      "a photo of a pincushion flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The pincushion flower is a dense, spherical inflorescence with protruding stamens."
+    ]
+  },
+  "sunflower": {
+    "positive": [
+      "a photo of a sunflower, a type of flower."
+    ],
+    "negative": [
+      "this is not a sunflower, which is a type of flower."
+    ],
+    "deepLow": [
+      "sunflower with bright yellow petals, dark brown center, tall green stem, rough textured leaves, facing sunlight"
+    ],
+    "ori": [
+      "a photo of a sunflower, a type of flower."
+    ],
+    "deepHigh": [
+      "The sunflower is a large composite flower with a dark central disk and bright yellow ray florets."
+    ]
+  },
+  "magnolia": {
+    "positive": [
+      "a photo of a magnolia, a type of flower."
+    ],
+    "negative": [
+      "this is not a magnolia, which is a type of flower."
+    ],
+    "deepLow": [
+      "magnolia with large white petals, waxy texture, pink stamens, dark green leaves, cone-shaped center"
+    ],
+    "ori": [
+      "a photo of a magnolia, a type of flower."
+    ],
+    "deepHigh": [
+      "The magnolia is large, fragrant flower with broad, waxy petals."
+    ]
+  },
+  "osteospermum": {
+    "positive": [
+      "a photo of a osteospermum, a type of flower."
+    ],
+    "negative": [
+      "this is not a osteospermum, which is a type of flower."
+    ],
+    "deepLow": [
+      "osteospermum with purple-white daisy-like petals, dark green leaves, yellow-orange center, and slender stems"
+    ],
+    "ori": [
+      "a photo of a osteospermum, a type of flower."
+    ],
+    "deepHigh": [
+      "The osteospermum is daisy-like flower with a dark central disc and radiating petals in vibrant colors."
+    ]
+  },
+  "garden phlox": {
+    "positive": [
+      "a photo of a garden phlox, a type of flower."
+    ],
+    "negative": [
+      "this is not a garden phlox, which is a type of flower."
+    ],
+    "deepLow": [
+      "garden phlox with pink-purple clusters, lance-shaped leaves, fragrant blooms, slender stems, and dark green foliage"
+    ],
+    "ori": [
+      "a photo of a garden phlox, a type of flower."
+    ],
+    "deepHigh": [
+      "The garden phlox is clustered inflorescence with five-petaled florets."
+    ]
+  },
+  "sweet pea": {
+    "positive": [
+      "a photo of a sweet pea, a type of flower."
+    ],
+    "negative": [
+      "this is not a sweet pea, which is a type of flower."
+    ],
+    "deepLow": [
+      "sweet pea with delicate pink petals, curly tendrils, slender green stems, and soft velvety texture."
+    ],
+    "ori": [
+      "a photo of a sweet pea, a type of flower."
+    ],
+    "deepHigh": [
+      "The sweet pea is a climbing plant with fragrant, butterfly-shaped flowers."
+    ]
+  },
+  "daffodil": {
+    "positive": [
+      "a photo of a daffodil, a type of flower."
+    ],
+    "negative": [
+      "this is not a daffodil, which is a type of flower."
+    ],
+    "deepLow": [
+      "daffodil with bright yellow petals, trumpet-shaped corona, smooth green stem, and delicate white veins"
+    ],
+    "ori": [
+      "a photo of a daffodil, a type of flower."
+    ],
+    "deepHigh": [
+      "The daffodil is trumpet-shaped flower with six petal-like tepals surrounding a central corona."
+    ]
+  },
+  "king protea": {
+    "positive": [
+      "a photo of a king protea, a type of flower."
+    ],
+    "negative": [
+      "this is not a king protea, which is a type of flower."
+    ],
+    "deepLow": [
+      "king protea, large pink petals, spiky center, fuzzy texture, thick green stem"
+    ],
+    "ori": [
+      "a photo of a king protea, a type of flower."
+    ],
+    "deepHigh": [
+      "The king protea is large composite flower with spiky pink bracts surrounding a fuzzy central dome."
+    ]
+  },
+  "great masterwort": {
+    "positive": [
+      "a photo of a great masterwort, a type of flower."
+    ],
+    "negative": [
+      "this is not a great masterwort, which is a type of flower."
+    ],
+    "deepLow": [
+      "great masterwort with white clustered flowers, green serrated leaves, thick hairy stems, umbrella-shaped blooms"
+    ],
+    "ori": [
+      "a photo of a great masterwort, a type of flower."
+    ],
+    "deepHigh": [
+      "The great masterwort is umbel-shaped flower with intricate, star-like florets."
+    ]
+  },
+  "black-eyed susan": {
+    "positive": [
+      "a photo of a black-eyed susan, a type of flower."
+    ],
+    "negative": [
+      "this is not a black-eyed susan, which is a type of flower."
+    ],
+    "deepLow": [
+      "black-eyed susan with bright yellow petals, dark brown center, slender green stems, rough textured leaves, daisy-like shape"
+    ],
+    "ori": [
+      "a photo of a black-eyed susan, a type of flower."
+    ],
+    "deepHigh": [
+      "The black-eyed susan is daisy-like flower with yellow petals and a dark brown central cone."
+    ]
+  },
+  "bearded iris": {
+    "positive": [
+      "a photo of a bearded iris, a type of flower."
+    ],
+    "negative": [
+      "this is not a bearded iris, which is a type of flower."
+    ],
+    "deepLow": [
+      "bearded iris with purple petals, fuzzy yellow beard, sword-like leaves, ruffled edges, slender green stem"
+    ],
+    "ori": [
+      "a photo of a bearded iris, a type of flower."
+    ],
+    "deepHigh": [
+      "The bearded iris is flowering plant with three upright petals and three drooping sepals featuring fuzzy beard-like ridges."
+    ]
+  },
+  "windflower": {
+    "positive": [
+      "a photo of a windflower, a type of flower."
+    ],
+    "negative": [
+      "this is not a windflower, which is a type of flower."
+    ],
+    "deepLow": [
+      "windflower with delicate white petals, feathery green leaves, slender black stems, and golden-yellow centers"
+    ],
+    "ori": [
+      "a photo of a windflower, a type of flower."
+    ],
+    "deepHigh": [
+      "The windflower is anemone-shaped flower with delicate petals."
+    ]
+  },
+  "ball moss": {
+    "positive": [
+      "a photo of a ball moss, a type of flower."
+    ],
+    "negative": [
+      "this is not a ball moss, which is a type of flower."
+    ],
+    "deepLow": [
+      "ball moss, gray-green clusters, fuzzy texture, round clumps, clinging to tree branches, epiphytic growth"
+    ],
+    "ori": [
+      "a photo of a ball moss, a type of flower."
+    ],
+    "deepHigh": [
+      "The ball moss is spherical bromeliad with gray-green, densely packed leaves."
+    ]
+  },
+  "spear thistle": {
+    "positive": [
+      "a photo of a spear thistle, a type of flower."
+    ],
+    "negative": [
+      "this is not a spear thistle, which is a type of flower."
+    ],
+    "deepLow": [
+      "spear thistle, purple spiky flower heads, silvery-green leaves, thorny stem, fluffy seed heads"
+    ],
+    "ori": [
+      "a photo of a spear thistle, a type of flower."
+    ],
+    "deepHigh": [
+      "The spear thistle is spiny-leaved with purple, thistle-like flower heads."
+    ]
+  },
+  "silverbush": {
+    "positive": [
+      "a photo of a silverbush, a type of flower."
+    ],
+    "negative": [
+      "this is not a silverbush, which is a type of flower."
+    ],
+    "deepLow": [
+      "silverbush, silvery-gray leaves, fuzzy texture, small white flowers, dense shrub form"
+    ],
+    "ori": [
+      "a photo of a silverbush, a type of flower."
+    ],
+    "deepHigh": [
+      "The silverbush is silvery-leaved shrub with small white flowers."
+    ]
+  },
+  "balloon flower": {
+    "positive": [
+      "a photo of a balloon flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a balloon flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "balloon flower, purple star-shaped petals, inflated balloon-like buds, smooth green stems, clustered blooms"
+    ],
+    "ori": [
+      "a photo of a balloon flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The balloon flower is star-shaped with inflated buds."
+    ]
+  },
+  "oxeye daisy": {
+    "positive": [
+      "a photo of a oxeye daisy, a type of flower."
+    ],
+    "negative": [
+      "this is not a oxeye daisy, which is a type of flower."
+    ],
+    "deepLow": [
+      "oxeye daisy, white petals with yellow center, slender green stems, toothed leaves, clustered blooms"
+    ],
+    "ori": [
+      "a photo of a oxeye daisy, a type of flower."
+    ],
+    "deepHigh": [
+      "The oxeye daisy is composite flower with white ray florets and yellow disc florets."
+    ]
+  },
+  "cautleya spicata": {
+    "positive": [
+      "a photo of a cautleya spicata, a type of flower."
+    ],
+    "negative": [
+      "this is not a cautleya spicata, which is a type of flower."
+    ],
+    "deepLow": [
+      "cautleya spicata with orange-red tubular flowers, glossy green leaves, upright spikes, tropical appearance"
+    ],
+    "ori": [
+      "a photo of a cautleya spicata, a type of flower."
+    ],
+    "deepHigh": [
+      "The cautleya spicata is a rhizomatous perennial with upright spikes of tubular orange flowers and lance-shaped green leaves."
+    ]
+  },
+  "common dandelion": {
+    "positive": [
+      "a photo of a common dandelion, a type of flower."
+    ],
+    "negative": [
+      "this is not a common dandelion, which is a type of flower."
+    ],
+    "deepLow": [
+      "common dandelion, bright yellow petals, fluffy white seed head, jagged green leaves, hollow stem"
+    ],
+    "ori": [
+      "a photo of a common dandelion, a type of flower."
+    ],
+    "deepHigh": [
+      "The common dandelion is composite flower with bright yellow ray florets and a hollow stem containing milky sap."
+    ]
+  },
+  "yellow iris": {
+    "positive": [
+      "a photo of a yellow iris, a type of flower."
+    ],
+    "negative": [
+      "this is not a yellow iris, which is a type of flower."
+    ],
+    "deepLow": [
+      "yellow iris, bright yellow petals, ruffled edges, slender green stems, dark veining patterns"
+    ],
+    "ori": [
+      "a photo of a yellow iris, a type of flower."
+    ],
+    "deepHigh": [
+      "The yellow iris is perennial aquatic plant with sword-shaped leaves and bright yellow flowers."
+    ]
+  },
+  "monkshood": {
+    "positive": [
+      "a photo of a monkshood, a type of flower."
+    ],
+    "negative": [
+      "this is not a monkshood, which is a type of flower."
+    ],
+    "deepLow": [
+      "monkshood, deep purple hooded flowers, glossy dark green leaves, tall slender stems, clustered blooms"
+    ],
+    "ori": [
+      "a photo of a monkshood, a type of flower."
+    ],
+    "deepHigh": [
+      "The monkshood is hooded blue-purple flower."
+    ]
+  },
+  "love in the mist": {
+    "positive": [
+      "a photo of a love in the mist, a type of flower."
+    ],
+    "negative": [
+      "this is not a love in the mist, which is a type of flower."
+    ],
+    "deepLow": [
+      "love in the mist, delicate blue petals, feathery green foliage, wispy white bracts, airy texture, slender stems"
+    ],
+    "ori": [
+      "a photo of a love in the mist, a type of flower."
+    ],
+    "deepHigh": [
+      "The love in the mist is delicate, feathery foliage with intricate, cup-shaped flowers."
+    ]
+  },
+  "corn poppy": {
+    "positive": [
+      "a photo of a corn poppy, a type of flower."
+    ],
+    "negative": [
+      "this is not a corn poppy, which is a type of flower."
+    ],
+    "deepLow": [
+      "corn poppy, bright red petals, black center, delicate papery texture, slender green stem"
+    ],
+    "ori": [
+      "a photo of a corn poppy, a type of flower."
+    ],
+    "deepHigh": [
+      "The corn poppy is vibrant red flower with delicate, papery petals and a dark center."
+    ]
+  },
+  "grape hyacinth": {
+    "positive": [
+      "a photo of a grape hyacinth, a type of flower."
+    ],
+    "negative": [
+      "this is not a grape hyacinth, which is a type of flower."
+    ],
+    "deepLow": [
+      "grape hyacinth with tiny purple-blue bell-shaped flowers, clustered spikes, glossy green leaves, and delicate white edges"
+    ],
+    "ori": [
+      "a photo of a grape hyacinth, a type of flower."
+    ],
+    "deepHigh": [
+      "The grape hyacinth is dense cluster of tiny, bell-shaped, purple-blue flowers on a short stalk."
+    ]
+  },
+  "canterbury bells": {
+    "positive": [
+      "a photo of a canterbury bells, a type of flower."
+    ],
+    "negative": [
+      "this is not a canterbury bells, which is a type of flower."
+    ],
+    "deepLow": [
+      "canterbury bells with bell-shaped purple blooms, serrated green leaves, clustered stems, and delicate white edges"
+    ],
+    "ori": [
+      "a photo of a canterbury bells, a type of flower."
+    ],
+    "deepHigh": [
+      "The canterbury bells is bell-shaped flowers with flared, tubular petals in shades of blue, pink, or white."
+    ]
+  },
+  "globe-flower": {
+    "positive": [
+      "a photo of a globe-flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a globe-flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "globe-flower with bright yellow petals, spherical shape, dark green leaves, smooth texture, prominent stamens"
+    ],
+    "ori": [
+      "a photo of a globe-flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The globe-flower is spherical golden-yellow bloom with overlapping petals."
+    ]
+  },
+  "toad lily": {
+    "positive": [
+      "a photo of a toad lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a toad lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "toad lily with speckled purple petals, curved green leaves, hairy stems, and star-shaped blooms"
+    ],
+    "ori": [
+      "a photo of a toad lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The toad lily is orchid-like flower with spotted petals and arching stems."
+    ]
+  },
+  "pink primrose": {
+    "positive": [
+      "a photo of a pink primrose, a type of flower."
+    ],
+    "negative": [
+      "this is not a pink primrose, which is a type of flower."
+    ],
+    "deepLow": [
+      "pink primrose with soft pink petals, dark green leaves, delicate veins, yellow center, slender stems."
+    ],
+    "ori": [
+      "a photo of a pink primrose, a type of flower."
+    ],
+    "deepHigh": [
+      "The pink primrose is cup-shaped flower with four delicate petals and prominent yellow stamens."
+    ]
+  },
+  "fire lily": {
+    "positive": [
+      "a photo of a fire lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a fire lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "fire lily, vibrant orange petals, dark speckled centers, slender green stems, trumpet-shaped blooms"
+    ],
+    "ori": [
+      "a photo of a fire lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The fire lily is a trumpet-shaped flower with vibrant orange-red petals and prominent stamens."
+    ]
+  },
+  "red ginger": {
+    "positive": [
+      "a photo of a red ginger, a type of flower."
+    ],
+    "negative": [
+      "this is not a red ginger, which is a type of flower."
+    ],
+    "deepLow": [
+      "red ginger, vibrant red petals, waxy texture, long green stems, clustered blooms, tropical appearance"
+    ],
+    "ori": [
+      "a photo of a red ginger, a type of flower."
+    ],
+    "deepHigh": [
+      "The red ginger is tall tropical inflorescence with vibrant crimson bracts."
+    ]
+  },
+  "prince of wales feathers": {
+    "positive": [
+      "a photo of a prince of wales feathers, a type of flower."
+    ],
+    "negative": [
+      "this is not a prince of wales feathers, which is a type of flower."
+    ],
+    "deepLow": [
+      "prince of wales feathers, white ostrich plumes, gold coronet, soft texture, elegant curve, royal emblem"
+    ],
+    "ori": [
+      "a photo of a prince of wales feathers, a type of flower."
+    ],
+    "deepHigh": [
+      "The prince of wales feathers is feathery plume-like flower cluster."
+    ]
+  },
+  "carnation": {
+    "positive": [
+      "a photo of a carnation, a type of flower."
+    ],
+    "negative": [
+      "this is not a carnation, which is a type of flower."
+    ],
+    "deepLow": [
+      "carnation with ruffled pink petals, dark green stems, white edges, and a spicy fragrance"
+    ],
+    "ori": [
+      "a photo of a carnation, a type of flower."
+    ],
+    "deepHigh": [
+      "The carnation is fringed flower with layered petals."
+    ]
+  },
+  "mexican aster": {
+    "positive": [
+      "a photo of a mexican aster, a type of flower."
+    ],
+    "negative": [
+      "this is not a mexican aster, which is a type of flower."
+    ],
+    "deepLow": [
+      "mexican aster with purple daisy-like petals, yellow center, slender green stems, and rough textured leaves"
+    ],
+    "ori": [
+      "a photo of a mexican aster, a type of flower."
+    ],
+    "deepHigh": [
+      "The mexican aster is daisy-like flower with yellow centers and purple ray florets."
+    ]
+  },
+  "alpine sea holly": {
+    "positive": [
+      "a photo of a alpine sea holly, a type of flower."
+    ],
+    "negative": [
+      "this is not a alpine sea holly, which is a type of flower."
+    ],
+    "deepLow": [
+      "alpine sea holly, spiky blue flowers, silver-green foliage, thistle-like shape, metallic sheen"
+    ],
+    "ori": [
+      "a photo of a alpine sea holly, a type of flower."
+    ],
+    "deepHigh": [
+      "The alpine sea holly is spiky blue flower with metallic sheen."
+    ]
+  },
+  "siam tulip": {
+    "positive": [
+      "a photo of a siam tulip, a type of flower."
+    ],
+    "negative": [
+      "this is not a siam tulip, which is a type of flower."
+    ],
+    "deepLow": [
+      "siam tulip with vibrant pink petals, glossy green leaves, slender stems, and delicate white edges"
+    ],
+    "ori": [
+      "a photo of a siam tulip, a type of flower."
+    ],
+    "deepHigh": [
+      "The siam tulip is a tropical perennial with pink or white clustered blooms and broad, lance-shaped leaves."
+    ]
+  },
+  "spring crocus": {
+    "positive": [
+      "a photo of a spring crocus, a type of flower."
+    ],
+    "negative": [
+      "this is not a spring crocus, which is a type of flower."
+    ],
+    "deepLow": [
+      "spring crocus with purple petals, white center, slender green leaves, and delicate cup-shaped bloom"
+    ],
+    "ori": [
+      "a photo of a spring crocus, a type of flower."
+    ],
+    "deepHigh": [
+      "The spring crocus is low-growing perennial with cup-shaped flowers in purple, white, or yellow hues emerging from grass-like foliage."
+    ]
+  },
+  "globe thistle": {
+    "positive": [
+      "a photo of a globe thistle, a type of flower."
+    ],
+    "negative": [
+      "this is not a globe thistle, which is a type of flower."
+    ],
+    "deepLow": [
+      "globe thistle, spiky blue-purple blooms, silver-green stems, round flower heads, rough textured leaves"
+    ],
+    "ori": [
+      "a photo of a globe thistle, a type of flower."
+    ],
+    "deepHigh": [
+      "The globe thistle is spiky, round, metallic-blue flower head."
+    ]
+  },
+  "bolero deep blue": {
+    "positive": [
+      "a photo of a bolero deep blue, a type of flower."
+    ],
+    "negative": [
+      "this is not a bolero deep blue, which is a type of flower."
+    ],
+    "deepLow": [
+      "bolero deep blue, satin fabric, embroidered silver trim, fitted waist, short flared sleeves"
+    ],
+    "ori": [
+      "a photo of a bolero deep blue, a type of flower."
+    ],
+    "deepHigh": [
+      "The bolero deep blue is cup-shaped flower with ruffled petals."
+    ]
+  },
+  "tiger lily": {
+    "positive": [
+      "a photo of a tiger lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a tiger lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "tiger lily with orange petals, black spots, curved stamens, glossy leaves, slender green stem"
+    ],
+    "ori": [
+      "a photo of a tiger lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The tiger lily is nodding flower with recurved petals and prominent dark spots."
+    ]
+  },
+  "moon orchid": {
+    "positive": [
+      "a photo of a moon orchid, a type of flower."
+    ],
+    "negative": [
+      "this is not a moon orchid, which is a type of flower."
+    ],
+    "deepLow": [
+      "moon orchid with white-pink petals, waxy texture, curved stems, dark green leaves, delicate speckles"
+    ],
+    "ori": [
+      "a photo of a moon orchid, a type of flower."
+    ],
+    "deepHigh": [
+      "The moon orchid is epiphytic plant with fleshy leaves and waxy, star-shaped flowers."
+    ]
+  },
+  "gaura": {
+    "positive": [
+      "a photo of a gaura, a type of flower."
+    ],
+    "negative": [
+      "this is not a gaura, which is a type of flower."
+    ],
+    "deepLow": [
+      "gaura with delicate pink-white petals, slender green stems, wispy texture, long stamens, and butterfly-like blooms"
+    ],
+    "ori": [
+      "a photo of a gaura, a type of flower."
+    ],
+    "deepHigh": [
+      "The gaura is delicate, wand-like stems with small, butterfly-shaped flowers."
+    ]
+  },
+  "japanese anemone": {
+    "positive": [
+      "a photo of a japanese anemone, a type of flower."
+    ],
+    "negative": [
+      "this is not a japanese anemone, which is a type of flower."
+    ],
+    "deepLow": [
+      "japanese anemone with pink-white petals, golden-yellow center, dark green leaves, slender stems, delicate texture"
+    ],
+    "ori": [
+      "a photo of a japanese anemone, a type of flower."
+    ],
+    "deepHigh": [
+      "The japanese anemone is cup-shaped flower with delicate, overlapping petals surrounding a prominent central cluster of yellow stamens."
+    ]
+  },
+  "foxglove": {
+    "positive": [
+      "a photo of a foxglove, a type of flower."
+    ],
+    "negative": [
+      "this is not a foxglove, which is a type of flower."
+    ],
+    "deepLow": [
+      "foxglove with tall spikes of bell-shaped flowers, pink-purple hues, speckled throats, velvety texture, green lance-shaped leaves."
+    ],
+    "ori": [
+      "a photo of a foxglove, a type of flower."
+    ],
+    "deepHigh": [
+      "The foxglove is tall spike with tubular, bell-shaped flowers."
+    ]
+  },
+  "bougainvillea": {
+    "positive": [
+      "a photo of a bougainvillea, a type of flower."
+    ],
+    "negative": [
+      "this is not a bougainvillea, which is a type of flower."
+    ],
+    "deepLow": [
+      "bougainvillea with vibrant pink bracts, thorny stems, papery texture, heart-shaped leaves, climbing vine"
+    ],
+    "ori": [
+      "a photo of a bougainvillea, a type of flower."
+    ],
+    "deepHigh": [
+      "The bougainvillea is a vibrant, papery-bracted vine."
+    ]
+  },
+  "camellia": {
+    "positive": [
+      "a photo of a camellia, a type of flower."
+    ],
+    "negative": [
+      "this is not a camellia, which is a type of flower."
+    ],
+    "deepLow": [
+      "camellia with glossy dark green leaves, vibrant pink petals, yellow stamens, waxy texture, symmetrical bloom"
+    ],
+    "ori": [
+      "a photo of a camellia, a type of flower."
+    ],
+    "deepHigh": [
+      "The camellia is glossy-leaved evergreen with symmetrical, layered petals."
+    ]
+  },
+  "mallow": {
+    "positive": [
+      "a photo of a mallow, a type of flower."
+    ],
+    "negative": [
+      "this is not a mallow, which is a type of flower."
+    ],
+    "deepLow": [
+      "mallow with pink petals, velvety texture, heart-shaped leaves, prominent stamens, soft green stems"
+    ],
+    "ori": [
+      "a photo of a mallow, a type of flower."
+    ],
+    "deepHigh": [
+      "The mallow is hibiscus-like flower with five overlapping petals and prominent staminal column."
+    ]
+  },
+  "mexican petunia": {
+    "positive": [
+      "a photo of a mexican petunia, a type of flower."
+    ],
+    "negative": [
+      "this is not a mexican petunia, which is a type of flower."
+    ],
+    "deepLow": [
+      "mexican petunia with purple trumpet-shaped flowers, dark green lanceolate leaves, slender stems, and delicate veining"
+    ],
+    "ori": [
+      "a photo of a mexican petunia, a type of flower."
+    ],
+    "deepHigh": [
+      "The mexican petunia is trumpet-shaped flower with five violet petals and dark green lanceolate leaves."
+    ]
+  },
+  "bromelia": {
+    "positive": [
+      "a photo of a bromelia, a type of flower."
+    ],
+    "negative": [
+      "this is not a bromelia, which is a type of flower."
+    ],
+    "deepLow": [
+      "bromelia with spiky green leaves, pink flower cluster, waxy texture, and rosette shape"
+    ],
+    "ori": [
+      "a photo of a bromelia, a type of flower."
+    ],
+    "deepHigh": [
+      "The bromelia is rosette-forming plant with colorful bracts."
+    ]
+  },
+  "blanket flower": {
+    "positive": [
+      "a photo of a blanket flower, a type of flower."
+    ],
+    "negative": [
+      "this is not a blanket flower, which is a type of flower."
+    ],
+    "deepLow": [
+      "blanket flower, vibrant red and yellow petals, fuzzy green stems, daisy-like shape, dark brown center"
+    ],
+    "ori": [
+      "a photo of a blanket flower, a type of flower."
+    ],
+    "deepHigh": [
+      "The blanket flower is daisy-like flower with red petals and yellow tips."
+    ]
+  },
+  "trumpet creeper": {
+    "positive": [
+      "a photo of a trumpet creeper, a type of flower."
+    ],
+    "negative": [
+      "this is not a trumpet creeper, which is a type of flower."
+    ],
+    "deepLow": [
+      "trumpet creeper with orange-red tubular flowers, dark green serrated leaves, climbing woody vines, and trumpet-shaped blooms"
+    ],
+    "ori": [
+      "a photo of a trumpet creeper, a type of flower."
+    ],
+    "deepHigh": [
+      "The trumpet creeper is a climbing vine with large, trumpet-shaped orange-red flowers."
+    ]
+  },
+  "blackberry lily": {
+    "positive": [
+      "a photo of a blackberry lily, a type of flower."
+    ],
+    "negative": [
+      "this is not a blackberry lily, which is a type of flower."
+    ],
+    "deepLow": [
+      "blackberry lily with orange-spotted petals, sword-shaped leaves, blackberry-like seed clusters, slender green stems"
+    ],
+    "ori": [
+      "a photo of a blackberry lily, a type of flower."
+    ],
+    "deepHigh": [
+      "The blackberry lily is an iris-like perennial with orange-spotted flowers and clusters of blackberry-like seed pods."
+    ]
+  }
+}

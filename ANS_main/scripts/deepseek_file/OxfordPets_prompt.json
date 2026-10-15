@@ -1,0 +1,631 @@
+{
+  "abyssinian": {
+    "positive": [
+      "a photo of a abyssinian, a type of pet."
+    ],
+    "negative": [
+      "this is not a abyssinian, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a abyssinian, a type of pet."
+    ],
+    "deepLow": [
+      "abyssinian: ruddy coat, ticked fur pattern, almond-shaped eyes, large ears, slender body"
+    ],
+    "deepHigh": [
+      "The abyssinian is a short-haired cat with a ticked coat and large, alert ears."
+    ]
+  },
+  "american bulldog": {
+    "positive": [
+      "a photo of a american bulldog, a type of pet."
+    ],
+    "negative": [
+      "this is not a american bulldog, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a american bulldog, a type of pet."
+    ],
+    "deepLow": [
+      "american bulldog: muscular build, short smooth coat, broad square head, white with patches of brindle or fawn, wrinkled forehead"
+    ],
+    "deepHigh": [
+      "The american bulldog is a muscular, stocky dog with a broad head and powerful jaw."
+    ]
+  },
+  "american pit bull terrier": {
+    "positive": [
+      "a photo of a american pit bull terrier, a type of pet."
+    ],
+    "negative": [
+      "this is not a american pit bull terrier, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a american pit bull terrier, a type of pet."
+    ],
+    "deepLow": [
+      "american pit bull terrier: muscular build, short glossy coat, broad square head, cropped or floppy ears, various coat colors (brindle, solid, patched)"
+    ],
+    "deepHigh": [
+      "The american pit bull terrier is a muscular, short-coated dog with a broad head and strong jaws."
+    ]
+  },
+  "basset hound": {
+    "positive": [
+      "a photo of a basset hound, a type of pet."
+    ],
+    "negative": [
+      "this is not a basset hound, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a basset hound, a type of pet."
+    ],
+    "deepLow": [
+      "basset hound: droopy ears, short legs, wrinkled skin, tri-color coat (black, white, brown), long body"
+    ],
+    "deepHigh": [
+      "The basset hound is a short-legged, long-eared, and heavy-boned scent hound with a wrinkled face and droopy eyes."
+    ]
+  },
+  "beagle": {
+    "positive": [
+      "a photo of a beagle, a type of pet."
+    ],
+    "negative": [
+      "this is not a beagle, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a beagle, a type of pet."
+    ],
+    "deepLow": [
+      "beagle: short smooth coat, tri-color pattern (black, white, tan), floppy ears, muscular body, long tail"
+    ],
+    "deepHigh": [
+      "The beagle is a small to medium-sized hound with a short coat, long floppy ears, and a white-tipped tail."
+    ]
+  },
+  "bengal": {
+    "positive": [
+      "a photo of a bengal, a type of pet."
+    ],
+    "negative": [
+      "this is not a bengal, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a bengal, a type of pet."
+    ],
+    "deepLow": [
+      "bengal: golden-orange coat, black rosette patterns, muscular body, short dense fur, white underbelly"
+    ],
+    "deepHigh": [
+      "The bengal is a domestic cat with a wild appearance, featuring a spotted or marbled coat resembling a leopard."
+    ]
+  },
+  "birman": {
+    "positive": [
+      "a photo of a birman, a type of pet."
+    ],
+    "negative": [
+      "this is not a birman, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a birman, a type of pet."
+    ],
+    "deepLow": [
+      "birman: cream-colored coat, deep blue eyes, white-gloved paws, silky fur, dark facial mask"
+    ],
+    "deepHigh": [
+      "The birman is a longhaired cat with deep blue eyes and white-gloved paws."
+    ]
+  },
+  "bombay": {
+    "positive": [
+      "a photo of a bombay, a type of pet."
+    ],
+    "negative": [
+      "this is not a bombay, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a bombay, a type of pet."
+    ],
+    "deepLow": [
+      "bombay: jet-black coat, glossy fur, muscular body, rounded head, copper or gold eyes"
+    ],
+    "deepHigh": [
+      "The bombay is a sleek black cat with copper eyes."
+    ]
+  },
+  "boxer": {
+    "positive": [
+      "a photo of a boxer, a type of pet."
+    ],
+    "negative": [
+      "this is not a boxer, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a boxer, a type of pet."
+    ],
+    "deepLow": [
+      "boxer: short muzzle, muscular build, smooth short coat, cropped ears, square-shaped head"
+    ],
+    "deepHigh": [
+      "The boxer is a medium to large dog with a muscular build, a short coat, and a distinctive square-shaped head with an undershot jaw."
+    ]
+  },
+  "british shorthair": {
+    "positive": [
+      "a photo of a british shorthair, a type of pet."
+    ],
+    "negative": [
+      "this is not a british shorthair, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a british shorthair, a type of pet."
+    ],
+    "deepLow": [
+      "british shorthair: dense blue-gray coat, round face, copper-orange eyes, stocky body, plush fur texture"
+    ],
+    "deepHigh": [
+      "The british shorthair is a stocky cat with a dense plush coat and round copper eyes."
+    ]
+  },
+  "chihuahua": {
+    "positive": [
+      "a photo of a chihuahua, a type of pet."
+    ],
+    "negative": [
+      "this is not a chihuahua, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a chihuahua, a type of pet."
+    ],
+    "deepLow": [
+      "chihuahua: short or long coat, pointed ears, large round eyes, compact body, fawn or black coloring"
+    ],
+    "deepHigh": [
+      "The chihuahua is a tiny dog with large, erect ears and prominent, round eyes."
+    ]
+  },
+  "egyptian mau": {
+    "positive": [
+      "a photo of a egyptian mau, a type of pet."
+    ],
+    "negative": [
+      "this is not a egyptian mau, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a egyptian mau, a type of pet."
+    ],
+    "deepLow": [
+      "egyptian mau: spotted coat, bronze-green eyes, muscular body, wedge-shaped head, short glossy fur"
+    ],
+    "deepHigh": [
+      "The Egyptian Mau is a spotted cat with a muscular body and a distinctive M marking on its forehead."
+    ]
+  },
+  "english cocker spaniel": {
+    "positive": [
+      "a photo of a english cocker spaniel, a type of pet."
+    ],
+    "negative": [
+      "this is not a english cocker spaniel, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a english cocker spaniel, a type of pet."
+    ],
+    "deepLow": [
+      "english cocker spaniel: silky wavy coat, long floppy ears, feathered legs, solid or parti-colored fur, rounded muzzle"
+    ],
+    "deepHigh": [
+      "The english cocker spaniel is a medium-sized dog with long, floppy ears, a rounded head, and a silky, feathered coat."
+    ]
+  },
+  "english setter": {
+    "positive": [
+      "a photo of a english setter, a type of pet."
+    ],
+    "negative": [
+      "this is not a english setter, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a english setter, a type of pet."
+    ],
+    "deepLow": [
+      "english setter: long feathered coat, white base with flecked color patches, lean muscular body, silky fur texture, pendant-shaped ears"
+    ],
+    "deepHigh": [
+      "The English Setter is a medium to large-sized dog with a feathered white coat marked by flecks of color."
+    ]
+  },
+  "german shorthaired": {
+    "positive": [
+      "a photo of a german shorthaired, a type of pet."
+    ],
+    "negative": [
+      "this is not a german shorthaired, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a german shorthaired, a type of pet."
+    ],
+    "deepLow": [
+      "german shorthaired: short dense coat, liver or liver-and-white spotted pattern, muscular build, webbed feet, long tapered tail"
+    ],
+    "deepHigh": [
+      "The german shorthaired is a medium to large-sized dog with a short, dense liver-colored coat, often with white ticking or patches, and distinctive webbed feet."
+    ]
+  },
+  "great pyrenees": {
+    "positive": [
+      "a photo of a great pyrenees, a type of pet."
+    ],
+    "negative": [
+      "this is not a great pyrenees, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a great pyrenees, a type of pet."
+    ],
+    "deepLow": [
+      "great pyrenees: thick white double coat, large muscular body, black nose, feathered tail, triangular ears"
+    ],
+    "deepHigh": [
+      "The great pyrenees is a large, white-coated livestock guardian dog with a thick double coat and a plumed tail."
+    ]
+  },
+  "havanese": {
+    "positive": [
+      "a photo of a havanese, a type of pet."
+    ],
+    "negative": [
+      "this is not a havanese, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a havanese, a type of pet."
+    ],
+    "deepLow": [
+      "havanese: long silky coat, floppy ears, short muzzle, feathered tail, black or brown eyes"
+    ],
+    "deepHigh": [
+      "The havanese is a small dog with a long, silky coat and a plumed tail that curls over its back."
+    ]
+  },
+  "japanese chin": {
+    "positive": [
+      "a photo of a japanese chin, a type of pet."
+    ],
+    "negative": [
+      "this is not a japanese chin, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a japanese chin, a type of pet."
+    ],
+    "deepLow": [
+      "japanese chin: silky long coat, flat face with large eyes, black-and-white or red-and-white coloration, feathered tail, small compact body"
+    ],
+    "deepHigh": [
+      "The Japanese chin is a small toy breed with a broad face, large wide-set eyes, and a feathered coat."
+    ]
+  },
+  "keeshond": {
+    "positive": [
+      "a photo of a keeshond, a type of pet."
+    ],
+    "negative": [
+      "this is not a keeshond, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a keeshond, a type of pet."
+    ],
+    "deepLow": [
+      "keeshond: thick double coat, gray and black fur, distinctive spectacles facial markings, plumed tail, compact body shape"
+    ],
+    "deepHigh": [
+      "The keeshond is a medium-sized spitz breed with a thick silver and black coat, distinctive spectacles around its eyes, and a plumed tail carried over its back."
+    ]
+  },
+  "leonberger": {
+    "positive": [
+      "a photo of a leonberger, a type of pet."
+    ],
+    "negative": [
+      "this is not a leonberger, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a leonberger, a type of pet."
+    ],
+    "deepLow": [
+      "leonberger: thick double coat, lion-like mane, black mask markings, large muscular build, feathered tail"
+    ],
+    "deepHigh": [
+      "The leonberger is a large, long-haired dog with a black mask and a lion-like mane."
+    ]
+  },
+  "maine coon": {
+    "positive": [
+      "a photo of a maine coon, a type of pet."
+    ],
+    "negative": [
+      "this is not a maine coon, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a maine coon, a type of pet."
+    ],
+    "deepLow": [
+      "maine coon: long tufted ears, bushy tail, shaggy fur, large rectangular body, tufted paws"
+    ],
+    "deepHigh": [
+      "The maine coon is large, longhaired cat with tufted ears and a bushy tail."
+    ]
+  },
+  "miniature pinscher": {
+    "positive": [
+      "a photo of a miniature pinscher, a type of pet."
+    ],
+    "negative": [
+      "this is not a miniature pinscher, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a miniature pinscher, a type of pet."
+    ],
+    "deepLow": [
+      "miniature pinscher: short glossy coat, solid black or chocolate color, compact muscular body, pointed ears, slender tapered tail"
+    ],
+    "deepHigh": [
+      "The miniature pinscher is a small, sleek dog with erect ears, a high-stepping gait, and a short, glossy coat."
+    ]
+  },
+  "newfoundland": {
+    "positive": [
+      "a photo of a newfoundland, a type of pet."
+    ],
+    "negative": [
+      "this is not a newfoundland, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a newfoundland, a type of pet."
+    ],
+    "deepLow": [
+      "newfoundland: thick black coat, webbed feet, broad head, muscular build, dense double-layered fur"
+    ],
+    "deepHigh": [
+      "The newfoundland is a large, powerful dog with a thick, water-resistant coat and webbed feet."
+    ]
+  },
+  "persian": {
+    "positive": [
+      "a photo of a persian, a type of pet."
+    ],
+    "negative": [
+      "this is not a persian, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a persian, a type of pet."
+    ],
+    "deepLow": [
+      "persian: long silky fur, flat round face, short muzzle, large round eyes, thick ruff around neck"
+    ],
+    "deepHigh": [
+      "The Persian is a flat-faced cat with a long, luxurious coat."
+    ]
+  },
+  "pomeranian": {
+    "positive": [
+      "a photo of a pomeranian, a type of pet."
+    ],
+    "negative": [
+      "this is not a pomeranian, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a pomeranian, a type of pet."
+    ],
+    "deepLow": [
+      "pomeranian: fluffy double coat, fox-like face, curled tail, small pointed ears, variety of colors (orange, cream, black, white)"
+    ],
+    "deepHigh": [
+      "The pomeranian is a small, fluffy dog with a thick double coat, foxy face, and plumed tail."
+    ]
+  },
+  "pug": {
+    "positive": [
+      "a photo of a pug, a type of pet."
+    ],
+    "negative": [
+      "this is not a pug, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a pug, a type of pet."
+    ],
+    "deepLow": [
+      "pug: short muzzle, wrinkled forehead, compact muscular body, smooth short coat, curled tail"
+    ],
+    "deepHigh": [
+      "The pug is a small, muscular dog with a wrinkled face and a curled tail."
+    ]
+  },
+  "ragdoll": {
+    "positive": [
+      "a photo of a ragdoll, a type of pet."
+    ],
+    "negative": [
+      "this is not a ragdoll, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a ragdoll, a type of pet."
+    ],
+    "deepLow": [
+      "ragdoll: blue-point coloration, long silky fur, large round eyes, colorpoint pattern, plush stuffed body"
+    ],
+    "deepHigh": [
+      "The ragdoll is a large, semi-longhaired cat with striking blue eyes and a pointed color pattern."
+    ]
+  },
+  "russian blue": {
+    "positive": [
+      "a photo of a russian blue, a type of pet."
+    ],
+    "negative": [
+      "this is not a russian blue, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a russian blue, a type of pet."
+    ],
+    "deepLow": [
+      "russian blue: short blue-gray fur, emerald green eyes, slender body, wedge-shaped head, fine silvery tipping on coat"
+    ],
+    "deepHigh": [
+      "The Russian blue is a short-haired cat with a dense blue-gray coat and vivid green eyes."
+    ]
+  },
+  "saint bernard": {
+    "positive": [
+      "a photo of a saint bernard, a type of pet."
+    ],
+    "negative": [
+      "this is not a saint bernard, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a saint bernard, a type of pet."
+    ],
+    "deepLow": [
+      "saint bernard: thick white-and-brown fur, large muscular body, droopy jowls, black facial mask, broad square head"
+    ],
+    "deepHigh": [
+      "The saint bernard is a large, powerful dog with a broad head, deep chest, and a dense coat."
+    ]
+  },
+  "samoyed": {
+    "positive": [
+      "a photo of a samoyed, a type of pet."
+    ],
+    "negative": [
+      "this is not a samoyed, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a samoyed, a type of pet."
+    ],
+    "deepLow": [
+      "samoyed: thick white fur, fluffy double coat, black almond-shaped eyes, triangular ears, curled tail"
+    ],
+    "deepHigh": [
+      "The samoyed is a fluffy white dog with a thick double coat and a smiling expression."
+    ]
+  },
+  "scottish terrier": {
+    "positive": [
+      "a photo of a scottish terrier, a type of pet."
+    ],
+    "negative": [
+      "this is not a scottish terrier, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a scottish terrier, a type of pet."
+    ],
+    "deepLow": [
+      "scottish terrier: wiry double coat, short legs, long head, dark black or brindle color, bushy eyebrows"
+    ],
+    "deepHigh": [
+      "The scottish terrier is a small, sturdy dog with a wiry coat, short legs, and distinctive beard and eyebrows."
+    ]
+  },
+  "shiba inu": {
+    "positive": [
+      "a photo of a shiba inu, a type of pet."
+    ],
+    "negative": [
+      "this is not a shiba inu, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a shiba inu, a type of pet."
+    ],
+    "deepLow": [
+      "shiba inu: reddish-brown coat, curled tail, pointed ears, white underbelly, thick double fur"
+    ],
+    "deepHigh": [
+      "The shiba inu is a compact, fox-like dog with a curled tail and triangular ears."
+    ]
+  },
+  "siamese": {
+    "positive": [
+      "a photo of a siamese, a type of pet."
+    ],
+    "negative": [
+      "this is not a siamese, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a siamese, a type of pet."
+    ],
+    "deepLow": [
+      "siamese: cream-colored coat, dark brown points, almond-shaped blue eyes, short fur, slender body"
+    ],
+    "deepHigh": [
+      "The Siamese is a slender cat with striking blue almond-shaped eyes and a short coat featuring color points on the ears, face, paws, and tail."
+    ]
+  },
+  "sphynx": {
+    "positive": [
+      "a photo of a sphynx, a type of pet."
+    ],
+    "negative": [
+      "this is not a sphynx, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a sphynx, a type of pet."
+    ],
+    "deepLow": [
+      "sphynx: hairless skin, wrinkled texture, large ears, muscular body, peach-fuzz coat"
+    ],
+    "deepHigh": [
+      "The sphynx is a hairless cat with wrinkled skin and large ears."
+    ]
+  },
+  "staffordshire bull terrier": {
+    "positive": [
+      "a photo of a staffordshire bull terrier, a type of pet."
+    ],
+    "negative": [
+      "this is not a staffordshire bull terrier, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a staffordshire bull terrier, a type of pet."
+    ],
+    "deepLow": [
+      "staffordshire bull terrier: short smooth coat, muscular broad chest, round dark eyes, short muzzle, brindle or solid-colored fur"
+    ],
+    "deepHigh": [
+      "The staffordshire bull terrier is a muscular, broad-headed dog with a short coat and a confident stance."
+    ]
+  },
+  "wheaten terrier": {
+    "positive": [
+      "a photo of a wheaten terrier, a type of pet."
+    ],
+    "negative": [
+      "this is not a wheaten terrier, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a wheaten terrier, a type of pet."
+    ],
+    "deepLow": [
+      "wheaten terrier: soft wheat-colored coat, wavy or curly fur, medium-sized body, floppy ears, square-shaped muzzle"
+    ],
+    "deepHigh": [
+      "The wheaten terrier is a medium-sized dog with a soft, wavy, wheaten-colored coat and a rectangular-shaped head."
+    ]
+  },
+  "yorkshire terrier": {
+    "positive": [
+      "a photo of a yorkshire terrier, a type of pet."
+    ],
+    "negative": [
+      "this is not a yorkshire terrier, which is a type of pet."
+    ],
+    "ori": [
+      "a photo of a yorkshire terrier, a type of pet."
+    ],
+    "deepLow": [
+      "yorkshire terrier: silky blue-tan coat, small compact body, straight long hair, dark button eyes, pointed ears"
+    ],
+    "deepHigh": [
+      "The yorkshire terrier is a small toy breed with long, silky blue and tan hair."
+    ]
+  }
+}

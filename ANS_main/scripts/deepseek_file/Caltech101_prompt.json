@@ -1,0 +1,1702 @@
+{
+  "face": {
+    "positive": [
+      "a photo of a face."
+    ],
+    "negative": [
+      "this is not a photo of a face."
+    ],
+    "deepLow": [
+      "face with smooth pale skin, sharp cheekbones, deep brown eyes, full pink lips, wavy black hair"
+    ],
+    "ori": [
+      "a photo of a face."
+    ],
+    "deepHigh": [
+      "The face is frontal human feature with eyes, nose, and mouth."
+    ]
+  },
+  "leopard": {
+    "positive": [
+      "a photo of a leopard."
+    ],
+    "negative": [
+      "this is not a photo of a leopard."
+    ],
+    "deepLow": [
+      "leopard with golden-yellow fur, black rosette patterns, muscular build, sharp claws, and piercing green eyes"
+    ],
+    "ori": [
+      "a photo of a leopard."
+    ],
+    "deepHigh": [
+      "The leopard is a large feline with a golden-yellow coat covered in black rosettes."
+    ]
+  },
+  "motorbike": {
+    "positive": [
+      "a photo of a motorbike."
+    ],
+    "negative": [
+      "this is not a photo of a motorbike."
+    ],
+    "deepLow": [
+      "motorbike, sleek black frame, chrome exhaust pipes, red racing stripes, textured rubber grips, angular headlight design"
+    ],
+    "ori": [
+      "a photo of a motorbike."
+    ],
+    "deepHigh": [
+      "The motorbike is a two-wheeled vehicle with handlebars and an exposed engine."
+    ]
+  },
+  "accordion": {
+    "positive": [
+      "a photo of a accordion."
+    ],
+    "negative": [
+      "this is not a photo of a accordion."
+    ],
+    "deepLow": [
+      "accordion, black and white keys, ribbed bellows, polished wood body, metal straps, rectangular shape"
+    ],
+    "ori": [
+      "a photo of a accordion."
+    ],
+    "deepHigh": [
+      "The accordion is a handheld musical instrument with a folding bellows and a keyboard on each side."
+    ]
+  },
+  "airplane": {
+    "positive": [
+      "a photo of a airplane."
+    ],
+    "negative": [
+      "this is not a photo of a airplane."
+    ],
+    "deepLow": [
+      "airplane with silver metallic body, blue tail stripes, rounded wings, jet engines, and small rectangular windows"
+    ],
+    "ori": [
+      "a photo of a airplane."
+    ],
+    "deepHigh": [
+      "The airplane is a winged aircraft with a fuselage and jet engines."
+    ]
+  },
+  "anchor": {
+    "positive": [
+      "a photo of a anchor."
+    ],
+    "negative": [
+      "this is not a photo of a anchor."
+    ],
+    "deepLow": [
+      "rusted iron anchor, chained to wooden dock, barnacle-covered surface, curved flukes, dark brown patina"
+    ],
+    "ori": [
+      "a photo of a anchor."
+    ],
+    "deepHigh": [
+      "The anchor is heavy metal object with flukes and a shank."
+    ]
+  },
+  "ant": {
+    "positive": [
+      "a photo of a ant."
+    ],
+    "negative": [
+      "this is not a photo of a ant."
+    ],
+    "deepLow": [
+      "ant, black shiny body, segmented abdomen, thin bent antennae, six slender legs"
+    ],
+    "ori": [
+      "a photo of a ant."
+    ],
+    "deepHigh": [
+      "The ant is small insect with a segmented body and antennae."
+    ]
+  },
+  "barrel": {
+    "positive": [
+      "a photo of a barrel."
+    ],
+    "negative": [
+      "this is not a photo of a barrel."
+    ],
+    "deepLow": [
+      "barrel, wooden slats with iron bands, dark brown patina, rounded shape, slightly tapered ends"
+    ],
+    "ori": [
+      "a photo of a barrel."
+    ],
+    "deepHigh": [
+      "The barrel is cylindrical container with curved wooden staves and metal hoops."
+    ]
+  },
+  "bass": {
+    "positive": [
+      "a photo of a bass."
+    ],
+    "negative": [
+      "this is not a photo of a bass."
+    ],
+    "deepLow": [
+      "bass with silver scales, dark green back, black stripes, long dorsal fin, and shiny metallic body"
+    ],
+    "ori": [
+      "a photo of a bass."
+    ],
+    "deepHigh": [
+      "The bass is long-bodied fish with prominent dorsal fin."
+    ]
+  },
+  "beaver": {
+    "positive": [
+      "a photo of a beaver."
+    ],
+    "negative": [
+      "this is not a photo of a beaver."
+    ],
+    "deepLow": [
+      "beaver with brown fur, flat paddle tail, webbed feet, sharp orange teeth, glossy wet fur"
+    ],
+    "ori": [
+      "a photo of a beaver."
+    ],
+    "deepHigh": [
+      "The beaver is large rodent with flat tail and webbed feet."
+    ]
+  },
+  "binocular": {
+    "positive": [
+      "a photo of a binocular."
+    ],
+    "negative": [
+      "this is not a photo of a binocular."
+    ],
+    "deepLow": [
+      "binocular, black rubberized body, silver focus dials, textured grip, circular lenses, compact size"
+    ],
+    "ori": [
+      "a photo of a binocular."
+    ],
+    "deepHigh": [
+      "The binocular is optical device with two parallel telescopes."
+    ]
+  },
+  "bonsai": {
+    "positive": [
+      "a photo of a bonsai."
+    ],
+    "negative": [
+      "this is not a photo of a bonsai."
+    ],
+    "deepLow": [
+      "bonsai with twisted trunk, glossy green leaves, miniature size, rugged bark, ceramic pot"
+    ],
+    "ori": [
+      "a photo of a bonsai."
+    ],
+    "deepHigh": [
+      "The bonsai is miniature tree with carefully pruned branches and a gnarled trunk."
+    ]
+  },
+  "brain": {
+    "positive": [
+      "a photo of a brain."
+    ],
+    "negative": [
+      "this is not a photo of a brain."
+    ],
+    "deepLow": [
+      "brain with pinkish-gray folds, soft wrinkled texture, branching blood vessels, gelatinous surface, symmetrical hemispheres"
+    ],
+    "ori": [
+      "a photo of a brain."
+    ],
+    "deepHigh": [
+      "The brain is a soft, wrinkled organ with two hemispheres and deep folds."
+    ]
+  },
+  "brontosaurus": {
+    "positive": [
+      "a photo of a brontosaurus."
+    ],
+    "negative": [
+      "this is not a photo of a brontosaurus."
+    ],
+    "deepLow": [
+      "brontosaurus with long neck, gray-green scaly skin, rounded belly, thick legs, whip-like tail"
+    ],
+    "ori": [
+      "a photo of a brontosaurus."
+    ],
+    "deepHigh": [
+      "The brontosaurus is long-necked dinosaur with a massive body and whip-like tail."
+    ]
+  },
+  "buddha": {
+    "positive": [
+      "a photo of a buddha."
+    ],
+    "negative": [
+      "this is not a photo of a buddha."
+    ],
+    "deepLow": [
+      "buddha, golden statue, serene expression, lotus pose, intricate carvings, smooth polished surface"
+    ],
+    "ori": [
+      "a photo of a buddha."
+    ],
+    "deepHigh": [
+      "The buddha is a serene figure with a rounded belly, elongated earlobes, and a topknot hairstyle."
+    ]
+  },
+  "butterfly": {
+    "positive": [
+      "a photo of a butterfly."
+    ],
+    "negative": [
+      "this is not a photo of a butterfly."
+    ],
+    "deepLow": [
+      "butterfly with iridescent blue wings, black veins, white spots, delicate antennae, thin body"
+    ],
+    "ori": [
+      "a photo of a butterfly."
+    ],
+    "deepHigh": [
+      "The butterfly is an insect with large, colorful wings and a slender body."
+    ]
+  },
+  "camera": {
+    "positive": [
+      "a photo of a camera."
+    ],
+    "negative": [
+      "this is not a photo of a camera."
+    ],
+    "deepLow": [
+      "camera with black matte body, silver lens ring, rubber grip, circular viewfinder, rectangular LCD screen"
+    ],
+    "ori": [
+      "a photo of a camera."
+    ],
+    "deepHigh": [
+      "The camera is optical device with a lens and viewfinder."
+    ]
+  },
+  "cannon": {
+    "positive": [
+      "a photo of a cannon."
+    ],
+    "negative": [
+      "this is not a photo of a cannon."
+    ],
+    "deepLow": [
+      "cannon, dark bronze barrel, iron wheels, cylindrical shape, aged metallic texture, black powder residue"
+    ],
+    "ori": [
+      "a photo of a cannon."
+    ],
+    "deepHigh": [
+      "The cannon is large artillery piece with a long barrel and wheels."
+    ]
+  },
+  "car side": {
+    "positive": [
+      "a photo of a car side."
+    ],
+    "negative": [
+      "this is not a photo of a car side."
+    ],
+    "deepLow": [
+      "car side, glossy metallic blue, sleek aerodynamic curves, black alloy wheels, chrome trim accents, tinted windows"
+    ],
+    "ori": [
+      "a photo of a car side."
+    ],
+    "deepHigh": [
+      "The car side is elongated metal panel with doors and wheels."
+    ]
+  },
+  "ceiling fan": {
+    "positive": [
+      "a photo of a ceiling fan."
+    ],
+    "negative": [
+      "this is not a photo of a ceiling fan."
+    ],
+    "deepLow": [
+      "ceiling fan with white blades, metallic finish, circular light fixture, wooden accents, sleek modern design"
+    ],
+    "ori": [
+      "a photo of a ceiling fan."
+    ],
+    "deepHigh": [
+      "The ceiling fan is overhead appliance with rotating blades."
+    ]
+  },
+  "cellphone": {
+    "positive": [
+      "a photo of a cellphone."
+    ],
+    "negative": [
+      "this is not a photo of a cellphone."
+    ],
+    "deepLow": [
+      "cellphone with glossy black screen, silver metal frame, rectangular shape, dual rear cameras, thin bezels"
+    ],
+    "ori": [
+      "a photo of a cellphone."
+    ],
+    "deepHigh": [
+      "The cellphone is handheld electronic device with a screen and buttons or touch interface."
+    ]
+  },
+  "chair": {
+    "positive": [
+      "a photo of a chair."
+    ],
+    "negative": [
+      "this is not a photo of a chair."
+    ],
+    "deepLow": [
+      "chair, wooden frame, dark brown finish, curved armrests, plush navy blue cushion, tapered legs."
+    ],
+    "ori": [
+      "a photo of a chair."
+    ],
+    "deepHigh": [
+      "The chair is furniture with a seat, backrest, and four legs."
+    ]
+  },
+  "chandelier": {
+    "positive": [
+      "a photo of a chandelier."
+    ],
+    "negative": [
+      "this is not a photo of a chandelier."
+    ],
+    "deepLow": [
+      "chandelier, crystal droplets, golden frame, tiered design, sparkling reflections, ornate metalwork"
+    ],
+    "ori": [
+      "a photo of a chandelier."
+    ],
+    "deepHigh": [
+      "The chandelier is ornate lighting fixture with multiple arms and dangling crystals."
+    ]
+  },
+  "cougar body": {
+    "positive": [
+      "a photo of a cougar body."
+    ],
+    "negative": [
+      "this is not a photo of a cougar body."
+    ],
+    "deepLow": [
+      "cougar body with tawny fur, muscular build, black-tipped tail, sleek texture, powerful limbs"
+    ],
+    "ori": [
+      "a photo of a cougar body."
+    ],
+    "deepHigh": [
+      "The cougar body is a muscular feline form with a long tail and tawny fur."
+    ]
+  },
+  "cougar face": {
+    "positive": [
+      "a photo of a cougar face."
+    ],
+    "negative": [
+      "this is not a photo of a cougar face."
+    ],
+    "deepLow": [
+      "cougar face with tan fur, black nose, white muzzle, amber eyes, pointed ears"
+    ],
+    "ori": [
+      "a photo of a cougar face."
+    ],
+    "deepHigh": [
+      "The cougar face is a feline head with a rounded skull, tawny fur, and distinctive black markings around the muzzle and ears."
+    ]
+  },
+  "crab": {
+    "positive": [
+      "a photo of a crab."
+    ],
+    "negative": [
+      "this is not a photo of a crab."
+    ],
+    "deepLow": [
+      "crab with spiky orange shell, thick black-tipped claws, and rough textured legs, crawling on wet sand"
+    ],
+    "ori": [
+      "a photo of a crab."
+    ],
+    "deepHigh": [
+      "The crab is marine crustacean with pincers and a hard exoskeleton."
+    ]
+  },
+  "crayfish": {
+    "positive": [
+      "a photo of a crayfish."
+    ],
+    "negative": [
+      "this is not a photo of a crayfish."
+    ],
+    "deepLow": [
+      "crayfish, dark red shell, segmented body, large claws, spiny texture, black beady eyes"
+    ],
+    "ori": [
+      "a photo of a crayfish."
+    ],
+    "deepHigh": [
+      "The crayfish is freshwater crustacean with pincers and segmented tail."
+    ]
+  },
+  "crocodile": {
+    "positive": [
+      "a photo of a crocodile."
+    ],
+    "negative": [
+      "this is not a photo of a crocodile."
+    ],
+    "deepLow": [
+      "crocodile with dark green scales, rough textured skin, long snout, sharp teeth, armored back"
+    ],
+    "ori": [
+      "a photo of a crocodile."
+    ],
+    "deepHigh": [
+      "The crocodile is large reptile with a long snout and armored scales."
+    ]
+  },
+  "crocodile head": {
+    "positive": [
+      "a photo of a crocodile head."
+    ],
+    "negative": [
+      "this is not a photo of a crocodile head."
+    ],
+    "deepLow": [
+      "crocodile head with rough, scaly skin, dark green color, sharp teeth, bony ridges, and amber eyes"
+    ],
+    "ori": [
+      "a photo of a crocodile head."
+    ],
+    "deepHigh": [
+      "The crocodile head is elongated snout with conical teeth and armored scales."
+    ]
+  },
+  "cup": {
+    "positive": [
+      "a photo of a cup."
+    ],
+    "negative": [
+      "this is not a photo of a cup."
+    ],
+    "deepLow": [
+      "cup, ceramic, glossy white surface, blue floral pattern, curved handle, round base"
+    ],
+    "ori": [
+      "a photo of a cup."
+    ],
+    "deepHigh": [
+      "The cup is cylindrical container with a handle."
+    ]
+  },
+  "dalmatian": {
+    "positive": [
+      "a photo of a dalmatian."
+    ],
+    "negative": [
+      "this is not a photo of a dalmatian."
+    ],
+    "deepLow": [
+      "dalmatian with white coat, black spots, short fur, lean muscular build, alert ears"
+    ],
+    "ori": [
+      "a photo of a dalmatian."
+    ],
+    "deepHigh": [
+      "The dalmatian is white dog with black spots."
+    ]
+  },
+  "dollar bill": {
+    "positive": [
+      "a photo of a dollar bill."
+    ],
+    "negative": [
+      "this is not a photo of a dollar bill."
+    ],
+    "deepLow": [
+      "dollar bill, green paper texture, black ink details, rectangular shape, portrait of George Washington, intricate border patterns"
+    ],
+    "ori": [
+      "a photo of a dollar bill."
+    ],
+    "deepHigh": [
+      "The dollar bill is rectangular paper currency with green ink and intricate engravings."
+    ]
+  },
+  "dolphin": {
+    "positive": [
+      "a photo of a dolphin."
+    ],
+    "negative": [
+      "this is not a photo of a dolphin."
+    ],
+    "deepLow": [
+      "dolphin, sleek gray body, curved dorsal fin, smooth rubbery skin, playful expression, streamlined shape"
+    ],
+    "ori": [
+      "a photo of a dolphin."
+    ],
+    "deepHigh": [
+      "The dolphin is marine mammal with a sleek body and a curved dorsal fin."
+    ]
+  },
+  "dragonfly": {
+    "positive": [
+      "a photo of a dragonfly."
+    ],
+    "negative": [
+      "this is not a photo of a dragonfly."
+    ],
+    "deepLow": [
+      "dragonfly with iridescent blue wings, slender black body, veined transparent wings, large compound eyes, long delicate legs"
+    ],
+    "ori": [
+      "a photo of a dragonfly."
+    ],
+    "deepHigh": [
+      "The dragonfly is long-bodied insect with two pairs of transparent wings."
+    ]
+  },
+  "electric guitar": {
+    "positive": [
+      "a photo of a electric guitar."
+    ],
+    "negative": [
+      "this is not a photo of a electric guitar."
+    ],
+    "deepLow": [
+      "electric guitar, glossy black finish, silver metal pickups, white pickguard, curved body shape, six steel strings"
+    ],
+    "ori": [
+      "a photo of a electric guitar."
+    ],
+    "deepHigh": [
+      "The electric guitar is solid-bodied string instrument with magnetic pickups and a long fretted neck."
+    ]
+  },
+  "elephant": {
+    "positive": [
+      "a photo of a elephant."
+    ],
+    "negative": [
+      "this is not a photo of a elephant."
+    ],
+    "deepLow": [
+      "elephant with wrinkled gray skin, large floppy ears, long curved tusks, and a muscular trunk"
+    ],
+    "ori": [
+      "a photo of a elephant."
+    ],
+    "deepHigh": [
+      "The elephant is large mammal with a long trunk and tusks."
+    ]
+  },
+  "emu": {
+    "positive": [
+      "a photo of a emu."
+    ],
+    "negative": [
+      "this is not a photo of a emu."
+    ],
+    "deepLow": [
+      "emu, tall brown bird, shaggy feathers, long neck, small head, sharp beak, powerful legs."
+    ],
+    "ori": [
+      "a photo of a emu."
+    ],
+    "deepHigh": [
+      "The emu is large flightless bird with long legs and shaggy feathers."
+    ]
+  },
+  "euphonium": {
+    "positive": [
+      "a photo of a euphonium."
+    ],
+    "negative": [
+      "this is not a photo of a euphonium."
+    ],
+    "deepLow": [
+      "euphonium, brass body with golden sheen, coiled tubing, large bell, three piston valves, smooth metallic surface"
+    ],
+    "ori": [
+      "a photo of a euphonium."
+    ],
+    "deepHigh": [
+      "The euphonium is brass instrument with a conical bore and large bell."
+    ]
+  },
+  "ewer": {
+    "positive": [
+      "a photo of a ewer."
+    ],
+    "negative": [
+      "this is not a photo of a ewer."
+    ],
+    "deepLow": [
+      "ewer with curved spout, blue floral patterns, glossy ceramic surface, slender handle, silver accents"
+    ],
+    "ori": [
+      "a photo of a ewer."
+    ],
+    "deepHigh": [
+      "The ewer is ornate vessel with a tall spout and handle."
+    ]
+  },
+  "ferry": {
+    "positive": [
+      "a photo of a ferry."
+    ],
+    "negative": [
+      "this is not a photo of a ferry."
+    ],
+    "deepLow": [
+      "ferry, large white hull, blue stripe pattern, rectangular windows, metal railings, open upper deck"
+    ],
+    "ori": [
+      "a photo of a ferry."
+    ],
+    "deepHigh": [
+      "The ferry is large watercraft with multiple decks for transporting passengers and vehicles."
+    ]
+  },
+  "flamingo": {
+    "positive": [
+      "a photo of a flamingo."
+    ],
+    "negative": [
+      "this is not a photo of a flamingo."
+    ],
+    "deepLow": [
+      "flamingo with pink feathers, long curved neck, black-tipped wings, standing on one leg, in shallow water."
+    ],
+    "ori": [
+      "a photo of a flamingo."
+    ],
+    "deepHigh": [
+      "The flamingo is long-legged wading bird with pink plumage and a curved beak."
+    ]
+  },
+  "flamingo head": {
+    "positive": [
+      "a photo of a flamingo head."
+    ],
+    "negative": [
+      "this is not a photo of a flamingo head."
+    ],
+    "deepLow": [
+      "flamingo head, curved pink beak, black tip, smooth feathers, round dark eyes, long slender neck"
+    ],
+    "ori": [
+      "a photo of a flamingo head."
+    ],
+    "deepHigh": [
+      "The flamingo head is long, curved neck with a distinctive downward-bending beak."
+    ]
+  },
+  "garfield": {
+    "positive": [
+      "a photo of a garfield."
+    ],
+    "negative": [
+      "this is not a photo of a garfield."
+    ],
+    "deepLow": [
+      "garfield, orange fur with black stripes, round face, large green eyes, chubby cheeks, lazy expression"
+    ],
+    "ori": [
+      "a photo of a garfield."
+    ],
+    "deepHigh": [
+      "The garfield is orange tabby cat with black stripes and large expressive eyes."
+    ]
+  },
+  "gerenuk": {
+    "positive": [
+      "a photo of a gerenuk."
+    ],
+    "negative": [
+      "this is not a photo of a gerenuk."
+    ],
+    "deepLow": [
+      "gerenuk with long slender neck, tan-brown fur, white underbelly, dark facial markings, upright posture"
+    ],
+    "ori": [
+      "a photo of a gerenuk."
+    ],
+    "deepHigh": [
+      "The gerenuk is a long-necked antelope with slender legs and a distinctive upright posture."
+    ]
+  },
+  "gramophone": {
+    "positive": [
+      "a photo of a gramophone."
+    ],
+    "negative": [
+      "this is not a photo of a gramophone."
+    ],
+    "deepLow": [
+      "gramophone with brass horn, wooden base, ornate carvings, black turntable, vintage aesthetic"
+    ],
+    "ori": [
+      "a photo of a gramophone."
+    ],
+    "deepHigh": [
+      "The gramophone is vintage audio device with large horn and turntable."
+    ]
+  },
+  "grand piano": {
+    "positive": [
+      "a photo of a grand piano."
+    ],
+    "negative": [
+      "this is not a photo of a grand piano."
+    ],
+    "deepLow": [
+      "grand piano, glossy black finish, curved wooden legs, white ivory keys, brass pedals, open lid revealing strings"
+    ],
+    "ori": [
+      "a photo of a grand piano."
+    ],
+    "deepHigh": [
+      "The grand piano is a large musical instrument with a curved wooden body and a horizontal harp-like frame."
+    ]
+  },
+  "hawksbill": {
+    "positive": [
+      "a photo of a hawksbill."
+    ],
+    "negative": [
+      "this is not a photo of a hawksbill."
+    ],
+    "deepLow": [
+      "hawksbill with amber shell, dark brown streaks, overlapping scutes, hooked beak, flipper-like limbs"
+    ],
+    "ori": [
+      "a photo of a hawksbill."
+    ],
+    "deepHigh": [
+      "The hawksbill is marine turtle with a sharply curved beak and overlapping scutes."
+    ]
+  },
+  "headphone": {
+    "positive": [
+      "a photo of a headphone."
+    ],
+    "negative": [
+      "this is not a photo of a headphone."
+    ],
+    "deepLow": [
+      "headphone, black matte finish, over-ear design, padded ear cushions, adjustable headband, silver accents"
+    ],
+    "ori": [
+      "a photo of a headphone."
+    ],
+    "deepHigh": [
+      "The headphone is audio device with two ear cups connected by a headband."
+    ]
+  },
+  "hedgehog": {
+    "positive": [
+      "a photo of a hedgehog."
+    ],
+    "negative": [
+      "this is not a photo of a hedgehog."
+    ],
+    "deepLow": [
+      "hedgehog with brown spines, white belly, small black eyes, round body, and pointed snout"
+    ],
+    "ori": [
+      "a photo of a hedgehog."
+    ],
+    "deepHigh": [
+      "The hedgehog is small mammal with spiny quills and a pointed snout."
+    ]
+  },
+  "helicopter": {
+    "positive": [
+      "a photo of a helicopter."
+    ],
+    "negative": [
+      "this is not a photo of a helicopter."
+    ],
+    "deepLow": [
+      "helicopter with glossy black body, silver rotor blades, round cockpit windows, and landing skids"
+    ],
+    "ori": [
+      "a photo of a helicopter."
+    ],
+    "deepHigh": [
+      "The helicopter is rotary-wing aircraft with a main rotor and tail rotor."
+    ]
+  },
+  "ibis": {
+    "positive": [
+      "a photo of a ibis."
+    ],
+    "negative": [
+      "this is not a photo of a ibis."
+    ],
+    "deepLow": [
+      "ibis, long curved beak, white plumage, black wingtips, slender legs, wading in water"
+    ],
+    "ori": [
+      "a photo of a ibis."
+    ],
+    "deepHigh": [
+      "The ibis is long-legged wading bird with a curved slender bill."
+    ]
+  },
+  "inline skate": {
+    "positive": [
+      "a photo of a inline skate."
+    ],
+    "negative": [
+      "this is not a photo of a inline skate."
+    ],
+    "deepLow": [
+      "inline skate, sleek black boot, silver metal frame, vibrant red wheels, white laces, glossy texture"
+    ],
+    "ori": [
+      "a photo of a inline skate."
+    ],
+    "deepHigh": [
+      "The inline skate is footwear with wheels aligned in a single row."
+    ]
+  },
+  "joshua tree": {
+    "positive": [
+      "a photo of a joshua tree."
+    ],
+    "negative": [
+      "this is not a photo of a joshua tree."
+    ],
+    "deepLow": [
+      "joshua tree with twisted gray branches, spiky green leaves, rough bark texture, clustered white flowers, desert backdrop"
+    ],
+    "ori": [
+      "a photo of a joshua tree."
+    ],
+    "deepHigh": [
+      "The joshua tree is a distinctive yucca plant with spiky, dagger-like leaves and a thick, shaggy trunk."
+    ]
+  },
+  "kangaroo": {
+    "positive": [
+      "a photo of a kangaroo."
+    ],
+    "negative": [
+      "this is not a photo of a kangaroo."
+    ],
+    "deepLow": [
+      "kangaroo, tan fur, muscular hind legs, long tapered tail, upright ears, dark eyes"
+    ],
+    "ori": [
+      "a photo of a kangaroo."
+    ],
+    "deepHigh": [
+      "The kangaroo is large marsupial with powerful hind legs and a long tail."
+    ]
+  },
+  "ketch": {
+    "positive": [
+      "a photo of a ketch."
+    ],
+    "negative": [
+      "this is not a photo of a ketch."
+    ],
+    "deepLow": [
+      "ketch with white sails, wooden hull, twin masts, blue trim, and rope rigging"
+    ],
+    "ori": [
+      "a photo of a ketch."
+    ],
+    "deepHigh": [
+      "The ketch is sailing vessel with two masts and the taller mainmast forward."
+    ]
+  },
+  "lamp": {
+    "positive": [
+      "a photo of a lamp."
+    ],
+    "negative": [
+      "this is not a photo of a lamp."
+    ],
+    "deepLow": [
+      "lamp with brass base, white linen shade, curved arm, floral embroidery, warm glow"
+    ],
+    "ori": [
+      "a photo of a lamp."
+    ],
+    "deepHigh": [
+      "The lamp is lighting fixture with base and shade."
+    ]
+  },
+  "laptop": {
+    "positive": [
+      "a photo of a laptop."
+    ],
+    "negative": [
+      "this is not a photo of a laptop."
+    ],
+    "deepLow": [
+      "laptop with silver metal casing, black keyboard, glossy screen, thin bezels, and rounded corners"
+    ],
+    "ori": [
+      "a photo of a laptop."
+    ],
+    "deepHigh": [
+      "The laptop is portable computer with a hinged screen and keyboard."
+    ]
+  },
+  "llama": {
+    "positive": [
+      "a photo of a llama."
+    ],
+    "negative": [
+      "this is not a photo of a llama."
+    ],
+    "deepLow": [
+      "llama with shaggy white fur, long curved neck, black facial markings, fluffy ears, standing on rocky terrain"
+    ],
+    "ori": [
+      "a photo of a llama."
+    ],
+    "deepHigh": [
+      "The llama is a long-necked mammal with a woolly coat and large, expressive eyes."
+    ]
+  },
+  "lobster": {
+    "positive": [
+      "a photo of a lobster."
+    ],
+    "negative": [
+      "this is not a photo of a lobster."
+    ],
+    "deepLow": [
+      "lobster with dark blue shell, long antennae, jointed claws, spiny tail, orange-red highlights"
+    ],
+    "ori": [
+      "a photo of a lobster."
+    ],
+    "deepHigh": [
+      "The lobster is marine crustacean with long antennae and large claws."
+    ]
+  },
+  "lotus": {
+    "positive": [
+      "a photo of a lotus."
+    ],
+    "negative": [
+      "this is not a photo of a lotus."
+    ],
+    "deepLow": [
+      "lotus with pink layered petals, waxy texture, circular green leaves, yellow stamen center, floating on water"
+    ],
+    "ori": [
+      "a photo of a lotus."
+    ],
+    "deepHigh": [
+      "The lotus is aquatic plant with large round leaves and layered petals."
+    ]
+  },
+  "mandolin": {
+    "positive": [
+      "a photo of a mandolin."
+    ],
+    "negative": [
+      "this is not a photo of a mandolin."
+    ],
+    "deepLow": [
+      "mandolin with curved wooden body, glossy varnish, metal strings, f-shaped sound holes, and pear-shaped back"
+    ],
+    "ori": [
+      "a photo of a mandolin."
+    ],
+    "deepHigh": [
+      "The mandolin is a stringed musical instrument with a pear-shaped body and a fretted neck."
+    ]
+  },
+  "mayfly": {
+    "positive": [
+      "a photo of a mayfly."
+    ],
+    "negative": [
+      "this is not a photo of a mayfly."
+    ],
+    "deepLow": [
+      "mayfly, translucent wings, long tail filaments, delicate body, pale green hue, large compound eyes"
+    ],
+    "ori": [
+      "a photo of a mayfly."
+    ],
+    "deepHigh": [
+      "The mayfly is delicate insect with long tail filaments and transparent wings."
+    ]
+  },
+  "menorah": {
+    "positive": [
+      "a photo of a menorah."
+    ],
+    "negative": [
+      "this is not a photo of a menorah."
+    ],
+    "deepLow": [
+      "menorah with golden branches, silver base, intricate filigree patterns, candle holders, polished metal surface"
+    ],
+    "ori": [
+      "a photo of a menorah."
+    ],
+    "deepHigh": [
+      "The menorah is a multi-branched candelabrum with a central stem and symmetrical arms."
+    ]
+  },
+  "metronome": {
+    "positive": [
+      "a photo of a metronome."
+    ],
+    "negative": [
+      "this is not a photo of a metronome."
+    ],
+    "deepLow": [
+      "metronome, wooden body, black pendulum, brass weight, white tempo scale, glossy finish"
+    ],
+    "ori": [
+      "a photo of a metronome."
+    ],
+    "deepHigh": [
+      "The metronome is a pyramid-shaped device with a swinging pendulum."
+    ]
+  },
+  "minaret": {
+    "positive": [
+      "a photo of a minaret."
+    ],
+    "negative": [
+      "this is not a photo of a minaret."
+    ],
+    "deepLow": [
+      "minaret, tall slender tower, spiral staircase, intricate blue tile patterns, pointed dome, sandstone material"
+    ],
+    "ori": [
+      "a photo of a minaret."
+    ],
+    "deepHigh": [
+      "The minaret is tall slender tower with a balcony and spire."
+    ]
+  },
+  "nautilus": {
+    "positive": [
+      "a photo of a nautilus."
+    ],
+    "negative": [
+      "this is not a photo of a nautilus."
+    ],
+    "deepLow": [
+      "nautilus with spiral shell, pearly iridescent interior, brown striped exterior, chambered structure, marine habitat"
+    ],
+    "ori": [
+      "a photo of a nautilus."
+    ],
+    "deepHigh": [
+      "The nautilus is marine mollusk with a coiled, chambered shell."
+    ]
+  },
+  "octopus": {
+    "positive": [
+      "a photo of a octopus."
+    ],
+    "negative": [
+      "this is not a photo of a octopus."
+    ],
+    "deepLow": [
+      "octopus with mottled brown skin, eight curling tentacles, bulbous head, and suction cup rows"
+    ],
+    "ori": [
+      "a photo of a octopus."
+    ],
+    "deepHigh": [
+      "The octopus is marine animal with eight flexible arms and a bulbous head."
+    ]
+  },
+  "okapi": {
+    "positive": [
+      "a photo of a okapi."
+    ],
+    "negative": [
+      "this is not a photo of a okapi."
+    ],
+    "deepLow": [
+      "okapi with dark brown fur, white striped legs, large ears, and long neck, standing in forest."
+    ],
+    "ori": [
+      "a photo of a okapi."
+    ],
+    "deepHigh": [
+      "The okapi is a forest-dwelling mammal with striped legs and a long, dark tongue."
+    ]
+  },
+  "pagoda": {
+    "positive": [
+      "a photo of a pagoda."
+    ],
+    "negative": [
+      "this is not a photo of a pagoda."
+    ],
+    "deepLow": [
+      "pagoda with tiered roofs, curved eaves, red wooden beams, intricate carvings, and golden finial"
+    ],
+    "ori": [
+      "a photo of a pagoda."
+    ],
+    "deepHigh": [
+      "The pagoda is tiered tower with multiple eaves."
+    ]
+  },
+  "panda": {
+    "positive": [
+      "a photo of a panda."
+    ],
+    "negative": [
+      "this is not a photo of a panda."
+    ],
+    "deepLow": [
+      "panda, black and white fur, round face, dark eye patches, chubby body, bamboo in paws"
+    ],
+    "ori": [
+      "a photo of a panda."
+    ],
+    "deepHigh": [
+      "The panda is large bear with black and white fur patches."
+    ]
+  },
+  "pigeon": {
+    "positive": [
+      "a photo of a pigeon."
+    ],
+    "negative": [
+      "this is not a photo of a pigeon."
+    ],
+    "deepLow": [
+      "pigeon, gray feathers, iridescent neck, round body, pink feet, short beak"
+    ],
+    "ori": [
+      "a photo of a pigeon."
+    ],
+    "deepHigh": [
+      "The pigeon is plump bird with small head and iridescent neck feathers."
+    ]
+  },
+  "pizza": {
+    "positive": [
+      "a photo of a pizza."
+    ],
+    "negative": [
+      "this is not a photo of a pizza."
+    ],
+    "deepLow": [
+      "pizza with golden crust, melted cheese, red tomato sauce, pepperoni slices, bubbly surface"
+    ],
+    "ori": [
+      "a photo of a pizza."
+    ],
+    "deepHigh": [
+      "The pizza is round flatbread with melted cheese and toppings."
+    ]
+  },
+  "platypus": {
+    "positive": [
+      "a photo of a platypus."
+    ],
+    "negative": [
+      "this is not a photo of a platypus."
+    ],
+    "deepLow": [
+      "platypus with brown fur, duck-like bill, webbed feet, flat tail, dark eyes"
+    ],
+    "ori": [
+      "a photo of a platypus."
+    ],
+    "deepHigh": [
+      "The platypus is a semi-aquatic mammal with a duck-like bill, webbed feet, and a beaver-like tail."
+    ]
+  },
+  "pyramid": {
+    "positive": [
+      "a photo of a pyramid."
+    ],
+    "negative": [
+      "this is not a photo of a pyramid."
+    ],
+    "deepLow": [
+      "pyramid, triangular stone structure, sandy beige color, smooth weathered surface, stepped layers, surrounded by desert"
+    ],
+    "ori": [
+      "a photo of a pyramid."
+    ],
+    "deepHigh": [
+      "The pyramid is monumental structure with triangular sides converging at an apex."
+    ]
+  },
+  "revolver": {
+    "positive": [
+      "a photo of a revolver."
+    ],
+    "negative": [
+      "this is not a photo of a revolver."
+    ],
+    "deepLow": [
+      "revolver with metallic silver barrel, wooden grip, cylindrical chambers, and dark trigger, on a black background"
+    ],
+    "ori": [
+      "a photo of a revolver."
+    ],
+    "deepHigh": [
+      "The revolver is a handgun with a rotating cylinder."
+    ]
+  },
+  "rhino": {
+    "positive": [
+      "a photo of a rhino."
+    ],
+    "negative": [
+      "this is not a photo of a rhino."
+    ],
+    "deepLow": [
+      "rhino, thick gray hide, large curved horn, wrinkled skin, short legs, rounded body"
+    ],
+    "ori": [
+      "a photo of a rhino."
+    ],
+    "deepHigh": [
+      "The rhino is large mammal with thick gray skin and a prominent horn on its snout."
+    ]
+  },
+  "rooster": {
+    "positive": [
+      "a photo of a rooster."
+    ],
+    "negative": [
+      "this is not a photo of a rooster."
+    ],
+    "deepLow": [
+      "rooster with vibrant red comb, glossy green-black tail feathers, golden-brown plumage, sharp yellow beak, and scaly orange legs"
+    ],
+    "ori": [
+      "a photo of a rooster."
+    ],
+    "deepHigh": [
+      "The rooster is a male chicken with a prominent red comb and wattles."
+    ]
+  },
+  "saxophone": {
+    "positive": [
+      "a photo of a saxophone."
+    ],
+    "negative": [
+      "this is not a photo of a saxophone."
+    ],
+    "deepLow": [
+      "shiny brass saxophone, curved body, black keys, golden reflections, smooth metal surface"
+    ],
+    "ori": [
+      "a photo of a saxophone."
+    ],
+    "deepHigh": [
+      "The saxophone is brass instrument with a curved body and keys."
+    ]
+  },
+  "schooner": {
+    "positive": [
+      "a photo of a schooner."
+    ],
+    "negative": [
+      "this is not a photo of a schooner."
+    ],
+    "deepLow": [
+      "schooner with white sails, wooden hull, blue trim, tall masts, and rigging lines"
+    ],
+    "ori": [
+      "a photo of a schooner."
+    ],
+    "deepHigh": [
+      "The schooner is sailing vessel with multiple masts and fore-and-aft rigged sails."
+    ]
+  },
+  "scissors": {
+    "positive": [
+      "a photo of a scissors."
+    ],
+    "negative": [
+      "this is not a photo of a scissors."
+    ],
+    "deepLow": [
+      "scissors, silver metal blades, black plastic handles, pointed tips, smooth texture"
+    ],
+    "ori": [
+      "a photo of a scissors."
+    ],
+    "deepHigh": [
+      "The scissors is cutting tool with two pivoting blades."
+    ]
+  },
+  "scorpion": {
+    "positive": [
+      "a photo of a scorpion."
+    ],
+    "negative": [
+      "this is not a photo of a scorpion."
+    ],
+    "deepLow": [
+      "scorpion with dark brown exoskeleton, curved tail with stinger, segmented body, pincers, rough textured legs"
+    ],
+    "ori": [
+      "a photo of a scorpion."
+    ],
+    "deepHigh": [
+      "The scorpion is arachnid with a segmented tail ending in a venomous stinger."
+    ]
+  },
+  "sea horse": {
+    "positive": [
+      "a photo of a sea horse."
+    ],
+    "negative": [
+      "this is not a photo of a sea horse."
+    ],
+    "deepLow": [
+      "sea horse with curled tail, bumpy texture, orange and white stripes, small dorsal fin, horse-like snout"
+    ],
+    "ori": [
+      "a photo of a sea horse."
+    ],
+    "deepHigh": [
+      "The sea horse is small marine fish with a horse-like head and curled tail."
+    ]
+  },
+  "snoopy": {
+    "positive": [
+      "a photo of a snoopy."
+    ],
+    "negative": [
+      "this is not a photo of a snoopy."
+    ],
+    "deepLow": [
+      "snoopy, white fur with black spots, floppy ears, red collar, round black nose, sitting on doghouse"
+    ],
+    "ori": [
+      "a photo of a snoopy."
+    ],
+    "deepHigh": [
+      "The snoopy is white beagle with black ears and expressive eyes."
+    ]
+  },
+  "soccer ball": {
+    "positive": [
+      "a photo of a soccer ball."
+    ],
+    "negative": [
+      "this is not a photo of a soccer ball."
+    ],
+    "deepLow": [
+      "soccer ball, black and white pentagon pattern, glossy surface, stitched panels, inflated spherical shape"
+    ],
+    "ori": [
+      "a photo of a soccer ball."
+    ],
+    "deepHigh": [
+      "The soccer ball is spherical object with black and white pentagonal panels."
+    ]
+  },
+  "stapler": {
+    "positive": [
+      "a photo of a stapler."
+    ],
+    "negative": [
+      "this is not a photo of a stapler."
+    ],
+    "deepLow": [
+      "stapler, metallic silver body, black rubber grip, rectangular shape, shiny finish, sliding metal base"
+    ],
+    "ori": [
+      "a photo of a stapler."
+    ],
+    "deepHigh": [
+      "The stapler is a desktop device with a metal striking mechanism and a base for holding papers."
+    ]
+  },
+  "starfish": {
+    "positive": [
+      "a photo of a starfish."
+    ],
+    "negative": [
+      "this is not a photo of a starfish."
+    ],
+    "deepLow": [
+      "starfish, five-pointed shape, orange-red hue, bumpy texture, tiny white spines, sandy base"
+    ],
+    "ori": [
+      "a photo of a starfish."
+    ],
+    "deepHigh": [
+      "The starfish is marine animal with five arms and radial symmetry."
+    ]
+  },
+  "stegosaurus": {
+    "positive": [
+      "a photo of a stegosaurus."
+    ],
+    "negative": [
+      "this is not a photo of a stegosaurus."
+    ],
+    "deepLow": [
+      "stegosaurus, large bony plates on back, spiked tail, gray-green scaly skin, short front legs"
+    ],
+    "ori": [
+      "a photo of a stegosaurus."
+    ],
+    "deepHigh": [
+      "The stegosaurus is large dinosaur with distinctive plates along its back and spikes on its tail."
+    ]
+  },
+  "stop sign": {
+    "positive": [
+      "a photo of a stop sign."
+    ],
+    "negative": [
+      "this is not a photo of a stop sign."
+    ],
+    "deepLow": [
+      "stop sign, bright red octagon, white bold letters, reflective surface, metal pole"
+    ],
+    "ori": [
+      "a photo of a stop sign."
+    ],
+    "deepHigh": [
+      "The stop sign is octagonal traffic signal with red background and white letters."
+    ]
+  },
+  "strawberry": {
+    "positive": [
+      "a photo of a strawberry."
+    ],
+    "negative": [
+      "this is not a photo of a strawberry."
+    ],
+    "deepLow": [
+      "strawberry, bright red skin, tiny yellow seeds, green leafy cap, heart-shaped, glossy surface."
+    ],
+    "ori": [
+      "a photo of a strawberry."
+    ],
+    "deepHigh": [
+      "The strawberry is red fruit with a green leafy cap and dimpled surface."
+    ]
+  },
+  "sunflower": {
+    "positive": [
+      "a photo of a sunflower."
+    ],
+    "negative": [
+      "this is not a photo of a sunflower."
+    ],
+    "deepLow": [
+      "sunflower with bright yellow petals, dark brown center, tall green stem, rough textured leaves, facing sunlight"
+    ],
+    "ori": [
+      "a photo of a sunflower."
+    ],
+    "deepHigh": [
+      "The sunflower is tall plant with large yellow petals and dark center."
+    ]
+  },
+  "tick": {
+    "positive": [
+      "a photo of a tick."
+    ],
+    "negative": [
+      "this is not a photo of a tick."
+    ],
+    "deepLow": [
+      "tick, small oval body, dark brown color, eight thin legs, hard shiny exoskeleton, tiny head"
+    ],
+    "ori": [
+      "a photo of a tick."
+    ],
+    "deepHigh": [
+      "The tick is small arachnid with eight legs and a rounded body."
+    ]
+  },
+  "trilobite": {
+    "positive": [
+      "a photo of a trilobite."
+    ],
+    "negative": [
+      "this is not a photo of a trilobite."
+    ],
+    "deepLow": [
+      "trilobite, segmented exoskeleton, brown and black mottled pattern, curved ridges, fossilized texture"
+    ],
+    "ori": [
+      "a photo of a trilobite."
+    ],
+    "deepHigh": [
+      "The trilobite is prehistoric marine arthropod with a segmented body and three longitudinal lobes."
+    ]
+  },
+  "umbrella": {
+    "positive": [
+      "a photo of a umbrella."
+    ],
+    "negative": [
+      "this is not a photo of a umbrella."
+    ],
+    "deepLow": [
+      "umbrella, black canopy, wooden curved handle, silver metal ribs, polka dot pattern"
+    ],
+    "ori": [
+      "a photo of a umbrella."
+    ],
+    "deepHigh": [
+      "The umbrella is collapsible canopy with a central shaft and ribs."
+    ]
+  },
+  "watch": {
+    "positive": [
+      "a photo of a watch."
+    ],
+    "negative": [
+      "this is not a photo of a watch."
+    ],
+    "deepLow": [
+      "watch with silver metal band, black circular face, minimalist hour markers, glossy finish, slim profile"
+    ],
+    "ori": [
+      "a photo of a watch."
+    ],
+    "deepHigh": [
+      "The watch is timekeeping device with circular face and wrist strap."
+    ]
+  },
+  "water lilly": {
+    "positive": [
+      "a photo of a water lilly."
+    ],
+    "negative": [
+      "this is not a photo of a water lilly."
+    ],
+    "deepLow": [
+      "water lilly with white-pink petals, round floating leaves, yellow stamen cluster, glossy surface, green lily pads"
+    ],
+    "ori": [
+      "a photo of a water lilly."
+    ],
+    "deepHigh": [
+      "The water lily is aquatic plant with large floating leaves and showy flowers."
+    ]
+  },
+  "wheelchair": {
+    "positive": [
+      "a photo of a wheelchair."
+    ],
+    "negative": [
+      "this is not a photo of a wheelchair."
+    ],
+    "deepLow": [
+      "wheelchair with black padded seat, silver metal frame, large rear wheels, small front casters, and armrests"
+    ],
+    "ori": [
+      "a photo of a wheelchair."
+    ],
+    "deepHigh": [
+      "The wheelchair is mobility device with two large rear wheels and a small front caster."
+    ]
+  },
+  "wild cat": {
+    "positive": [
+      "a photo of a wild cat."
+    ],
+    "negative": [
+      "this is not a photo of a wild cat."
+    ],
+    "deepLow": [
+      "wild cat, golden fur with black rosettes, muscular build, piercing yellow eyes, long tail"
+    ],
+    "ori": [
+      "a photo of a wild cat."
+    ],
+    "deepHigh": [
+      "The wild cat is a medium-sized feline with a muscular body, sharp claws, and distinctive fur patterns."
+    ]
+  },
+  "windsor chair": {
+    "positive": [
+      "a photo of a windsor chair."
+    ],
+    "negative": [
+      "this is not a photo of a windsor chair."
+    ],
+    "deepLow": [
+      "windsor chair, curved spindle back, smooth wooden legs, dark walnut finish, woven rush seat, turned armrests"
+    ],
+    "ori": [
+      "a photo of a windsor chair."
+    ],
+    "deepHigh": [
+      "The windsor chair is wooden seat with a solid back formed by multiple thin spindles."
+    ]
+  },
+  "wrench": {
+    "positive": [
+      "a photo of a wrench."
+    ],
+    "negative": [
+      "this is not a photo of a wrench."
+    ],
+    "deepLow": [
+      "wrench, metallic silver finish, textured rubber grip, L-shaped handle, chrome-plated steel, adjustable jaw"
+    ],
+    "ori": [
+      "a photo of a wrench."
+    ],
+    "deepHigh": [
+      "The wrench is metal hand tool with a fixed or adjustable jaw."
+    ]
+  },
+  "yin yang": {
+    "positive": [
+      "a photo of a yin yang."
+    ],
+    "negative": [
+      "this is not a photo of a yin yang."
+    ],
+    "deepLow": [
+      "yin yang, black and white swirl, smooth ceramic surface, circular shape, contrasting dots"
+    ],
+    "ori": [
+      "a photo of a yin yang."
+    ],
+    "deepHigh": [
+      "The yin yang is circular symbol with interlocking black and white teardrops."
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+# 自动识别文本文件
+* text=auto
+
+# Shell脚本必须保留Linux的LF换行
+*.sh text eol=lf
+
+# Python和配置文件统一使用LF
+*.py text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# 二进制文件不进行换行转换
+*.gz binary

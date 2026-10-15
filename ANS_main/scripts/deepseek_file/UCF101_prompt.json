@@ -1,0 +1,1921 @@
+{
+  "Apply Eye Makeup": {
+    "positive": [
+      "This video shows someone applying eye makeup carefully and skillfully.",
+      "The person in the video is applying eye makeup to enhance their eyes."
+    ],
+    "negative": [
+      "This video does not show anyone applying eye makeup.",
+      "This is definitely not a video of applying eye makeup."
+    ],
+    "deepLow": [
+      "Apply Eye Makeup, black eyeliner, shimmering gold eyeshadow, curved wing tip, soft blending brush, glossy finish"
+    ],
+    "ori": [
+      "a photo of a person doing Apply Eye Makeup."
+    ],
+    "deepHigh": [
+      "The Apply Eye Makeup is enhancing eyelids and lashes using brushes and cosmetic products."
+    ]
+  },
+  "Apply Lipstick": {
+    "positive": [
+      "This video captures someone applying lipstick to their lips.",
+      "The person is putting on lipstick as part of their makeup routine."
+    ],
+    "negative": [
+      "This video is not showing anyone applying lipstick.",
+      "This is definitely not a video of applying lipstick."
+    ],
+    "deepLow": [
+      "Apply Lipstick, glossy red tube, metallic gold cap, smooth texture, pointed tip"
+    ],
+    "ori": [
+      "a photo of a person doing Apply Lipstick."
+    ],
+    "deepHigh": [
+      "The Apply Lipstick is coloring lips with lipstick tube and precise hand movements."
+    ]
+  },
+  "Archery": {
+    "positive": [
+      "This video shows a person practicing archery by shooting arrows with a bow.",
+      "The person is aiming and releasing arrows at a target in archery."
+    ],
+    "negative": [
+      "This video does not show any archery activity.",
+      "This is definitely not a video of archery."
+    ],
+    "deepLow": [
+      "Archery with curved wooden bow, taut bowstring, feathered arrows, target bullseye, leather arm guard"
+    ],
+    "ori": [
+      "a photo of a person doing Archery."
+    ],
+    "deepHigh": [
+      "The Archery is drawing bowstring and releasing arrow toward target."
+    ]
+  },
+  "Baby Crawling": {
+    "positive": [
+      "This video captures a baby crawling on the floor.",
+      "The baby is moving around by crawling in this video."
+    ],
+    "negative": [
+      "This video does not show a baby crawling.",
+      "This is definitely not a video of baby crawling."
+    ],
+    "deepLow": [
+      "Baby Crawling, chubby arms, soft cotton onesie, patterned rug, bright socks, curious expression"
+    ],
+    "ori": [
+      "a photo of a person doing Baby Crawling."
+    ],
+    "deepHigh": [
+      "The Baby Crawling is moving forward on hands and knees with alternating limb coordination."
+    ]
+  },
+  "Balance Beam": {
+    "positive": [
+      "This video shows a gymnast performing on a balance beam.",
+      "The person is balancing and executing moves on a balance beam."
+    ],
+    "negative": [
+      "This video does not show a balance beam performance.",
+      "This is definitely not a video of balance beam gymnastics."
+    ],
+    "deepLow": [
+      "Balance Beam, long narrow wooden beam, white padded surface, blue stripes on ends, elevated on metal stands"
+    ],
+    "ori": [
+      "a photo of a person doing Balance Beam."
+    ],
+    "deepHigh": [
+      "The Balance Beam is performing gymnastic routines on a narrow elevated beam."
+    ]
+  },
+  "Band Marching": {
+    "positive": [
+      "This video captures a marching band performing in formation.",
+      "The band members are marching and playing instruments."
+    ],
+    "negative": [
+      "This video does not show a band marching.",
+      "This is definitely not a video of a marching band."
+    ],
+    "deepLow": [
+      "Band Marching with shiny brass instruments, colorful plumed hats, crisp white uniforms, black marching boots, and synchronized formations  \n\n(6X prefix token count: 25)"
+    ],
+    "ori": [
+      "a photo of a person doing Band Marching."
+    ],
+    "deepHigh": [
+      "The Band Marching is playing musical instruments while stepping in synchronized formation."
+    ]
+  },
+  "Baseball Pitch": {
+    "positive": [
+      "This video shows a baseball player pitching the ball.",
+      "The pitcher is throwing a baseball towards the batter."
+    ],
+    "negative": [
+      "This video does not show a baseball pitch.",
+      "This is definitely not a video of baseball pitching."
+    ],
+    "deepLow": [
+      "Baseball Pitch with white rubber mound, red clay infield, green grassy outfield, and white chalk foul lines"
+    ],
+    "ori": [
+      "a photo of a person doing Baseball Pitch."
+    ],
+    "deepHigh": [
+      "The Baseball Pitch is throwing a ball with windup, release, and follow-through."
+    ]
+  },
+  "Basketball": {
+    "positive": [
+      "This video captures a basketball game or players dribbling and shooting the ball.",
+      "The players are actively playing basketball on a court."
+    ],
+    "negative": [
+      "This video does not show any basketball activity.",
+      "This is definitely not a video of basketball."
+    ],
+    "deepLow": [
+      "Basketball, orange with black ribs, pebbled texture, spherical shape, rubber material"
+    ],
+    "ori": [
+      "a photo of a person doing Basketball."
+    ],
+    "deepHigh": [
+      "The Basketball is dribbling and shooting the ball through a hoop."
+    ]
+  },
+  "Basketball Dunk": {
+    "positive": [
+      "This video shows a player performing a basketball dunk by jumping and slamming the ball into the hoop.",
+      "The person is executing a slam dunk during a basketball game."
+    ],
+    "negative": [
+      "This video does not show a basketball dunk.",
+      "This is definitely not a video of a basketball dunk."
+    ],
+    "deepLow": [
+      "Basketball Dunk, orange leather ball, black net, player mid-air, sweat glistening, wooden backboard"
+    ],
+    "ori": [
+      "a photo of a person doing Basketball Dunk."
+    ],
+    "deepHigh": [
+      "The Basketball Dunk is jumping high to forcefully thrust the ball through the hoop."
+    ]
+  },
+  "Bench Press": {
+    "positive": [
+      "This video shows a person performing the bench press exercise by lifting weights while lying on a bench.",
+      "The individual is pressing a barbell upwards in a bench press workout."
+    ],
+    "negative": [
+      "This video does not show a bench press exercise.",
+      "This is definitely not a video of bench pressing."
+    ],
+    "deepLow": [
+      "Bench Press with black padded bench, silver metal frame, rubber grip handles, and adjustable weight rack, in a gym setting  \n\n(6X prefix token count: 22)"
+    ],
+    "ori": [
+      "a photo of a person doing Bench Press."
+    ],
+    "deepHigh": [
+      "The Bench Press is lifting barbell from chest to full arm extension while lying on bench."
+    ]
+  },
+  "Biking": {
+    "positive": [
+      "This video shows a person riding a bike outdoors or on a track.",
+      "The individual is biking for exercise or transportation."
+    ],
+    "negative": [
+      "This video does not show any biking activity.",
+      "This is definitely not a video of biking."
+    ],
+    "deepLow": [
+      "Biking, sleek silver frame, black rubber tires, padded blue seat, reflective stripes, metallic handlebars"
+    ],
+    "ori": [
+      "a photo of a person doing Biking."
+    ],
+    "deepHigh": [
+      "The Biking is pedaling a two-wheeled vehicle while maintaining balance and steering."
+    ]
+  },
+  "Billiards": {
+    "positive": [
+      "This video captures a person playing billiards or pool on a table.",
+      "The player is aiming and striking balls in a billiards game."
+    ],
+    "negative": [
+      "This video does not show billiards being played.",
+      "This is definitely not a video of billiards."
+    ],
+    "deepLow": [
+      "Billiards with green felt surface, wooden rails, colorful numbered balls, and triangular rack formation  \n\n(6X prefix token count: 19)"
+    ],
+    "ori": [
+      "a photo of a person doing Billiards."
+    ],
+    "deepHigh": [
+      "The Billiards is striking balls with cue stick using precise aim and controlled force."
+    ]
+  },
+  "Blow Dry Hair": {
+    "positive": [
+      "This video shows someone blow drying their hair with a hair dryer.",
+      "The person is styling their hair using a blow dryer."
+    ],
+    "negative": [
+      "This video does not show blow drying hair.",
+      "This is definitely not a video of blow drying hair."
+    ],
+    "deepLow": [
+      "Blow Dry Hair, shiny black strands, sleek texture, rounded curls, silver hairdryer, warm airflow"
+    ],
+    "ori": [
+      "a photo of a person doing Blow Dry Hair."
+    ],
+    "deepHigh": [
+      "The Blow Dry Hair is styling hair with heated airflow and brush."
+    ]
+  },
+  "Blowing Candles": {
+    "positive": [
+      "This video captures a person blowing out candles on a cake or similar object.",
+      "The person is blowing candles in a celebratory context."
+    ],
+    "negative": [
+      "This video does not show blowing candles.",
+      "This is definitely not a video of blowing candles."
+    ],
+    "deepLow": [
+      "Blowing Candles, golden wax, flickering flames, round cake base, colorful frosting, smoky wisps (6X)"
+    ],
+    "ori": [
+      "a photo of a person doing Blowing Candles."
+    ],
+    "deepHigh": [
+      "The Blowing Candles is extinguishing flames with exhaled breath."
+    ]
+  },
+  "Body Weight Squats": {
+    "positive": [
+      "This video shows a person performing body weight squats without any additional weights.",
+      "The individual is exercising by doing squats using their own body weight."
+    ],
+    "negative": [
+      "This video does not show body weight squats.",
+      "This is definitely not a video of body weight squats."
+    ],
+    "deepLow": [
+      "Body Weight Squats, muscular legs bending, hands forward, tight workout clothes, sneakers on hardwood floor"
+    ],
+    "ori": [
+      "a photo of a person doing Body Weight Squats."
+    ],
+    "deepHigh": [
+      "The Body Weight Squats is lowering and raising the body by bending knees and hips."
+    ]
+  },
+  "Bowling": {
+    "positive": [
+      "This video shows a person bowling a ball down a lane to knock down pins.",
+      "The individual is playing bowling, aiming to score strikes or spares."
+    ],
+    "negative": [
+      "This video does not show bowling activity.",
+      "This is definitely not a video of bowling."
+    ],
+    "deepLow": [
+      "Bowling, shiny polished wood lanes, colorful neon pins, glossy bowling balls with finger holes, black rubber gutters, bright overhead lights  \n\n(6X prefix token count: 28)"
+    ],
+    "ori": [
+      "a photo of a person doing Bowling."
+    ],
+    "deepHigh": [
+      "The Bowling is rolling ball down lane to knock down pins."
+    ]
+  },
+  "Boxing Punching Bag": {
+    "positive": [
+      "This video captures a person practicing boxing by hitting a punching bag.",
+      "The individual is training boxing skills using a heavy bag."
+    ],
+    "negative": [
+      "This video does not show boxing with a punching bag.",
+      "This is definitely not a video of boxing on a punching bag."
+    ],
+    "deepLow": [
+      "Boxing Punching Bag, black synthetic leather, cylindrical shape, white stitching, hanging chain, padded base"
+    ],
+    "ori": [
+      "a photo of a person doing Boxing Punching Bag."
+    ],
+    "deepHigh": [
+      "The Boxing Punching Bag is striking a suspended cylindrical bag with gloved fists."
+    ]
+  },
+  "Boxing Speed Bag": {
+    "positive": [
+      "This video shows a person using a speed bag to practice boxing reflexes and speed.",
+      "The boxer is training hand speed by punching a speed bag."
+    ],
+    "negative": [
+      "This video does not show boxing with a speed bag.",
+      "This is definitely not a video of a speed bag workout."
+    ],
+    "deepLow": [
+      "Boxing Speed Bag, black leather, cylindrical shape, white logo, hanging chains, smooth texture"
+    ],
+    "ori": [
+      "a photo of a person doing Boxing Speed Bag."
+    ],
+    "deepHigh": [
+      "The Boxing Speed Bag is rhythmically striking the small punching bag with alternating fists."
+    ]
+  },
+  "Breast Stroke": {
+    "positive": [
+      "This video captures a swimmer performing the breaststroke swimming style.",
+      "The person is swimming using the breaststroke technique."
+    ],
+    "negative": [
+      "This video does not show the breaststroke swimming style.",
+      "This is definitely not a video of breaststroke swimming."
+    ],
+    "deepLow": [
+      "Breast Stroke, blue water ripples, arched arms, kicking legs, smooth motion, swimmer in motion"
+    ],
+    "ori": [
+      "a photo of a person doing Breast Stroke."
+    ],
+    "deepHigh": [
+      "The Breast Stroke is swimming with simultaneous arm pulls and frog-like leg kicks."
+    ]
+  },
+  "Brushing Teeth": {
+    "positive": [
+      "This video shows someone brushing their teeth with a toothbrush.",
+      "The person is maintaining dental hygiene by brushing teeth."
+    ],
+    "negative": [
+      "This video does not show tooth brushing.",
+      "This is definitely not a video of brushing teeth."
+    ],
+    "deepLow": [
+      "Brushing Teeth with white toothpaste foam, blue toothbrush handle, circular bristles, reflective bathroom mirror, ceramic sink"
+    ],
+    "ori": [
+      "a photo of a person doing Brushing Teeth."
+    ],
+    "deepHigh": [
+      "The Brushing Teeth is scrubbing teeth with a toothbrush using back-and-forth motions."
+    ]
+  },
+  "Clean And Jerk": {
+    "positive": [
+      "This video captures an athlete performing the clean and jerk weightlifting exercise.",
+      "The person is lifting a barbell overhead using the clean and jerk technique."
+    ],
+    "negative": [
+      "This video does not show a clean and jerk lift.",
+      "This is definitely not a video of clean and jerk weightlifting."
+    ],
+    "deepLow": [
+      "Clean And Jerk with silver barbell, black rubber plates, chalked hands, muscular athlete, wooden lifting platform"
+    ],
+    "ori": [
+      "a photo of a person doing Clean And Jerk."
+    ],
+    "deepHigh": [
+      "The Clean And Jerk is lifting barbell from floor to shoulders then overhead in two explosive movements."
+    ]
+  },
+  "Cliff Diving": {
+    "positive": [
+      "This video shows a person diving off a cliff into water below.",
+      "The individual is performing an extreme cliff diving jump."
+    ],
+    "negative": [
+      "This video does not show cliff diving activity.",
+      "This is definitely not a video of cliff diving."
+    ],
+    "deepLow": [
+      "Cliff Diving, jagged rocks, turquoise water, steep drop, spray mist, golden sunlight"
+    ],
+    "ori": [
+      "a photo of a person doing Cliff Diving."
+    ],
+    "deepHigh": [
+      "The Cliff Diving is jumping from height into water with controlled body position."
+    ]
+  },
+  "Cricket Bowling": {
+    "positive": [
+      "This video captures a cricket player bowling the ball towards the batsman.",
+      "The bowler is delivering the ball in a cricket match."
+    ],
+    "negative": [
+      "This video does not show cricket bowling.",
+      "This is definitely not a video of bowling in cricket."
+    ],
+    "deepLow": [
+      "Cricket Bowling, white leather ball with red stitching, green pitch, bowler in white uniform, bent arm action, shiny metal stumps"
+    ],
+    "ori": [
+      "a photo of a person doing Cricket Bowling."
+    ],
+    "deepHigh": [
+      "The Cricket Bowling is propelling the ball toward batsman with run-up and delivery action."
+    ]
+  },
+  "Cricket Shot": {
+    "positive": [
+      "This video shows a cricket player playing a shot by hitting the ball with the bat.",
+      "The batsman is striking the ball in a cricket game."
+    ],
+    "negative": [
+      "This video does not show a cricket shot.",
+      "This is definitely not a video of batting in cricket."
+    ],
+    "deepLow": [
+      "Cricket Shot with white cricket bat, green pitch, blue sky, dynamic swing motion, player in white uniform  \n\n(6X prefix token count: 19)"
+    ],
+    "ori": [
+      "a photo of a person doing Cricket Shot."
+    ],
+    "deepHigh": [
+      "The Cricket Shot is striking the ball with a bat using a specific stance and swing technique."
+    ]
+  },
+  "Cutting In Kitchen": {
+    "positive": [
+      "This video captures a person cutting vegetables or food items in a kitchen.",
+      "The individual is preparing food by chopping ingredients."
+    ],
+    "negative": [
+      "This video does not show cutting food in a kitchen.",
+      "This is definitely not a video of cutting in the kitchen."
+    ],
+    "deepLow": [
+      "Cutting In Kitchen with white ceramic knife, wooden cutting board, fresh green herbs, stainless steel bowl, and scattered vegetable scraps  \n\n(6X prefix token count: 23)"
+    ],
+    "ori": [
+      "a photo of a person doing Cutting In Kitchen."
+    ],
+    "deepHigh": [
+      "The Cutting In Kitchen is slicing food items with knife on cutting board."
+    ]
+  },
+  "Diving": {
+    "positive": [
+      "This video shows a person diving into a pool or body of water.",
+      "The individual is performing a dive from a platform or springboard."
+    ],
+    "negative": [
+      "This video does not show diving activity.",
+      "This is definitely not a video of diving."
+    ],
+    "deepLow": [
+      "Diving, blue wetsuit, silver oxygen tank, black flippers, underwater bubbles, coral reef backdrop"
+    ],
+    "ori": [
+      "a photo of a person doing Diving."
+    ],
+    "deepHigh": [
+      "The Diving is leaping from platform into water with controlled body position."
+    ]
+  },
+  "Drumming": {
+    "positive": [
+      "This video captures a person playing drums or a drum kit.",
+      "The individual is performing percussion on a drum set."
+    ],
+    "negative": [
+      "This video does not show drumming.",
+      "This is definitely not a video of drumming."
+    ],
+    "deepLow": [
+      "Drumming with wooden drumsticks, black drumheads, silver cymbals, textured drum shells, and dynamic hand movements"
+    ],
+    "ori": [
+      "a photo of a person doing Drumming."
+    ],
+    "deepHigh": [
+      "The Drumming is striking percussion instruments with sticks in rhythmic patterns."
+    ]
+  },
+  "Fencing": {
+    "positive": [
+      "This video shows two people fencing with swords in a match or practice.",
+      "The fencers are engaging in a competitive or training bout."
+    ],
+    "negative": [
+      "This video does not show fencing activity.",
+      "This is definitely not a video of fencing."
+    ],
+    "deepLow": [
+      "Fencing, metal mesh panels, silver-gray color, diamond pattern, vertical posts, chain-link texture  \n\n(6X prefix token count: 12)"
+    ],
+    "ori": [
+      "a photo of a person doing Fencing."
+    ],
+    "deepHigh": [
+      "The Fencing is thrusting and parrying with a sword while maintaining footwork."
+    ]
+  },
+  "Field Hockey Penalty": {
+    "positive": [
+      "This video captures a field hockey player taking a penalty shot.",
+      "The player is attempting to score from a penalty in field hockey."
+    ],
+    "negative": [
+      "This video does not show a field hockey penalty.",
+      "This is definitely not a video of a penalty in field hockey."
+    ],
+    "deepLow": [
+      "Field Hockey Penalty, green turf background, white penalty spot, player in colored jersey, raised hockey stick, referee signaling"
+    ],
+    "ori": [
+      "a photo of a person doing Field Hockey Penalty."
+    ],
+    "deepHigh": [
+      "The Field Hockey Penalty is striking the ball from the penalty spot into the goal."
+    ]
+  },
+  "Floor Gymnastics": {
+    "positive": [
+      "This video shows a gymnast performing floor exercises.",
+      "The person is executing acrobatic and dance moves on the gymnastics floor."
+    ],
+    "negative": [
+      "This video does not show floor gymnastics.",
+      "This is definitely not a video of gymnastics on the floor."
+    ],
+    "deepLow": [
+      "Floor Gymnastics, blue padded mat, white boundary lines, dynamic motion blur, gymnast mid-flip, sleek spandex attire"
+    ],
+    "ori": [
+      "a photo of a person doing Floor Gymnastics."
+    ],
+    "deepHigh": [
+      "The Floor Gymnastics is performing acrobatic and dance elements on a mat with tumbling passes."
+    ]
+  },
+  "Frisbee Catch": {
+    "positive": [
+      "This video captures a person catching a frisbee in the air.",
+      "The individual is playing frisbee by catching the flying disc."
+    ],
+    "negative": [
+      "This video does not show frisbee catching.",
+      "This is definitely not a video of catching a frisbee."
+    ],
+    "deepLow": [
+      "Frisbee Catch, bright neon disc, mid-air motion, outstretched hands, grassy field, sunny backdrop"
+    ],
+    "ori": [
+      "a photo of a person doing Frisbee Catch."
+    ],
+    "deepHigh": [
+      "The Frisbee Catch is receiving a flying disc with hand grasp and body positioning."
+    ]
+  },
+  "Front Crawl": {
+    "positive": [
+      "This video shows a swimmer performing the front crawl swimming style.",
+      "The individual is swimming using the freestyle/front crawl technique."
+    ],
+    "negative": [
+      "This video does not show front crawl swimming.",
+      "This is definitely not a video of front crawl swimming."
+    ],
+    "deepLow": [
+      "Front Crawl, blue water ripples, stretched arms, splashing droplets, streamlined body, swim cap"
+    ],
+    "ori": [
+      "a photo of a person doing Front Crawl."
+    ],
+    "deepHigh": [
+      "The Front Crawl is swimming with alternating arm strokes and flutter kicking."
+    ]
+  },
+  "Golf Swing": {
+    "positive": [
+      "This video captures a person swinging a golf club to hit a golf ball.",
+      "The individual is playing golf and performing a golf swing."
+    ],
+    "negative": [
+      "This video does not show a golf swing.",
+      "This is definitely not a video of golf swinging."
+    ],
+    "deepLow": [
+      "Golf Swing with bent knees, white glove, blue polo shirt, green grass background, wooden club"
+    ],
+    "ori": [
+      "a photo of a person doing Golf Swing."
+    ],
+    "deepHigh": [
+      "The Golf Swing is rotating the torso and arms to strike a ball with a club."
+    ]
+  },
+  "Haircut": {
+    "positive": [
+      "This video shows someone getting a haircut or trimming hair.",
+      "The individual is receiving hair styling or haircut services."
+    ],
+    "negative": [
+      "This video does not show a haircut.",
+      "This is definitely not a video of a haircut."
+    ],
+    "deepLow": [
+      "Haircut with short, spiky texture, platinum blonde color, faded sides, sharp angular lines, matte finish"
+    ],
+    "ori": [
+      "a photo of a person doing Haircut."
+    ],
+    "deepHigh": [
+      "The Haircut is trimming hair with scissors or clippers."
+    ]
+  },
+  "Hammering": {
+    "positive": [
+      "This video captures a person hammering nails or working with a hammer.",
+      "The individual is performing hammering work, possibly construction or carpentry."
+    ],
+    "negative": [
+      "This video does not show hammering activity.",
+      "This is definitely not a video of hammering."
+    ],
+    "deepLow": [
+      "Hammering with silver metal head, wooden handle, rough texture, circular nail impact marks, reflective surface"
+    ],
+    "ori": [
+      "a photo of a person doing Hammering."
+    ],
+    "deepHigh": [
+      "The Hammering is striking an object with a hammer using a swinging motion."
+    ]
+  },
+  "Hammer Throw": {
+    "positive": [
+      "This video shows an athlete performing the hammer throw event in athletics.",
+      "The person is spinning and throwing a heavy hammer in a track and field competition."
+    ],
+    "negative": [
+      "This video does not show hammer throw activity.",
+      "This is definitely not a video of hammer throw."
+    ],
+    "deepLow": [
+      "Hammer Throw with shiny metal ball, thick steel wire, textured grip handle, spinning motion, athlete in motion"
+    ],
+    "ori": [
+      "a photo of a person doing Hammer Throw."
+    ],
+    "deepHigh": [
+      "The Hammer Throw is rotating and releasing a weighted ball using a spinning technique."
+    ]
+  },
+  "Handstand Pushups": {
+    "positive": [
+      "This video shows a person performing handstand pushups for strength training.",
+      "The individual is doing pushups while balancing on their hands."
+    ],
+    "negative": [
+      "This video does not show handstand pushups.",
+      "This is definitely not a video of handstand pushups."
+    ],
+    "deepLow": [
+      "Handstand Pushups, muscular arms, tight grip on floor, inverted body, sweat droplets, gym mat texture (6X)"
+    ],
+    "ori": [
+      "a photo of a person doing Handstand Pushups."
+    ],
+    "deepHigh": [
+      "The Handstand Pushups is performing vertical pushups while inverted with hands on ground."
+    ]
+  },
+  "Handstand Walking": {
+    "positive": [
+      "This video captures a person walking on their hands, performing handstand walking.",
+      "The individual is balancing and moving forward on their hands."
+    ],
+    "negative": [
+      "This video does not show handstand walking.",
+      "This is definitely not a video of handstand walking."
+    ],
+    "deepLow": [
+      "Handstand Walking, muscular arms, inverted posture, tight workout clothes, balanced stance, gym floor background"
+    ],
+    "ori": [
+      "a photo of a person doing Handstand Walking."
+    ],
+    "deepHigh": [
+      "The Handstand Walking is moving forward while inverted on hands with alternating arm movements."
+    ]
+  },
+  "Head Massage": {
+    "positive": [
+      "This video shows someone receiving a relaxing head massage.",
+      "The individual is getting a massage focused on the head and scalp."
+    ],
+    "negative": [
+      "This video does not show a head massage.",
+      "This is definitely not a video of head massage."
+    ],
+    "deepLow": [
+      "Head Massage with warm oil, circular motions, soft fingertips, relaxed scalp, dim lighting"
+    ],
+    "ori": [
+      "a photo of a person doing Head Massage."
+    ],
+    "deepHigh": [
+      "The Head Massage is manipulating scalp and temples with rhythmic hand movements."
+    ]
+  },
+  "High Jump": {
+    "positive": [
+      "This video captures an athlete performing a high jump over a bar.",
+      "The person is attempting to clear the bar in the high jump track and field event."
+    ],
+    "negative": [
+      "This video does not show high jump activity.",
+      "This is definitely not a video of high jump."
+    ],
+    "deepLow": [
+      "High Jump with blue padded mat, silver metal bar, white upright poles, athlete mid-air, checkered landing area"
+    ],
+    "ori": [
+      "a photo of a person doing High Jump."
+    ],
+    "deepHigh": [
+      "The High Jump is clearing a horizontal bar using a running approach and arched back technique."
+    ]
+  },
+  "Horse Race": {
+    "positive": [
+      "This video shows a horse race with jockeys riding horses competitively.",
+      "The horses are running fast in a race event."
+    ],
+    "negative": [
+      "This video does not show horse racing.",
+      "This is definitely not a video of a horse race."
+    ],
+    "deepLow": [
+      "Horse Race, jockeys in colorful silks, muscular horses galloping, dirt track with flying dust, grandstand crowd cheering"
+    ],
+    "ori": [
+      "a photo of a person doing Horse Race."
+    ],
+    "deepHigh": [
+      "The Horse Race is horses running at high speed with jockeys mounted on their backs."
+    ]
+  },
+  "Horse Riding": {
+    "positive": [
+      "This video captures a person riding a horse leisurely or competitively.",
+      "The individual is horseback riding in an outdoor or indoor setting."
+    ],
+    "negative": [
+      "This video does not show horse riding.",
+      "This is definitely not a video of horse riding."
+    ],
+    "deepLow": [
+      "Horse Riding, brown leather saddle, black reins, muscular chestnut horse, grassy field backdrop"
+    ],
+    "ori": [
+      "a photo of a person doing Horse Riding."
+    ],
+    "deepHigh": [
+      "The Horse Riding is mounting and controlling a horse with reins and leg movements."
+    ]
+  },
+  "Hula Hoop": {
+    "positive": [
+      "This video shows a person spinning and playing with a hula hoop around their waist.",
+      "The individual is performing hula hoop tricks or exercise."
+    ],
+    "negative": [
+      "This video does not show hula hooping.",
+      "This is definitely not a video of hula hoop."
+    ],
+    "deepLow": [
+      "Hula Hoop, bright neon pink, glossy plastic surface, ribbed texture, lightweight circular shape"
+    ],
+    "ori": [
+      "a photo of a person doing Hula Hoop."
+    ],
+    "deepHigh": [
+      "The Hula Hoop is rotating a plastic ring around the body using hip movements."
+    ]
+  },
+  "Ice Dancing": {
+    "positive": [
+      "This video captures a pair performing ice dancing on an ice rink.",
+      "The dancers are gliding and performing choreographed moves on ice."
+    ],
+    "negative": [
+      "This video does not show ice dancing.",
+      "This is definitely not a video of ice dancing."
+    ],
+    "deepLow": [
+      "Ice Dancing, sparkling white ice, elegant spins, flowing costumes, shimmering sequins, graceful lifts"
+    ],
+    "ori": [
+      "a photo of a person doing Ice Dancing."
+    ],
+    "deepHigh": [
+      "The Ice Dancing is performing choreographed movements on ice skates to music."
+    ]
+  },
+  "Javelin Throw": {
+    "positive": [
+      "This video shows an athlete throwing a javelin in a track and field event.",
+      "The person is performing the javelin throw competition."
+    ],
+    "negative": [
+      "This video does not show javelin throw activity.",
+      "This is definitely not a video of javelin throw."
+    ],
+    "deepLow": [
+      "Javelin Throw, sleek metal shaft, pointed tip, textured grip, red and white stripes, aerodynamic shape"
+    ],
+    "ori": [
+      "a photo of a person doing Javelin Throw."
+    ],
+    "deepHigh": [
+      "The Javelin Throw is propelling a spear with a running approach and overhead throwing motion."
+    ]
+  },
+  "Juggling Balls": {
+    "positive": [
+      "This video shows a person juggling multiple balls skillfully.",
+      "The individual is performing a juggling act with several balls."
+    ],
+    "negative": [
+      "This video does not show ball juggling.",
+      "This is definitely not a video of juggling balls."
+    ],
+    "deepLow": [
+      "Juggling Balls, vibrant rainbow colors, smooth silicone texture, spherical shape, glossy finish, palm-sized"
+    ],
+    "ori": [
+      "a photo of a person doing Juggling Balls."
+    ],
+    "deepHigh": [
+      "The Juggling Balls is tossing and catching multiple balls in continuous rhythmic patterns."
+    ]
+  },
+  "Jumping Jack": {
+    "positive": [
+      "This video captures a person performing jumping jacks exercise.",
+      "The individual is doing jumping jacks as part of a workout."
+    ],
+    "negative": [
+      "This video does not show jumping jack exercise.",
+      "This is definitely not a video of jumping jacks."
+    ],
+    "deepLow": [
+      "Jumping Jack with red wooden limbs, black metal hinges, yellow painted face, and striped fabric body"
+    ],
+    "ori": [
+      "a photo of a person doing Jumping Jack."
+    ],
+    "deepHigh": [
+      "The Jumping Jack is performing full-body exercise with simultaneous arm and leg movements."
+    ]
+  },
+  "Jump Rope": {
+    "positive": [
+      "This video shows a person skipping rope or jump roping for exercise.",
+      "The individual is performing jump rope moves with a skipping rope."
+    ],
+    "negative": [
+      "This video does not show jump rope activity.",
+      "This is definitely not a video of jump rope."
+    ],
+    "deepLow": [
+      "Jump Rope, bright neon pink, smooth plastic handles, braided blue nylon rope, reflective stripes, lightweight design"
+    ],
+    "ori": [
+      "a photo of a person doing Jump Rope."
+    ],
+    "deepHigh": [
+      "The Jump Rope is swinging rope over head and under feet in rhythmic motion."
+    ]
+  },
+  "Kayaking": {
+    "positive": [
+      "This video captures a person paddling a kayak on water.",
+      "The individual is engaging in kayaking in a river or lake."
+    ],
+    "negative": [
+      "This video does not show kayaking.",
+      "This is definitely not a video of kayaking."
+    ],
+    "deepLow": [
+      "Kayaking, sleek blue kayak, orange life vest, rippling water, wooden paddle, rocky shoreline"
+    ],
+    "ori": [
+      "a photo of a person doing Kayaking."
+    ],
+    "deepHigh": [
+      "The Kayaking is propelling a small boat using a double-bladed paddle."
+    ]
+  },
+  "Knitting": {
+    "positive": [
+      "This video shows a person knitting yarn to make fabric.",
+      "The individual is creating textile by knitting needles and yarn."
+    ],
+    "negative": [
+      "This video does not show knitting activity.",
+      "This is definitely not a video of knitting."
+    ],
+    "deepLow": [
+      "Knitting, thick wool yarn, crisscross stitches, soft texture, striped pattern, warm earthy tones  \n\n(6X prefix token count: 14)"
+    ],
+    "ori": [
+      "a photo of a person doing Knitting."
+    ],
+    "deepHigh": [
+      "The Knitting is creating fabric by interlocking loops of yarn with needles."
+    ]
+  },
+  "Long Jump": {
+    "positive": [
+      "This video captures an athlete performing a long jump in athletics.",
+      "The person is running and jumping to cover maximum horizontal distance."
+    ],
+    "negative": [
+      "This video does not show long jump activity.",
+      "This is definitely not a video of long jump."
+    ],
+    "deepLow": [
+      "Long Jump with tan sand pit, white takeoff board, blue runway, athlete mid-air, stretched body"
+    ],
+    "ori": [
+      "a photo of a person doing Long Jump."
+    ],
+    "deepHigh": [
+      "The Long Jump is sprinting and leaping into a sandpit from a takeoff board."
+    ]
+  },
+  "Lunges": {
+    "positive": [
+      "This video shows a person performing lunges exercise for legs.",
+      "The individual is doing forward or backward lunges for strength training."
+    ],
+    "negative": [
+      "This video does not show lunges exercise.",
+      "This is definitely not a video of lunges."
+    ],
+    "deepLow": [
+      "Lunges with bent knees, toned legs, sneakers on pavement, arms extended forward, focused expression"
+    ],
+    "ori": [
+      "a photo of a person doing Lunges."
+    ],
+    "deepHigh": [
+      "The Lunges is lowering body by bending knees with one leg forward and one leg back."
+    ]
+  },
+  "Military Parade": {
+    "positive": [
+      "This video shows soldiers marching in a military parade.",
+      "The individuals are participating in a formal military procession."
+    ],
+    "negative": [
+      "This video does not show a military parade.",
+      "This is definitely not a video of a military parade."
+    ],
+    "deepLow": [
+      "Military Parade with crisp uniforms, polished boots, marching formations, fluttering flags, and gleaming medals"
+    ],
+    "ori": [
+      "a photo of a person doing Military Parade."
+    ],
+    "deepHigh": [
+      "The Military Parade is marching in synchronized formations with precision drills."
+    ]
+  },
+  "Mixing": {
+    "positive": [
+      "This video shows a person mixing ingredients in cooking or baking.",
+      "The individual is stirring or blending food components."
+    ],
+    "negative": [
+      "This video does not show mixing activity.",
+      "This is definitely not a video of mixing."
+    ],
+    "deepLow": [
+      "Mixing with swirling blue, white streaks, glossy surface, metal bowl, circular motion"
+    ],
+    "ori": [
+      "a photo of a person doing Mixing."
+    ],
+    "deepHigh": [
+      "The Mixing is combining ingredients with circular stirring motion."
+    ]
+  },
+  "Mopping Floor": {
+    "positive": [
+      "This video captures a person mopping or cleaning the floor.",
+      "The individual is using a mop to clean a surface."
+    ],
+    "negative": [
+      "This video does not show floor mopping.",
+      "This is definitely not a video of mopping floor."
+    ],
+    "deepLow": [
+      "Mopping Floor, wet gray tiles, blue mop bucket, white soap suds, reflective floor surface"
+    ],
+    "ori": [
+      "a photo of a person doing Mopping Floor."
+    ],
+    "deepHigh": [
+      "The Mopping Floor is cleaning surfaces with mop and water using back-and-forth motions."
+    ]
+  },
+  "Nunchucks": {
+    "positive": [
+      "This video shows a person skillfully using nunchucks as martial arts weapons.",
+      "The individual is performing tricks or fighting moves with nunchucks."
+    ],
+    "negative": [
+      "This video does not show nunchuck use.",
+      "This is definitely not a video of nunchucks."
+    ],
+    "deepLow": [
+      "Nunchucks, wooden handles with black rope, polished brown finish, cylindrical shape, symmetrical design"
+    ],
+    "ori": [
+      "a photo of a person doing Nunchucks."
+    ],
+    "deepHigh": [
+      "The Nunchucks is swinging connected sticks with rotational movements."
+    ]
+  },
+  "Parallel Bars": {
+    "positive": [
+      "This video captures a gymnast performing on parallel bars.",
+      "The individual is executing gymnastic routines on parallel bars equipment."
+    ],
+    "negative": [
+      "This video does not show parallel bars gymnastics.",
+      "This is definitely not a video of parallel bars."
+    ],
+    "deepLow": [
+      "Parallel Bars, two horizontal steel bars, silver metallic finish, cylindrical shape, rubber grips at ends, spaced evenly apart"
+    ],
+    "ori": [
+      "a photo of a person doing Parallel Bars."
+    ],
+    "deepHigh": [
+      "The Parallel Bars is performing gymnastic routines using two horizontal bars for support and swinging movements."
+    ]
+  },
+  "Pizza Tossing": {
+    "positive": [
+      "This video shows a person tossing pizza dough in the air.",
+      "The individual is preparing pizza by spinning and stretching dough."
+    ],
+    "negative": [
+      "This video does not show pizza tossing.",
+      "This is definitely not a video of pizza tossing."
+    ],
+    "deepLow": [
+      "Pizza Tossing, stretched dough in mid-air, flour-dusted surface, circular shape, spinning motion, warm golden edges"
+    ],
+    "ori": [
+      "a photo of a person doing Pizza Tossing."
+    ],
+    "deepHigh": [
+      "The Pizza Tossing is spinning dough in the air with circular hand motions."
+    ]
+  },
+  "Playing Cello": {
+    "positive": [
+      "This video shows a musician playing the cello string instrument.",
+      "The individual is performing music with a cello."
+    ],
+    "negative": [
+      "This video does not show cello playing.",
+      "This is definitely not a video of playing cello."
+    ],
+    "deepLow": [
+      "Playing Cello, wooden body with curved edges, dark brown varnish, metal strings, bow with horsehair, seated musician"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Cello."
+    ],
+    "deepHigh": [
+      "The Playing Cello is drawing bow across strings while fingering notes on neck."
+    ]
+  },
+  "Playing Daf": {
+    "positive": [
+      "This video captures a person playing the daf, a Middle Eastern frame drum.",
+      "The individual is performing music using a daf drum."
+    ],
+    "negative": [
+      "This video does not show daf playing.",
+      "This is definitely not a video of playing daf."
+    ],
+    "deepLow": [
+      "Playing Daf, round wooden frame, stretched goatskin surface, intricate geometric carvings, held between hands, warm earthy tones"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Daf."
+    ],
+    "deepHigh": [
+      "The Playing Daf is striking a circular frame drum with hands in rhythmic patterns."
+    ]
+  },
+  "Playing Dhol": {
+    "positive": [
+      "This video shows a person playing the dhol drum, a traditional Indian percussion instrument.",
+      "The individual is creating rhythmic beats on a dhol drum."
+    ],
+    "negative": [
+      "This video does not show dhol playing.",
+      "This is definitely not a video of playing dhol."
+    ],
+    "deepLow": [
+      "Playing Dhol, wooden barrel drum, red and gold patterns, leather straps, hands striking taut drumheads, vibrant embroidery"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Dhol."
+    ],
+    "deepHigh": [
+      "The Playing Dhol is striking both drumheads with sticks in rhythmic patterns."
+    ]
+  },
+  "Playing Flute": {
+    "positive": [
+      "This video captures a musician playing the flute.",
+      "The individual is performing music by blowing into a flute."
+    ],
+    "negative": [
+      "This video does not show flute playing.",
+      "This is definitely not a video of playing flute."
+    ],
+    "deepLow": [
+      "Playing Flute, silver metal body, black finger holes, smooth cylindrical shape, musicians lips pressed to mouthpiece"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Flute."
+    ],
+    "deepHigh": [
+      "The Playing Flute is blowing air across mouthpiece while fingering holes."
+    ]
+  },
+  "Playing Guitar": {
+    "positive": [
+      "This video shows a person playing a guitar.",
+      "The individual is strumming or picking guitar strings to make music."
+    ],
+    "negative": [
+      "This video does not show guitar playing.",
+      "This is definitely not a video of playing guitar."
+    ],
+    "deepLow": [
+      "Playing Guitar, black electric guitar, silver strings, glossy finish, hand strumming, denim jeans"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Guitar."
+    ],
+    "deepHigh": [
+      "The Playing Guitar is strumming or plucking strings with fingers or pick while fretting notes on the neck."
+    ]
+  },
+  "Playing Piano": {
+    "positive": [
+      "This video captures a person playing the piano.",
+      "The individual is pressing piano keys to perform music."
+    ],
+    "negative": [
+      "This video does not show piano playing.",
+      "This is definitely not a video of playing piano."
+    ],
+    "deepLow": [
+      "Playing Piano, black and white keys, polished wood surface, sheet music stand, pianists fingers on keys"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Piano."
+    ],
+    "deepHigh": [
+      "The Playing Piano is pressing keys with fingers to produce musical notes."
+    ]
+  },
+  "Playing Sitar": {
+    "positive": [
+      "This video shows a musician playing the sitar.",
+      "The individual is performing traditional music using a sitar."
+    ],
+    "negative": [
+      "This video does not show sitar playing.",
+      "This is definitely not a video of playing sitar."
+    ],
+    "deepLow": [
+      "Playing Sitar, wooden body with intricate carvings, curved neck, metal strings, seated musician in traditional attire"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Sitar."
+    ],
+    "deepHigh": [
+      "The Playing Sitar is plucking strings with one hand while pressing frets with the other."
+    ]
+  },
+  "Playing Tabla": {
+    "positive": [
+      "This video shows a person playing the tabla, an Indian percussion instrument.",
+      "The individual is creating rhythms with tabla drums."
+    ],
+    "negative": [
+      "This video does not show tabla playing.",
+      "This is definitely not a video of playing tabla."
+    ],
+    "deepLow": [
+      "Playing Tabla, wooden drums with black tuning paste, cylindrical shape, stretched goat skin, intricate carvings, hands striking rhythmically  \n\n(6X prefix token count: 18)"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Tabla."
+    ],
+    "deepHigh": [
+      "The Playing Tabla is striking hand drums with alternating finger and palm techniques."
+    ]
+  },
+  "Playing Violin": {
+    "positive": [
+      "This video captures a musician playing the violin.",
+      "The individual is using a bow to play the violin strings."
+    ],
+    "negative": [
+      "This video does not show violin playing.",
+      "This is definitely not a video of playing violin."
+    ],
+    "deepLow": [
+      "Playing Violin, wooden body with glossy finish, curved scroll, four taut strings, bow with horsehair, fingers pressing frets"
+    ],
+    "ori": [
+      "a photo of a person doing Playing Violin."
+    ],
+    "deepHigh": [
+      "The Playing Violin is drawing bow across strings while fingering notes on neck."
+    ]
+  },
+  "Pole Vault": {
+    "positive": [
+      "This video shows an athlete performing a pole vault in track and field.",
+      "The individual is using a pole to jump over a high bar."
+    ],
+    "negative": [
+      "This video does not show pole vault activity.",
+      "This is definitely not a video of pole vault."
+    ],
+    "deepLow": [
+      "Pole Vault, long fiberglass pole, padded landing mat, metal crossbar, athlete mid-air, bright colored runway"
+    ],
+    "ori": [
+      "a photo of a person doing Pole Vault."
+    ],
+    "deepHigh": [
+      "The Pole Vault is sprinting with a flexible pole to launch over a high bar."
+    ]
+  },
+  "Pommel Horse": {
+    "positive": [
+      "This video captures a gymnast performing on the pommel horse.",
+      "The individual is executing gymnastic moves on a pommel horse apparatus."
+    ],
+    "negative": [
+      "This video does not show pommel horse gymnastics.",
+      "This is definitely not a video of pommel horse."
+    ],
+    "deepLow": [
+      "Pommel Horse, leather-covered, rectangular base, metal handles, smooth texture, dark brown color"
+    ],
+    "ori": [
+      "a photo of a person doing Pommel Horse."
+    ],
+    "deepHigh": [
+      "The Pommel Horse is performing circular and scissor movements while supporting body weight on handles."
+    ]
+  },
+  "Pull Ups": {
+    "positive": [
+      "This video shows a person doing pull-ups for upper body strength.",
+      "The individual is lifting their body up on a horizontal bar."
+    ],
+    "negative": [
+      "This video does not show pull-up exercise.",
+      "This is definitely not a video of pull ups."
+    ],
+    "deepLow": [
+      "Pull Ups, blue elastic waistband, white fabric with cartoon prints, stretchy material, adjustable side tabs"
+    ],
+    "ori": [
+      "a photo of a person doing Pull Ups."
+    ],
+    "deepHigh": [
+      "The Pull Ups is pulling body upward using overhead bar with arm strength."
+    ]
+  },
+  "Punch": {
+    "positive": [
+      "This video shows a person throwing punches.",
+      "The individual is performing boxing or martial arts punches."
+    ],
+    "negative": [
+      "This video does not show punching.",
+      "This is definitely not a video of punching."
+    ],
+    "deepLow": [
+      "Punch with glossy red liquid, frothy white foam, citrus slices floating, served in a tall glass with condensation."
+    ],
+    "ori": [
+      "a photo of a person doing Punch."
+    ],
+    "deepHigh": [
+      "The Punch is striking with a closed fist using forward thrusting motion."
+    ]
+  },
+  "Push Ups": {
+    "positive": [
+      "This video captures a person doing push-ups.",
+      "The individual is exercising by pushing their body up and down with arms."
+    ],
+    "negative": [
+      "This video does not show push-up exercise.",
+      "This is definitely not a video of push ups."
+    ],
+    "deepLow": [
+      "Push Ups, muscular arms extended, sweat droplets, tight workout gloves, gym mat texture, focused facial expression"
+    ],
+    "ori": [
+      "a photo of a person doing Push Ups."
+    ],
+    "deepHigh": [
+      "The Push Ups is lowering and raising body using arm strength while maintaining plank position."
+    ]
+  },
+  "Rafting": {
+    "positive": [
+      "This video shows people white-water rafting on a river.",
+      "The individuals are paddling a raft through rapids."
+    ],
+    "negative": [
+      "This video does not show rafting activity.",
+      "This is definitely not a video of rafting."
+    ],
+    "deepLow": [
+      "Rafting, bright orange inflatable raft, textured rubber surface, black straps, splashing whitewater, helmeted paddlers"
+    ],
+    "ori": [
+      "a photo of a person doing Rafting."
+    ],
+    "deepHigh": [
+      "The Rafting is navigating river rapids using paddles and teamwork."
+    ]
+  },
+  "Rock Climbing Indoor": {
+    "positive": [
+      "This video captures a person climbing an indoor rock wall.",
+      "The individual is scaling climbing holds inside a gym."
+    ],
+    "negative": [
+      "This video does not show indoor rock climbing.",
+      "This is definitely not a video of indoor rock climbing."
+    ],
+    "deepLow": [
+      "Rock Climbing Indoor with textured gray walls, colorful plastic holds, bright LED lighting, and safety mats below"
+    ],
+    "ori": [
+      "a photo of a person doing Rock Climbing Indoor."
+    ],
+    "deepHigh": [
+      "The Rock Climbing Indoor is ascending artificial walls using handholds and footholds."
+    ]
+  },
+  "Rope Climbing": {
+    "positive": [
+      "This video shows a person climbing a rope for exercise or training.",
+      "The individual is pulling themselves up a hanging rope."
+    ],
+    "negative": [
+      "This video does not show rope climbing.",
+      "This is definitely not a video of rope climbing."
+    ],
+    "deepLow": [
+      "Rope Climbing, thick braided nylon rope, rough texture, vertical ascent, metallic carabiner clips, gym setting"
+    ],
+    "ori": [
+      "a photo of a person doing Rope Climbing."
+    ],
+    "deepHigh": [
+      "The Rope Climbing is ascending vertically using hand-over-hand grip and leg coordination."
+    ]
+  },
+  "Rowing": {
+    "positive": [
+      "This video shows people rowing boats on water.",
+      "The individuals are propelling a boat using oars."
+    ],
+    "negative": [
+      "This video does not show rowing activity.",
+      "This is definitely not a video of rowing."
+    ],
+    "deepLow": [
+      "Rowing, sleek wooden oars, blue fiberglass boat, rippling water reflections, muscular rowers in spandex uniforms"
+    ],
+    "ori": [
+      "a photo of a person doing Rowing."
+    ],
+    "deepHigh": [
+      "The Rowing is propelling a boat using oars with coordinated back-and-forth motion."
+    ]
+  },
+  "Salsa Spin": {
+    "positive": [
+      "This video shows people dancing salsa with spins and turns.",
+      "The individuals are performing salsa dance moves including spins."
+    ],
+    "negative": [
+      "This video does not show salsa dancing.",
+      "This is definitely not a video of salsa spin."
+    ],
+    "deepLow": [
+      "Salsa Spin, vibrant red and green swirls, glossy ceramic surface, circular base with raised ridges, hand-painted floral accents"
+    ],
+    "ori": [
+      "a photo of a person doing Salsa Spin."
+    ],
+    "deepHigh": [
+      "The Salsa Spin is rotating body with quick footwork and partner connection."
+    ]
+  },
+  "Shaving Beard": {
+    "positive": [
+      "This video shows a person shaving their beard.",
+      "The individual is grooming their facial hair with a razor or trimmer."
+    ],
+    "negative": [
+      "This video does not show beard shaving.",
+      "This is definitely not a video of shaving a beard."
+    ],
+    "deepLow": [
+      "Shaving Beard with white foam, silver razor, dark stubble, smooth skin, reflective mirror"
+    ],
+    "ori": [
+      "a photo of a person doing Shaving Beard."
+    ],
+    "deepHigh": [
+      "The Shaving Beard is removing facial hair with razor and shaving cream."
+    ]
+  },
+  "Shotput": {
+    "positive": [
+      "This video captures an athlete performing a shotput throw.",
+      "The individual is throwing a heavy metal ball in a track and field event."
+    ],
+    "negative": [
+      "This video does not show shotput activity.",
+      "This is definitely not a video of shotput."
+    ],
+    "deepLow": [
+      "Shotput, metallic silver sphere, rough textured surface, visible seams, heavy iron construction"
+    ],
+    "ori": [
+      "a photo of a person doing Shotput."
+    ],
+    "deepHigh": [
+      "The Shotput is throwing a heavy metal ball from shoulder with explosive pushing motion."
+    ]
+  },
+  "Skate Boarding": {
+    "positive": [
+      "This video shows a person skateboarding and performing tricks.",
+      "The individual is riding a skateboard on ramps or flat ground."
+    ],
+    "negative": [
+      "This video does not show skateboarding.",
+      "This is definitely not a video of skateboarding."
+    ],
+    "deepLow": [
+      "Skate Boarding, wooden deck with grip tape, colorful graffiti art, worn wheels, concrete ramp, dynamic motion blur"
+    ],
+    "ori": [
+      "a photo of a person doing Skate Boarding."
+    ],
+    "deepHigh": [
+      "The Skate Boarding is riding and performing tricks on a board with wheels."
+    ]
+  },
+  "Skiing": {
+    "positive": [
+      "This video captures a person skiing down a snowy slope.",
+      "The individual is sliding on skis over snow."
+    ],
+    "negative": [
+      "This video does not show skiing.",
+      "This is definitely not a video of skiing."
+    ],
+    "deepLow": [
+      "Skiing, white snow, colorful jackets, sleek skis, steep slopes, goggles"
+    ],
+    "ori": [
+      "a photo of a person doing Skiing."
+    ],
+    "deepHigh": [
+      "The Skiing is gliding over snow using skis and poles with coordinated leg movements."
+    ]
+  },
+  "Skijet": {
+    "positive": [
+      "This video shows a person riding a jet ski on water.",
+      "The individual is controlling a motorized watercraft over waves."
+    ],
+    "negative": [
+      "This video does not show skijet riding.",
+      "This is definitely not a video of skijet."
+    ],
+    "deepLow": [
+      "Skijet with sleek silver body, blue racing stripes, black rubber skis, and aerodynamic fins"
+    ],
+    "ori": [
+      "a photo of a person doing Skijet."
+    ],
+    "deepHigh": [
+      "The Skijet is accelerating across water surface while being towed by cable."
+    ]
+  },
+  "Sky Diving": {
+    "positive": [
+      "This video captures a person skydiving from an airplane.",
+      "The individual is free-falling or parachuting through the sky."
+    ],
+    "negative": [
+      "This video does not show skydiving.",
+      "This is definitely not a video of sky diving."
+    ],
+    "deepLow": [
+      "Sky Diving, blue parachute, white clouds, distant ground, windblown fabric, adrenaline rush  \n\n(6X prefix token count: 14)"
+    ],
+    "ori": [
+      "a photo of a person doing Sky Diving."
+    ],
+    "deepHigh": [
+      "The Sky Diving is jumping from aircraft and free-falling before deploying parachute."
+    ]
+  },
+  "Soccer Juggling": {
+    "positive": [
+      "This video shows a person juggling a soccer ball with their feet.",
+      "The individual is skillfully controlling the ball in the air."
+    ],
+    "negative": [
+      "This video does not show soccer juggling.",
+      "This is definitely not a video of juggling a soccer ball."
+    ],
+    "deepLow": [
+      "Soccer Juggling, black-white checkered ball, neon green laces, dynamic mid-air motion, rubber texture, grass background"
+    ],
+    "ori": [
+      "a photo of a person doing Soccer Juggling."
+    ],
+    "deepHigh": [
+      "The Soccer Juggling is keeping the ball airborne using feet, legs, and head in rhythmic sequence."
+    ]
+  },
+  "Soccer Penalty": {
+    "positive": [
+      "This video captures a soccer player taking a penalty kick.",
+      "The individual is attempting to score from a penalty shot."
+    ],
+    "negative": [
+      "This video does not show a soccer penalty kick.",
+      "This is definitely not a video of a soccer penalty."
+    ],
+    "deepLow": [
+      "Soccer Penalty, green grass field, white penalty spot, black and white soccer ball, goal net with white posts, players in colorful jerseys"
+    ],
+    "ori": [
+      "a photo of a person doing Soccer Penalty."
+    ],
+    "deepHigh": [
+      "The Soccer Penalty is kicking stationary ball from penalty spot into goal."
+    ]
+  },
+  "Still Rings": {
+    "positive": [
+      "This video shows a gymnast performing on the still rings.",
+      "The individual is executing strength and balance moves on suspended rings."
+    ],
+    "negative": [
+      "This video does not show still rings gymnastics.",
+      "This is definitely not a video of still rings."
+    ],
+    "deepLow": [
+      "Still Rings with wooden handles, black leather straps, circular steel rings, and textured grips"
+    ],
+    "ori": [
+      "a photo of a person doing Still Rings."
+    ],
+    "deepHigh": [
+      "The Still Rings is performing gymnastic strength holds and swings while suspended from rings."
+    ]
+  },
+  "Sumo Wrestling": {
+    "positive": [
+      "This video captures two wrestlers competing in sumo wrestling.",
+      "The individuals are engaging in traditional Japanese wrestling."
+    ],
+    "negative": [
+      "This video does not show sumo wrestling.",
+      "This is definitely not a video of sumo wrestling."
+    ],
+    "deepLow": [
+      "Sumo Wrestling, large wrestlers in mawashi belts, bare feet on clay dohyo, topknot hairstyles, muscular bodies, traditional attire"
+    ],
+    "ori": [
+      "a photo of a person doing Sumo Wrestling."
+    ],
+    "deepHigh": [
+      "The Sumo Wrestling is pushing opponent out of ring using forceful body contact."
+    ]
+  },
+  "Surfing": {
+    "positive": [
+      "This video shows a person surfing on ocean waves.",
+      "The individual is riding a surfboard over water waves."
+    ],
+    "negative": [
+      "This video does not show surfing activity.",
+      "This is definitely not a video of surfing."
+    ],
+    "deepLow": [
+      "Surfing with blue waves, white foam, glossy surfboard, wetsuit texture, sunset backdrop"
+    ],
+    "ori": [
+      "a photo of a person doing Surfing."
+    ],
+    "deepHigh": [
+      "The Surfing is riding waves on a board while balancing and maneuvering."
+    ]
+  },
+  "Swing": {
+    "positive": [
+      "This video captures people dancing swing.",
+      "The individuals are performing lively swing dance moves."
+    ],
+    "negative": [
+      "This video does not show swing dancing.",
+      "This is definitely not a video of swing."
+    ],
+    "deepLow": [
+      "Swing with yellow plastic seat, black metal chains, blue rubber grips, and white frame, hanging from green tree branch"
+    ],
+    "ori": [
+      "a photo of a person doing Swing."
+    ],
+    "deepHigh": [
+      "The Swing is moving back and forth in an arc while suspended from above."
+    ]
+  },
+  "Table Tennis Shot": {
+    "positive": [
+      "This video shows a person playing table tennis and making shots.",
+      "The individual is hitting a ping pong ball across the table."
+    ],
+    "negative": [
+      "This video does not show table tennis playing.",
+      "This is definitely not a video of table tennis shot."
+    ],
+    "deepLow": [
+      "Table Tennis Shot, white ball mid-air, blurred paddle motion, green table surface, net divider, dynamic spin trajectory  \n\n(6X prefix token count: 23)"
+    ],
+    "ori": [
+      "a photo of a person doing Table Tennis Shot."
+    ],
+    "deepHigh": [
+      "The Table Tennis Shot is striking the ball with paddle using rapid arm motion and spin."
+    ]
+  },
+  "Tai Chi": {
+    "positive": [
+      "This video captures a person performing Tai Chi movements.",
+      "The individual is practicing slow, flowing martial arts poses."
+    ],
+    "negative": [
+      "This video does not show Tai Chi practice.",
+      "This is definitely not a video of Tai Chi."
+    ],
+    "deepLow": [
+      "Tai Chi with flowing white silk robes, slow circular movements, serene facial expressions, outdoor bamboo setting, soft morning light"
+    ],
+    "ori": [
+      "a photo of a person doing Tai Chi."
+    ],
+    "deepHigh": [
+      "The Tai Chi is performing slow, flowing movements with controlled breathing and balance."
+    ]
+  },
+  "Tennis Swing": {
+    "positive": [
+      "This video shows a person swinging a tennis racket to hit the ball.",
+      "The individual is playing tennis and performing racket swings."
+    ],
+    "negative": [
+      "This video does not show tennis playing.",
+      "This is definitely not a video of tennis swing."
+    ],
+    "deepLow": [
+      "Tennis Swing with white tennis ball, blue racket grip, dynamic arm motion, green court background, sweat droplets"
+    ],
+    "ori": [
+      "a photo of a person doing Tennis Swing."
+    ],
+    "deepHigh": [
+      "The Tennis Swing is striking the ball with a racket using a coordinated forward motion."
+    ]
+  },
+  "Throw Discus": {
+    "positive": [
+      "This video captures an athlete throwing a discus in track and field.",
+      "The individual is spinning and releasing a heavy disc."
+    ],
+    "negative": [
+      "This video does not show discus throwing.",
+      "This is definitely not a video of throw discus."
+    ],
+    "deepLow": [
+      "Throw Discus, metallic silver disc, smooth circular shape, ridged outer edge, athlete gripping with fingers, against blue sky"
+    ],
+    "ori": [
+      "a photo of a person doing Throw Discus."
+    ],
+    "deepHigh": [
+      "The Throw Discus is rotating body and releasing weighted disc with spinning technique."
+    ]
+  },
+  "Trampoline Jumping": {
+    "positive": [
+      "This video shows a person performing jumps and tricks on a trampoline.",
+      "The individual is bouncing on a trampoline with controlled movements."
+    ],
+    "negative": [
+      "This video does not show trampoline jumping.",
+      "This is definitely not a video of trampoline jumping."
+    ],
+    "deepLow": [
+      "Trampoline Jumping, black circular mat, coiled steel springs, blue safety net, dynamic mid-air pose, rubber-coated frame"
+    ],
+    "ori": [
+      "a photo of a person doing Trampoline Jumping."
+    ],
+    "deepHigh": [
+      "The Trampoline Jumping is rebounding off elastic surface with controlled body movements."
+    ]
+  },
+  "Typing": {
+    "positive": [
+      "This video captures a person typing on a keyboard.",
+      "The individual is inputting text using a computer keyboard."
+    ],
+    "negative": [
+      "This video does not show typing activity.",
+      "This is definitely not a video of typing."
+    ],
+    "deepLow": [
+      "Typing, black mechanical keyboard, white backlit keys, rectangular shape, textured keycaps, USB cable"
+    ],
+    "ori": [
+      "a photo of a person doing Typing."
+    ],
+    "deepHigh": [
+      "The Typing is pressing keys on keyboard with finger movements."
+    ]
+  },
+  "Uneven Bars": {
+    "positive": [
+      "This video shows a gymnast performing on the uneven bars.",
+      "The individual is swinging and transitioning between two horizontal bars."
+    ],
+    "negative": [
+      "This video does not show uneven bars gymnastics.",
+      "This is definitely not a video of uneven bars."
+    ],
+    "deepLow": [
+      "Uneven Bars with metallic silver rails, blue padded mats, vertical wooden posts, and white chalk marks"
+    ],
+    "ori": [
+      "a photo of a person doing Uneven Bars."
+    ],
+    "deepHigh": [
+      "The Uneven Bars is performing gymnastic swings and transitions between two horizontal bars at different heights."
+    ]
+  },
+  "Volleyball Spiking": {
+    "positive": [
+      "This video captures a player spiking a volleyball over the net.",
+      "The individual is hitting the volleyball with force in a game."
+    ],
+    "negative": [
+      "This video does not show volleyball spiking.",
+      "This is definitely not a video of volleyball spiking."
+    ],
+    "deepLow": [
+      "Volleyball Spiking, player mid-air, stretched arm, white-blue ball, net backdrop, dynamic motion"
+    ],
+    "ori": [
+      "a photo of a person doing Volleyball Spiking."
+    ],
+    "deepHigh": [
+      "The Volleyball Spiking is forcefully hitting the ball downward over the net with an overhead arm swing."
+    ]
+  },
+  "Walking With Dog": {
+    "positive": [
+      "This video shows a person walking while accompanied by a dog.",
+      "The individual is strolling outdoors with their pet dog."
+    ],
+    "negative": [
+      "This video does not show walking with a dog.",
+      "This is definitely not a video of walking with dog."
+    ],
+    "deepLow": [
+      "Walking With Dog, golden retriever on leash, green grassy park, blue collar, owner in jeans"
+    ],
+    "ori": [
+      "a photo of a person doing Walking With Dog."
+    ],
+    "deepHigh": [
+      "The Walking With Dog is moving forward while holding leash attached to canine companion."
+    ]
+  },
+  "Wall Pushups": {
+    "positive": [
+      "This video captures a person doing wall pushups as exercise.",
+      "The individual is performing pushup motions using a wall for support."
+    ],
+    "negative": [
+      "This video does not show wall pushups.",
+      "This is definitely not a video of wall pushups."
+    ],
+    "deepLow": [
+      "Wall Pushups, white wall, black yoga mat, hands shoulder-width apart, slight body angle, smooth painted surface (6XXXXX)"
+    ],
+    "ori": [
+      "a photo of a person doing Wall Pushups."
+    ],
+    "deepHigh": [
+      "The Wall Pushups is pressing body away from vertical surface using arm extension."
+    ]
+  },
+  "Writing On Board": {
+    "positive": [
+      "This video shows a person writing on a board, such as a whiteboard or chalkboard.",
+      "The individual is using a marker or chalk to write text or draw."
+    ],
+    "negative": [
+      "This video does not show writing on a board.",
+      "This is definitely not a video of writing on board."
+    ],
+    "deepLow": [
+      "Writing On Board with white chalk marks, black slate texture, smudged edges, rough surface, rectangular shape"
+    ],
+    "ori": [
+      "a photo of a person doing Writing On Board."
+    ],
+    "deepHigh": [
+      "The Writing On Board is forming letters on surface with writing implement."
+    ]
+  },
+  "Yo Yo": {
+    "positive": [
+      "This video captures a person performing tricks with a yo-yo.",
+      "The individual is skillfully manipulating a yo-yo string toy."
+    ],
+    "negative": [
+      "This video does not show yo-yo tricks.",
+      "This is definitely not a video of yo-yo."
+    ],
+    "deepLow": [
+      "Yo Yo, glossy plastic, vibrant red and blue swirls, metallic string, spherical shape with grooved edges"
+    ],
+    "ori": [
+      "a photo of a person doing Yo Yo."
+    ],
+    "deepHigh": [
+      "The Yo Yo is spinning up and down on a string with wrist motion."
+    ]
+  }
+}

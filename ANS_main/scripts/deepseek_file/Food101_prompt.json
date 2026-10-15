@@ -1,0 +1,1719 @@
+{
+  "apple pie": {
+    "positive": [
+      "a photo of a apple pie, a type of food."
+    ],
+    "negative": [
+      "this is not a apple pie, which is a type of food."
+    ],
+    "deepLow": [
+      "apple pie, golden brown crust, flaky texture, lattice pattern, sliced apples visible, cinnamon dusting"
+    ],
+    "ori": [
+      "a photo of a apple pie, a type of food."
+    ],
+    "deepHigh": [
+      "The apple pie is dessert."
+    ]
+  },
+  "baby back ribs": {
+    "positive": [
+      "a photo of a baby back ribs, a type of food."
+    ],
+    "negative": [
+      "this is not a baby back ribs, which is a type of food."
+    ],
+    "deepLow": [
+      "baby back ribs, glazed brown, sticky sauce, curved bones, charred edges, juicy meat"
+    ],
+    "ori": [
+      "a photo of a baby back ribs, a type of food."
+    ],
+    "deepHigh": [
+      "The baby back ribs is entr\u00e9e."
+    ]
+  },
+  "baklava": {
+    "positive": [
+      "a photo of a baklava, a type of food."
+    ],
+    "negative": [
+      "this is not a baklava, which is a type of food."
+    ],
+    "deepLow": [
+      "baklava, golden brown layers, crispy filo pastry, honey glaze, diamond-shaped cuts, pistachio sprinkles."
+    ],
+    "ori": [
+      "a photo of a baklava, a type of food."
+    ],
+    "deepHigh": [
+      "The baklava is pastry."
+    ]
+  },
+  "beef carpaccio": {
+    "positive": [
+      "a photo of a beef carpaccio, a type of food."
+    ],
+    "negative": [
+      "this is not a beef carpaccio, which is a type of food."
+    ],
+    "deepLow": [
+      "beef carpaccio, thinly sliced raw beef, vibrant red hue, delicate marbling, drizzled with olive oil, garnished with arugula and parmesan shavings"
+    ],
+    "ori": [
+      "a photo of a beef carpaccio, a type of food."
+    ],
+    "deepHigh": [
+      "The beef carpaccio is appetizer."
+    ]
+  },
+  "beef tartare": {
+    "positive": [
+      "a photo of a beef tartare, a type of food."
+    ],
+    "negative": [
+      "this is not a beef tartare, which is a type of food."
+    ],
+    "deepLow": [
+      "beef tartare, finely minced raw beef, bright red hue, topped with golden egg yolk, scattered capers, fresh green herbs"
+    ],
+    "ori": [
+      "a photo of a beef tartare, a type of food."
+    ],
+    "deepHigh": [
+      "The beef tartare is appetizer."
+    ]
+  },
+  "beet salad": {
+    "positive": [
+      "a photo of a beet salad, a type of food."
+    ],
+    "negative": [
+      "this is not a beet salad, which is a type of food."
+    ],
+    "deepLow": [
+      "beet salad, deep red cubes, crumbled white feta, glossy olive oil drizzle, fresh green parsley, earthy texture"
+    ],
+    "ori": [
+      "a photo of a beet salad, a type of food."
+    ],
+    "deepHigh": [
+      "The beet salad is side dish."
+    ]
+  },
+  "beignets": {
+    "positive": [
+      "a photo of a beignets, a type of food."
+    ],
+    "negative": [
+      "this is not a beignets, which is a type of food."
+    ],
+    "deepLow": [
+      "beignets, golden-brown squares, fluffy interior, powdered sugar dusting, crispy edges, served on white plate"
+    ],
+    "ori": [
+      "a photo of a beignets, a type of food."
+    ],
+    "deepHigh": [
+      "The beignets are pastry."
+    ]
+  },
+  "bibimbap": {
+    "positive": [
+      "a photo of a bibimbap, a type of food."
+    ],
+    "negative": [
+      "this is not a bibimbap, which is a type of food."
+    ],
+    "deepLow": [
+      "bibimbap with vibrant mix of colors, white rice base, assorted vegetables, fried egg on top, red gochujang sauce"
+    ],
+    "ori": [
+      "a photo of a bibimbap, a type of food."
+    ],
+    "deepHigh": [
+      "The bibimbap is Korean dish."
+    ]
+  },
+  "bread pudding": {
+    "positive": [
+      "a photo of a bread pudding, a type of food."
+    ],
+    "negative": [
+      "this is not a bread pudding, which is a type of food."
+    ],
+    "deepLow": [
+      "bread pudding, golden brown crust, soft custard interior, square slices, dusted with powdered sugar, baked in ceramic dish"
+    ],
+    "ori": [
+      "a photo of a bread pudding, a type of food."
+    ],
+    "deepHigh": [
+      "The bread pudding is dessert."
+    ]
+  },
+  "breakfast burrito": {
+    "positive": [
+      "a photo of a breakfast burrito, a type of food."
+    ],
+    "negative": [
+      "this is not a breakfast burrito, which is a type of food."
+    ],
+    "deepLow": [
+      "breakfast burrito, golden-brown tortilla, stuffed with scrambled eggs, melted cheese, crispy bacon, wrapped tightly"
+    ],
+    "ori": [
+      "a photo of a breakfast burrito, a type of food."
+    ],
+    "deepHigh": [
+      "The breakfast burrito is meal."
+    ]
+  },
+  "bruschetta": {
+    "positive": [
+      "a photo of a bruschetta, a type of food."
+    ],
+    "negative": [
+      "this is not a bruschetta, which is a type of food."
+    ],
+    "deepLow": [
+      "bruschetta, golden toasted bread, vibrant red tomatoes, fresh green basil, drizzled olive oil, garlic rub"
+    ],
+    "ori": [
+      "a photo of a bruschetta, a type of food."
+    ],
+    "deepHigh": [
+      "The bruschetta is appetizer."
+    ]
+  },
+  "caesar salad": {
+    "positive": [
+      "a photo of a caesar salad, a type of food."
+    ],
+    "negative": [
+      "this is not a caesar salad, which is a type of food."
+    ],
+    "deepLow": [
+      "caesar salad with crisp romaine lettuce, shredded parmesan cheese, golden croutons, creamy white dressing, and black pepper sprinkles"
+    ],
+    "ori": [
+      "a photo of a caesar salad, a type of food."
+    ],
+    "deepHigh": [
+      "The caesar salad is salad."
+    ]
+  },
+  "cannoli": {
+    "positive": [
+      "a photo of a cannoli, a type of food."
+    ],
+    "negative": [
+      "this is not a cannoli, which is a type of food."
+    ],
+    "deepLow": [
+      "cannoli, golden-brown crispy shell, creamy white ricotta filling, dusted with powdered sugar, chocolate chip ends"
+    ],
+    "ori": [
+      "a photo of a cannoli, a type of food."
+    ],
+    "deepHigh": [
+      "The cannoli is pastry."
+    ]
+  },
+  "caprese salad": {
+    "positive": [
+      "a photo of a caprese salad, a type of food."
+    ],
+    "negative": [
+      "this is not a caprese salad, which is a type of food."
+    ],
+    "deepLow": [
+      "caprese salad with red tomato slices, white mozzarella rounds, green basil leaves, glossy olive oil drizzle, layered presentation"
+    ],
+    "ori": [
+      "a photo of a caprese salad, a type of food."
+    ],
+    "deepHigh": [
+      "The caprese salad is appetizer."
+    ]
+  },
+  "carrot cake": {
+    "positive": [
+      "a photo of a carrot cake, a type of food."
+    ],
+    "negative": [
+      "this is not a carrot cake, which is a type of food."
+    ],
+    "deepLow": [
+      "carrot cake, golden brown crust, moist orange crumb, cream cheese frosting swirls, topped with walnut pieces"
+    ],
+    "ori": [
+      "a photo of a carrot cake, a type of food."
+    ],
+    "deepHigh": [
+      "The carrot cake is dessert."
+    ]
+  },
+  "ceviche": {
+    "positive": [
+      "a photo of a ceviche, a type of food."
+    ],
+    "negative": [
+      "this is not a ceviche, which is a type of food."
+    ],
+    "deepLow": [
+      "ceviche with bright citrus-marinated fish, diced red onions, fresh cilantro, sliced avocado, and lime wedges."
+    ],
+    "ori": [
+      "a photo of a ceviche, a type of food."
+    ],
+    "deepHigh": [
+      "The ceviche is seafood."
+    ]
+  },
+  "cheese plate": {
+    "positive": [
+      "a photo of a cheese plate, a type of food."
+    ],
+    "negative": [
+      "this is not a cheese plate, which is a type of food."
+    ],
+    "deepLow": [
+      "cheese plate with creamy white wedges, golden crackers, dark grapes, and a rustic wooden board"
+    ],
+    "ori": [
+      "a photo of a cheese plate, a type of food."
+    ],
+    "deepHigh": [
+      "The cheese plate is appetizer."
+    ]
+  },
+  "cheesecake": {
+    "positive": [
+      "a photo of a cheesecake, a type of food."
+    ],
+    "negative": [
+      "this is not a cheesecake, which is a type of food."
+    ],
+    "deepLow": [
+      "cheesecake, golden crust, creamy white filling, smooth surface, topped with red strawberry glaze, circular shape"
+    ],
+    "ori": [
+      "a photo of a cheesecake, a type of food."
+    ],
+    "deepHigh": [
+      "The cheesecake is dessert."
+    ]
+  },
+  "chicken curry": {
+    "positive": [
+      "a photo of a chicken curry, a type of food."
+    ],
+    "negative": [
+      "this is not a chicken curry, which is a type of food."
+    ],
+    "deepLow": [
+      "chicken curry, golden-brown sauce, tender chicken chunks, vibrant yellow turmeric, garnished with fresh cilantro, served in a white bowl"
+    ],
+    "ori": [
+      "a photo of a chicken curry, a type of food."
+    ],
+    "deepHigh": [
+      "The chicken curry is main course."
+    ]
+  },
+  "chicken quesadilla": {
+    "positive": [
+      "a photo of a chicken quesadilla, a type of food."
+    ],
+    "negative": [
+      "this is not a chicken quesadilla, which is a type of food."
+    ],
+    "deepLow": [
+      "chicken quesadilla, golden-brown tortilla, melted cheese, shredded chicken, grill marks, cilantro garnish"
+    ],
+    "ori": [
+      "a photo of a chicken quesadilla, a type of food."
+    ],
+    "deepHigh": [
+      "The chicken quesadilla is entree."
+    ]
+  },
+  "chicken wings": {
+    "positive": [
+      "a photo of a chicken wings, a type of food."
+    ],
+    "negative": [
+      "this is not a chicken wings, which is a type of food."
+    ],
+    "deepLow": [
+      "crispy golden-brown chicken wings, glazed with sticky orange sauce, charred grill marks, piled on a white plate"
+    ],
+    "ori": [
+      "a photo of a chicken wings, a type of food."
+    ],
+    "deepHigh": [
+      "The chicken wings are appetizer."
+    ]
+  },
+  "chocolate cake": {
+    "positive": [
+      "a photo of a chocolate cake, a type of food."
+    ],
+    "negative": [
+      "this is not a chocolate cake, which is a type of food."
+    ],
+    "deepLow": [
+      "chocolate cake, dark brown frosting, layered with white cream, topped with chocolate shavings, round shape"
+    ],
+    "ori": [
+      "a photo of a chocolate cake, a type of food."
+    ],
+    "deepHigh": [
+      "The chocolate cake is dessert."
+    ]
+  },
+  "chocolate mousse": {
+    "positive": [
+      "a photo of a chocolate mousse, a type of food."
+    ],
+    "negative": [
+      "this is not a chocolate mousse, which is a type of food."
+    ],
+    "deepLow": [
+      "chocolate mousse, dark brown, glossy surface, creamy texture, topped with white whipped cream swirls, served in a glass cup"
+    ],
+    "ori": [
+      "a photo of a chocolate mousse, a type of food."
+    ],
+    "deepHigh": [
+      "The chocolate mousse is dessert."
+    ]
+  },
+  "churros": {
+    "positive": [
+      "a photo of a churros, a type of food."
+    ],
+    "negative": [
+      "this is not a churros, which is a type of food."
+    ],
+    "deepLow": [
+      "churros, golden-brown, ridged surface, cylindrical shape, dusted with cinnamon sugar, crispy texture"
+    ],
+    "ori": [
+      "a photo of a churros, a type of food."
+    ],
+    "deepHigh": [
+      "The churros is dessert."
+    ]
+  },
+  "clam chowder": {
+    "positive": [
+      "a photo of a clam chowder, a type of food."
+    ],
+    "negative": [
+      "this is not a clam chowder, which is a type of food."
+    ],
+    "deepLow": [
+      "clam chowder, creamy white broth, chunks of tender clams, diced potatoes, sprinkled parsley, served in a bread bowl"
+    ],
+    "ori": [
+      "a photo of a clam chowder, a type of food."
+    ],
+    "deepHigh": [
+      "The clam chowder is soup."
+    ]
+  },
+  "club sandwich": {
+    "positive": [
+      "a photo of a club sandwich, a type of food."
+    ],
+    "negative": [
+      "this is not a club sandwich, which is a type of food."
+    ],
+    "deepLow": [
+      "club sandwich with toasted bread layers, crispy bacon strips, fresh lettuce leaves, juicy tomato slices, and creamy mayo spread"
+    ],
+    "ori": [
+      "a photo of a club sandwich, a type of food."
+    ],
+    "deepHigh": [
+      "The club sandwich is sandwich."
+    ]
+  },
+  "crab cakes": {
+    "positive": [
+      "a photo of a crab cakes, a type of food."
+    ],
+    "negative": [
+      "this is not a crab cakes, which is a type of food."
+    ],
+    "deepLow": [
+      "crab cakes, golden-brown crust, chunky crab meat, crispy edges, garnished with parsley, on white plate"
+    ],
+    "ori": [
+      "a photo of a crab cakes, a type of food."
+    ],
+    "deepHigh": [
+      "The crab cakes are seafood."
+    ]
+  },
+  "creme brulee": {
+    "positive": [
+      "a photo of a creme brulee, a type of food."
+    ],
+    "negative": [
+      "this is not a creme brulee, which is a type of food."
+    ],
+    "deepLow": [
+      "creme brulee, golden caramelized sugar crust, smooth custard base, circular ceramic ramekin, crackled surface, creamy yellow interior."
+    ],
+    "ori": [
+      "a photo of a creme brulee, a type of food."
+    ],
+    "deepHigh": [
+      "The creme brulee is dessert."
+    ]
+  },
+  "croque madame": {
+    "positive": [
+      "a photo of a croque madame, a type of food."
+    ],
+    "negative": [
+      "this is not a croque madame, which is a type of food."
+    ],
+    "deepLow": [
+      "croque madame, golden toasted bread, melted cheese topping, fried egg with runny yolk, crispy edges, savory ham layers"
+    ],
+    "ori": [
+      "a photo of a croque madame, a type of food."
+    ],
+    "deepHigh": [
+      "The croque madame is sandwich."
+    ]
+  },
+  "cup cakes": {
+    "positive": [
+      "a photo of a cup cakes, a type of food."
+    ],
+    "negative": [
+      "this is not a cup cakes, which is a type of food."
+    ],
+    "deepLow": [
+      "cup cakes with pink frosting, white sprinkles, round shape, paper liners, fluffy texture"
+    ],
+    "ori": [
+      "a photo of a cup cakes, a type of food."
+    ],
+    "deepHigh": [
+      "The cup cakes are dessert."
+    ]
+  },
+  "deviled eggs": {
+    "positive": [
+      "a photo of a deviled eggs, a type of food."
+    ],
+    "negative": [
+      "this is not a deviled eggs, which is a type of food."
+    ],
+    "deepLow": [
+      "deviled eggs, creamy yellow filling, dusted with paprika, white egg halves, garnished with chives"
+    ],
+    "ori": [
+      "a photo of a deviled eggs, a type of food."
+    ],
+    "deepHigh": [
+      "The deviled eggs is appetizer."
+    ]
+  },
+  "donuts": {
+    "positive": [
+      "a photo of a donuts, a type of food."
+    ],
+    "negative": [
+      "this is not a donuts, which is a type of food."
+    ],
+    "deepLow": [
+      "donuts, round with glossy glaze, rainbow sprinkles, fluffy texture, golden-brown edges, on white plate"
+    ],
+    "ori": [
+      "a photo of a donuts, a type of food."
+    ],
+    "deepHigh": [
+      "The donuts is pastry."
+    ]
+  },
+  "dumplings": {
+    "positive": [
+      "a photo of a dumplings, a type of food."
+    ],
+    "negative": [
+      "this is not a dumplings, which is a type of food."
+    ],
+    "deepLow": [
+      "dumplings, golden-brown crust, pleated edges, steamed sheen, filled with minced pork and chives"
+    ],
+    "ori": [
+      "a photo of a dumplings, a type of food."
+    ],
+    "deepHigh": [
+      "The dumplings are food."
+    ]
+  },
+  "edamame": {
+    "positive": [
+      "a photo of a edamame, a type of food."
+    ],
+    "negative": [
+      "this is not a edamame, which is a type of food."
+    ],
+    "deepLow": [
+      "edamame, bright green pods, fuzzy texture, oblong shape, fresh stems"
+    ],
+    "ori": [
+      "a photo of a edamame, a type of food."
+    ],
+    "deepHigh": [
+      "The edamame is appetizer."
+    ]
+  },
+  "eggs benedict": {
+    "positive": [
+      "a photo of a eggs benedict, a type of food."
+    ],
+    "negative": [
+      "this is not a eggs benedict, which is a type of food."
+    ],
+    "deepLow": [
+      "eggs benedict, golden poached eggs, creamy hollandaise, toasted english muffin, pink ham slices, fresh parsley garnish"
+    ],
+    "ori": [
+      "a photo of a eggs benedict, a type of food."
+    ],
+    "deepHigh": [
+      "The eggs benedict is breakfast."
+    ]
+  },
+  "escargots": {
+    "positive": [
+      "a photo of a escargots, a type of food."
+    ],
+    "negative": [
+      "this is not a escargots, which is a type of food."
+    ],
+    "deepLow": [
+      "escargots, spiral shells, glossy brown, garlic butter sauce, sprinkled parsley, white plate"
+    ],
+    "ori": [
+      "a photo of a escargots, a type of food."
+    ],
+    "deepHigh": [
+      "The escargots are appetizer."
+    ]
+  },
+  "falafel": {
+    "positive": [
+      "a photo of a falafel, a type of food."
+    ],
+    "negative": [
+      "this is not a falafel, which is a type of food."
+    ],
+    "deepLow": [
+      "falafel, golden-brown crust, rough texture, round patty shape, flecked with herbs, served with tahini drizzle"
+    ],
+    "ori": [
+      "a photo of a falafel, a type of food."
+    ],
+    "deepHigh": [
+      "The falafel is food."
+    ]
+  },
+  "filet mignon": {
+    "positive": [
+      "a photo of a filet mignon, a type of food."
+    ],
+    "negative": [
+      "this is not a filet mignon, which is a type of food."
+    ],
+    "deepLow": [
+      "filet mignon, thick circular cut, deep reddish-brown sear, juicy pink interior, smooth tender texture, white fat marbling"
+    ],
+    "ori": [
+      "a photo of a filet mignon, a type of food."
+    ],
+    "deepHigh": [
+      "The filet mignon is steak."
+    ]
+  },
+  "fish and chips": {
+    "positive": [
+      "a photo of a fish and chips, a type of food."
+    ],
+    "negative": [
+      "this is not a fish and chips, which is a type of food."
+    ],
+    "deepLow": [
+      "fish and chips, golden-brown crispy batter, thick white fish fillet, chunky yellow fries, wrapped in white paper, greasy sheen"
+    ],
+    "ori": [
+      "a photo of a fish and chips, a type of food."
+    ],
+    "deepHigh": [
+      "The fish and chips is meal."
+    ]
+  },
+  "foie gras": {
+    "positive": [
+      "a photo of a foie gras, a type of food."
+    ],
+    "negative": [
+      "this is not a foie gras, which is a type of food."
+    ],
+    "deepLow": [
+      "foie gras, smooth creamy texture, rich golden-brown color, glossy surface, served in round medallions"
+    ],
+    "ori": [
+      "a photo of a foie gras, a type of food."
+    ],
+    "deepHigh": [
+      "The foie gras is delicacy."
+    ]
+  },
+  "french fries": {
+    "positive": [
+      "a photo of a french fries, a type of food."
+    ],
+    "negative": [
+      "this is not a french fries, which is a type of food."
+    ],
+    "deepLow": [
+      "french fries, golden brown, crispy texture, long thin strips, scattered on white paper, salt sprinkled"
+    ],
+    "ori": [
+      "a photo of a french fries, a type of food."
+    ],
+    "deepHigh": [
+      "The french fries is side dish."
+    ]
+  },
+  "french onion soup": {
+    "positive": [
+      "a photo of a french onion soup, a type of food."
+    ],
+    "negative": [
+      "this is not a french onion soup, which is a type of food."
+    ],
+    "deepLow": [
+      "french onion soup, golden brown broth, melted cheese crust, caramelized onions, white bowl, steam rising"
+    ],
+    "ori": [
+      "a photo of a french onion soup, a type of food."
+    ],
+    "deepHigh": [
+      "The french onion soup is soup."
+    ]
+  },
+  "french toast": {
+    "positive": [
+      "a photo of a french toast, a type of food."
+    ],
+    "negative": [
+      "this is not a french toast, which is a type of food."
+    ],
+    "deepLow": [
+      "golden-brown french toast, crispy edges, dusted with powdered sugar, drizzled with maple syrup, thick slices"
+    ],
+    "ori": [
+      "a photo of a french toast, a type of food."
+    ],
+    "deepHigh": [
+      "The french toast is breakfast."
+    ]
+  },
+  "fried calamari": {
+    "positive": [
+      "a photo of a fried calamari, a type of food."
+    ],
+    "negative": [
+      "this is not a fried calamari, which is a type of food."
+    ],
+    "deepLow": [
+      "fried calamari, golden-brown crispy rings, tender white interior, sprinkled with parsley, served with lemon wedges"
+    ],
+    "ori": [
+      "a photo of a fried calamari, a type of food."
+    ],
+    "deepHigh": [
+      "The fried calamari is appetizer."
+    ]
+  },
+  "fried rice": {
+    "positive": [
+      "a photo of a fried rice, a type of food."
+    ],
+    "negative": [
+      "this is not a fried rice, which is a type of food."
+    ],
+    "deepLow": [
+      "fried rice, golden yellow grains, fluffy texture, mixed with green peas, orange carrots, and white egg bits"
+    ],
+    "ori": [
+      "a photo of a fried rice, a type of food."
+    ],
+    "deepHigh": [
+      "The fried rice is main course."
+    ]
+  },
+  "frozen yogurt": {
+    "positive": [
+      "a photo of a frozen yogurt, a type of food."
+    ],
+    "negative": [
+      "this is not a frozen yogurt, which is a type of food."
+    ],
+    "deepLow": [
+      "frozen yogurt, creamy swirls, pastel pink and white, topped with rainbow sprinkles, in a clear plastic cup"
+    ],
+    "ori": [
+      "a photo of a frozen yogurt, a type of food."
+    ],
+    "deepHigh": [
+      "The frozen yogurt is dessert."
+    ]
+  },
+  "garlic bread": {
+    "positive": [
+      "a photo of a garlic bread, a type of food."
+    ],
+    "negative": [
+      "this is not a garlic bread, which is a type of food."
+    ],
+    "deepLow": [
+      "garlic bread, golden brown crust, toasted edges, buttery sheen, minced garlic specks, soft interior, aromatic herbs"
+    ],
+    "ori": [
+      "a photo of a garlic bread, a type of food."
+    ],
+    "deepHigh": [
+      "The garlic bread is side."
+    ]
+  },
+  "gnocchi": {
+    "positive": [
+      "a photo of a gnocchi, a type of food."
+    ],
+    "negative": [
+      "this is not a gnocchi, which is a type of food."
+    ],
+    "deepLow": [
+      "gnocchi, small oval dumplings, soft texture, golden-brown surface, dusted with flour, served on white plate."
+    ],
+    "ori": [
+      "a photo of a gnocchi, a type of food."
+    ],
+    "deepHigh": [
+      "The gnocchi is pasta."
+    ]
+  },
+  "greek salad": {
+    "positive": [
+      "a photo of a greek salad, a type of food."
+    ],
+    "negative": [
+      "this is not a greek salad, which is a type of food."
+    ],
+    "deepLow": [
+      "greek salad, crisp cucumbers, juicy tomatoes, black olives, crumbled feta cheese, drizzled olive oil"
+    ],
+    "ori": [
+      "a photo of a greek salad, a type of food."
+    ],
+    "deepHigh": [
+      "The greek salad is salad."
+    ]
+  },
+  "grilled cheese sandwich": {
+    "positive": [
+      "a photo of a grilled cheese sandwich, a type of food."
+    ],
+    "negative": [
+      "this is not a grilled cheese sandwich, which is a type of food."
+    ],
+    "deepLow": [
+      "grilled cheese sandwich, golden brown crust, melted cheddar oozing, crispy edges, buttery toast grid marks."
+    ],
+    "ori": [
+      "a photo of a grilled cheese sandwich, a type of food."
+    ],
+    "deepHigh": [
+      "The grilled cheese sandwich is sandwich."
+    ]
+  },
+  "grilled salmon": {
+    "positive": [
+      "a photo of a grilled salmon, a type of food."
+    ],
+    "negative": [
+      "this is not a grilled salmon, which is a type of food."
+    ],
+    "deepLow": [
+      "grilled salmon, charred grill marks, pink-orange flesh, flaky texture, glossy glaze, lemon garnish"
+    ],
+    "ori": [
+      "a photo of a grilled salmon, a type of food."
+    ],
+    "deepHigh": [
+      "The grilled salmon is entr\u00e9e."
+    ]
+  },
+  "guacamole": {
+    "positive": [
+      "a photo of a guacamole, a type of food."
+    ],
+    "negative": [
+      "this is not a guacamole, which is a type of food."
+    ],
+    "deepLow": [
+      "guacamole, creamy green paste, chunky avocado bits, sprinkled cilantro, lime wedges, white bowl"
+    ],
+    "ori": [
+      "a photo of a guacamole, a type of food."
+    ],
+    "deepHigh": [
+      "The guacamole is dip."
+    ]
+  },
+  "gyoza": {
+    "positive": [
+      "a photo of a gyoza, a type of food."
+    ],
+    "negative": [
+      "this is not a gyoza, which is a type of food."
+    ],
+    "deepLow": [
+      "gyoza, golden-brown crispy bottom, pleated crescent shape, steamed white top, juicy pork filling, garnished with green onions"
+    ],
+    "ori": [
+      "a photo of a gyoza, a type of food."
+    ],
+    "deepHigh": [
+      "The gyoza is appetizer."
+    ]
+  },
+  "hamburger": {
+    "positive": [
+      "a photo of a hamburger, a type of food."
+    ],
+    "negative": [
+      "this is not a hamburger, which is a type of food."
+    ],
+    "deepLow": [
+      "hamburger with toasted sesame bun, juicy beef patty, melted yellow cheese, crisp lettuce, and red tomato slices"
+    ],
+    "ori": [
+      "a photo of a hamburger, a type of food."
+    ],
+    "deepHigh": [
+      "The hamburger is sandwich."
+    ]
+  },
+  "hot and sour soup": {
+    "positive": [
+      "a photo of a hot and sour soup, a type of food."
+    ],
+    "negative": [
+      "this is not a hot and sour soup, which is a type of food."
+    ],
+    "deepLow": [
+      "hot and sour soup, steaming broth with red chili oil swirls, white tofu cubes, black wood ear mushrooms, and green scallion slices"
+    ],
+    "ori": [
+      "a photo of a hot and sour soup, a type of food."
+    ],
+    "deepHigh": [
+      "The hot and sour soup is soup."
+    ]
+  },
+  "hot dog": {
+    "positive": [
+      "a photo of a hot dog, a type of food."
+    ],
+    "negative": [
+      "this is not a hot dog, which is a type of food."
+    ],
+    "deepLow": [
+      "hot dog with golden-brown bun, grilled sausage, shiny mustard streaks, sprinkled onions, sesame seeds on top"
+    ],
+    "ori": [
+      "a photo of a hot dog, a type of food."
+    ],
+    "deepHigh": [
+      "The hot dog is sandwich."
+    ]
+  },
+  "huevos rancheros": {
+    "positive": [
+      "a photo of a huevos rancheros, a type of food."
+    ],
+    "negative": [
+      "this is not a huevos rancheros, which is a type of food."
+    ],
+    "deepLow": [
+      "huevos rancheros, fried eggs on tortillas, smothered in red salsa, topped with crumbled white cheese, fresh cilantro garnish"
+    ],
+    "ori": [
+      "a photo of a huevos rancheros, a type of food."
+    ],
+    "deepHigh": [
+      "The huevos rancheros is breakfast."
+    ]
+  },
+  "hummus": {
+    "positive": [
+      "a photo of a hummus, a type of food."
+    ],
+    "negative": [
+      "this is not a hummus, which is a type of food."
+    ],
+    "deepLow": [
+      "hummus, creamy beige paste, smooth texture, drizzled with olive oil, sprinkled with paprika, served in round bowl"
+    ],
+    "ori": [
+      "a photo of a hummus, a type of food."
+    ],
+    "deepHigh": [
+      "The hummus is dip."
+    ]
+  },
+  "ice cream": {
+    "positive": [
+      "a photo of a ice cream, a type of food."
+    ],
+    "negative": [
+      "this is not a ice cream, which is a type of food."
+    ],
+    "deepLow": [
+      "ice cream, pink swirls, white creamy texture, waffle cone, chocolate drizzle"
+    ],
+    "ori": [
+      "a photo of a ice cream, a type of food."
+    ],
+    "deepHigh": [
+      "The ice cream is dessert."
+    ]
+  },
+  "lasagna": {
+    "positive": [
+      "a photo of a lasagna, a type of food."
+    ],
+    "negative": [
+      "this is not a lasagna, which is a type of food."
+    ],
+    "deepLow": [
+      "lasagna, layered pasta sheets, rich red tomato sauce, melted golden cheese, bubbly browned top, fresh basil garnish"
+    ],
+    "ori": [
+      "a photo of a lasagna, a type of food."
+    ],
+    "deepHigh": [
+      "The lasagna is pasta dish."
+    ]
+  },
+  "lobster bisque": {
+    "positive": [
+      "a photo of a lobster bisque, a type of food."
+    ],
+    "negative": [
+      "this is not a lobster bisque, which is a type of food."
+    ],
+    "deepLow": [
+      "lobster bisque, creamy orange-pink hue, velvety texture, garnished with fresh dill, served in white porcelain bowl"
+    ],
+    "ori": [
+      "a photo of a lobster bisque, a type of food."
+    ],
+    "deepHigh": [
+      "The lobster bisque is soup."
+    ]
+  },
+  "lobster roll sandwich": {
+    "positive": [
+      "a photo of a lobster roll sandwich, a type of food."
+    ],
+    "negative": [
+      "this is not a lobster roll sandwich, which is a type of food."
+    ],
+    "deepLow": [
+      "lobster roll sandwich, buttery toasted bun, pink lobster chunks, green lettuce, creamy mayo, sprinkled chives"
+    ],
+    "ori": [
+      "a photo of a lobster roll sandwich, a type of food."
+    ],
+    "deepHigh": [
+      "The lobster roll sandwich is seafood."
+    ]
+  },
+  "macaroni and cheese": {
+    "positive": [
+      "a photo of a macaroni and cheese, a type of food."
+    ],
+    "negative": [
+      "this is not a macaroni and cheese, which is a type of food."
+    ],
+    "deepLow": [
+      "macaroni and cheese, creamy orange sauce, elbow pasta shapes, melted cheese strands, golden breadcrumb topping"
+    ],
+    "ori": [
+      "a photo of a macaroni and cheese, a type of food."
+    ],
+    "deepHigh": [
+      "The macaroni and cheese is pasta dish."
+    ]
+  },
+  "macarons": {
+    "positive": [
+      "a photo of a macarons, a type of food."
+    ],
+    "negative": [
+      "this is not a macarons, which is a type of food."
+    ],
+    "deepLow": [
+      "macarons, pastel-colored, smooth glossy tops, ruffled edges, sandwiched with creamy filling, arranged in rows"
+    ],
+    "ori": [
+      "a photo of a macarons, a type of food."
+    ],
+    "deepHigh": [
+      "The macarons are dessert."
+    ]
+  },
+  "miso soup": {
+    "positive": [
+      "a photo of a miso soup, a type of food."
+    ],
+    "negative": [
+      "this is not a miso soup, which is a type of food."
+    ],
+    "deepLow": [
+      "miso soup, golden-brown broth, floating white tofu cubes, green scallion slices, wispy seaweed strands, steam rising"
+    ],
+    "ori": [
+      "a photo of a miso soup, a type of food."
+    ],
+    "deepHigh": [
+      "The miso soup is soup."
+    ]
+  },
+  "mussels": {
+    "positive": [
+      "a photo of a mussels, a type of food."
+    ],
+    "negative": [
+      "this is not a mussels, which is a type of food."
+    ],
+    "deepLow": [
+      "mussels, dark blue-black shells, glossy surface, oval shape, clustered on rocks, with visible orange flesh inside"
+    ],
+    "ori": [
+      "a photo of a mussels, a type of food."
+    ],
+    "deepHigh": [
+      "The mussels is seafood."
+    ]
+  },
+  "nachos": {
+    "positive": [
+      "a photo of a nachos, a type of food."
+    ],
+    "negative": [
+      "this is not a nachos, which is a type of food."
+    ],
+    "deepLow": [
+      "nachos, golden crispy tortilla chips, melted orange cheese, diced green jalape\u00f1os, white sour cream drizzle, red salsa splatters"
+    ],
+    "ori": [
+      "a photo of a nachos, a type of food."
+    ],
+    "deepHigh": [
+      "The nachos is snack."
+    ]
+  },
+  "omelette": {
+    "positive": [
+      "a photo of a omelette, a type of food."
+    ],
+    "negative": [
+      "this is not a omelette, which is a type of food."
+    ],
+    "deepLow": [
+      "omelette, golden-yellow surface, fluffy texture, folded semicircle shape, sprinkled with fresh green herbs."
+    ],
+    "ori": [
+      "a photo of a omelette, a type of food."
+    ],
+    "deepHigh": [
+      "The omelette is breakfast."
+    ]
+  },
+  "onion rings": {
+    "positive": [
+      "a photo of a onion rings, a type of food."
+    ],
+    "negative": [
+      "this is not a onion rings, which is a type of food."
+    ],
+    "deepLow": [
+      "golden-brown onion rings, crispy texture, circular shape, layered rings, fried batter coating"
+    ],
+    "ori": [
+      "a photo of a onion rings, a type of food."
+    ],
+    "deepHigh": [
+      "The onion rings is appetizer."
+    ]
+  },
+  "oysters": {
+    "positive": [
+      "a photo of a oysters, a type of food."
+    ],
+    "negative": [
+      "this is not a oysters, which is a type of food."
+    ],
+    "deepLow": [
+      "oysters with rough, gray shells, pearly interiors, irregular shapes, and wet, glossy surfaces"
+    ],
+    "ori": [
+      "a photo of a oysters, a type of food."
+    ],
+    "deepHigh": [
+      "The oysters are seafood."
+    ]
+  },
+  "pad thai": {
+    "positive": [
+      "a photo of a pad thai, a type of food."
+    ],
+    "negative": [
+      "this is not a pad thai, which is a type of food."
+    ],
+    "deepLow": [
+      "pad thai with golden noodles, pink shrimp, lime wedges, crushed peanuts, and fresh cilantro"
+    ],
+    "ori": [
+      "a photo of a pad thai, a type of food."
+    ],
+    "deepHigh": [
+      "The pad thai is noodle dish."
+    ]
+  },
+  "paella": {
+    "positive": [
+      "a photo of a paella, a type of food."
+    ],
+    "negative": [
+      "this is not a paella, which is a type of food."
+    ],
+    "deepLow": [
+      "paella, golden saffron rice, red bell peppers, green peas, black mussels, lemon wedges"
+    ],
+    "ori": [
+      "a photo of a paella, a type of food."
+    ],
+    "deepHigh": [
+      "The paella is rice dish."
+    ]
+  },
+  "pancakes": {
+    "positive": [
+      "a photo of a pancakes, a type of food."
+    ],
+    "negative": [
+      "this is not a pancakes, which is a type of food."
+    ],
+    "deepLow": [
+      "golden brown pancakes, fluffy texture, round shape, drizzled with maple syrup, stacked high"
+    ],
+    "ori": [
+      "a photo of a pancakes, a type of food."
+    ],
+    "deepHigh": [
+      "The pancakes are breakfast."
+    ]
+  },
+  "panna cotta": {
+    "positive": [
+      "a photo of a panna cotta, a type of food."
+    ],
+    "negative": [
+      "this is not a panna cotta, which is a type of food."
+    ],
+    "deepLow": [
+      "panna cotta, creamy white, smooth glossy surface, wobbling texture, topped with red berry compote, served in glass ramekin"
+    ],
+    "ori": [
+      "a photo of a panna cotta, a type of food."
+    ],
+    "deepHigh": [
+      "The panna cotta is dessert."
+    ]
+  },
+  "peking duck": {
+    "positive": [
+      "a photo of a peking duck, a type of food."
+    ],
+    "negative": [
+      "this is not a peking duck, which is a type of food."
+    ],
+    "deepLow": [
+      "peking duck with crispy golden-brown skin, glossy glaze, sliced thin, served on white plate, garnished with green scallions"
+    ],
+    "ori": [
+      "a photo of a peking duck, a type of food."
+    ],
+    "deepHigh": [
+      "The peking duck is main course."
+    ]
+  },
+  "pho": {
+    "positive": [
+      "a photo of a pho, a type of food."
+    ],
+    "negative": [
+      "this is not a pho, which is a type of food."
+    ],
+    "deepLow": [
+      "pho, steaming bowl, clear broth, thin rice noodles, fresh herbs, sliced beef, lime wedges"
+    ],
+    "ori": [
+      "a photo of a pho, a type of food."
+    ],
+    "deepHigh": [
+      "The pho is soup."
+    ]
+  },
+  "pizza": {
+    "positive": [
+      "a photo of a pizza, a type of food."
+    ],
+    "negative": [
+      "this is not a pizza, which is a type of food."
+    ],
+    "deepLow": [
+      "pizza with golden crust, melted cheese, red tomato sauce, pepperoni slices, bubbly surface"
+    ],
+    "ori": [
+      "a photo of a pizza, a type of food."
+    ],
+    "deepHigh": [
+      "The pizza is food."
+    ]
+  },
+  "pork chop": {
+    "positive": [
+      "a photo of a pork chop, a type of food."
+    ],
+    "negative": [
+      "this is not a pork chop, which is a type of food."
+    ],
+    "deepLow": [
+      "pork chop, golden-brown crust, juicy pink interior, marbled fat streaks, bone-in, grill marks"
+    ],
+    "ori": [
+      "a photo of a pork chop, a type of food."
+    ],
+    "deepHigh": [
+      "The pork chop is entr\u00e9e."
+    ]
+  },
+  "poutine": {
+    "positive": [
+      "a photo of a poutine, a type of food."
+    ],
+    "negative": [
+      "this is not a poutine, which is a type of food."
+    ],
+    "deepLow": [
+      "poutine with golden fries, melted cheese curds, rich brown gravy, and fresh green parsley"
+    ],
+    "ori": [
+      "a photo of a poutine, a type of food."
+    ],
+    "deepHigh": [
+      "The poutine is dish."
+    ]
+  },
+  "prime rib": {
+    "positive": [
+      "a photo of a prime rib, a type of food."
+    ],
+    "negative": [
+      "this is not a prime rib, which is a type of food."
+    ],
+    "deepLow": [
+      "prime rib, thick juicy slices, deep brown crust, pink tender center, marbled fat streaks, served on white plate"
+    ],
+    "ori": [
+      "a photo of a prime rib, a type of food."
+    ],
+    "deepHigh": [
+      "The prime rib is entree."
+    ]
+  },
+  "pulled pork sandwich": {
+    "positive": [
+      "a photo of a pulled pork sandwich, a type of food."
+    ],
+    "negative": [
+      "this is not a pulled pork sandwich, which is a type of food."
+    ],
+    "deepLow": [
+      "pulled pork sandwich, tender shredded meat, golden brown bun, glossy barbecue glaze, crisp coleslaw topping, served on parchment paper"
+    ],
+    "ori": [
+      "a photo of a pulled pork sandwich, a type of food."
+    ],
+    "deepHigh": [
+      "The pulled pork sandwich is main course."
+    ]
+  },
+  "ramen": {
+    "positive": [
+      "a photo of a ramen, a type of food."
+    ],
+    "negative": [
+      "this is not a ramen, which is a type of food."
+    ],
+    "deepLow": [
+      "ramen, steaming broth, curly yellow noodles, sliced green onions, pink fish cake, soft-boiled egg"
+    ],
+    "ori": [
+      "a photo of a ramen, a type of food."
+    ],
+    "deepHigh": [
+      "The ramen is noodle soup."
+    ]
+  },
+  "ravioli": {
+    "positive": [
+      "a photo of a ravioli, a type of food."
+    ],
+    "negative": [
+      "this is not a ravioli, which is a type of food."
+    ],
+    "deepLow": [
+      "ravioli, square-shaped pasta, golden-brown edges, soft white filling, sprinkled with parsley, on white plate"
+    ],
+    "ori": [
+      "a photo of a ravioli, a type of food."
+    ],
+    "deepHigh": [
+      "The ravioli is pasta."
+    ]
+  },
+  "red velvet cake": {
+    "positive": [
+      "a photo of a red velvet cake, a type of food."
+    ],
+    "negative": [
+      "this is not a red velvet cake, which is a type of food."
+    ],
+    "deepLow": [
+      "red velvet cake, deep red layers, creamy white frosting, crumbly texture, topped with red crumbs, square shape"
+    ],
+    "ori": [
+      "a photo of a red velvet cake, a type of food."
+    ],
+    "deepHigh": [
+      "The red velvet cake is dessert."
+    ]
+  },
+  "risotto": {
+    "positive": [
+      "a photo of a risotto, a type of food."
+    ],
+    "negative": [
+      "this is not a risotto, which is a type of food."
+    ],
+    "deepLow": [
+      "creamy risotto, golden yellow hue, al dente grains, glossy butter sheen, scattered parsley flecks"
+    ],
+    "ori": [
+      "a photo of a risotto, a type of food."
+    ],
+    "deepHigh": [
+      "The risotto is rice dish."
+    ]
+  },
+  "samosa": {
+    "positive": [
+      "a photo of a samosa, a type of food."
+    ],
+    "negative": [
+      "this is not a samosa, which is a type of food."
+    ],
+    "deepLow": [
+      "samosa, golden-brown crispy crust, triangular shape, flaky texture, filled with spiced potatoes, served with mint chutney"
+    ],
+    "ori": [
+      "a photo of a samosa, a type of food."
+    ],
+    "deepHigh": [
+      "The samosa is snack."
+    ]
+  },
+  "sashimi": {
+    "positive": [
+      "a photo of a sashimi, a type of food."
+    ],
+    "negative": [
+      "this is not a sashimi, which is a type of food."
+    ],
+    "deepLow": [
+      "sashimi, fresh pink salmon slices, glistening surface, arranged on white ceramic plate, garnished with green shiso leaves"
+    ],
+    "ori": [
+      "a photo of a sashimi, a type of food."
+    ],
+    "deepHigh": [
+      "The sashimi is seafood."
+    ]
+  },
+  "scallops": {
+    "positive": [
+      "a photo of a scallops, a type of food."
+    ],
+    "negative": [
+      "this is not a scallops, which is a type of food."
+    ],
+    "deepLow": [
+      "scallops, ivory-white shells, fan-shaped, ridged texture, glossy interior, orange roe edges"
+    ],
+    "ori": [
+      "a photo of a scallops, a type of food."
+    ],
+    "deepHigh": [
+      "The scallops is seafood."
+    ]
+  },
+  "seaweed salad": {
+    "positive": [
+      "a photo of a seaweed salad, a type of food."
+    ],
+    "negative": [
+      "this is not a seaweed salad, which is a type of food."
+    ],
+    "deepLow": [
+      "seaweed salad with vibrant green strands, glossy texture, curly edges, sesame seeds sprinkled, served in a white bowl"
+    ],
+    "ori": [
+      "a photo of a seaweed salad, a type of food."
+    ],
+    "deepHigh": [
+      "The seaweed salad is side dish."
+    ]
+  },
+  "shrimp and grits": {
+    "positive": [
+      "a photo of a shrimp and grits, a type of food."
+    ],
+    "negative": [
+      "this is not a shrimp and grits, which is a type of food."
+    ],
+    "deepLow": [
+      "shrimp and grits, creamy yellow grits, pink curled shrimp, green parsley garnish, buttery sauce drizzle"
+    ],
+    "ori": [
+      "a photo of a shrimp and grits, a type of food."
+    ],
+    "deepHigh": [
+      "The shrimp and grits is entr\u00e9e."
+    ]
+  },
+  "spaghetti bolognese": {
+    "positive": [
+      "a photo of a spaghetti bolognese, a type of food."
+    ],
+    "negative": [
+      "this is not a spaghetti bolognese, which is a type of food."
+    ],
+    "deepLow": [
+      "spaghetti bolognese, long twisted noodles, rich red meat sauce, grated parmesan sprinkles, steam rising"
+    ],
+    "ori": [
+      "a photo of a spaghetti bolognese, a type of food."
+    ],
+    "deepHigh": [
+      "The spaghetti bolognese is pasta dish."
+    ]
+  },
+  "spaghetti carbonara": {
+    "positive": [
+      "a photo of a spaghetti carbonara, a type of food."
+    ],
+    "negative": [
+      "this is not a spaghetti carbonara, which is a type of food."
+    ],
+    "deepLow": [
+      "spaghetti carbonara, creamy white sauce, golden egg yolk streaks, al dente pasta strands, crispy pancetta bits, black pepper specks"
+    ],
+    "ori": [
+      "a photo of a spaghetti carbonara, a type of food."
+    ],
+    "deepHigh": [
+      "The spaghetti carbonara is pasta dish."
+    ]
+  },
+  "spring rolls": {
+    "positive": [
+      "a photo of a spring rolls, a type of food."
+    ],
+    "negative": [
+      "this is not a spring rolls, which is a type of food."
+    ],
+    "deepLow": [
+      "spring rolls, golden-brown crispy skin, cylindrical shape, filled with green veggies, white noodles, visible through translucent wrapper"
+    ],
+    "ori": [
+      "a photo of a spring rolls, a type of food."
+    ],
+    "deepHigh": [
+      "The spring rolls are appetizer."
+    ]
+  },
+  "steak": {
+    "positive": [
+      "a photo of a steak, a type of food."
+    ],
+    "negative": [
+      "this is not a steak, which is a type of food."
+    ],
+    "deepLow": [
+      "steak, seared brown crust, juicy pink center, visible grill marks, resting on white plate"
+    ],
+    "ori": [
+      "a photo of a steak, a type of food."
+    ],
+    "deepHigh": [
+      "The steak is entr\u00e9e."
+    ]
+  },
+  "strawberry shortcake": {
+    "positive": [
+      "a photo of a strawberry shortcake, a type of food."
+    ],
+    "negative": [
+      "this is not a strawberry shortcake, which is a type of food."
+    ],
+    "deepLow": [
+      "strawberry shortcake, layered sponge cake, fresh red strawberries, whipped cream topping, green leaf garnish"
+    ],
+    "ori": [
+      "a photo of a strawberry shortcake, a type of food."
+    ],
+    "deepHigh": [
+      "The strawberry shortcake is dessert."
+    ]
+  },
+  "sushi": {
+    "positive": [
+      "a photo of a sushi, a type of food."
+    ],
+    "negative": [
+      "this is not a sushi, which is a type of food."
+    ],
+    "deepLow": [
+      "sushi, white rice base, pink salmon slices, green nori wrap, glossy sheen, bite-sized rolls"
+    ],
+    "ori": [
+      "a photo of a sushi, a type of food."
+    ],
+    "deepHigh": [
+      "The sushi is Japanese cuisine."
+    ]
+  },
+  "tacos": {
+    "positive": [
+      "a photo of a tacos, a type of food."
+    ],
+    "negative": [
+      "this is not a tacos, which is a type of food."
+    ],
+    "deepLow": [
+      "tacos with golden tortillas, shredded lettuce, diced tomatoes, melted cheese, and grilled meat chunks"
+    ],
+    "ori": [
+      "a photo of a tacos, a type of food."
+    ],
+    "deepHigh": [
+      "The tacos is food."
+    ]
+  },
+  "takoyaki": {
+    "positive": [
+      "a photo of a takoyaki, a type of food."
+    ],
+    "negative": [
+      "this is not a takoyaki, which is a type of food."
+    ],
+    "deepLow": [
+      "takoyaki, golden-brown spheres, crispy exterior, soft interior, topped with bonito flakes, drizzled with dark sauce, sprinkled with green onions"
+    ],
+    "ori": [
+      "a photo of a takoyaki, a type of food."
+    ],
+    "deepHigh": [
+      "The takoyaki is snack."
+    ]
+  },
+  "tiramisu": {
+    "positive": [
+      "a photo of a tiramisu, a type of food."
+    ],
+    "negative": [
+      "this is not a tiramisu, which is a type of food."
+    ],
+    "deepLow": [
+      "tiramisu with layered cream, cocoa dusting, coffee-soaked sponge, square shape, soft texture"
+    ],
+    "ori": [
+      "a photo of a tiramisu, a type of food."
+    ],
+    "deepHigh": [
+      "The tiramisu is dessert."
+    ]
+  },
+  "tuna tartare": {
+    "positive": [
+      "a photo of a tuna tartare, a type of food."
+    ],
+    "negative": [
+      "this is not a tuna tartare, which is a type of food."
+    ],
+    "deepLow": [
+      "tuna tartare, vibrant pink cubes, glossy olive oil drizzle, crisp cucumber garnish, sprinkled black sesame seeds, white porcelain plate"
+    ],
+    "ori": [
+      "a photo of a tuna tartare, a type of food."
+    ],
+    "deepHigh": [
+      "The tuna tartare is appetizer."
+    ]
+  },
+  "waffles": {
+    "positive": [
+      "a photo of a waffles, a type of food."
+    ],
+    "negative": [
+      "this is not a waffles, which is a type of food."
+    ],
+    "deepLow": [
+      "waffles, golden-brown squares, crispy edges, deep grid pattern, topped with melted butter, served on white plate"
+    ],
+    "ori": [
+      "a photo of a waffles, a type of food."
+    ],
+    "deepHigh": [
+      "The waffles is breakfast."
+    ]
+  }
+}

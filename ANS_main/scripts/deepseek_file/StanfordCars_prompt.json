@@ -1,0 +1,3726 @@
+{
+  "2012 Audi TTS Coupe": {
+    "positive": [
+      "This image shows a 2012 Audi TTS Coupe, a sporty two-door car.",
+      "The car in the image is a 2012 Audi TTS Coupe, known for its performance."
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi TTS Coupe.",
+      "This is definitely not an image of a 2012 Audi TTS Coupe."
+    ],
+    "deepLow": [
+      "2012 Audi TTS Coupe, glossy black paint, angular headlights, silver alloy wheels, aggressive grille, sporty silhouette"
+    ],
+    "ori": [
+      "a photo of a 2012 Audi TTS Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi TTS Coupe is a luxury performance sports car."
+    ]
+  },
+  "2012 Acura TL Sedan": {
+    "positive": [
+      "This image presents a 2012 Acura TL Sedan, a luxury four-door car.",
+      "The car in the image is a 2012 Acura TL Sedan, recognized for its comfort and style."
+    ],
+    "negative": [
+      "This image does not show a 2012 Acura TL Sedan.",
+      "This is definitely not an image of a 2012 Acura TL Sedan."
+    ],
+    "deepLow": [
+      "2012 Acura TL Sedan, sleek silver metallic paint, angular headlights, chrome grille, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Acura TL Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Acura TL Sedan is a luxury sports sedan."
+    ]
+  },
+  "2007 Dodge Dakota Club Cab": {
+    "positive": [
+      "This image depicts a 2007 Dodge Dakota Club Cab, a mid-size pickup truck.",
+      "The vehicle in the image is a 2007 Dodge Dakota Club Cab, known for its versatility."
+    ],
+    "negative": [
+      "This image does not show a 2007 Dodge Dakota Club Cab.",
+      "This is definitely not an image of a 2007 Dodge Dakota Club Cab."
+    ],
+    "deepLow": [
+      "2007 Dodge Dakota Club Cab, metallic silver paint, black textured grille, rectangular headlights, chrome wheel rims, rugged truck bed"
+    ],
+    "ori": [
+      "a photo of a 2007 Dodge Dakota Club Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Dodge Dakota Club Cab is a versatile mid-size pickup truck."
+    ]
+  },
+  "2012 Hyundai Sonata Hybrid Sedan": {
+    "positive": [
+      "This image features a 2012 Hyundai Sonata Hybrid Sedan, an environmentally friendly four-door car.",
+      "The car in the image is a 2012 Hyundai Sonata Hybrid Sedan, known for its fuel efficiency."
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Sonata Hybrid Sedan.",
+      "This is definitely not an image of a 2012 Hyundai Sonata Hybrid Sedan."
+    ],
+    "deepLow": [
+      "2012 Hyundai Sonata Hybrid Sedan, silver metallic paint, sleek aerodynamic shape, black leather interior, blue hybrid badges"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Sonata Hybrid Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Sonata Hybrid Sedan is a fuel-efficient family sedan."
+    ]
+  },
+  "2012 Ford F-450 Super Duty Crew Cab": {
+    "positive": [
+      "This image shows a 2012 Ford F-450 Super Duty Crew Cab, a heavy-duty pickup truck.",
+      "The vehicle in the image is a 2012 Ford F-450 Super Duty Crew Cab, known for its towing capacity."
+    ],
+    "negative": [
+      "This image does not show a 2012 Ford F-450 Super Duty Crew Cab.",
+      "This is definitely not an image of a 2012 Ford F-450 Super Duty Crew Cab."
+    ],
+    "deepLow": [
+      "2012 Ford F-450 Super Duty Crew Cab, black metallic paint, chrome grille, large wheel arches, rugged tires, crew cab design"
+    ],
+    "ori": [
+      "a photo of a 2012 Ford F-450 Super Duty Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ford F-450 Super Duty Crew Cab is a heavy-duty work truck for commercial and industrial use."
+    ]
+  },
+  "1993 Geo Metro Convertible": {
+    "positive": [
+      "This image presents a 1993 Geo Metro Convertible, a small, fuel-efficient two-door car.",
+      "The car in the image is a 1993 Geo Metro Convertible, known for its compact size."
+    ],
+    "negative": [
+      "This image does not show a 1993 Geo Metro Convertible.",
+      "This is definitely not an image of a 1993 Geo Metro Convertible."
+    ],
+    "deepLow": [
+      "1993 Geo Metro Convertible, compact size, soft-top roof, bright red paint, chrome bumpers, round headlights"
+    ],
+    "ori": [
+      "a photo of a 1993 Geo Metro Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 1993 Geo Metro Convertible is an economical compact car."
+    ]
+  },
+  "2012 Dodge Journey SUV": {
+    "positive": [
+      "This image depicts a 2012 Dodge Journey SUV, a mid-size sport utility vehicle.",
+      "The vehicle in the image is a 2012 Dodge Journey SUV, known for its versatility and passenger capacity."
+    ],
+    "negative": [
+      "This image does not show a 2012 Dodge Journey SUV.",
+      "This is definitely not an image of a 2012 Dodge Journey SUV."
+    ],
+    "deepLow": [
+      "2012 Dodge Journey SUV, silver metallic paint, black grille, chrome accents, sleek angular headlights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Dodge Journey SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Dodge Journey SUV is a versatile family vehicle with three rows of seating."
+    ]
+  },
+  "2012 Dodge Charger Sedan": {
+    "positive": [
+      "This image features a 2012 Dodge Charger Sedan, a full-size four-door car with a sporty design.",
+      "The car in the image is a 2012 Dodge Charger Sedan, recognized for its powerful engine options."
+    ],
+    "negative": [
+      "This image does not show a 2012 Dodge Charger Sedan.",
+      "This is definitely not an image of a 2012 Dodge Charger Sedan."
+    ],
+    "deepLow": [
+      "2012 Dodge Charger Sedan, black glossy paint, chrome grille, muscular body lines, LED taillights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Dodge Charger Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Dodge Charger Sedan is a full-size performance sedan."
+    ]
+  },
+  "2012 Mitsubishi Lancer Sedan": {
+    "positive": [
+      "This image shows a 2012 Mitsubishi Lancer Sedan, a compact four-door car.",
+      "The car in the image is a 2012 Mitsubishi Lancer Sedan, known for its affordability and fuel efficiency."
+    ],
+    "negative": [
+      "This image does not show a 2012 Mitsubishi Lancer Sedan.",
+      "This is definitely not an image of a 2012 Mitsubishi Lancer Sedan."
+    ],
+    "deepLow": [
+      "2012 Mitsubishi Lancer Sedan, sleek silver paint, angular headlights, black grille, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Mitsubishi Lancer Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Mitsubishi Lancer Sedan is an affordable compact car for budget-conscious drivers."
+    ]
+  },
+  "2012 Chevrolet Traverse SUV": {
+    "positive": [
+      "This image presents a 2012 Chevrolet Traverse SUV, a large sport utility vehicle with three rows of seating.",
+      "The vehicle in the image is a 2012 Chevrolet Traverse SUV, ideal for families and group travel."
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Traverse SUV.",
+      "This is definitely not an image of a 2012 Chevrolet Traverse SUV."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Traverse SUV, silver metallic paint, black grille, chrome accents, sleek body lines, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Traverse SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Traverse SUV is a spacious family vehicle."
+    ]
+  },
+  "2012 Buick Verano Sedan": {
+    "positive": [
+      "This image depicts a 2012 Buick Verano Sedan, a compact luxury four-door car.",
+      "The car in the image is a 2012 Buick Verano Sedan, known for its comfortable ride and premium features."
+    ],
+    "negative": [
+      "This image does not show a 2012 Buick Verano Sedan.",
+      "This is definitely not an image of a 2012 Buick Verano Sedan."
+    ],
+    "deepLow": [
+      "2012 Buick Verano Sedan, sleek silver paint, chrome grille, angular headlights, black leather interior, compact sedan shape"
+    ],
+    "ori": [
+      "a photo of a 2012 Buick Verano Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Buick Verano Sedan is a premium compact luxury vehicle."
+    ]
+  },
+  "2012 Toyota Sequoia SUV": {
+    "positive": [
+      "This image features a 2012 Toyota Sequoia SUV, a full-size sport utility vehicle with ample space for passengers and cargo.",
+      "The vehicle in the image is a 2012 Toyota Sequoia SUV, well-suited for off-road adventures."
+    ],
+    "negative": [
+      "This image does not show a 2012 Toyota Sequoia SUV.",
+      "This is definitely not an image of a 2012 Toyota Sequoia SUV."
+    ],
+    "deepLow": [
+      "2012 Toyota Sequoia SUV, metallic gray paint, chrome grille, boxy shape, black leather seats, roof rack"
+    ],
+    "ori": [
+      "a photo of a 2012 Toyota Sequoia SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Toyota Sequoia SUV is a full-size, eight-passenger vehicle with powerful towing capacity."
+    ]
+  },
+  "2007 Hyundai Elantra Sedan": {
+    "positive": [
+      "This image shows a 2007 Hyundai Elantra Sedan, a compact four-door car known for its value and reliability.",
+      "The car in the image is a 2007 Hyundai Elantra Sedan, a popular choice for budget-conscious drivers."
+    ],
+    "negative": [
+      "This image does not show a 2007 Hyundai Elantra Sedan.",
+      "This is definitely not an image of a 2007 Hyundai Elantra Sedan."
+    ],
+    "deepLow": [
+      "2007 Hyundai Elantra Sedan, silver metallic paint, sleek angular headlights, chrome grille, black interior upholstery"
+    ],
+    "ori": [
+      "a photo of a 2007 Hyundai Elantra Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Hyundai Elantra Sedan is an affordable compact car for daily commuting."
+    ]
+  },
+  "1997 Dodge Caravan Minivan": {
+    "positive": [
+      "This image presents a 1997 Dodge Caravan Minivan, a versatile vehicle designed for families and cargo hauling.",
+      "The vehicle in the image is a 1997 Dodge Caravan Minivan, known for its spacious interior and practicality."
+    ],
+    "negative": [
+      "This image does not show a 1997 Dodge Caravan Minivan.",
+      "This is definitely not an image of a 1997 Dodge Caravan Minivan."
+    ],
+    "deepLow": [
+      "1997 Dodge Caravan Minivan, boxy shape, sliding side doors, chrome grille, two-tone paint, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1997 Dodge Caravan Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 1997 Dodge Caravan Minivan is a versatile family vehicle."
+    ]
+  },
+  "2012 Volvo C30 Hatchback": {
+    "positive": [
+      "This image depicts a 2012 Volvo C30 Hatchback, a stylish and sporty two-door car with a distinctive design.",
+      "The car in the image is a 2012 Volvo C30 Hatchback, known for its safety features and driving experience."
+    ],
+    "negative": [
+      "This image does not show a 2012 Volvo C30 Hatchback.",
+      "This is definitely not an image of a 2012 Volvo C30 Hatchback."
+    ],
+    "deepLow": [
+      "2012 Volvo C30 Hatchback, sleek black paint, chrome grille, sporty alloy wheels, angular headlights, compact rear design"
+    ],
+    "ori": [
+      "a photo of a 2012 Volvo C30 Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Volvo C30 Hatchback is a stylish and compact premium hatchback."
+    ]
+  },
+  "1999 Plymouth Neon Coupe": {
+    "positive": [
+      "This image features a 1999 Plymouth Neon Coupe, a compact two-door car known for its affordability and sporty handling.",
+      "The car in the image is a 1999 Plymouth Neon Coupe, a popular choice for young drivers."
+    ],
+    "negative": [
+      "This image does not show a 1999 Plymouth Neon Coupe.",
+      "This is definitely not an image of a 1999 Plymouth Neon Coupe."
+    ],
+    "deepLow": [
+      "1999 Plymouth Neon Coupe, compact two-door body, vibrant red paint, black plastic trim, circular headlights, chrome accents"
+    ],
+    "ori": [
+      "a photo of a 1999 Plymouth Neon Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 1999 Plymouth Neon Coupe is an affordable compact car."
+    ]
+  },
+  "2007 Chevrolet Malibu Sedan": {
+    "positive": [
+      "This image shows a 2007 Chevrolet Malibu Sedan, a mid-size four-door car known for its comfort and value.",
+      "The car in the image is a 2007 Chevrolet Malibu Sedan, a practical choice for families and commuters."
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Malibu Sedan.",
+      "This is definitely not an image of a 2007 Chevrolet Malibu Sedan."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Malibu Sedan, silver metallic paint, chrome grille, smooth body lines, black leather interior, rectangular headlights"
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Malibu Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Malibu Sedan is a reliable midsize family car."
+    ]
+  },
+  "2012 Volkswagen Beetle Hatchback": {
+    "positive": [
+      "This image presents a 2012 Volkswagen Beetle Hatchback, a compact car with a retro design and modern features.",
+      "The car in the image is a 2012 Volkswagen Beetle Hatchback, known for its iconic styling and fun driving experience."
+    ],
+    "negative": [
+      "This image does not show a 2012 Volkswagen Beetle Hatchback.",
+      "This is definitely not an image of a 2012 Volkswagen Beetle Hatchback."
+    ],
+    "deepLow": [
+      "2012 Volkswagen Beetle Hatchback, glossy red paint, rounded fenders, circular headlights, black alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Volkswagen Beetle Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Volkswagen Beetle Hatchback is a stylish, compact car for urban commuters."
+    ]
+  },
+  "2007 Chevrolet Corvette Ron Fellows Edition Z06": {
+    "positive": [
+      "This image depicts a 2007 Chevrolet Corvette Ron Fellows Edition Z06, a high-performance sports car with a unique appearance.",
+      "The car in the image is a 2007 Chevrolet Corvette Ron Fellows Edition Z06, known for its power and track capabilities."
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Corvette Ron Fellows Edition Z06.",
+      "This is definitely not an image of a 2007 Chevrolet Corvette Ron Fellows Edition Z06."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Corvette Ron Fellows Edition Z06, metallic silver paint, black racing stripes, carbon fiber hood, red brake calipers, aggressive body lines."
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Corvette Ron Fellows Edition Z06, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Corvette Ron Fellows Edition Z06 is a limited-production, high-performance track-focused sports car."
+    ]
+  },
+  "2010 Chrysler 300 SRT-8": {
+    "positive": [
+      "This image features a 2010 Chrysler 300 SRT-8, a full-size sedan with a powerful engine and sporty styling.",
+      "The car in the image is a 2010 Chrysler 300 SRT-8, known for its performance and luxury features."
+    ],
+    "negative": [
+      "This image does not show a 2010 Chrysler 300 SRT-8.",
+      "This is definitely not an image of a 2010 Chrysler 300 SRT-8."
+    ],
+    "deepLow": [
+      "2010 Chrysler 300 SRT-8, glossy black paint, chrome grille, muscular body lines, 20-inch alloy wheels, aggressive front fascia"
+    ],
+    "ori": [
+      "a photo of a 2010 Chrysler 300 SRT-8, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Chrysler 300 SRT-8 is a high-performance luxury sedan."
+    ]
+  },
+  "2010 BMW M6 Convertible": {
+    "positive": [
+      "This image shows a 2010 BMW M6 Convertible, a high-performance sports car with a retractable soft top.",
+      "The car in the image is a 2010 BMW M6 Convertible, known for its exhilarating driving experience and luxurious features."
+    ],
+    "negative": [
+      "This image does not show a 2010 BMW M6 Convertible.",
+      "This is definitely not an image of a 2010 BMW M6 Convertible."
+    ],
+    "deepLow": [
+      "2010 BMW M6 Convertible, sleek silver metallic paint, black soft-top roof, aggressive front grille, chrome alloy wheels, sporty low-profile stance."
+    ],
+    "ori": [
+      "a photo of a 2010 BMW M6 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 BMW M6 Convertible is a high-performance luxury sports car."
+    ]
+  },
+  "2012 GMC Yukon Hybrid SUV": {
+    "positive": [
+      "This image presents a 2012 GMC Yukon Hybrid SUV, a full-size sport utility vehicle with a hybrid powertrain for increased fuel efficiency.",
+      "The vehicle in the image is a 2012 GMC Yukon Hybrid SUV, ideal for families seeking a more environmentally friendly option."
+    ],
+    "negative": [
+      "This image does not show a 2012 GMC Yukon Hybrid SUV.",
+      "This is definitely not an image of a 2012 GMC Yukon Hybrid SUV."
+    ],
+    "deepLow": [
+      "2012 GMC Yukon Hybrid SUV, metallic silver paint, chrome grille, black leather seats, hybrid badging, boxy SUV shape"
+    ],
+    "ori": [
+      "a photo of a 2012 GMC Yukon Hybrid SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 GMC Yukon Hybrid SUV is a full-size hybrid utility vehicle for families and professionals."
+    ]
+  },
+  "2012 Nissan Juke Hatchback": {
+    "positive": [
+      "This image depicts a 2012 Nissan Juke Hatchback, a subcompact crossover with a distinctive and quirky design.",
+      "The car in the image is a 2012 Nissan Juke Hatchback, known for its sporty handling and unique styling."
+    ],
+    "negative": [
+      "This image does not show a 2012 Nissan Juke Hatchback.",
+      "This is definitely not an image of a 2012 Nissan Juke Hatchback."
+    ],
+    "deepLow": [
+      "2012 Nissan Juke Hatchback, compact angular body, bold front grille, two-tone paint, high-mounted headlights, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Nissan Juke Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Nissan Juke Hatchback is a compact crossover with a bold, sporty design."
+    ]
+  },
+  "1993 Volvo 240 Sedan": {
+    "positive": [
+      "This image features a 1993 Volvo 240 Sedan, a reliable and safe four-door car with a reputation for longevity.",
+      "The car in the image is a 1993 Volvo 240 Sedan, known for its durability and practicality."
+    ],
+    "negative": [
+      "This image does not show a 1993 Volvo 240 Sedan.",
+      "This is definitely not an image of a 1993 Volvo 240 Sedan."
+    ],
+    "deepLow": [
+      "1993 Volvo 240 Sedan, boxy shape, gray metallic paint, black vinyl seats, chrome trim, rectangular headlights"
+    ],
+    "ori": [
+      "a photo of a 1993 Volvo 240 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 1993 Volvo 240 Sedan is a durable, safety-focused family car."
+    ]
+  },
+  "2012 Suzuki SX4 Sedan": {
+    "positive": [
+      "This image shows a 2012 Suzuki SX4 Sedan, a compact four-door car with available all-wheel drive.",
+      "The car in the image is a 2012 Suzuki SX4 Sedan, known for its versatility and value."
+    ],
+    "negative": [
+      "This image does not show a 2012 Suzuki SX4 Sedan.",
+      "This is definitely not an image of a 2012 Suzuki SX4 Sedan."
+    ],
+    "deepLow": [
+      "2012 Suzuki SX4 Sedan, compact silver body, black grille, angular headlights, alloy wheels, sleek rear spoiler"
+    ],
+    "ori": [
+      "a photo of a 2012 Suzuki SX4 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Suzuki SX4 Sedan is an affordable compact car."
+    ]
+  },
+  "2010 Dodge Ram Pickup 3500 Crew Cab": {
+    "positive": [
+      "This image presents a 2010 Dodge Ram Pickup 3500 Crew Cab, a heavy-duty pickup truck with a spacious interior.",
+      "The vehicle in the image is a 2010 Dodge Ram Pickup 3500 Crew Cab, designed for towing and hauling heavy loads."
+    ],
+    "negative": [
+      "This image does not show a 2010 Dodge Ram Pickup 3500 Crew Cab.",
+      "This is definitely not an image of a 2010 Dodge Ram Pickup 3500 Crew Cab."
+    ],
+    "deepLow": [
+      "2010 Dodge Ram Pickup 3500 Crew Cab, black metallic paint, chrome grille, rugged tires, crew cab design, bold Ram badge"
+    ],
+    "ori": [
+      "a photo of a 2010 Dodge Ram Pickup 3500 Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Dodge Ram Pickup 3500 Crew Cab is heavy-duty work truck."
+    ]
+  },
+  "2009 Spyker C8 Coupe": {
+    "positive": [
+      "This image depicts a 2009 Spyker C8 Coupe, an exotic sports car with a unique design and high-performance capabilities.",
+      "The car in the image is a 2009 Spyker C8 Coupe, known for its craftsmanship and exclusivity."
+    ],
+    "negative": [
+      "This image does not show a 2009 Spyker C8 Coupe.",
+      "This is definitely not an image of a 2009 Spyker C8 Coupe."
+    ],
+    "deepLow": [
+      "2009 Spyker C8 Coupe, metallic silver body, sculpted curves, black leather interior, exposed aluminum gearshift, round air vents"
+    ],
+    "ori": [
+      "a photo of a 2009 Spyker C8 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Spyker C8 Coupe is an exclusive high-performance sports car."
+    ]
+  },
+  "2012 Land Rover Range Rover SUV": {
+    "positive": [
+      "This image features a 2012 Land Rover Range Rover SUV, a luxury sport utility vehicle with off-road capabilities and a refined interior.",
+      "The vehicle in the image is a 2012 Land Rover Range Rover SUV, known for its versatility and British elegance."
+    ],
+    "negative": [
+      "This image does not show a 2012 Land Rover Range Rover SUV.",
+      "This is definitely not an image of a 2012 Land Rover Range Rover SUV."
+    ],
+    "deepLow": [
+      "2012 Land Rover Range Rover SUV, boxy silhouette, metallic silver paint, black leather interior, chrome grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Land Rover Range Rover SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Land Rover Range Rover SUV is a luxury off-road vehicle."
+    ]
+  },
+  "2012 Hyundai Elantra Touring Hatchback": {
+    "positive": [
+      "This image shows a 2012 Hyundai Elantra Touring Hatchback, a compact hatchback with ample cargo space and a fuel-efficient engine.",
+      "The car in the image is a 2012 Hyundai Elantra Touring Hatchback, a practical choice for drivers who need versatility."
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Elantra Touring Hatchback.",
+      "This is definitely not an image of a 2012 Hyundai Elantra Touring Hatchback."
+    ],
+    "deepLow": [
+      "2012 Hyundai Elantra Touring Hatchback, silver metallic paint, sleek angular headlights, black textured grille, compact rear spoiler"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Elantra Touring Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Elantra Touring Hatchback is a practical compact wagon for active lifestyles."
+    ]
+  },
+  "2010 Chevrolet Cobalt SS": {
+    "positive": [
+      "This image presents a 2010 Chevrolet Cobalt SS, a compact sports car with a turbocharged engine and sporty handling.",
+      "The car in the image is a 2010 Chevrolet Cobalt SS, known for its performance and affordability."
+    ],
+    "negative": [
+      "This image does not show a 2010 Chevrolet Cobalt SS.",
+      "This is definitely not an image of a 2010 Chevrolet Cobalt SS."
+    ],
+    "deepLow": [
+      "2010 Chevrolet Cobalt SS, metallic silver paint, black racing stripes, aggressive front grille, rear spoiler, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2010 Chevrolet Cobalt SS, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Chevrolet Cobalt SS is a high-performance compact sports coupe."
+    ]
+  },
+  "2012 Hyundai Veracruz SUV": {
+    "positive": [
+      "This image depicts a 2012 Hyundai Veracruz SUV, a mid-size sport utility vehicle with three rows of seating and a comfortable ride.",
+      "The vehicle in the image is a 2012 Hyundai Veracruz SUV, ideal for families seeking space and value."
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Veracruz SUV.",
+      "This is definitely not an image of a 2012 Hyundai Veracruz SUV."
+    ],
+    "deepLow": [
+      "2012 Hyundai Veracruz SUV, silver metallic paint, chrome grille, black leather seats, angular headlights, roof rails"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Veracruz SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Veracruz SUV is a spacious seven-passenger family vehicle."
+    ]
+  },
+  "2012 Ferrari 458 Italia Coupe": {
+    "positive": [
+      "This image features a 2012 Ferrari 458 Italia Coupe, a high-performance sports car with a mid-engine layout and aerodynamic design.",
+      "The car in the image is a 2012 Ferrari 458 Italia Coupe, known for its exhilarating speed and Italian styling."
+    ],
+    "negative": [
+      "This image does not show a 2012 Ferrari 458 Italia Coupe.",
+      "This is definitely not an image of a 2012 Ferrari 458 Italia Coupe."
+    ],
+    "deepLow": [
+      "2012 Ferrari 458 Italia Coupe, glossy red paint, sleek aerodynamic curves, black alloy wheels, aggressive front grille, carbon fiber accents"
+    ],
+    "ori": [
+      "a photo of a 2012 Ferrari 458 Italia Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ferrari 458 Italia Coupe is a high-performance exotic sports car for driving enthusiasts."
+    ]
+  },
+  "2012 BMW Z4 Convertible": {
+    "positive": [
+      "This image shows a 2012 BMW Z4 Convertible, a two-seat roadster with a retractable hardtop and sporty handling.",
+      "The car in the image is a 2012 BMW Z4 Convertible, known for its open-air driving experience and BMW performance."
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW Z4 Convertible.",
+      "This is definitely not an image of a 2012 BMW Z4 Convertible."
+    ],
+    "deepLow": [
+      "2012 BMW Z4 Convertible, sleek silver metallic paint, black soft-top roof, angular headlights, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW Z4 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW Z4 Convertible is a luxury sports roadster."
+    ]
+  },
+  "2009 Dodge Charger SRT-8": {
+    "positive": [
+      "This image presents a 2009 Dodge Charger SRT-8, a full-size sedan with a high-performance engine and aggressive styling.",
+      "The car in the image is a 2009 Dodge Charger SRT-8, known for its power and American muscle."
+    ],
+    "negative": [
+      "This image does not show a 2009 Dodge Charger SRT-8.",
+      "This is definitely not an image of a 2009 Dodge Charger SRT-8."
+    ],
+    "deepLow": [
+      "2009 Dodge Charger SRT-8, glossy black paint, aggressive front grille, sculpted hood vents, chrome alloy wheels, muscular body lines"
+    ],
+    "ori": [
+      "a photo of a 2009 Dodge Charger SRT-8, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Dodge Charger SRT-8 is a high-performance muscle sedan."
+    ]
+  },
+  "2012 Fisker Karma Sedan": {
+    "positive": [
+      "This image depicts a 2012 Fisker Karma Sedan, a luxury electric vehicle with a distinctive design and extended range.",
+      "The car in the image is a 2012 Fisker Karma Sedan, known for its eco-friendly technology and stylish appearance."
+    ],
+    "negative": [
+      "This image does not show a 2012 Fisker Karma Sedan.",
+      "This is definitely not an image of a 2012 Fisker Karma Sedan."
+    ],
+    "deepLow": [
+      "2012 Fisker Karma Sedan, sleek silver body, black solar roof, angular headlights, glossy alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Fisker Karma Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Fisker Karma Sedan is a luxury plug-in hybrid sports car."
+    ]
+  },
+  "2011 Infiniti QX56 SUV": {
+    "positive": [
+      "This image features a 2011 Infiniti QX56 SUV, a full-size luxury sport utility vehicle with a spacious interior and advanced features.",
+      "The vehicle in the image is a 2011 Infiniti QX56 SUV, known for its comfort, technology, and towing capacity."
+    ],
+    "negative": [
+      "This image does not show a 2011 Infiniti QX56 SUV.",
+      "This is definitely not an image of a 2011 Infiniti QX56 SUV."
+    ],
+    "deepLow": [
+      "2011 Infiniti QX56 SUV, metallic black paint, chrome grille, boxy shape, leather seats, LED headlights."
+    ],
+    "ori": [
+      "a photo of a 2011 Infiniti QX56 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Infiniti QX56 SUV is a full-size luxury vehicle."
+    ]
+  },
+  "2012 Audi A5 Coupe": {
+    "positive": [
+      "This image shows a 2012 Audi A5 Coupe, a sporty two-door car with a sleek design and a luxurious interior.",
+      "The car in the image is a 2012 Audi A5 Coupe, known for its performance, style, and German engineering."
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi A5 Coupe.",
+      "This is definitely not an image of a 2012 Audi A5 Coupe."
+    ],
+    "deepLow": [
+      "2012 Audi A5 Coupe, sleek silver metallic paint, black leather interior, angular LED headlights, chrome grille, low-profile tires"
+    ],
+    "ori": [
+      "a photo of a 2012 Audi A5 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi A5 Coupe is a luxury sports coupe."
+    ]
+  },
+  "1991 Volkswagen Golf Hatchback": {
+    "positive": [
+      "This image presents a 1991 Volkswagen Golf Hatchback, a compact and practical car with a reputation for reliability and fuel efficiency.",
+      "The car in the image is a 1991 Volkswagen Golf Hatchback, known for its German engineering and enduring popularity."
+    ],
+    "negative": [
+      "This image does not show a 1991 Volkswagen Golf Hatchback.",
+      "This is definitely not an image of a 1991 Volkswagen Golf Hatchback."
+    ],
+    "deepLow": [
+      "1991 Volkswagen Golf Hatchback, boxy shape, round headlights, two-door design, metallic blue paint, black plastic bumpers"
+    ],
+    "ori": [
+      "a photo of a 1991 Volkswagen Golf Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 1991 Volkswagen Golf Hatchback is a practical and economical compact car."
+    ]
+  },
+  "2012 GMC Savana Van": {
+    "positive": [
+      "This image depicts a 2012 GMC Savana Van, a full-size van designed for passenger or cargo hauling.",
+      "The vehicle in the image is a 2012 GMC Savana Van, known for its versatility and spacious interior."
+    ],
+    "negative": [
+      "This image does not show a 2012 GMC Savana Van.",
+      "This is definitely not an image of a 2012 GMC Savana Van."
+    ],
+    "deepLow": [
+      "2012 GMC Savana Van, boxy shape, metallic silver paint, black grille, sliding side door, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 GMC Savana Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 GMC Savana Van is a full-size commercial cargo and passenger van."
+    ]
+  },
+  "2012 Audi TT RS Coupe": {
+    "positive": [
+      "This image features a 2012 Audi TT RS Coupe, a high-performance sports car with a distinctive design and a powerful engine.",
+      "The car in the image is a 2012 Audi TT RS Coupe, known for its exhilarating acceleration and agile handling."
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi TT RS Coupe.",
+      "This is definitely not an image of a 2012 Audi TT RS Coupe."
+    ],
+    "deepLow": [
+      "2012 Audi TT RS Coupe, glossy black paint, honeycomb grille, angular headlights, aluminum wheels, aggressive rear diffuser"
+    ],
+    "ori": [
+      "a photo of a 2012 Audi TT RS Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi TT RS Coupe is a high-performance sports coupe."
+    ]
+  },
+  "2012 Porsche Panamera Sedan": {
+    "positive": [
+      "This image shows a 2012 Porsche Panamera Sedan, a luxury performance sedan with a distinctive design and sporty handling.",
+      "The car in the image is a 2012 Porsche Panamera Sedan, known for its blend of luxury and performance."
+    ],
+    "negative": [
+      "This image does not show a 2012 Porsche Panamera Sedan.",
+      "This is definitely not an image of a 2012 Porsche Panamera Sedan."
+    ],
+    "deepLow": [
+      "2012 Porsche Panamera Sedan, sleek silver metallic paint, sculpted body lines, LED daytime running lights, black leather interior, sporty alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2012 Porsche Panamera Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Porsche Panamera Sedan is a high-performance luxury sports sedan."
+    ]
+  },
+  "2012 Bentley Continental GT Coupe": {
+    "positive": [
+      "This image presents a 2012 Bentley Continental GT Coupe, a luxury grand tourer with a powerful engine and exquisite craftsmanship.",
+      "The car in the image is a 2012 Bentley Continental GT Coupe, known for its blend of performance and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2012 Bentley Continental GT Coupe.",
+      "This is definitely not an image of a 2012 Bentley Continental GT Coupe."
+    ],
+    "deepLow": [
+      "2012 Bentley Continental GT Coupe, sleek silver metallic paint, sculpted hood lines, chrome grille, black leather interior, iconic circular headlights"
+    ],
+    "ori": [
+      "a photo of a 2012 Bentley Continental GT Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Bentley Continental GT Coupe is a high-performance luxury grand tourer."
+    ]
+  },
+  "2012 Jeep Grand Cherokee SUV": {
+    "positive": [
+      "This image depicts a 2012 Jeep Grand Cherokee SUV, a versatile sport utility vehicle with off-road capabilities and a comfortable interior.",
+      "The vehicle in the image is a 2012 Jeep Grand Cherokee SUV, known for its blend of capability and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2012 Jeep Grand Cherokee SUV.",
+      "This is definitely not an image of a 2012 Jeep Grand Cherokee SUV."
+    ],
+    "deepLow": [
+      "2012 Jeep Grand Cherokee SUV, boxy shape, silver metallic paint, black leather seats, chrome grille, rugged tires"
+    ],
+    "ori": [
+      "a photo of a 2012 Jeep Grand Cherokee SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jeep Grand Cherokee SUV is a rugged off-road capable vehicle."
+    ]
+  },
+  "2012 Audi R8 Coupe": {
+    "positive": [
+      "This image features a 2012 Audi R8 Coupe, a high-performance sports car with a mid-engine layout and distinctive styling.",
+      "The car in the image is a 2012 Audi R8 Coupe, known for its exhilarating performance and Audi engineering."
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi R8 Coupe.",
+      "This is definitely not an image of a 2012 Audi R8 Coupe."
+    ],
+    "deepLow": [
+      "2012 Audi R8 Coupe, sleek silver body, angular LED headlights, black honeycomb grille, low-profile tires, carbon fiber side blades"
+    ],
+    "ori": [
+      "a photo of a 2012 Audi R8 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi R8 Coupe is a high-performance luxury sports car."
+    ]
+  },
+  "2007 Cadillac Escalade EXT Crew Cab": {
+    "positive": [
+      "This image shows a 2007 Cadillac Escalade EXT Crew Cab, a luxury sport utility truck with a spacious interior and distinctive styling.",
+      "The vehicle in the image is a 2007 Cadillac Escalade EXT Crew Cab, known for its blend of luxury and utility."
+    ],
+    "negative": [
+      "This image does not show a 2007 Cadillac Escalade EXT Crew Cab.",
+      "This is definitely not an image of a 2007 Cadillac Escalade EXT Crew Cab."
+    ],
+    "deepLow": [
+      "2007 Cadillac Escalade EXT Crew Cab, black metallic paint, chrome grille, angular headlights, leather interior, rugged truck bed"
+    ],
+    "ori": [
+      "a photo of a 2007 Cadillac Escalade EXT Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Cadillac Escalade EXT Crew Cab is a luxury sport utility truck."
+    ]
+  },
+  "2007 Bentley Continental Flying Spur Sedan": {
+    "positive": [
+      "This image presents a 2007 Bentley Continental Flying Spur Sedan, a luxury four-door car with a powerful engine and exquisite craftsmanship.",
+      "The car in the image is a 2007 Bentley Continental Flying Spur Sedan, known for its blend of performance and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2007 Bentley Continental Flying Spur Sedan.",
+      "This is definitely not an image of a 2007 Bentley Continental Flying Spur Sedan."
+    ],
+    "deepLow": [
+      "2007 Bentley Continental Flying Spur Sedan, sleek silver metallic paint, chrome grille, leather interior, elongated headlights, polished alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2007 Bentley Continental Flying Spur Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Bentley Continental Flying Spur Sedan is a luxury high-performance sedan."
+    ]
+  },
+  "2012 Chevrolet Avalanche Crew Cab": {
+    "positive": [
+      "This image depicts a 2012 Chevrolet Avalanche Crew Cab, a versatile sport utility truck with a unique design and a spacious interior.",
+      "The vehicle in the image is a 2012 Chevrolet Avalanche Crew Cab, known for its blend of utility and passenger comfort."
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Avalanche Crew Cab.",
+      "This is definitely not an image of a 2012 Chevrolet Avalanche Crew Cab."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Avalanche Crew Cab, black metallic paint, chrome grille, rugged wheel arches, textured leather seats, LED taillights"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Avalanche Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Avalanche Crew Cab is a versatile utility vehicle."
+    ]
+  },
+  "2010 Dodge Dakota Crew Cab": {
+    "positive": [
+      "This image features a 2010 Dodge Dakota Crew Cab, a mid-size pickup truck with a spacious interior and capable performance.",
+      "The vehicle in the image is a 2010 Dodge Dakota Crew Cab, known for its blend of utility and passenger comfort."
+    ],
+    "negative": [
+      "This image does not show a 2010 Dodge Dakota Crew Cab.",
+      "This is definitely not an image of a 2010 Dodge Dakota Crew Cab."
+    ],
+    "deepLow": [
+      "2010 Dodge Dakota Crew Cab, boxy body shape, chrome grille, metallic silver paint, black textured seats, rugged wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2010 Dodge Dakota Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Dodge Dakota Crew Cab is a versatile midsize pickup truck."
+    ]
+  },
+  "2010 HUMMER H3T Crew Cab": {
+    "positive": [
+      "This image shows a 2010 HUMMER H3T Crew Cab, a rugged pickup truck with off-road capabilities and a distinctive design.",
+      "The vehicle in the image is a 2010 HUMMER H3T Crew Cab, known for its off-road prowess and bold styling."
+    ],
+    "negative": [
+      "This image does not show a 2010 HUMMER H3T Crew Cab.",
+      "This is definitely not an image of a 2010 HUMMER H3T Crew Cab."
+    ],
+    "deepLow": [
+      "2010 HUMMER H3T Crew Cab, boxy angular body, matte black paint, rugged off-road tires, chrome grille, raised suspension"
+    ],
+    "ori": [
+      "a photo of a 2010 HUMMER H3T Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 HUMMER H3T Crew Cab is rugged off-road pickup."
+    ]
+  },
+  "2007 Ford F-150 Regular Cab": {
+    "positive": [
+      "This image presents a 2007 Ford F-150 Regular Cab, a full-size pickup truck known for its versatility and durability.",
+      "The vehicle in the image is a 2007 Ford F-150 Regular Cab, a popular choice for work and recreation."
+    ],
+    "negative": [
+      "This image does not show a 2007 Ford F-150 Regular Cab.",
+      "This is definitely not an image of a 2007 Ford F-150 Regular Cab."
+    ],
+    "deepLow": [
+      "2007 Ford F-150 Regular Cab, dark blue metallic paint, chrome grille, black plastic bumpers, rectangular headlights, short bed"
+    ],
+    "ori": [
+      "a photo of a 2007 Ford F-150 Regular Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Ford F-150 Regular Cab is a full-size work truck."
+    ]
+  },
+  "2012 Volkswagen Golf Hatchback": {
+    "positive": [
+      "This image depicts a 2012 Volkswagen Golf Hatchback, a compact car with a practical design and a fun-to-drive personality.",
+      "The car in the image is a 2012 Volkswagen Golf Hatchback, known for its versatility and German engineering."
+    ],
+    "negative": [
+      "This image does not show a 2012 Volkswagen Golf Hatchback.",
+      "This is definitely not an image of a 2012 Volkswagen Golf Hatchback."
+    ],
+    "deepLow": [
+      "2012 Volkswagen Golf Hatchback, compact shape, glossy black paint, chrome grille, alloy wheels, red taillights"
+    ],
+    "ori": [
+      "a photo of a 2012 Volkswagen Golf Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Volkswagen Golf Hatchback is a practical and versatile compact car."
+    ]
+  },
+  "2012 Ferrari FF Coupe": {
+    "positive": [
+      "This image features a 2012 Ferrari FF Coupe, a grand tourer with a unique shooting brake design and a powerful V12 engine.",
+      "The car in the image is a 2012 Ferrari FF Coupe, known for its blend of performance, luxury, and versatility."
+    ],
+    "negative": [
+      "This image does not show a 2012 Ferrari FF Coupe.",
+      "This is definitely not an image of a 2012 Ferrari FF Coupe."
+    ],
+    "deepLow": [
+      "2012 Ferrari FF Coupe, glossy red paint, black leather seats, sleek hatchback design, iconic prancing horse emblem"
+    ],
+    "ori": [
+      "a photo of a 2012 Ferrari FF Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ferrari FF Coupe is a high-performance grand touring sports car with all-wheel drive capability."
+    ]
+  },
+  "2012 Toyota Camry Sedan": {
+    "positive": [
+      "This image shows a 2012 Toyota Camry Sedan, a mid-size car known for its reliability, fuel efficiency, and comfortable ride.",
+      "The car in the image is a 2012 Toyota Camry Sedan, a popular choice for families and commuters."
+    ],
+    "negative": [
+      "This image does not show a 2012 Toyota Camry Sedan.",
+      "This is definitely not an image of a 2012 Toyota Camry Sedan."
+    ],
+    "deepLow": [
+      "2012 Toyota Camry Sedan, sleek silver paint, black leather seats, chrome grille, angular headlights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Toyota Camry Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Toyota Camry Sedan is a reliable and comfortable family car."
+    ]
+  },
+  "2012 Aston Martin V8 Vantage Convertible": {
+    "positive": [
+      "This image presents a 2012 Aston Martin V8 Vantage Convertible, a luxury sports car with a retractable roof and elegant design.",
+      "The car in the image is a 2012 Aston Martin V8 Vantage Convertible, known for its blend of performance and British style."
+    ],
+    "negative": [
+      "This image does not show a 2012 Aston Martin V8 Vantage Convertible.",
+      "This is definitely not an image of a 2012 Aston Martin V8 Vantage Convertible."
+    ],
+    "deepLow": [
+      "2012 Aston Martin V8 Vantage Convertible, sleek silver metallic paint, black soft-top roof, sculpted side vents, glossy alloy wheels, tan leather interior"
+    ],
+    "ori": [
+      "a photo of a 2012 Aston Martin V8 Vantage Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Aston Martin V8 Vantage Convertible is a luxury sports car."
+    ]
+  },
+  "1994 Audi 100 Sedan": {
+    "positive": [
+      "This image features a 1994 Audi 100 Sedan, a mid-size luxury car known for its comfort and German engineering.",
+      "The car in the image is a 1994 Audi 100 Sedan, a classic example of Audi's commitment to quality."
+    ],
+    "negative": [
+      "This image does not show a 1994 Audi 100 Sedan.",
+      "This is definitely not an image of a 1994 Audi 100 Sedan."
+    ],
+    "deepLow": [
+      "1994 Audi 100 Sedan, boxy silver body, black grille, angular headlights, chrome trim, smooth metallic finish"
+    ],
+    "ori": [
+      "a photo of a 1994 Audi 100 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 1994 Audi 100 Sedan is a premium executive sedan."
+    ]
+  },
+  "2011 Ford Ranger SuperCab": {
+    "positive": [
+      "This image features a 2011 Ford Ranger SuperCab, a pickup truck to transport people and cargo",
+      "The car in the image is a 2011 Ford Ranger SuperCab"
+    ],
+    "negative": [
+      "This image does not show a 2011 Ford Ranger SuperCab.",
+      "This is definitely not an image of a 2011 Ford Ranger SuperCab."
+    ],
+    "deepLow": [
+      "2011 Ford Ranger SuperCab, metallic silver paint, black plastic grille, rectangular headlights, chrome accents, rugged wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2011 Ford Ranger SuperCab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Ford Ranger SuperCab is a compact work truck."
+    ]
+  },
+  "2012 GMC Canyon Extended Cab": {
+    "positive": [
+      "This image features a 2012 GMC Canyon Extended Cab, a pickup truck to transport people and cargo",
+      "The car in the image is a 2012 GMC Canyon Extended Cab"
+    ],
+    "negative": [
+      "This image does not show a 2012 GMC Canyon Extended Cab.",
+      "This is definitely not an image of a 2012 GMC Canyon Extended Cab."
+    ],
+    "deepLow": [
+      "2012 GMC Canyon Extended Cab, metallic silver paint, angular headlights, black textured grille, rugged wheel arches, chrome accents"
+    ],
+    "ori": [
+      "a photo of a 2012 GMC Canyon Extended Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 GMC Canyon Extended Cab is a compact utility truck."
+    ]
+  },
+  "2012 Acura TSX Sedan": {
+    "positive": [
+      "This image features a 2012 Acura TSX Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Acura TSX Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Acura TSX Sedan.",
+      "This is definitely not an image of a 2012 Acura TSX Sedan."
+    ],
+    "deepLow": [
+      "2012 Acura TSX Sedan, sleek silver metallic paint, angular headlights, chrome grille, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Acura TSX Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Acura TSX Sedan is a premium compact luxury car."
+    ]
+  },
+  "2012 BMW 3 Series Sedan": {
+    "positive": [
+      "This image features a 2012 BMW 3 Series Sedan, a sedan to transport people",
+      "The car in the image is a 2012 BMW 3 Series Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW 3 Series Sedan.",
+      "This is definitely not an image of a 2012 BMW 3 Series Sedan."
+    ],
+    "deepLow": [
+      "2012 BMW 3 Series Sedan, sleek silver metallic paint, angular headlights, black leather interior, chrome grille, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW 3 Series Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW 3 Series Sedan is a premium compact executive car."
+    ]
+  },
+  "2012 Honda Odyssey Minivan": {
+    "positive": [
+      "This image features a 2012 Honda Odyssey Minivan, a van to transport people and cargo",
+      "The car in the image is a 2012 Honda Odyssey Minivan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Honda Odyssey Minivan.",
+      "This is definitely not an image of a 2012 Honda Odyssey Minivan."
+    ],
+    "deepLow": [
+      "2012 Honda Odyssey Minivan, silver metallic paint, sliding rear doors, chrome grille, black leather seats, angular headlights"
+    ],
+    "ori": [
+      "a photo of a 2012 Honda Odyssey Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Honda Odyssey Minivan is a versatile family vehicle."
+    ]
+  },
+  "2012 Dodge Durango SUV": {
+    "positive": [
+      "This image features a 2012 Dodge Durango SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Dodge Durango SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Dodge Durango SUV.",
+      "This is definitely not an image of a 2012 Dodge Durango SUV."
+    ],
+    "deepLow": [
+      "2012 Dodge Durango SUV, metallic black paint, chrome grille, angular headlights, rugged wheel arches, leather interior"
+    ],
+    "ori": [
+      "a photo of a 2012 Dodge Durango SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Dodge Durango SUV is a full-size family vehicle with rugged towing capability."
+    ]
+  },
+  "2012 Toyota Corolla Sedan": {
+    "positive": [
+      "This image features a 2012 Toyota Corolla Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Toyota Corolla Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Toyota Corolla Sedan.",
+      "This is definitely not an image of a 2012 Toyota Corolla Sedan."
+    ],
+    "deepLow": [
+      "2012 Toyota Corolla Sedan, silver metallic paint, black textured seats, chrome grille, sleek angular headlights, alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2012 Toyota Corolla Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Toyota Corolla Sedan is a reliable and fuel-efficient compact car for daily commuters."
+    ]
+  },
+  "2012 Chevrolet Camaro Convertible": {
+    "positive": [
+      "This image features a 2012 Chevrolet Camaro Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Chevrolet Camaro Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Camaro Convertible.",
+      "This is definitely not an image of a 2012 Chevrolet Camaro Convertible."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Camaro Convertible, black glossy paint, sleek aerodynamic shape, retractable soft top, chrome alloy wheels, aggressive front grille."
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Camaro Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Camaro Convertible is a stylish American muscle car for driving enthusiasts."
+    ]
+  },
+  "2012 Ford Edge SUV": {
+    "positive": [
+      "This image features a 2012 Ford Edge SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Ford Edge SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ford Edge SUV.",
+      "This is definitely not an image of a 2012 Ford Edge SUV."
+    ],
+    "deepLow": [
+      "2012 Ford Edge SUV, silver metallic paint, black leather seats, chrome grille, angular headlights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Ford Edge SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ford Edge SUV is a versatile crossover for active families."
+    ]
+  },
+  "2007 Bentley Continental GT Coupe": {
+    "positive": [
+      "This image features a 2007 Bentley Continental GT Coupe, a sports car to transport people",
+      "The car in the image is a 2007 Bentley Continental GT Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2007 Bentley Continental GT Coupe.",
+      "This is definitely not an image of a 2007 Bentley Continental GT Coupe."
+    ],
+    "deepLow": [
+      "2007 Bentley Continental GT Coupe, sleek silver metallic paint, chrome grille, sculpted hood lines, tan leather interior, iconic circular headlights"
+    ],
+    "ori": [
+      "a photo of a 2007 Bentley Continental GT Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Bentley Continental GT Coupe is a high-performance luxury grand tourer."
+    ]
+  },
+  "1994 Audi 100 Wagon": {
+    "positive": [
+      "This image features a 1994 Audi 100 Wagon, a wagon to transport people and cargo",
+      "The car in the image is a 1994 Audi 100 Wagon"
+    ],
+    "negative": [
+      "This image does not show a 1994 Audi 100 Wagon.",
+      "This is definitely not an image of a 1994 Audi 100 Wagon."
+    ],
+    "deepLow": [
+      "1994 Audi 100 Wagon, boxy silver body, black plastic trim, rectangular headlights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1994 Audi 100 Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 1994 Audi 100 Wagon is a practical luxury family vehicle."
+    ]
+  },
+  "2012 Ford E-Series Wagon Van": {
+    "positive": [
+      "This image features a 2012 Ford E-Series Wagon Van, a van to transport people and cargo",
+      "The car in the image is a 2012 Ford E-Series Wagon Van"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ford E-Series Wagon Van.",
+      "This is definitely not an image of a 2012 Ford E-Series Wagon Van."
+    ],
+    "deepLow": [
+      "2012 Ford E-Series Wagon Van, boxy shape, silver metallic paint, black grille, tinted rear windows, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Ford E-Series Wagon Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ford E-Series Wagon Van is a full-size passenger van for commercial and group transport."
+    ]
+  },
+  "2012 Jeep Patriot SUV": {
+    "positive": [
+      "This image features a 2012 Jeep Patriot SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Jeep Patriot SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Jeep Patriot SUV.",
+      "This is definitely not an image of a 2012 Jeep Patriot SUV."
+    ],
+    "deepLow": [
+      "2012 Jeep Patriot SUV, boxy shape, silver metallic paint, black plastic trim, five-spoke alloy wheels, trapezoidal grille"
+    ],
+    "ori": [
+      "a photo of a 2012 Jeep Patriot SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jeep Patriot SUV is an affordable and capable compact off-roader."
+    ]
+  },
+  "2011 Audi S6 Sedan": {
+    "positive": [
+      "This image features a 2011 Audi S6 Sedan, a sedan to transport people",
+      "The car in the image is a 2011 Audi S6 Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2011 Audi S6 Sedan.",
+      "This is definitely not an image of a 2011 Audi S6 Sedan."
+    ],
+    "deepLow": [
+      "2011 Audi S6 Sedan, metallic silver paint, sleek angular headlights, black leather interior, quad exhaust tips, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2011 Audi S6 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Audi S6 Sedan is a high-performance luxury sedan."
+    ]
+  },
+  "2012 Mercedes-Benz S-Class Sedan": {
+    "positive": [
+      "This image features a 2012 Mercedes-Benz S-Class Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Mercedes-Benz S-Class Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Mercedes-Benz S-Class Sedan.",
+      "This is definitely not an image of a 2012 Mercedes-Benz S-Class Sedan."
+    ],
+    "deepLow": [
+      "2012 Mercedes-Benz S-Class Sedan, sleek silver metallic paint, chrome grille, LED headlights, black leather interior, smooth aerodynamic curves"
+    ],
+    "ori": [
+      "a photo of a 2012 Mercedes-Benz S-Class Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Mercedes-Benz S-Class Sedan is a full-size luxury sedan."
+    ]
+  },
+  "2012 Hyundai Sonata Sedan": {
+    "positive": [
+      "This image features a 2012 Hyundai Sonata Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Hyundai Sonata Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Sonata Sedan.",
+      "This is definitely not an image of a 2012 Hyundai Sonata Sedan."
+    ],
+    "deepLow": [
+      "2012 Hyundai Sonata Sedan, sleek silver metallic paint, angular headlights, chrome grille, smooth curved body lines, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Sonata Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Sonata Sedan is a fuel-efficient midsize family car."
+    ]
+  },
+  "2012 Rolls-Royce Phantom Drophead Coupe Convertible": {
+    "positive": [
+      "This image features a 2012 Rolls-Royce Phantom Drophead Coupe Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Rolls-Royce Phantom Drophead Coupe Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Rolls-Royce Phantom Drophead Coupe Convertible.",
+      "This is definitely not an image of a 2012 Rolls-Royce Phantom Drophead Coupe Convertible."
+    ],
+    "deepLow": [
+      "2012 Rolls-Royce Phantom Drophead Coupe Convertible, sleek silver body, black soft-top roof, polished chrome grille, cream leather interior, iconic Spirit of Ecstasy hood ornament"
+    ],
+    "ori": [
+      "a photo of a 2012 Rolls-Royce Phantom Drophead Coupe Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Rolls-Royce Phantom Drophead Coupe Convertible is an ultra-luxury convertible for affluent buyers."
+    ]
+  },
+  "2006 Ford GT Coupe": {
+    "positive": [
+      "This image features a 2006 Ford GT Coupe, a sports car to transport people",
+      "The car in the image is a 2006 Ford GT Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2006 Ford GT Coupe.",
+      "This is definitely not an image of a 2006 Ford GT Coupe."
+    ],
+    "deepLow": [
+      "2006 Ford GT Coupe, sleek silver body, black racing stripes, glossy finish, round headlights, low aerodynamic profile"
+    ],
+    "ori": [
+      "a photo of a 2006 Ford GT Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2006 Ford GT Coupe is a high-performance supercar."
+    ]
+  },
+  "2012 Cadillac CTS-V Sedan": {
+    "positive": [
+      "This image features a 2012 Cadillac CTS-V Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Cadillac CTS-V Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Cadillac CTS-V Sedan.",
+      "This is definitely not an image of a 2012 Cadillac CTS-V Sedan."
+    ],
+    "deepLow": [
+      "2012 Cadillac CTS-V Sedan, black metallic paint, mesh grille, angular headlights, leather interior, quad exhaust tips"
+    ],
+    "ori": [
+      "a photo of a 2012 Cadillac CTS-V Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Cadillac CTS-V Sedan is a high-performance luxury sports sedan."
+    ]
+  },
+  "2012 BMW X3 SUV": {
+    "positive": [
+      "This image features a 2012 BMW X3 SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 BMW X3 SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW X3 SUV.",
+      "This is definitely not an image of a 2012 BMW X3 SUV."
+    ],
+    "deepLow": [
+      "2012 BMW X3 SUV, silver metallic paint, black leather seats, angular headlights, chrome grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW X3 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW X3 SUV is a premium compact luxury crossover."
+    ]
+  },
+  "2007 Chevrolet Express Van": {
+    "positive": [
+      "This image features a 2007 Chevrolet Express Van, a van to transport people and cargo",
+      "The car in the image is a 2007 Chevrolet Express Van"
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Express Van.",
+      "This is definitely not an image of a 2007 Chevrolet Express Van."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Express Van, boxy shape, silver metallic paint, black plastic grille, sliding side door, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Express Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Express Van is a full-size commercial cargo and passenger van."
+    ]
+  },
+  "2007 Chevrolet Impala Sedan": {
+    "positive": [
+      "This image features a 2007 Chevrolet Impala Sedan, a sedan to transport people",
+      "The car in the image is a 2007 Chevrolet Impala Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Impala Sedan.",
+      "This is definitely not an image of a 2007 Chevrolet Impala Sedan."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Impala Sedan, silver metallic paint, chrome grille, smooth curves, black leather seats, distinctive taillight design."
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Impala Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Impala Sedan is a full-size family sedan."
+    ]
+  },
+  "2012 Chevrolet Silverado 1500 Extended Cab": {
+    "positive": [
+      "This image features a 2012 Chevrolet Silverado 1500 Extended Cab, a pickup truck to transport people and cargo",
+      "The car in the image is a 2012 Chevrolet Silverado 1500 Extended Cab"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Silverado 1500 Extended Cab.",
+      "This is definitely not an image of a 2012 Chevrolet Silverado 1500 Extended Cab."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Silverado 1500 Extended Cab, metallic gray paint, chrome grille, black textured seats, extended cab shape"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Silverado 1500 Extended Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Silverado 1500 Extended Cab is a full-size pickup truck for work and utility."
+    ]
+  },
+  "2012 Mercedes-Benz C-Class Sedan": {
+    "positive": [
+      "This image features a 2012 Mercedes-Benz C-Class Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Mercedes-Benz C-Class Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Mercedes-Benz C-Class Sedan.",
+      "This is definitely not an image of a 2012 Mercedes-Benz C-Class Sedan."
+    ],
+    "deepLow": [
+      "2012 Mercedes-Benz C-Class Sedan, silver metallic paint, sleek angular headlights, chrome grille, black leather interior, alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2012 Mercedes-Benz C-Class Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Mercedes-Benz C-Class Sedan is a premium compact luxury vehicle."
+    ]
+  },
+  "2012 Hyundai Santa Fe SUV": {
+    "positive": [
+      "This image features a 2012 Hyundai Santa Fe SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Hyundai Santa Fe SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Santa Fe SUV.",
+      "This is definitely not an image of a 2012 Hyundai Santa Fe SUV."
+    ],
+    "deepLow": [
+      "2012 Hyundai Santa Fe SUV, silver metallic paint, angular headlights, chrome grille, black plastic trim, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Santa Fe SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Santa Fe SUV is a versatile family vehicle with three-row seating."
+    ]
+  },
+  "2009 Dodge Sprinter Cargo Van": {
+    "positive": [
+      "This image features a 2009 Dodge Sprinter Cargo Van, a van to transport cargo",
+      "The car in the image is a 2009 Dodge Sprinter Cargo Van"
+    ],
+    "negative": [
+      "This image does not show a 2009 Dodge Sprinter Cargo Van.",
+      "This is definitely not an image of a 2009 Dodge Sprinter Cargo Van."
+    ],
+    "deepLow": [
+      "2009 Dodge Sprinter Cargo Van, boxy rectangular shape, silver metallic paint, sliding side door, black plastic bumpers, large rear cargo space"
+    ],
+    "ori": [
+      "a photo of a 2009 Dodge Sprinter Cargo Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Dodge Sprinter Cargo Van is a commercial-grade cargo hauler."
+    ]
+  },
+  "2012 GMC Acadia SUV": {
+    "positive": [
+      "This image features a 2012 GMC Acadia SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 GMC Acadia SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 GMC Acadia SUV.",
+      "This is definitely not an image of a 2012 GMC Acadia SUV."
+    ],
+    "deepLow": [
+      "2012 GMC Acadia SUV, metallic silver paint, chrome grille, angular headlights, black leather seats, sleek roofline"
+    ],
+    "ori": [
+      "a photo of a 2012 GMC Acadia SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 GMC Acadia SUV is a spacious three-row crossover for families."
+    ]
+  },
+  "2012 Hyundai Genesis Sedan": {
+    "positive": [
+      "This image features a 2012 Hyundai Genesis Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Hyundai Genesis Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Genesis Sedan.",
+      "This is definitely not an image of a 2012 Hyundai Genesis Sedan."
+    ],
+    "deepLow": [
+      "2012 Hyundai Genesis Sedan, sleek silver metallic paint, chrome grille, angular headlights, black leather interior, aerodynamic body lines"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Genesis Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Genesis Sedan is a luxury full-size sedan."
+    ]
+  },
+  "2012 Dodge Caliber Wagon": {
+    "positive": [
+      "This image features a 2012 Dodge Caliber Wagon, a wagon to transport people and cargo",
+      "The car in the image is a 2012 Dodge Caliber Wagon"
+    ],
+    "negative": [
+      "This image does not show a 2012 Dodge Caliber Wagon.",
+      "This is definitely not an image of a 2012 Dodge Caliber Wagon."
+    ],
+    "deepLow": [
+      "2012 Dodge Caliber Wagon, compact hatchback, angular headlights, black plastic trim, silver alloy wheels, dark gray metallic paint"
+    ],
+    "ori": [
+      "a photo of a 2012 Dodge Caliber Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Dodge Caliber Wagon is a compact crossover for budget-conscious young drivers."
+    ]
+  },
+  "2012 Jeep Liberty SUV": {
+    "positive": [
+      "This image features a 2012 Jeep Liberty SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Jeep Liberty SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Jeep Liberty SUV.",
+      "This is definitely not an image of a 2012 Jeep Liberty SUV."
+    ],
+    "deepLow": [
+      "2012 Jeep Liberty SUV, boxy shape, silver metallic paint, black plastic trim, rugged wheel arches, chrome grille"
+    ],
+    "ori": [
+      "a photo of a 2012 Jeep Liberty SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jeep Liberty SUV is a rugged off-road vehicle."
+    ]
+  },
+  "1993 Mercedes-Benz 300-Class Convertible": {
+    "positive": [
+      "This image features a 1993 Mercedes-Benz 300-Class Convertible, a convertible to transport people",
+      "The car in the image is a 1993 Mercedes-Benz 300-Class Convertible"
+    ],
+    "negative": [
+      "This image does not show a 1993 Mercedes-Benz 300-Class Convertible.",
+      "This is definitely not an image of a 1993 Mercedes-Benz 300-Class Convertible."
+    ],
+    "deepLow": [
+      "1993 Mercedes-Benz 300-Class Convertible, sleek silver body, black soft-top roof, chrome grille, tan leather seats, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1993 Mercedes-Benz 300-Class Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 1993 Mercedes-Benz 300-Class Convertible is a luxury open-top vehicle."
+    ]
+  },
+  "2009 Ford Expedition EL SUV": {
+    "positive": [
+      "This image features a 2009 Ford Expedition EL SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2009 Ford Expedition EL SUV"
+    ],
+    "negative": [
+      "This image does not show a 2009 Ford Expedition EL SUV.",
+      "This is definitely not an image of a 2009 Ford Expedition EL SUV."
+    ],
+    "deepLow": [
+      "2009 Ford Expedition EL SUV, boxy shape, chrome grille, metallic blue paint, leather seats, large rear cargo space"
+    ],
+    "ori": [
+      "a photo of a 2009 Ford Expedition EL SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Ford Expedition EL SUV is a full-size family vehicle with extended cargo space."
+    ]
+  },
+  "2012 BMW 1 Series Coupe": {
+    "positive": [
+      "This image features a 2012 BMW 1 Series Coupe, a coupe to transport people",
+      "The car in the image is a 2012 BMW 1 Series Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW 1 Series Coupe.",
+      "This is definitely not an image of a 2012 BMW 1 Series Coupe."
+    ],
+    "deepLow": [
+      "2012 BMW 1 Series Coupe, sleek silver metallic paint, angular headlights, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW 1 Series Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW 1 Series Coupe is a compact luxury sports coupe."
+    ]
+  },
+  "2012 Jaguar XK XKR": {
+    "positive": [
+      "This image features a 2012 Jaguar XK XKR, a sports car to transport people",
+      "The car in the image is a 2012 Jaguar XK XKR"
+    ],
+    "negative": [
+      "This image does not show a 2012 Jaguar XK XKR.",
+      "This is definitely not an image of a 2012 Jaguar XK XKR."
+    ],
+    "deepLow": [
+      "2012 Jaguar XK XKR, sleek silver body, black leather interior, distinctive oval grille, polished alloy wheels, aggressive front fascia"
+    ],
+    "ori": [
+      "a photo of a 2012 Jaguar XK XKR, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jaguar XK XKR is a high-performance luxury grand tourer."
+    ]
+  },
+  "2012 Hyundai Accent Sedan": {
+    "positive": [
+      "This image features a 2012 Hyundai Accent Sedan, a sedan to transport people",
+      "The car in the image is a 2012 Hyundai Accent Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Accent Sedan.",
+      "This is definitely not an image of a 2012 Hyundai Accent Sedan."
+    ],
+    "deepLow": [
+      "2012 Hyundai Accent Sedan, compact four-door, smooth silver paint, angular headlights, chrome grille, streamlined body"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Accent Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Accent Sedan is an affordable compact car."
+    ]
+  },
+  "2008 Isuzu Ascender SUV": {
+    "positive": [
+      "This image features a 2008 Isuzu Ascender SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2008 Isuzu Ascender SUV"
+    ],
+    "negative": [
+      "This image does not show a 2008 Isuzu Ascender SUV.",
+      "This is definitely not an image of a 2008 Isuzu Ascender SUV."
+    ],
+    "deepLow": [
+      "2008 Isuzu Ascender SUV, boxy silver body, black plastic trim, chrome grille, alloy wheels, tinted windows"
+    ],
+    "ori": [
+      "a photo of a 2008 Isuzu Ascender SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Isuzu Ascender SUV is versatile family vehicle."
+    ]
+  },
+  "1998 Nissan 240SX Coupe": {
+    "positive": [
+      "This image features a 1998 Nissan 240SX Coupe, a coupe to transport people",
+      "The car in the image is a 1998 Nissan 240SX Coupe"
+    ],
+    "negative": [
+      "This image does not show a 1998 Nissan 240SX Coupe.",
+      "This is definitely not an image of a 1998 Nissan 240SX Coupe."
+    ],
+    "deepLow": [
+      "1998 Nissan 240SX Coupe, sleek silver paint, black leather seats, angular headlights, rear spoiler, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1998 Nissan 240SX Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 1998 Nissan 240SX Coupe is a rear-wheel-drive sports coupe for driving enthusiasts."
+    ]
+  },
+  "2012 Scion xD Hatchback": {
+    "positive": [
+      "This image features a 2012 Scion xD Hatchback, a hatchback to transport people and cargo",
+      "The car in the image is a 2012 Scion xD Hatchback"
+    ],
+    "negative": [
+      "This image does not show a 2012 Scion xD Hatchback.",
+      "This is definitely not an image of a 2012 Scion xD Hatchback."
+    ],
+    "deepLow": [
+      "2012 Scion xD Hatchback, compact angular body, glossy black paint, chrome grille, sporty alloy wheels, rear spoiler"
+    ],
+    "ori": [
+      "a photo of a 2012 Scion xD Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Scion xD Hatchback is a compact, urban-friendly vehicle for young, budget-conscious drivers."
+    ]
+  },
+  "2012 Chevrolet Corvette ZR1": {
+    "positive": [
+      "This image features a 2012 Chevrolet Corvette ZR1, a high-performance sports car known for its speed and handling.",
+      "The car in the image is a 2012 Chevrolet Corvette ZR1"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Corvette ZR1.",
+      "This is definitely not an image of a 2012 Chevrolet Corvette ZR1."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Corvette ZR1, glossy black paint, carbon fiber hood, aggressive front grille, polished alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Corvette ZR1, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Corvette ZR1 is a high-performance supercar."
+    ]
+  },
+  "2009 Bentley Arnage Sedan": {
+    "positive": [
+      "This image features a 2009 Bentley Arnage Sedan, a luxury sedan known for its comfort and elegance.",
+      "The car in the image is a 2009 Bentley Arnage Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2009 Bentley Arnage Sedan.",
+      "This is definitely not an image of a 2009 Bentley Arnage Sedan."
+    ],
+    "deepLow": [
+      "2009 Bentley Arnage Sedan, sleek silver metallic paint, chrome grille, black leather interior, polished alloy wheels, elongated hood"
+    ],
+    "ori": [
+      "a photo of a 2009 Bentley Arnage Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Bentley Arnage Sedan is a luxury executive sedan."
+    ]
+  },
+  "2010 Chevrolet HHR SS": {
+    "positive": [
+      "This image features a 2010 Chevrolet HHR SS, a sporty wagon with a turbocharged engine.",
+      "The car in the image is a 2010 Chevrolet HHR SS"
+    ],
+    "negative": [
+      "This image does not show a 2010 Chevrolet HHR SS.",
+      "This is definitely not an image of a 2010 Chevrolet HHR SS."
+    ],
+    "deepLow": [
+      "2010 Chevrolet HHR SS, glossy black paint, chrome grille, sporty alloy wheels, aggressive front bumper, SS badging"
+    ],
+    "ori": [
+      "a photo of a 2010 Chevrolet HHR SS, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Chevrolet HHR SS is a sporty compact crossover."
+    ]
+  },
+  "2012 Land Rover LR2 SUV": {
+    "positive": [
+      "This image features a 2012 Land Rover LR2 SUV, a compact SUV with off-road capabilities.",
+      "The car in the image is a 2012 Land Rover LR2 SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Land Rover LR2 SUV.",
+      "This is definitely not an image of a 2012 Land Rover LR2 SUV."
+    ],
+    "deepLow": [
+      "2012 Land Rover LR2 SUV, boxy angular shape, metallic silver paint, black textured grille, alloy wheels, tinted windows"
+    ],
+    "ori": [
+      "a photo of a 2012 Land Rover LR2 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Land Rover LR2 SUV is a capable luxury off-roader."
+    ]
+  },
+  "2012 Hyundai Azera Sedan": {
+    "positive": [
+      "This image features a 2012 Hyundai Azera Sedan, a full-size sedan known for its value and features.",
+      "The car in the image is a 2012 Hyundai Azera Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Azera Sedan.",
+      "This is definitely not an image of a 2012 Hyundai Azera Sedan."
+    ],
+    "deepLow": [
+      "2012 Hyundai Azera Sedan, sleek silver metallic paint, chrome grille, LED headlights, black leather interior, aerodynamic body lines"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Azera Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Azera Sedan is a full-size premium family sedan."
+    ]
+  },
+  "2009 Chrysler Aspen SUV": {
+    "positive": [
+      "This image features a 2009 Chrysler Aspen SUV, a large SUV with three rows of seating.",
+      "The car in the image is a 2009 Chrysler Aspen SUV"
+    ],
+    "negative": [
+      "This image does not show a 2009 Chrysler Aspen SUV.",
+      "This is definitely not an image of a 2009 Chrysler Aspen SUV."
+    ],
+    "deepLow": [
+      "2009 Chrysler Aspen SUV, boxy chrome grille, angular headlights, metallic silver paint, black leather interior, rugged wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2009 Chrysler Aspen SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Chrysler Aspen SUV is a full-size luxury family vehicle."
+    ]
+  },
+  "2012 Buick Regal GS": {
+    "positive": [
+      "This image features a 2012 Buick Regal GS, a sporty sedan with a turbocharged engine and refined handling.",
+      "The car in the image is a 2012 Buick Regal GS"
+    ],
+    "negative": [
+      "This image does not show a 2012 Buick Regal GS.",
+      "This is definitely not an image of a 2012 Buick Regal GS."
+    ],
+    "deepLow": [
+      "2012 Buick Regal GS, sleek silver metallic paint, black leather interior, aggressive front grille, 19-inch alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Buick Regal GS, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Buick Regal GS is a sporty luxury sedan."
+    ]
+  },
+  "2012 BMW 3 Series Wagon": {
+    "positive": [
+      "This image features a 2012 BMW 3 Series Wagon, a versatile wagon with sporty driving dynamics.",
+      "The car in the image is a 2012 BMW 3 Series Wagon"
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW 3 Series Wagon.",
+      "This is definitely not an image of a 2012 BMW 3 Series Wagon."
+    ],
+    "deepLow": [
+      "2012 BMW 3 Series Wagon, metallic silver paint, sleek angular headlights, black leather interior, distinctive roof rails, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW 3 Series Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW 3 Series Wagon is a premium compact luxury vehicle with versatile cargo space."
+    ]
+  },
+  "2012 Jeep Compass SUV": {
+    "positive": [
+      "This image features a 2012 Jeep Compass SUV, a compact SUV with available four-wheel drive.",
+      "The car in the image is a 2012 Jeep Compass SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Jeep Compass SUV.",
+      "This is definitely not an image of a 2012 Jeep Compass SUV."
+    ],
+    "deepLow": [
+      "2012 Jeep Compass SUV, silver metallic paint, black plastic trim, angular headlights, rugged wheel arches, chrome grille"
+    ],
+    "ori": [
+      "a photo of a 2012 Jeep Compass SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jeep Compass SUV is a compact crossover for urban adventurers."
+    ]
+  },
+  "2012 Ram C/V Cargo Van Minivan": {
+    "positive": [
+      "This image features a 2012 Ram C/V Cargo Van Minivan, a cargo van designed for commercial use.",
+      "The car in the image is a 2012 Ram C/V Cargo Van Minivan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ram C/V Cargo Van Minivan.",
+      "This is definitely not an image of a 2012 Ram C/V Cargo Van Minivan."
+    ],
+    "deepLow": [
+      "2012 Ram C/V Cargo Van Minivan, boxy shape, silver metallic paint, black plastic bumpers, sliding rear doors, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Ram C/V Cargo Van Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ram C/V Cargo Van Minivan is a commercial-grade cargo hauler."
+    ]
+  },
+  "2009 Spyker C8 Convertible": {
+    "positive": [
+      "This image features a 2009 Spyker C8 Convertible, an exotic sports car with a unique design and open-top driving experience.",
+      "The car in the image is a 2009 Spyker C8 Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2009 Spyker C8 Convertible.",
+      "This is definitely not an image of a 2009 Spyker C8 Convertible."
+    ],
+    "deepLow": [
+      "2009 Spyker C8 Convertible, metallic silver body, black leather interior, exposed gear linkage, circular air vents, sleek aerodynamic curves"
+    ],
+    "ori": [
+      "a photo of a 2009 Spyker C8 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Spyker C8 Convertible is an exclusive high-performance luxury sports car."
+    ]
+  },
+  "2012 Rolls-Royce Ghost Sedan": {
+    "positive": [
+      "This image features a 2012 Rolls-Royce Ghost Sedan, an ultra-luxury sedan known for its opulence and smooth ride.",
+      "The car in the image is a 2012 Rolls-Royce Ghost Sedan, representing the pinnacle of automotive luxury."
+    ],
+    "negative": [
+      "This image does not show a 2012 Rolls-Royce Ghost Sedan.",
+      "This is definitely not an image of a 2012 Rolls-Royce Ghost Sedan."
+    ],
+    "deepLow": [
+      "2012 Rolls-Royce Ghost Sedan, sleek silver metallic paint, chrome grille, black leather interior, iconic Spirit of Ecstasy hood ornament"
+    ],
+    "ori": [
+      "a photo of a 2012 Rolls-Royce Ghost Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Rolls-Royce Ghost Sedan is a luxury executive vehicle."
+    ]
+  },
+  "2000 AM General Hummer SUV": {
+    "positive": [
+      "This image features a 2000 AM General Hummer SUV, a rugged off-road vehicle known for its imposing size and capabilities.",
+      "The car in the image is a 2000 AM General Hummer SUV, an icon of American off-road dominance."
+    ],
+    "negative": [
+      "This image does not show a 2000 AM General Hummer SUV.",
+      "This is definitely not an image of a 2000 AM General Hummer SUV."
+    ],
+    "deepLow": [
+      "2000 AM General Hummer SUV, boxy military design, olive green matte finish, angular wheel arches, rugged black tires, chrome grille"
+    ],
+    "ori": [
+      "a photo of a 2000 AM General Hummer SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2000 AM General Hummer SUV is rugged military-derived off-road vehicle."
+    ]
+  },
+  "2007 Ford Freestar Minivan": {
+    "positive": [
+      "This image features a 2007 Ford Freestar Minivan, a practical and spacious minivan designed for families.",
+      "The car in the image is a 2007 Ford Freestar Minivan, offering comfortable seating and ample cargo space."
+    ],
+    "negative": [
+      "This image does not show a 2007 Ford Freestar Minivan.",
+      "This is definitely not an image of a 2007 Ford Freestar Minivan."
+    ],
+    "deepLow": [
+      "2007 Ford Freestar Minivan, silver metallic paint, sliding rear doors, chrome grille, boxy shape, black plastic trim"
+    ],
+    "ori": [
+      "a photo of a 2007 Ford Freestar Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Ford Freestar Minivan is a family-oriented people carrier."
+    ]
+  },
+  "2011 Bentley Mulsanne Sedan": {
+    "positive": [
+      "This image features a 2011 Bentley Mulsanne Sedan, a flagship luxury sedan known for its handcrafted details and powerful engine.",
+      "The car in the image is a 2011 Bentley Mulsanne Sedan, representing the ultimate in British automotive craftsmanship."
+    ],
+    "negative": [
+      "This image does not show a 2011 Bentley Mulsanne Sedan.",
+      "This is definitely not an image of a 2011 Bentley Mulsanne Sedan."
+    ],
+    "deepLow": [
+      "2011 Bentley Mulsanne Sedan, sleek silver metallic paint, chrome grille, leather interior, elongated hood, polished alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2011 Bentley Mulsanne Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Bentley Mulsanne Sedan is a luxury flagship automobile."
+    ]
+  },
+  "2011 Audi TT Hatchback": {
+    "positive": [
+      "This image features a 2011 Audi TT Hatchback, a sporty coupe with a distinctive design and agile handling.",
+      "The car in the image is a 2011 Audi TT Hatchback, combining style, performance, and German engineering."
+    ],
+    "negative": [
+      "This image does not show a 2011 Audi TT Hatchback.",
+      "This is definitely not an image of a 2011 Audi TT Hatchback."
+    ],
+    "deepLow": [
+      "2011 Audi TT Hatchback, sleek silver metallic paint, rounded headlights, black leather interior, iconic honeycomb grille"
+    ],
+    "ori": [
+      "a photo of a 2011 Audi TT Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Audi TT Hatchback is a sporty luxury coupe."
+    ]
+  },
+  "2009 Mercedes-Benz SL-Class Coupe": {
+    "positive": [
+      "This image features a 2009 Mercedes-Benz SL-Class Coupe, a luxury roadster known for its retractable hardtop and refined driving experience.",
+      "The car in the image is a 2009 Mercedes-Benz SL-Class Coupe, blending performance, luxury, and open-air enjoyment."
+    ],
+    "negative": [
+      "This image does not show a 2009 Mercedes-Benz SL-Class Coupe.",
+      "This is definitely not an image of a 2009 Mercedes-Benz SL-Class Coupe."
+    ],
+    "deepLow": [
+      "2009 Mercedes-Benz SL-Class Coupe, sleek silver metallic paint, black leather interior, retractable hardtop, chrome grille, LED taillights"
+    ],
+    "ori": [
+      "a photo of a 2009 Mercedes-Benz SL-Class Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Mercedes-Benz SL-Class Coupe is a luxury grand touring convertible."
+    ]
+  },
+  "2012 Chevrolet Silverado 1500 Hybrid Crew Cab": {
+    "positive": [
+      "This image features a 2012 Chevrolet Silverado 1500 Hybrid Crew Cab, a full-size pickup truck with a hybrid powertrain for improved fuel economy.",
+      "The car in the image is a 2012 Chevrolet Silverado 1500 Hybrid Crew Cab, a more eco-conscious option for truck enthusiasts."
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Silverado 1500 Hybrid Crew Cab.",
+      "This is definitely not an image of a 2012 Chevrolet Silverado 1500 Hybrid Crew Cab."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Silverado 1500 Hybrid Crew Cab, metallic silver paint, black textured grille, chrome accents, hybrid badging, crew cab shape"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Silverado 1500 Hybrid Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Silverado 1500 Hybrid Crew Cab is a fuel-efficient full-size pickup truck."
+    ]
+  },
+  "2012 Buick Enclave SUV": {
+    "positive": [
+      "This image features a 2012 Buick Enclave SUV, a three-row crossover SUV known for its spacious interior and comfortable ride.",
+      "The car in the image is a 2012 Buick Enclave SUV, a great option for families needing space and luxury features."
+    ],
+    "negative": [
+      "This image does not show a 2012 Buick Enclave SUV.",
+      "This is definitely not an image of a 2012 Buick Enclave SUV."
+    ],
+    "deepLow": [
+      "2012 Buick Enclave SUV, metallic silver paint, chrome grille, sleek body lines, tinted windows, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Buick Enclave SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Buick Enclave SUV is a premium family crossover."
+    ]
+  },
+  "2009 Chevrolet TrailBlazer SS": {
+    "positive": [
+      "This image features a 2009 Chevrolet TrailBlazer SS, a high-performance SUV with a powerful V8 engine and sporty suspension.",
+      "The car in the image is a 2009 Chevrolet TrailBlazer SS, appealing to those seeking SUV practicality with sports car performance."
+    ],
+    "negative": [
+      "This image does not show a 2009 Chevrolet TrailBlazer SS.",
+      "This is definitely not an image of a 2009 Chevrolet TrailBlazer SS."
+    ],
+    "deepLow": [
+      "2009 Chevrolet TrailBlazer SS, black metallic paint, aggressive front grille, muscular body lines, 20-inch alloy wheels, sporty dual exhaust prefix: 28"
+    ],
+    "ori": [
+      "a photo of a 2009 Chevrolet TrailBlazer SS, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Chevrolet TrailBlazer SS is a high-performance SUV."
+    ]
+  },
+  "2009 HUMMER H2 SUT Crew Cab": {
+    "positive": [
+      "This image features a 2009 HUMMER H2 SUT Crew Cab, a rugged and distinctive sport utility truck with an open bed and off-road capabilities.",
+      "The car in the image is a 2009 HUMMER H2 SUT Crew Cab, combining the HUMMER brand's iconic style with pickup truck utility."
+    ],
+    "negative": [
+      "This image does not show a 2009 HUMMER H2 SUT Crew Cab.",
+      "This is definitely not an image of a 2009 HUMMER H2 SUT Crew Cab."
+    ],
+    "deepLow": [
+      "2009 HUMMER H2 SUT Crew Cab, boxy angular design, matte black finish, rugged off-road tires, chrome grille, wide wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2009 HUMMER H2 SUT Crew Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 HUMMER H2 SUT Crew Cab is a rugged luxury utility vehicle."
+    ]
+  },
+  "2012 McLaren MP4-12C Coupe": {
+    "positive": [
+      "This image features a 2012 McLaren MP4-12C Coupe, a high-performance sports car with a lightweight design and advanced aerodynamics.",
+      "The car in the image is a 2012 McLaren MP4-12C Coupe, known for its exceptional handling and cutting-edge technology."
+    ],
+    "negative": [
+      "This image does not show a 2012 McLaren MP4-12C Coupe.",
+      "This is definitely not an image of a 2012 McLaren MP4-12C Coupe."
+    ],
+    "deepLow": [
+      "2012 McLaren MP4-12C Coupe, sleek silver body, carbon fiber accents, dihedral doors, glossy finish, aggressive rear diffuser."
+    ],
+    "ori": [
+      "a photo of a 2012 McLaren MP4-12C Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 McLaren MP4-12C Coupe is a high-performance supercar for driving enthusiasts."
+    ]
+  },
+  "2011 Dodge Challenger SRT8": {
+    "positive": [
+      "This image features a 2011 Dodge Challenger SRT8, a muscle car with a powerful V8 engine and retro styling.",
+      "The car in the image is a 2011 Dodge Challenger SRT8, appealing to those seeking classic American muscle car performance."
+    ],
+    "negative": [
+      "This image does not show a 2011 Dodge Challenger SRT8.",
+      "This is definitely not an image of a 2011 Dodge Challenger SRT8."
+    ],
+    "deepLow": [
+      "2011 Dodge Challenger SRT8, glossy black paint, muscular body lines, chrome alloy wheels, aggressive front grille, dual exhaust pipes"
+    ],
+    "ori": [
+      "a photo of a 2011 Dodge Challenger SRT8, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Dodge Challenger SRT8 is a high-performance muscle car."
+    ]
+  },
+  "2012 Suzuki SX4 Hatchback": {
+    "positive": [
+      "This image features a 2012 Suzuki SX4 Hatchback, a compact hatchback with available all-wheel drive and versatile cargo space.",
+      "The car in the image is a 2012 Suzuki SX4 Hatchback, offering practicality and value in a small package."
+    ],
+    "negative": [
+      "This image does not show a 2012 Suzuki SX4 Hatchback.",
+      "This is definitely not an image of a 2012 Suzuki SX4 Hatchback."
+    ],
+    "deepLow": [
+      "2012 Suzuki SX4 Hatchback, compact body, silver metallic paint, black grille, angular headlights, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Suzuki SX4 Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Suzuki SX4 Hatchback is a compact crossover for urban commuters."
+    ]
+  },
+  "2009 Bugatti Veyron 16.4 Convertible": {
+    "positive": [
+      "This image features a 2009 Bugatti Veyron 16.4 Convertible, one of the world's fastest and most exclusive convertibles with a quad-turbocharged W16 engine.",
+      "The car in the image is a 2009 Bugatti Veyron 16.4 Convertible, a symbol of extreme performance and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2009 Bugatti Veyron 16.4 Convertible.",
+      "This is definitely not an image of a 2009 Bugatti Veyron 16.4 Convertible."
+    ],
+    "deepLow": [
+      "2009 Bugatti Veyron 16.4 Convertible, glossy black paint, carbon fiber accents, horseshoe grille, retractable soft top, quad exhaust pipes."
+    ],
+    "ori": [
+      "a photo of a 2009 Bugatti Veyron 16.4 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Bugatti Veyron 16.4 Convertible is an ultra-high-performance supercar for luxury sports enthusiasts."
+    ]
+  },
+  "2012 Toyota 4Runner SUV": {
+    "positive": [
+      "This image features a 2012 Toyota 4Runner SUV, a rugged and capable SUV with a reputation for off-road reliability.",
+      "The car in the image is a 2012 Toyota 4Runner SUV, designed for adventure and durability."
+    ],
+    "negative": [
+      "This image does not show a 2012 Toyota 4Runner SUV.",
+      "This is definitely not an image of a 2012 Toyota 4Runner SUV."
+    ],
+    "deepLow": [
+      "2012 Toyota 4Runner SUV, metallic gray paint, black grille, angular headlights, rugged wheel arches, silver alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Toyota 4Runner SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Toyota 4Runner SUV is a rugged off-road vehicle."
+    ]
+  },
+  "2007 Buick Rainier SUV": {
+    "positive": [
+      "This image features a 2007 Buick Rainier SUV, a mid-size SUV with a comfortable ride and available V8 power.",
+      "The car in the image is a 2007 Buick Rainier SUV, blending practicality and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2007 Buick Rainier SUV.",
+      "This is definitely not an image of a 2007 Buick Rainier SUV."
+    ],
+    "deepLow": [
+      "2007 Buick Rainier SUV, boxy chrome grille, metallic silver paint, black leather seats, angular wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2007 Buick Rainier SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Buick Rainier SUV is a premium full-size vehicle for comfort-focused drivers."
+    ]
+  },
+  "2010 Chrysler Sebring Convertible": {
+    "positive": [
+      "This image features a 2010 Chrysler Sebring Convertible, a mid-size convertible offering open-air driving enjoyment at an affordable price.",
+      "The car in the image is a 2010 Chrysler Sebring Convertible, a stylish and budget-friendly option."
+    ],
+    "negative": [
+      "This image does not show a 2010 Chrysler Sebring Convertible.",
+      "This is definitely not an image of a 2010 Chrysler Sebring Convertible."
+    ],
+    "deepLow": [
+      "2010 Chrysler Sebring Convertible, sleek silver body, black soft-top roof, chrome grille, alloy wheels, tan leather interior"
+    ],
+    "ori": [
+      "a photo of a 2010 Chrysler Sebring Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Chrysler Sebring Convertible is an affordable midsize convertible for everyday driving."
+    ]
+  },
+  "2001 Acura Integra Type R": {
+    "positive": [
+      "This image features a 2001 Acura Integra Type R, a legendary sport compact car known for its high-revving engine and precise handling.",
+      "The car in the image is a 2001 Acura Integra Type R, a highly sought-after classic among car enthusiasts."
+    ],
+    "negative": [
+      "This image does not show a 2001 Acura Integra Type R.",
+      "This is definitely not an image of a 2001 Acura Integra Type R."
+    ],
+    "deepLow": [
+      "2001 Acura Integra Type R, championship white paint, red Honda badges, angular headlights, rear wing, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2001 Acura Integra Type R, a type of car."
+    ],
+    "deepHigh": [
+      "The 2001 Acura Integra Type R is a high-performance front-wheel-drive sports coupe."
+    ]
+  },
+  "1994 Audi V8 Sedan": {
+    "positive": [
+      "This image features a 1994 Audi V8 Sedan, a luxury sedan known for its powerful V8 engine and quattro all-wheel drive system.",
+      "The car in the image is a 1994 Audi V8 Sedan, a precursor to Audi's modern high-performance sedans."
+    ],
+    "negative": [
+      "This image does not show a 1994 Audi V8 Sedan.",
+      "This is definitely not an image of a 1994 Audi V8 Sedan."
+    ],
+    "deepLow": [
+      "1994 Audi V8 Sedan, boxy angular body, chrome grille, metallic silver paint, black leather interior, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1994 Audi V8 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 1994 Audi V8 Sedan is a full-size luxury performance sedan."
+    ]
+  },
+  "2008 Audi RS 4 Convertible": {
+    "positive": [
+      "This image features a 2008 Audi RS 4 Convertible",
+      "The car in the image is a 2008 Audi RS 4 Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2008 Audi RS 4 Convertible.",
+      "This is definitely not an image of a 2008 Audi RS 4 Convertible."
+    ],
+    "deepLow": [
+      "2008 Audi RS 4 Convertible, sleek silver body, black soft-top roof, aggressive front grille, alloy wheels, sporty red brake calipers"
+    ],
+    "ori": [
+      "a photo of a 2008 Audi RS 4 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Audi RS 4 Convertible is a high-performance luxury sports car."
+    ]
+  },
+  "2012 Honda Accord Coupe": {
+    "positive": [
+      "This image features a 2012 Honda Accord Coupe",
+      "The car in the image is a 2012 Honda Accord Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 Honda Accord Coupe.",
+      "This is definitely not an image of a 2012 Honda Accord Coupe."
+    ],
+    "deepLow": [
+      "2012 Honda Accord Coupe, sleek silver metallic paint, angular headlights, black leather interior, dual exhaust tips, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Honda Accord Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Honda Accord Coupe is a stylish and reliable midsize car."
+    ]
+  },
+  "2012 Audi S4 Sedan": {
+    "positive": [
+      "This image features a 2012 Audi S4 Sedan",
+      "The car in the image is a 2012 Audi S4 Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi S4 Sedan.",
+      "This is definitely not an image of a 2012 Audi S4 Sedan."
+    ],
+    "deepLow": [
+      "2012 Audi S4 Sedan, metallic silver paint, sleek angular headlights, black leather interior, brushed aluminum trim, aggressive front grille"
+    ],
+    "ori": [
+      "a photo of a 2012 Audi S4 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi S4 Sedan is a high-performance luxury sports sedan."
+    ]
+  },
+  "2012 Aston Martin Virage Coupe": {
+    "positive": [
+      "This image features a 2012 Aston Martin Virage Coupe",
+      "The car in the image is a 2012 Aston Martin Virage Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 Aston Martin Virage Coupe.",
+      "This is definitely not an image of a 2012 Aston Martin Virage Coupe."
+    ],
+    "deepLow": [
+      "2012 Aston Martin Virage Coupe, metallic silver paint, sculpted hood vents, black leather interior, sleek aerodynamic lines, 20-inch alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2012 Aston Martin Virage Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Aston Martin Virage Coupe is a grand touring sports car."
+    ]
+  },
+  "2012 Chevrolet Sonic Sedan": {
+    "positive": [
+      "This image features a 2012 Chevrolet Sonic Sedan",
+      "The car in the image is a 2012 Chevrolet Sonic Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Sonic Sedan.",
+      "This is definitely not an image of a 2012 Chevrolet Sonic Sedan."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Sonic Sedan, compact four-door, glossy black paint, chrome grille, angular headlights, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Sonic Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Sonic Sedan is an affordable compact car for budget-conscious drivers."
+    ]
+  },
+  "2007 Chevrolet Monte Carlo Coupe": {
+    "positive": [
+      "This image features a 2007 Chevrolet Monte Carlo Coupe",
+      "The car in the image is a 2007 Chevrolet Monte Carlo Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Monte Carlo Coupe.",
+      "This is definitely not an image of a 2007 Chevrolet Monte Carlo Coupe."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Monte Carlo Coupe, sleek silver paint, black racing stripes, angular headlights, chrome grille, low-profile tires"
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Monte Carlo Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Monte Carlo Coupe is a front-wheel drive personal luxury coupe."
+    ]
+  },
+  "2007 Volvo XC90 SUV": {
+    "positive": [
+      "This image features a 2007 Volvo XC90 SUV",
+      "The car in the image is a 2007 Volvo XC90 SUV"
+    ],
+    "negative": [
+      "This image does not show a 2007 Volvo XC90 SUV.",
+      "This is definitely not an image of a 2007 Volvo XC90 SUV."
+    ],
+    "deepLow": [
+      "2007 Volvo XC90 SUV, silver metallic paint, boxy shape, black leather seats, chrome grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Volvo XC90 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Volvo XC90 SUV is a safe and versatile family vehicle."
+    ]
+  },
+  "2007 Ford Mustang Convertible": {
+    "positive": [
+      "This image features a 2007 Ford Mustang Convertible, a sports car to transport people.",
+      "The car in the image is a 2007 Ford Mustang Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2007 Ford Mustang Convertible.",
+      "This is definitely not an image of a 2007 Ford Mustang Convertible."
+    ],
+    "deepLow": [
+      "2007 Ford Mustang Convertible, glossy red paint, black soft top, chrome grille, muscular body lines, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Ford Mustang Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Ford Mustang Convertible is a stylish performance car for driving enthusiasts."
+    ]
+  },
+  "2012 Aston Martin Virage Convertible": {
+    "positive": [
+      "This image features a 2012 Aston Martin Virage Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Aston Martin Virage Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Aston Martin Virage Convertible.",
+      "This is definitely not an image of a 2012 Aston Martin Virage Convertible."
+    ],
+    "deepLow": [
+      "2012 Aston Martin Virage Convertible, sleek silver metallic paint, black leather interior, retractable soft top, iconic grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Aston Martin Virage Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Aston Martin Virage Convertible is a high-performance grand touring luxury sports car."
+    ]
+  },
+  "2012 smart fortwo Convertible": {
+    "positive": [
+      "This image features a 2012 smart fortwo Convertible, a convertible to transport people",
+      "The car in the image is a 2012 smart fortwo Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 smart fortwo Convertible.",
+      "This is definitely not an image of a 2012 smart fortwo Convertible."
+    ],
+    "deepLow": [
+      "2012 smart fortwo Convertible, compact rounded shape, glossy black paint, fabric soft-top roof, silver alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 smart fortwo Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 smart fortwo Convertible is a compact city car."
+    ]
+  },
+  "2012 FIAT 500 Abarth": {
+    "positive": [
+      "This image features a 2012 FIAT 500 Abarth, a sports car to transport people",
+      "The car in the image is a 2012 FIAT 500 Abarth"
+    ],
+    "negative": [
+      "This image does not show a 2012 FIAT 500 Abarth.",
+      "This is definitely not an image of a 2012 FIAT 500 Abarth."
+    ],
+    "deepLow": [
+      "2012 FIAT 500 Abarth, compact hatchback, glossy red paint, black racing stripes, aggressive front grille, dual exhaust tips"
+    ],
+    "ori": [
+      "a photo of a 2012 FIAT 500 Abarth, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 FIAT 500 Abarth is a sporty compact hatchback."
+    ]
+  },
+  "2012 Infiniti G Coupe IPL": {
+    "positive": [
+      "This image features a 2012 Infiniti G Coupe IPL, a sports car to transport people",
+      "The car in the image is a 2012 Infiniti G Coupe IPL"
+    ],
+    "negative": [
+      "This image does not show a 2012 Infiniti G Coupe IPL.",
+      "This is definitely not an image of a 2012 Infiniti G Coupe IPL."
+    ],
+    "deepLow": [
+      "2012 Infiniti G Coupe IPL, sleek graphite gray paint, aggressive front grille, sporty alloy wheels, red IPL badging, low-profile tires"
+    ],
+    "ori": [
+      "a photo of a 2012 Infiniti G Coupe IPL, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Infiniti G Coupe IPL is a performance luxury sports coupe."
+    ]
+  },
+  "2007 Dodge Caliber Wagon": {
+    "positive": [
+      "This image features a 2007 Dodge Caliber Wagon, a wagon to transport people and cargo",
+      "The car in the image is a 2007 Dodge Caliber Wagon"
+    ],
+    "negative": [
+      "This image does not show a 2007 Dodge Caliber Wagon.",
+      "This is definitely not an image of a 2007 Dodge Caliber Wagon."
+    ],
+    "deepLow": [
+      "2007 Dodge Caliber Wagon, compact hatchback, angular headlights, silver metallic paint, black plastic trim, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Dodge Caliber Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Dodge Caliber Wagon is a compact crossover for budget-conscious young drivers."
+    ]
+  },
+  "2012 Hyundai Tucson SUV": {
+    "positive": [
+      "This image features a 2012 Hyundai Tucson SUV, an SUV to transport people and cargo",
+      "The car in the image is a 2012 Hyundai Tucson SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Tucson SUV.",
+      "This is definitely not an image of a 2012 Hyundai Tucson SUV."
+    ],
+    "deepLow": [
+      "2012 Hyundai Tucson SUV, silver metallic paint, angular headlights, black grille, alloy wheels, sleek roofline"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Tucson SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Tucson SUV is a compact crossover for urban commuters."
+    ]
+  },
+  "2012 Acura ZDX Hatchback": {
+    "positive": [
+      "This image features a 2012 Acura ZDX Hatchback, a hatchback to transport people and cargo",
+      "The car in the image is a 2012 Acura ZDX Hatchback"
+    ],
+    "negative": [
+      "This image does not show a 2012 Acura ZDX Hatchback.",
+      "This is definitely not an image of a 2012 Acura ZDX Hatchback."
+    ],
+    "deepLow": [
+      "2012 Acura ZDX Hatchback, sleek silver metallic paint, angular roofline, black leather interior, bold grille, LED headlights"
+    ],
+    "ori": [
+      "a photo of a 2012 Acura ZDX Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Acura ZDX Hatchback is a luxury crossover coupe."
+    ]
+  },
+  "2012 BMW ActiveHybrid 5 Sedan": {
+    "positive": [
+      "This image features a 2012 BMW ActiveHybrid 5 Sedan",
+      "The car in the image is a 2012 BMW ActiveHybrid 5 Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW ActiveHybrid 5 Sedan.",
+      "This is definitely not an image of a 2012 BMW ActiveHybrid 5 Sedan."
+    ],
+    "deepLow": [
+      "2012 BMW ActiveHybrid 5 Sedan, metallic silver paint, sleek angular headlights, black leather interior, blue hybrid badges"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW ActiveHybrid 5 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW ActiveHybrid 5 Sedan is a luxury performance sedan with a fuel-efficient hybrid powertrain."
+    ]
+  },
+  "2012 Ferrari California Convertible": {
+    "positive": [
+      "This image features a 2012 Ferrari California Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Ferrari California Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ferrari California Convertible.",
+      "This is definitely not an image of a 2012 Ferrari California Convertible."
+    ],
+    "deepLow": [
+      "2012 Ferrari California Convertible, glossy red paint, black leather seats, silver alloy wheels, retractable hardtop"
+    ],
+    "ori": [
+      "a photo of a 2012 Ferrari California Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ferrari California Convertible is a high-performance grand touring sports car."
+    ]
+  },
+  "2012 Nissan Leaf Hatchback": {
+    "positive": [
+      "This image features a 2012 Nissan Leaf Hatchback",
+      "The car in the image is a 2012 Nissan Leaf Hatchback"
+    ],
+    "negative": [
+      "This image does not show a 2012 Nissan Leaf Hatchback.",
+      "This is definitely not an image of a 2012 Nissan Leaf Hatchback."
+    ],
+    "deepLow": [
+      "2012 Nissan Leaf Hatchback, silver metallic paint, smooth aerodynamic shape, blue-tinted headlights, black plastic trim"
+    ],
+    "ori": [
+      "a photo of a 2012 Nissan Leaf Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Nissan Leaf Hatchback is an all-electric commuter vehicle."
+    ]
+  },
+  "2001 Lamborghini Diablo Coupe": {
+    "positive": [
+      "This image features a 2001 Lamborghini Diablo Coupe, a sports car to transport people",
+      "The car in the image is a 2001 Lamborghini Diablo Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2001 Lamborghini Diablo Coupe.",
+      "This is definitely not an image of a 2001 Lamborghini Diablo Coupe."
+    ],
+    "deepLow": [
+      "2001 Lamborghini Diablo Coupe, glossy black paint, angular wedge shape, pop-up headlights, large rear wing, aggressive air intakes"
+    ],
+    "ori": [
+      "a photo of a 2001 Lamborghini Diablo Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2001 Lamborghini Diablo Coupe is a high-performance supercar for enthusiasts."
+    ]
+  },
+  "2012 Audi S5 Convertible": {
+    "positive": [
+      "This image features a 2012 Audi S5 Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Audi S5 Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi S5 Convertible.",
+      "This is definitely not an image of a 2012 Audi S5 Convertible."
+    ],
+    "deepLow": [
+      "2012 Audi S5 Convertible, sleek silver metallic paint, black soft-top roof, chrome grille, sporty alloy wheels, leather interior."
+    ],
+    "ori": [
+      "a photo of a 2012 Audi S5 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi S5 Convertible is a luxury performance coupe."
+    ]
+  },
+  "2007 BMW 6 Series Convertible": {
+    "positive": [
+      "This image features a 2007 BMW 6 Series Convertible, a convertible to transport people",
+      "The car in the image is a 2007 BMW 6 Series Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2007 BMW 6 Series Convertible.",
+      "This is definitely not an image of a 2007 BMW 6 Series Convertible."
+    ],
+    "deepLow": [
+      "2007 BMW 6 Series Convertible, sleek silver metallic paint, black soft-top roof, angular headlights, chrome accents, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 BMW 6 Series Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 BMW 6 Series Convertible is a luxury grand touring car."
+    ]
+  },
+  "2012 Ferrari 458 Italia Convertible": {
+    "positive": [
+      "This image features a 2012 Ferrari 458 Italia Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Ferrari 458 Italia Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ferrari 458 Italia Convertible.",
+      "This is definitely not an image of a 2012 Ferrari 458 Italia Convertible."
+    ],
+    "deepLow": [
+      "2012 Ferrari 458 Italia Convertible, glossy red paint, black leather seats, silver alloy wheels, retractable hardtop, aggressive front grille"
+    ],
+    "ori": [
+      "a photo of a 2012 Ferrari 458 Italia Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ferrari 458 Italia Convertible is a high-performance luxury sports car."
+    ]
+  },
+  "2012 Chevrolet Silverado 2500HD Regular Cab": {
+    "positive": [
+      "This image features a 2012 Chevrolet Silverado 2500HD Regular Cab, a pickup truck to transport people and cargo",
+      "The car in the image is a 2012 Chevrolet Silverado 2500HD Regular Cab"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Silverado 2500HD Regular Cab.",
+      "This is definitely not an image of a 2012 Chevrolet Silverado 2500HD Regular Cab."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Silverado 2500HD Regular Cab, boxy chrome grille, metallic silver paint, textured black plastic bumpers, large squared wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Silverado 2500HD Regular Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Silverado 2500HD Regular Cab is a heavy-duty work truck."
+    ]
+  },
+  "2012 Chevrolet Corvette Convertible": {
+    "positive": [
+      "This image features a 2012 Chevrolet Corvette Convertible, a convertible to transport people",
+      "The car in the image is a 2012 Chevrolet Corvette Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Corvette Convertible.",
+      "This is definitely not an image of a 2012 Chevrolet Corvette Convertible."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Corvette Convertible, sleek black exterior, red leather seats, retractable hardtop, chrome alloy wheels, aggressive front grille."
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Corvette Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Corvette Convertible is a high-performance sports car."
+    ]
+  },
+  "2009 Bugatti Veyron 16.4 Coupe": {
+    "positive": [
+      "This image features a 2009 Bugatti Veyron 16.4 Coupe, a sports car to transport people",
+      "The car in the image is a 2009 Bugatti Veyron 16.4 Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2009 Bugatti Veyron 16.4 Coupe.",
+      "This is definitely not an image of a 2009 Bugatti Veyron 16.4 Coupe."
+    ],
+    "deepLow": [
+      "2009 Bugatti Veyron 16.4 Coupe, glossy black paint, carbon fiber accents, horseshoe grille, quad exhaust pipes"
+    ],
+    "ori": [
+      "a photo of a 2009 Bugatti Veyron 16.4 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Bugatti Veyron 16.4 Coupe is an ultra-high-performance supercar for luxury sports enthusiasts."
+    ]
+  },
+  "2012 Tesla Model S Sedan": {
+    "positive": [
+      "This image features a 2012 Tesla Model S Sedan",
+      "The car in the image is a 2012 Tesla Model S Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Tesla Model S Sedan.",
+      "This is definitely not an image of a 2012 Tesla Model S Sedan."
+    ],
+    "deepLow": [
+      "2012 Tesla Model S Sedan, sleek silver metallic paint, black leather interior, panoramic glass roof, minimalist dashboard design"
+    ],
+    "ori": [
+      "a photo of a 2012 Tesla Model S Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Tesla Model S Sedan is an all-electric luxury sedan."
+    ]
+  },
+  "2012 FIAT 500 Convertible": {
+    "positive": [
+      "This image features a 2012 FIAT 500 Convertible",
+      "The car in the image is a 2012 FIAT 500 Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 FIAT 500 Convertible.",
+      "This is definitely not an image of a 2012 FIAT 500 Convertible."
+    ],
+    "deepLow": [
+      "2012 FIAT 500 Convertible, compact retro design, soft black convertible top, glossy red body, circular headlights, chrome accents"
+    ],
+    "ori": [
+      "a photo of a 2012 FIAT 500 Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 FIAT 500 Convertible is a stylish city car."
+    ]
+  },
+  "2012 Hyundai Veloster Hatchback": {
+    "positive": [
+      "This image features a 2012 Hyundai Veloster Hatchback",
+      "The car in the image is a 2012 Hyundai Veloster Hatchback"
+    ],
+    "negative": [
+      "This image does not show a 2012 Hyundai Veloster Hatchback.",
+      "This is definitely not an image of a 2012 Hyundai Veloster Hatchback."
+    ],
+    "deepLow": [
+      "2012 Hyundai Veloster Hatchback, sleek silver body, black honeycomb grille, angular headlights, asymmetrical rear doors, glossy alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Hyundai Veloster Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Hyundai Veloster Hatchback is a sporty, fuel-efficient compact car for young urban drivers."
+    ]
+  },
+  "2011 Lincoln Town Car Sedan": {
+    "positive": [
+      "This image features a 2011 Lincoln Town Car Sedan",
+      "The car in the image is a 2011 Lincoln Town Car Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2011 Lincoln Town Car Sedan.",
+      "This is definitely not an image of a 2011 Lincoln Town Car Sedan."
+    ],
+    "deepLow": [
+      "2011 Lincoln Town Car Sedan, black glossy paint, chrome grille, rectangular headlights, leather interior, elongated body shape"
+    ],
+    "ori": [
+      "a photo of a 2011 Lincoln Town Car Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Lincoln Town Car Sedan is a full-size luxury sedan for executive transportation."
+    ]
+  },
+  "2012 Lamborghini Aventador Coupe": {
+    "positive": [
+      "This image features a 2012 Lamborghini Aventador Coupe",
+      "The car in the image is a 2012 Lamborghini Aventador Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 Lamborghini Aventador Coupe.",
+      "This is definitely not an image of a 2012 Lamborghini Aventador Coupe."
+    ],
+    "deepLow": [
+      "2012 Lamborghini Aventador Coupe, glossy orange paint, sharp angular body, carbon fiber accents, Y-shaped LED headlights."
+    ],
+    "ori": [
+      "a photo of a 2012 Lamborghini Aventador Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Lamborghini Aventador Coupe is a high-performance supercar for enthusiasts."
+    ]
+  },
+  "2009 Dodge Ram Pickup 3500 Quad Cab": {
+    "positive": [
+      "This image features a 2009 Dodge Ram Pickup 3500 Quad Cab",
+      "The car in the image is a 2009 Dodge Ram Pickup 3500 Quad Cab"
+    ],
+    "negative": [
+      "This image does not show a 2009 Dodge Ram Pickup 3500 Quad Cab.",
+      "This is definitely not an image of a 2009 Dodge Ram Pickup 3500 Quad Cab."
+    ],
+    "deepLow": [
+      "2009 Dodge Ram Pickup 3500 Quad Cab, black metallic paint, chrome grille, rugged tires, quad cab design, bold body lines"
+    ],
+    "ori": [
+      "a photo of a 2009 Dodge Ram Pickup 3500 Quad Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2009 Dodge Ram Pickup 3500 Quad Cab is heavy-duty work truck."
+    ]
+  },
+  "2012 Nissan NV Passenger Van": {
+    "positive": [
+      "This image features a 2012 Nissan NV Passenger Van",
+      "The car in the image is a 2012 Nissan NV Passenger Van"
+    ],
+    "negative": [
+      "This image does not show a 2012 Nissan NV Passenger Van.",
+      "This is definitely not an image of a 2012 Nissan NV Passenger Van."
+    ],
+    "deepLow": [
+      "2012 Nissan NV Passenger Van, boxy shape, silver metallic paint, black grille, sliding side doors, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Nissan NV Passenger Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Nissan NV Passenger Van is a commercial-grade people mover."
+    ]
+  },
+  "2007 Honda Odyssey Minivan": {
+    "positive": [
+      "This image features a 2007 Honda Odyssey Minivan",
+      "The car in the image is a 2007 Honda Odyssey Minivan"
+    ],
+    "negative": [
+      "This image does not show a 2007 Honda Odyssey Minivan.",
+      "This is definitely not an image of a 2007 Honda Odyssey Minivan."
+    ],
+    "deepLow": [
+      "2007 Honda Odyssey Minivan, silver metallic paint, sliding rear doors, chrome grille, tinted windows, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Honda Odyssey Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Honda Odyssey Minivan is a versatile family vehicle with sliding rear doors."
+    ]
+  },
+  "2012 Maybach Landaulet Convertible": {
+    "positive": [
+      "This image features a 2012 Maybach Landaulet Convertible",
+      "The car in the image is a 2012 Maybach Landaulet Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Maybach Landaulet Convertible.",
+      "This is definitely not an image of a 2012 Maybach Landaulet Convertible."
+    ],
+    "deepLow": [
+      "2012 Maybach Landaulet Convertible, glossy black paint, white leather seats, retractable soft top, chrome accents, elongated rear cabin"
+    ],
+    "ori": [
+      "a photo of a 2012 Maybach Landaulet Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Maybach Landaulet Convertible is ultra-luxury chauffeur-driven limousine."
+    ]
+  },
+  "2012 Chevrolet Silverado 1500 Regular Cab": {
+    "positive": [
+      "This image features a 2012 Chevrolet Silverado 1500 Regular Cab",
+      "The car in the image is a 2012 Chevrolet Silverado 1500 Regular Cab"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Silverado 1500 Regular Cab.",
+      "This is definitely not an image of a 2012 Chevrolet Silverado 1500 Regular Cab."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Silverado 1500 Regular Cab, metallic silver paint, black plastic grille, rectangular headlights, chrome bumper, short bed"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Silverado 1500 Regular Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Silverado 1500 Regular Cab is a full-size work truck."
+    ]
+  },
+  "2012 Suzuki Kizashi Sedan": {
+    "positive": [
+      "This image features a 2012 Suzuki Kizashi Sedan",
+      "The car in the image is a 2012 Suzuki Kizashi Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Suzuki Kizashi Sedan.",
+      "This is definitely not an image of a 2012 Suzuki Kizashi Sedan."
+    ],
+    "deepLow": [
+      "2012 Suzuki Kizashi Sedan, metallic silver paint, sleek angular headlights, chrome grille, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Suzuki Kizashi Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Suzuki Kizashi Sedan is a sporty and affordable midsize car."
+    ]
+  },
+  "2012 Chevrolet Tahoe Hybrid SUV": {
+    "positive": [
+      "This image features a 2012 Chevrolet Tahoe Hybrid SUV",
+      "The car in the image is a 2012 Chevrolet Tahoe Hybrid SUV"
+    ],
+    "negative": [
+      "This image does not show a 2012 Chevrolet Tahoe Hybrid SUV.",
+      "This is definitely not an image of a 2012 Chevrolet Tahoe Hybrid SUV."
+    ],
+    "deepLow": [
+      "2012 Chevrolet Tahoe Hybrid SUV, boxy SUV shape, metallic silver paint, black leather seats, chrome grille, hybrid badging"
+    ],
+    "ori": [
+      "a photo of a 2012 Chevrolet Tahoe Hybrid SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chevrolet Tahoe Hybrid SUV is a full-size hybrid SUV for families and professionals needing space and efficiency."
+    ]
+  },
+  "2012 Mercedes-Benz Sprinter Van": {
+    "positive": [
+      "This image features a 2012 Mercedes-Benz Sprinter Van",
+      "The car in the image is a 2012 Mercedes-Benz Sprinter Van"
+    ],
+    "negative": [
+      "This image does not show a 2012 Mercedes-Benz Sprinter Van.",
+      "This is definitely not an image of a 2012 Mercedes-Benz Sprinter Van."
+    ],
+    "deepLow": [
+      "2012 Mercedes-Benz Sprinter Van, white exterior, black grille, boxy shape, chrome accents, sliding side door"
+    ],
+    "ori": [
+      "a photo of a 2012 Mercedes-Benz Sprinter Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Mercedes-Benz Sprinter Van is a versatile commercial vehicle."
+    ]
+  },
+  "2007 Suzuki Aerio Sedan": {
+    "positive": [
+      "This image features a 2007 Suzuki Aerio Sedan",
+      "The car in the image is a 2007 Suzuki Aerio Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2007 Suzuki Aerio Sedan.",
+      "This is definitely not an image of a 2007 Suzuki Aerio Sedan."
+    ],
+    "deepLow": [
+      "2007 Suzuki Aerio Sedan, compact body, silver metallic paint, rounded headlights, black grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Suzuki Aerio Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Suzuki Aerio Sedan is an affordable compact car for budget-conscious drivers."
+    ]
+  },
+  "2012 Audi S5 Coupe": {
+    "positive": [
+      "This image features a 2012 Audi S5 Coupe",
+      "The car in the image is a 2012 Audi S5 Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 Audi S5 Coupe.",
+      "This is definitely not an image of a 2012 Audi S5 Coupe."
+    ],
+    "deepLow": [
+      "2012 Audi S5 Coupe, sleek silver metallic paint, black leather interior, LED daytime running lights, aggressive front grille, 19-inch alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2012 Audi S5 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Audi S5 Coupe is a luxury performance coupe."
+    ]
+  },
+  "2012 Aston Martin V8 Vantage Coupe": {
+    "positive": [
+      "This image features a 2012 Aston Martin V8 Vantage Coupe",
+      "The car in the image is a 2012 Aston Martin V8 Vantage Coupe"
+    ],
+    "negative": [
+      "This image does not show a 2012 Aston Martin V8 Vantage Coupe.",
+      "This is definitely not an image of a 2012 Aston Martin V8 Vantage Coupe."
+    ],
+    "deepLow": [
+      "2012 Aston Martin V8 Vantage Coupe, sleek silver metallic paint, black leather interior, aggressive front grille, low-slung aerodynamic profile"
+    ],
+    "ori": [
+      "a photo of a 2012 Aston Martin V8 Vantage Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Aston Martin V8 Vantage Coupe is a luxury sports car for driving enthusiasts."
+    ]
+  },
+  "2010 Chevrolet Malibu Hybrid Sedan": {
+    "positive": [
+      "This image features a 2010 Chevrolet Malibu Hybrid Sedan",
+      "The car in the image is a 2010 Chevrolet Malibu Hybrid Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2010 Chevrolet Malibu Hybrid Sedan.",
+      "This is definitely not an image of a 2010 Chevrolet Malibu Hybrid Sedan."
+    ],
+    "deepLow": [
+      "2010 Chevrolet Malibu Hybrid Sedan, silver metallic paint, sleek aerodynamic shape, chrome grille, hybrid badging, black leather interior."
+    ],
+    "ori": [
+      "a photo of a 2010 Chevrolet Malibu Hybrid Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 Chevrolet Malibu Hybrid Sedan is a fuel-efficient family sedan."
+    ]
+  },
+  "2012 Ford F-150 Regular Cab": {
+    "positive": [
+      "This image features a 2012 Ford F-150 Regular Cab",
+      "The car in the image is a 2012 Ford F-150 Regular Cab"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ford F-150 Regular Cab.",
+      "This is definitely not an image of a 2012 Ford F-150 Regular Cab."
+    ],
+    "deepLow": [
+      "2012 Ford F-150 Regular Cab, metallic silver paint, black plastic grille, rectangular headlights, chrome bumpers, short bed"
+    ],
+    "ori": [
+      "a photo of a 2012 Ford F-150 Regular Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ford F-150 Regular Cab is a durable work truck."
+    ]
+  },
+  "2012 Ford Fiesta Sedan": {
+    "positive": [
+      "This image features a 2012 Ford Fiesta Sedan",
+      "The car in the image is a 2012 Ford Fiesta Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2012 Ford Fiesta Sedan.",
+      "This is definitely not an image of a 2012 Ford Fiesta Sedan."
+    ],
+    "deepLow": [
+      "2012 Ford Fiesta Sedan, compact four-door, glossy metallic paint, angular headlights, chrome grille, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Ford Fiesta Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Ford Fiesta Sedan is an affordable compact car for young drivers."
+    ]
+  },
+  "2007 Ford Focus Sedan": {
+    "positive": [
+      "This image features a 2007 Ford Focus Sedan",
+      "The car in the image is a 2007 Ford Focus Sedan"
+    ],
+    "negative": [
+      "This image does not show a 2007 Ford Focus Sedan.",
+      "This is definitely not an image of a 2007 Ford Focus Sedan."
+    ],
+    "deepLow": [
+      "2007 Ford Focus Sedan, silver metallic paint, angular headlights, chrome grille, black plastic trim, compact sedan shape"
+    ],
+    "ori": [
+      "a photo of a 2007 Ford Focus Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Ford Focus Sedan is an affordable compact car for daily commuting."
+    ]
+  },
+  "2012 Bentley Continental Supersports Conv. Convertible": {
+    "positive": [
+      "This image features a 2012 Bentley Continental Supersports Conv. Convertible",
+      "The car in the image is a 2012 Bentley Continental Supersports Conv. Convertible"
+    ],
+    "negative": [
+      "This image does not show a 2012 Bentley Continental Supersports Conv. Convertible.",
+      "This is definitely not an image of a 2012 Bentley Continental Supersports Conv. Convertible."
+    ],
+    "deepLow": [
+      "2012 Bentley Continental Supersports Conv. Convertible, glossy black paint, chrome grille, quilted leather seats, retractable soft top, muscular body lines"
+    ],
+    "ori": [
+      "a photo of a 2012 Bentley Continental Supersports Conv. Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Bentley Continental Supersports Conv. Convertible is a high-performance luxury grand tourer."
+    ]
+  },
+  "2012 MINI Cooper Roadster Convertible": {
+    "positive": [
+      "This image features a 2012 MINI Cooper Roadster Convertible, a small and stylish convertible known for its nimble handling and retro design.",
+      "The car in the image is a 2012 MINI Cooper Roadster Convertible, offering a fun and engaging driving experience."
+    ],
+    "negative": [
+      "This image does not show a 2012 MINI Cooper Roadster Convertible.",
+      "This is definitely not an image of a 2012 MINI Cooper Roadster Convertible."
+    ],
+    "deepLow": [
+      "2012 MINI Cooper Roadster Convertible, glossy black paint, white racing stripes, compact rounded shape, tan soft-top roof, chrome accents"
+    ],
+    "ori": [
+      "a photo of a 2012 MINI Cooper Roadster Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 MINI Cooper Roadster Convertible is a compact two-seater open-top sports car."
+    ]
+  },
+  "2012 Acura RL Sedan": {
+    "positive": [
+      "This image features a 2012 Acura RL Sedan, a luxury sedan that delivers a comfortable ride, advanced technology, and refined features.",
+      "The car in the image is a 2012 Acura RL Sedan, offering a premium driving experience with a focus on comfort and convenience."
+    ],
+    "negative": [
+      "This image does not show a 2012 Acura RL Sedan.",
+      "This is definitely not an image of a 2012 Acura RL Sedan."
+    ],
+    "deepLow": [
+      "2012 Acura RL Sedan, silver metallic paint, sleek angular headlights, chrome grille, leather interior, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Acura RL Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Acura RL Sedan is a premium luxury sedan."
+    ]
+  },
+  "2012 BMW 1 Series Convertible": {
+    "positive": [
+      "This image features a 2012 BMW 1 Series Convertible, a car with with a retractable top and open-air driving experience.",
+      "The car in the image is a 2012 BMW 1 Series Convertible."
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW 1 Series Convertible.",
+      "This is definitely not an image of a 2012 BMW 1 Series Convertible."
+    ],
+    "deepLow": [
+      "2012 BMW 1 Series Convertible, metallic silver paint, black soft top, sleek angular headlights, chrome grille, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW 1 Series Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW 1 Series Convertible is a premium compact luxury car."
+    ]
+  },
+  "2007 Dodge Durango SUV": {
+    "positive": [
+      "This image features a 2007 Dodge Durango SUV, a car to transport people and cargo",
+      "The car in the image is a 2007 Dodge Durango SUV."
+    ],
+    "negative": [
+      "This image does not show a 2007 Dodge Durango SUV.",
+      "This is definitely not an image of a 2007 Dodge Durango SUV."
+    ],
+    "deepLow": [
+      "2007 Dodge Durango SUV, boxy angular body, chrome grille, metallic silver paint, black leather seats, rugged wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2007 Dodge Durango SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Dodge Durango SUV is a full-size family vehicle with powerful towing capability."
+    ]
+  },
+  "2010 BMW M5 Sedan": {
+    "positive": [
+      "This image features a 2010 BMW M5 Sedan, a sedan to transport people",
+      "The car in the image is a 2010 BMW M5 Sedan."
+    ],
+    "negative": [
+      "This image does not show a 2010 BMW M5 Sedan.",
+      "This is definitely not an image of a 2010 BMW M5 Sedan."
+    ],
+    "deepLow": [
+      "2010 BMW M5 Sedan, sleek silver metallic paint, aggressive front grille, quad exhaust tips, black leather interior, sporty alloy wheels."
+    ],
+    "ori": [
+      "a photo of a 2010 BMW M5 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2010 BMW M5 Sedan is a high-performance luxury sports sedan."
+    ]
+  },
+  "2012 Chrysler Town and Country Minivan": {
+    "positive": [
+      "This image features a 2012 Chrysler Town and Country Minivan, a car to transport people and cargo",
+      "The car in the image is a 2012 Chrysler Town and Country Minivan."
+    ],
+    "negative": [
+      "This image does not show a 2012 Chrysler Town and Country Minivan.",
+      "This is definitely not an image of a 2012 Chrysler Town and Country Minivan."
+    ],
+    "deepLow": [
+      "2012 Chrysler Town and Country Minivan, dark blue metallic paint, chrome grille, sliding rear doors, black leather seats, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Chrysler Town and Country Minivan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Chrysler Town and Country Minivan is a versatile family vehicle with abundant seating and storage."
+    ]
+  },
+  "2012 Rolls-Royce Phantom Sedan": {
+    "positive": [
+      "This image showcases a 2012 Rolls-Royce Phantom Sedan, a symbol of automotive luxury and refinement.",
+      "The car in the image is a 2012 Rolls-Royce Phantom Sedan, renowned for its handcrafted quality and unparalleled comfort."
+    ],
+    "negative": [
+      "This image does not show a 2012 Rolls-Royce Phantom Sedan.",
+      "This is definitely not an image of a 2012 Rolls-Royce Phantom Sedan."
+    ],
+    "deepLow": [
+      "2012 Rolls-Royce Phantom Sedan, glossy black paint, chrome grille, leather interior, elongated silhouette, iconic Spirit of Ecstasy hood ornament"
+    ],
+    "ori": [
+      "a photo of a 2012 Rolls-Royce Phantom Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Rolls-Royce Phantom Sedan is an ultra-luxury chauffeur-driven vehicle."
+    ]
+  },
+  "2007 Audi S4 Sedan": {
+    "positive": [
+      "This image presents a 2007 Audi S4 Sedan, a high-performance sedan with quattro all-wheel drive, offering sporty handling and refined luxury.",
+      "The car in the image is a 2007 Audi S4 Sedan, appealing to drivers who desire both performance and practicality."
+    ],
+    "negative": [
+      "This image does not show a 2007 Audi S4 Sedan.",
+      "This is definitely not an image of a 2007 Audi S4 Sedan."
+    ],
+    "deepLow": [
+      "2007 Audi S4 Sedan, silver metallic paint, black leather seats, angular headlights, chrome grille, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 Audi S4 Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Audi S4 Sedan is a high-performance luxury sports sedan."
+    ]
+  },
+  "2007 Chevrolet Silverado 1500 Classic Extended Cab": {
+    "positive": [
+      "This image features a 2007 Chevrolet Silverado 1500 Classic Extended Cab, a reliable and capable pickup truck designed for work and everyday tasks.",
+      "The vehicle in the image is a 2007 Chevrolet Silverado 1500 Classic Extended Cab, offering a balance of utility and comfort."
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Silverado 1500 Classic Extended Cab.",
+      "This is definitely not an image of a 2007 Chevrolet Silverado 1500 Classic Extended Cab."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Silverado 1500 Classic Extended Cab, metallic silver paint, black plastic trim, rectangular headlights, chrome grille, extended cab shape"
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Silverado 1500 Classic Extended Cab, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Silverado 1500 Classic Extended Cab is a full-size pickup truck for work and utility."
+    ]
+  },
+  "2007 BMW X5 SUV": {
+    "positive": [
+      "This image depicts a 2007 BMW X5 SUV, a luxury SUV that delivers a sporty driving experience with ample cargo and passenger space.",
+      "The car in the image is a 2007 BMW X5 SUV, combining BMW's renowned handling with SUV versatility."
+    ],
+    "negative": [
+      "This image does not show a 2007 BMW X5 SUV.",
+      "This is definitely not an image of a 2007 BMW X5 SUV."
+    ],
+    "deepLow": [
+      "2007 BMW X5 SUV, silver metallic paint, angular headlights, black leather seats, chrome grille, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2007 BMW X5 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 BMW X5 SUV is a luxury performance crossover."
+    ]
+  },
+  "2012 Jeep Wrangler SUV": {
+    "positive": [
+      "This image showcases a 2012 Jeep Wrangler SUV, an iconic off-road vehicle known for its ruggedness, versatility, and removable top and doors.",
+      "The car in the image is a 2012 Jeep Wrangler SUV, designed for adventure and exploration."
+    ],
+    "negative": [
+      "This image does not show a 2012 Jeep Wrangler SUV.",
+      "This is definitely not an image of a 2012 Jeep Wrangler SUV."
+    ],
+    "deepLow": [
+      "2012 Jeep Wrangler SUV, boxy shape, rugged tires, matte black finish, round headlights, removable hardtop"
+    ],
+    "ori": [
+      "a photo of a 2012 Jeep Wrangler SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Jeep Wrangler SUV is an off-road capable vehicle for adventure enthusiasts."
+    ]
+  },
+  "2008 Acura TL Type-S": {
+    "positive": [
+      "This image presents a 2008 Acura TL Type-S, a sporty sedan with a powerful engine, enhanced suspension, and distinctive styling cues.",
+      "The car in the image is a 2008 Acura TL Type-S, appealing to drivers who desire a blend of performance and luxury."
+    ],
+    "negative": [
+      "This image does not show a 2008 Acura TL Type-S.",
+      "This is definitely not an image of a 2008 Acura TL Type-S."
+    ],
+    "deepLow": [
+      "2008 Acura TL Type-S, metallic silver paint, aggressive front grille, angular headlights, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2008 Acura TL Type-S, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Acura TL Type-S is a performance luxury sedan."
+    ]
+  },
+  "2008 Chrysler Crossfire Convertible": {
+    "positive": [
+      "This image features a 2008 Chrysler Crossfire Convertible, a stylish and sporty convertible with a unique design and engaging driving experience.",
+      "The car in the image is a 2008 Chrysler Crossfire Convertible, offering open-air enjoyment with a distinctive flair."
+    ],
+    "negative": [
+      "This image does not show a 2008 Chrysler Crossfire Convertible.",
+      "This is definitely not an image of a 2008 Chrysler Crossfire Convertible."
+    ],
+    "deepLow": [
+      "2008 Chrysler Crossfire Convertible, sleek silver metallic paint, black soft-top roof, aggressive front grille, low-profile tires, chrome accents."
+    ],
+    "ori": [
+      "a photo of a 2008 Chrysler Crossfire Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Chrysler Crossfire Convertible is a stylish luxury sports car."
+    ]
+  },
+  "2012 Lamborghini Gallardo LP 570-4 Superleggera": {
+    "positive": [
+      "This image depicts a 2012 Lamborghini Gallardo LP 570-4 Superleggera, a high-performance sports car with a lightweight design and aerodynamic enhancements.",
+      "The car in the image is a 2012 Lamborghini Gallardo LP 570-4 Superleggera, delivering breathtaking speed and agile handling."
+    ],
+    "negative": [
+      "This image does not show a 2012 Lamborghini Gallardo LP 570-4 Superleggera.",
+      "This is definitely not an image of a 2012 Lamborghini Gallardo LP 570-4 Superleggera."
+    ],
+    "deepLow": [
+      "2012 Lamborghini Gallardo LP 570-4 Superleggera, glossy orange paint, carbon fiber accents, sharp angular body, large rear wing"
+    ],
+    "ori": [
+      "a photo of a 2012 Lamborghini Gallardo LP 570-4 Superleggera, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Lamborghini Gallardo LP 570-4 Superleggera is a lightweight, high-performance supercar for driving enthusiasts."
+    ]
+  },
+  "2012 Mercedes-Benz E-Class Sedan": {
+    "positive": [
+      "This image shows a 2012 Mercedes-Benz E-Class Sedan, a luxury sedan combining elegance, comfort, and advanced technology.",
+      "The car in the image is a 2012 Mercedes-Benz E-Class Sedan, delivering a refined and sophisticated driving experience."
+    ],
+    "negative": [
+      "This image does not show a 2012 Mercedes-Benz E-Class Sedan.",
+      "This is definitely not an image of a 2012 Mercedes-Benz E-Class Sedan."
+    ],
+    "deepLow": [
+      "2012 Mercedes-Benz E-Class Sedan, sleek silver metallic paint, chrome grille, angular headlights, black leather interior, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Mercedes-Benz E-Class Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Mercedes-Benz E-Class Sedan is a premium executive luxury vehicle."
+    ]
+  },
+  "2007 Chevrolet Express Cargo Van": {
+    "positive": [
+      "This image shows a 2007 Chevrolet Express Cargo Van, a versatile full-size van designed for transporting cargo and equipment.",
+      "The vehicle in the image is a 2007 Chevrolet Express Cargo Van, a reliable workhorse for various commercial applications."
+    ],
+    "negative": [
+      "This image does not show a 2007 Chevrolet Express Cargo Van.",
+      "This is definitely not an image of a 2007 Chevrolet Express Cargo Van."
+    ],
+    "deepLow": [
+      "2007 Chevrolet Express Cargo Van, boxy shape, silver metallic paint, black rubber bumpers, sliding side door, chrome grille"
+    ],
+    "ori": [
+      "a photo of a 2007 Chevrolet Express Cargo Van, a type of car."
+    ],
+    "deepHigh": [
+      "The 2007 Chevrolet Express Cargo Van is a full-size commercial work vehicle."
+    ]
+  },
+  "2012 GMC Terrain SUV": {
+    "positive": [
+      "This image depicts a 2012 GMC Terrain SUV, a stylish and fuel-efficient compact SUV known for its comfortable ride and practical features.",
+      "The vehicle in the image is a 2012 GMC Terrain SUV, appealing to drivers seeking a balance of style and functionality."
+    ],
+    "negative": [
+      "This image does not show a 2012 GMC Terrain SUV.",
+      "This is definitely not an image of a 2012 GMC Terrain SUV."
+    ],
+    "deepLow": [
+      "2012 GMC Terrain SUV, boxy angular design, chrome grille, metallic silver paint, black leather interior, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 GMC Terrain SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 GMC Terrain SUV is a versatile crossover for active lifestyles."
+    ]
+  },
+  "2008 Dodge Magnum Wagon": {
+    "positive": [
+      "This image features a 2008 Dodge Magnum Wagon, a distinctive station wagon offering ample cargo space and bold styling.",
+      "The car in the image is a 2008 Dodge Magnum Wagon, a versatile vehicle combining practicality and a touch of American muscle."
+    ],
+    "negative": [
+      "This image does not show a 2008 Dodge Magnum Wagon.",
+      "This is definitely not an image of a 2008 Dodge Magnum Wagon."
+    ],
+    "deepLow": [
+      "2008 Dodge Magnum Wagon, black metallic paint, chrome grille, muscular body lines, tinted windows, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2008 Dodge Magnum Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Dodge Magnum Wagon is a powerful, spacious crossover wagon for enthusiasts and families."
+    ]
+  },
+  "2012 Honda Accord Sedan": {
+    "positive": [
+      "This image presents a 2012 Honda Accord Sedan, a reliable and fuel-efficient mid-size sedan known for its practicality and value.",
+      "The car in the image is a 2012 Honda Accord Sedan, a popular choice for families and commuters."
+    ],
+    "negative": [
+      "This image does not show a 2012 Honda Accord Sedan.",
+      "This is definitely not an image of a 2012 Honda Accord Sedan."
+    ],
+    "deepLow": [
+      "2012 Honda Accord Sedan, silver metallic paint, sleek angular headlights, chrome grille, black leather interior, alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 Honda Accord Sedan, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Honda Accord Sedan is a reliable midsize family car."
+    ]
+  },
+  "2008 Chrysler PT Cruiser Convertible": {
+    "positive": [
+      "This image showcases a 2008 Chrysler PT Cruiser Convertible, a retro-styled convertible that offers a unique and affordable open-air driving experience.",
+      "The car in the image is a 2008 Chrysler PT Cruiser Convertible, appealing to drivers seeking a distinctive and nostalgic vehicle."
+    ],
+    "negative": [
+      "This image does not show a 2008 Chrysler PT Cruiser Convertible.",
+      "This is definitely not an image of a 2008 Chrysler PT Cruiser Convertible."
+    ],
+    "deepLow": [
+      "2008 Chrysler PT Cruiser Convertible, black soft top, silver body, chrome grille, rounded headlights, retro styling"
+    ],
+    "ori": [
+      "a photo of a 2008 Chrysler PT Cruiser Convertible, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Chrysler PT Cruiser Convertible is a retro-styled compact car with a soft top."
+    ]
+  },
+  "2011 Mazda Tribute SUV": {
+    "positive": [
+      "This image presents a 2011 Mazda Tribute SUV, a compact SUV providing a blend of practicality, fuel efficiency, and agile handling.",
+      "The vehicle in the image is a 2011 Mazda Tribute SUV, an ideal choice for urban driving and light off-road adventures."
+    ],
+    "negative": [
+      "This image does not show a 2011 Mazda Tribute SUV.",
+      "This is definitely not an image of a 2011 Mazda Tribute SUV."
+    ],
+    "deepLow": [
+      "2011 Mazda Tribute SUV, silver metallic paint, black plastic trim, angular headlights, chrome grille, rugged wheel arches"
+    ],
+    "ori": [
+      "a photo of a 2011 Mazda Tribute SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2011 Mazda Tribute SUV is a practical compact crossover for everyday driving."
+    ]
+  },
+  "2012 BMW M3 Coupe": {
+    "positive": [
+      "This image depicts a 2012 BMW M3 Coupe, a high-performance coupe known for its powerful engine, precise handling, and sporty driving dynamics.",
+      "The car in the image is a 2012 BMW M3 Coupe, a thrilling and engaging sports car for driving enthusiasts."
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW M3 Coupe.",
+      "This is definitely not an image of a 2012 BMW M3 Coupe."
+    ],
+    "deepLow": [
+      "2012 BMW M3 Coupe, sleek silver metallic paint, aggressive front grille, angular headlights, black leather interior, dual exhaust tips"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW M3 Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW M3 Coupe is a high-performance luxury sports car."
+    ]
+  },
+  "1998 Eagle Talon Hatchback": {
+    "positive": [
+      "This image features a 1998 Eagle Talon Hatchback, a sporty hatchback popular in the 90s, known for its turbocharging capabilities.",
+      "The car in the image is a 1998 Eagle Talon Hatchback, the car to use to transport people and cargo."
+    ],
+    "negative": [
+      "This image does not show a 1998 Eagle Talon Hatchback.",
+      "This is definitely not an image of a 1998 Eagle Talon Hatchback."
+    ],
+    "deepLow": [
+      "1998 Eagle Talon Hatchback, metallic blue paint, black spoiler, angular headlights, silver alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 1998 Eagle Talon Hatchback, a type of car."
+    ],
+    "deepHigh": [
+      "The 1998 Eagle Talon Hatchback is a sporty compact coupe for driving enthusiasts."
+    ]
+  },
+  "2002 Daewoo Nubira Wagon": {
+    "positive": [
+      "This image features a 2002 Daewoo Nubira Wagon, a affordable wagon, that is very economic friendly",
+      "The car in the image is a 2002 Daewoo Nubira Wagon."
+    ],
+    "negative": [
+      "This image does not show a 2002 Daewoo Nubira Wagon.",
+      "This is definitely not an image of a 2002 Daewoo Nubira Wagon."
+    ],
+    "deepLow": [
+      "2002 Daewoo Nubira Wagon, silver metallic paint, angular headlights, black plastic trim, compact wagon shape, chrome accents"
+    ],
+    "ori": [
+      "a photo of a 2002 Daewoo Nubira Wagon, a type of car."
+    ],
+    "deepHigh": [
+      "The 2002 Daewoo Nubira Wagon is practical family vehicle."
+    ]
+  },
+  "2012 BMW X6 SUV": {
+    "positive": [
+      "This image features a 2012 BMW X6 SUV, a versatile SUV that can be used on or off road.",
+      "The car in the image is a 2012 BMW X6 SUV."
+    ],
+    "negative": [
+      "This image does not show a 2012 BMW X6 SUV.",
+      "This is definitely not an image of a 2012 BMW X6 SUV."
+    ],
+    "deepLow": [
+      "2012 BMW X6 SUV, sleek silver metallic paint, aggressive front grille, angular headlights, black leather interior, sporty alloy wheels"
+    ],
+    "ori": [
+      "a photo of a 2012 BMW X6 SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 BMW X6 SUV is a luxury sport activity vehicle."
+    ]
+  },
+  "2008 Lamborghini Reventon Coupe": {
+    "positive": [
+      "This image features a 2008 Lamborghini Reventon Coupe, a super car to drive and show off",
+      "The car in the image is a 2008 Lamborghini Reventon Coupe."
+    ],
+    "negative": [
+      "This image does not show a 2008 Lamborghini Reventon Coupe.",
+      "This is definitely not an image of a 2008 Lamborghini Reventon Coupe."
+    ],
+    "deepLow": [
+      "2008 Lamborghini Reventon Coupe, matte grey finish, sharp angular body, carbon fiber accents, Y-shaped LED headlights"
+    ],
+    "ori": [
+      "a photo of a 2008 Lamborghini Reventon Coupe, a type of car."
+    ],
+    "deepHigh": [
+      "The 2008 Lamborghini Reventon Coupe is an ultra-exclusive supercar for wealthy collectors."
+    ]
+  },
+  "2012 Cadillac SRX SUV": {
+    "positive": [
+      "This image features a 2012 Cadillac SRX SUV, a reliable SUV",
+      "The car in the image is a 2012 Cadillac SRX SUV."
+    ],
+    "negative": [
+      "This image does not show a 2012 Cadillac SRX SUV.",
+      "This is definitely not an image of a 2012 Cadillac SRX SUV."
+    ],
+    "deepLow": [
+      "2012 Cadillac SRX SUV, metallic silver paint, chrome grille, angular headlights, leather interior, sleek roofline"
+    ],
+    "ori": [
+      "a photo of a 2012 Cadillac SRX SUV, a type of car."
+    ],
+    "deepHigh": [
+      "The 2012 Cadillac SRX SUV is a luxury crossover for upscale families."
+    ]
+  }
+}

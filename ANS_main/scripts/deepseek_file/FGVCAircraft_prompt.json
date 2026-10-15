@@ -1,0 +1,1802 @@
+{
+    "757-300": {
+        "positive": [
+            "The 757-300 is a stretched version of the 757-200, offering the highest passenger capacity in the 757 family.",
+            "Boeing's 757-300 combines fuel efficiency with extended seating, ideal for high-density medium-haul routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft 757-300."
+        ],
+        "deepHigh": [
+            "The 757-300 is a stretched version of the 757-200, offering the highest passenger capacity in the 757 family."
+        ],
+        "deepLow": [
+            "757-300 with white fuselage, blue tail fin, sleek wings, twin engines, and dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 757-300."
+        ]
+    },
+    "767-200": {
+        "positive": [
+            "The 767-200 is a twin-engine wide-body jet designed for long-range operations with moderate passenger capacity.",
+            "Boeing's 767-200 offers intercontinental range and was widely used for early transatlantic services."
+        ],
+        "negative": [
+            "a photo of not an aircraft 767-200."
+        ],
+        "deepHigh": [
+            "The 767-200 is a twin-engine wide-body jet designed for long-range operations with moderate passenger capacity."
+        ],
+        "deepLow": [
+            "767-200 with white fuselage, blue tail fin, twin jet engines, rounded nose, and winglets"
+        ],
+        "ori": [
+            "a photo of an aircraft 767-200."
+        ]
+    },
+    "767-300": {
+        "positive": [
+            "The 767-300 is an extended version of the 767-200, offering greater seating and cargo capacity.",
+            "Boeing's 767-300 has been popular among airlines for medium to long-haul international routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft 767-300."
+        ],
+        "deepHigh": [
+            "The 767-300 is an extended version of the 767-200, offering greater seating and cargo capacity."
+        ],
+        "deepLow": [
+            "767-300 with white fuselage, blue tail fin, sleek wings, twin engines, and small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 767-300."
+        ]
+    },
+    "767-400": {
+        "positive": [
+            "The 767-400 is the longest variant in the 767 series, developed for high-capacity medium-to-long-haul flights.",
+            "Boeing's 767-400 features advanced avionics and extended range capabilities."
+        ],
+        "negative": [
+            "a photo of not an aircraft 767-400."
+        ],
+        "deepHigh": [
+            "The 767-400 is the longest variant in the 767 series, developed for high-capacity medium-to-long-haul flights."
+        ],
+        "deepLow": [
+            "767-400 with swept-back wings, blue-white livery, twin jet engines, and a tapered tail fin."
+        ],
+        "ori": [
+            "a photo of an aircraft 767-400."
+        ]
+    },
+    "777-200": {
+        "positive": [
+            "The 777-200 is a long-range wide-body jet, known for its large twin engines and high efficiency.",
+            "Boeing's 777-200 offers exceptional comfort and range, often used on transoceanic routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft 777-200."
+        ],
+        "deepHigh": [
+            "The 777-200 is a long-range wide-body jet, known for its large twin engines and high efficiency."
+        ],
+        "deepLow": [
+            "777-200 with white fuselage, blue tail fin, swept-back wings, twin jet engines, and small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 777-200."
+        ]
+    },
+    "777-300": {
+        "positive": [
+            "The 777-300 is a stretched version of the 777-200, offering one of the highest seating capacities among twinjets.",
+            "Boeing's 777-300 is a long-haul workhorse used by major international carriers."
+        ],
+        "negative": [
+            "a photo of not an aircraft 777-300."
+        ],
+        "deepHigh": [
+            "The 777-300 is a stretched version of the 777-200, offering one of the highest seating capacities among twinjets."
+        ],
+        "deepLow": [
+            "777-300 with white fuselage, blue tail fin, sleek wings, and twin jet engines"
+        ],
+        "ori": [
+            "a photo of an aircraft 777-300."
+        ]
+    },
+    "A300B4": {
+        "positive": [
+            "The A300B4 is one of the early wide-body aircraft from Airbus, known for its twin-engine design and high payload capability.",
+            "Airbus A300B4 is a medium- to long-range aircraft widely used for passenger and cargo transport."
+        ],
+        "negative": [
+            "a photo of not an aircraft A300B4."
+        ],
+        "deepHigh": [
+            "The A300B4 is one of the early wide-body aircraft from Airbus, known for its twin-engine design and high payload capability."
+        ],
+        "deepLow": [
+            "A300B4, white fuselage, blue tail fin, four turbofan engines, rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft A300B4."
+        ]
+    },
+    "A310": {
+        "positive": [
+            "The Airbus A310 is a shorter, advanced derivative of the A300, designed for long-range efficiency.",
+            "A310 aircraft are known for their wide-body configuration and reliability on transcontinental routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft A310."
+        ],
+        "deepHigh": [
+            "The Airbus A310 is a shorter, advanced derivative of the A300, designed for long-range efficiency."
+        ],
+        "deepLow": [
+            "A310 with white fuselage, blue tail fin, rounded nose, twin jet engines, and small rectangular windows."
+        ],
+        "ori": [
+            "a photo of an aircraft A310."
+        ]
+    },
+    "A318": {
+        "positive": [
+            "The Airbus A318 is the smallest member of the A320 family, designed for regional and short-haul routes.",
+            "A318 is a compact narrow-body jet ideal for operations at airports with shorter runways."
+        ],
+        "negative": [
+            "a photo of not an aircraft A318."
+        ],
+        "deepHigh": [
+            "The Airbus A318 is the smallest member of the A320 family, designed for regional and short-haul routes."
+        ],
+        "deepLow": [
+            "A318, white fuselage with blue tail fin, sleek narrow-body shape, twin jet engines, small rounded windows"
+        ],
+        "ori": [
+            "a photo of an aircraft A318."
+        ]
+    },
+    "A319": {
+        "positive": [
+            "The Airbus A319 is a shortened version of the A320, offering high efficiency on medium-haul routes.",
+            "A319 is a popular narrow-body jet used globally for domestic and international flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft A319."
+        ],
+        "deepHigh": [
+            "The Airbus A319 is a shortened version of the A320, offering high efficiency on medium-haul routes."
+        ],
+        "deepLow": [
+            "A319 with white fuselage, blue tail fin, winglets, circular windows, and twin jet engines"
+        ],
+        "ori": [
+            "a photo of an aircraft A319."
+        ]
+    },
+    "A320": {
+        "positive": [
+            "The Airbus A320 is a best-selling narrow-body aircraft known for its fly-by-wire controls and efficiency.",
+            "A320 is widely used by airlines for short to medium-haul operations around the world."
+        ],
+        "negative": [
+            "a photo of not an aircraft A320."
+        ],
+        "deepHigh": [
+            "The Airbus A320 is a best-selling narrow-body aircraft known for its fly-by-wire controls and efficiency."
+        ],
+        "deepLow": [
+            "A320, white fuselage with blue tail fin, sleek tapered wings, circular jet engines, gray landing gear"
+        ],
+        "ori": [
+            "a photo of an aircraft A320."
+        ]
+    },
+    "A321": {
+        "positive": [
+            "The Airbus A321 is the largest variant in the A320 family, offering increased seating and range.",
+            "A321 is a stretched narrow-body jet ideal for high-density routes and efficient fuel use."
+        ],
+        "negative": [
+            "a photo of not an aircraft A321."
+        ],
+        "deepHigh": [
+            "The Airbus A321 is the largest variant in the A320 family, offering increased seating and range."
+        ],
+        "deepLow": [
+            "A321 with white fuselage, blue tail fin, winglets, twin engines, and small windows"
+        ],
+        "ori": [
+            "a photo of an aircraft A321."
+        ]
+    },
+    "A330-200": {
+        "positive": [
+            "The Airbus A330-200 is a long-range, wide-body aircraft popular for intercontinental travel.",
+            "The A330-200 features a twin-engine design and high fuel efficiency for long-haul routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft A330-200."
+        ],
+        "deepHigh": [
+            "The Airbus A330-200 is a long-range, wide-body aircraft popular for intercontinental travel."
+        ],
+        "deepLow": [
+            "A330-200, white fuselage, blue tail fin, winglet tips, twin jet engines, sleek elongated body"
+        ],
+        "ori": [
+            "a photo of an aircraft A330-200."
+        ]
+    },
+    "A330-300": {
+        "positive": [
+            "The Airbus A330-300 is a stretched version of the A330 series, offering more capacity for passengers.",
+            "A330-300 is a wide-body, twin-engine aircraft designed for long-haul international service."
+        ],
+        "negative": [
+            "a photo of not an aircraft A330-300."
+        ],
+        "deepHigh": [
+            "The Airbus A330-300 is a stretched version of the A330 series, offering more capacity for passengers."
+        ],
+        "deepLow": [
+            "A330-300, white fuselage with blue tail fin, winglets, twin engines, and airline livery stripes."
+        ],
+        "ori": [
+            "a photo of an aircraft A330-300."
+        ]
+    },
+    "A340-200": {
+        "positive": [
+            "The Airbus A340-200 is a four-engine, long-range aircraft designed for intercontinental travel.",
+            "A340-200 features a quiet cabin and long-range capabilities, suited for non-stop international flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft A340-200."
+        ],
+        "deepHigh": [
+            "The Airbus A340-200 is a four-engine, long-range aircraft designed for intercontinental travel."
+        ],
+        "deepLow": [
+            "A340-200, white fuselage, blue tail fin, four underwing engines, elongated body, gray winglets"
+        ],
+        "ori": [
+            "a photo of an aircraft A340-200."
+        ]
+    },
+    "A340-300": {
+        "positive": [
+            "The Airbus A340-300 is a long-range, wide-body aircraft with four engines and high passenger capacity.",
+            "A340-300 is known for its extended range and use on transoceanic flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft A340-300."
+        ],
+        "deepHigh": [
+            "The Airbus A340-300 is a long-range, wide-body aircraft with four engines and high passenger capacity."
+        ],
+        "deepLow": [
+            "A340-300, white fuselage with blue tail fin, four underwing engines, long slender wings, dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft A340-300."
+        ]
+    },
+    "A340-500": {
+        "positive": [
+            "The Airbus A340-500 is designed for ultra-long-haul routes, with four engines and extended range.",
+            "A340-500 offers long-distance capability, often used for nonstop intercontinental flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft A340-500."
+        ],
+        "deepHigh": [
+            "The Airbus A340-500 is designed for ultra-long-haul routes, with four engines and extended range."
+        ],
+        "deepLow": [
+            "A340-500, white fuselage, blue tail fin, four jet engines, sleek elongated body, wingtip fences"
+        ],
+        "ori": [
+            "a photo of an aircraft A340-500."
+        ]
+    },
+    "A340-600": {
+        "positive": [
+            "The Airbus A340-600 is one of the longest passenger aircraft, built for maximum capacity and range.",
+            "A340-600 features four engines and a long fuselage, ideal for high-capacity international routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft A340-600."
+        ],
+        "deepHigh": [
+            "The Airbus A340-600 is one of the longest passenger aircraft, built for maximum capacity and range."
+        ],
+        "deepLow": [
+            "A340-600, long fuselage, four engines, blue-white livery, tall tail fin, winglets"
+        ],
+        "ori": [
+            "a photo of an aircraft A340-600."
+        ]
+    },
+    "A380": {
+        "positive": [
+            "The Airbus A380 is the world’s largest passenger airliner, known for its two full-length decks and four engines.",
+            "A380 is a distinctive double-decker aircraft designed for high-capacity long-haul flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft A380."
+        ],
+        "deepHigh": [
+            "The Airbus A380 is the world’s largest passenger airliner, known for its two full-length decks and four engines."
+        ],
+        "deepLow": [
+            "A380, white fuselage, blue tail fin, four massive engines, wingtip fences, glossy paint"
+        ],
+        "ori": [
+            "a photo of an aircraft A380."
+        ]
+    },
+    "ATR-42": {
+        "positive": [
+            "The ATR-42 is a twin-turboprop regional aircraft used for short-haul routes.",
+            "ATR-42 is a compact aircraft known for efficiency and versatility on regional flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft ATR-42."
+        ],
+        "deepHigh": [
+            "The ATR-42 is a twin-turboprop regional aircraft used for short-haul routes."
+        ],
+        "deepLow": [
+            "ATR-42, white fuselage, blue tail fin, twin turboprop engines, high-wing design, small passenger windows"
+        ],
+        "ori": [
+            "a photo of an aircraft ATR-42."
+        ]
+    },
+    "ATR-72": {
+        "positive": [
+            "The ATR-72 is a stretched version of the ATR-42, offering greater capacity and range.",
+            "ATR-72 is a reliable twin-turboprop aircraft widely used for regional air travel."
+        ],
+        "negative": [
+            "a photo of not an aircraft ATR-72."
+        ],
+        "deepHigh": [
+            "The ATR-72 is a stretched version of the ATR-42, offering greater capacity and range."
+        ],
+        "deepLow": [
+            "ATR-72, twin-turboprop, high-wing, white fuselage with blue stripes, rounded nose, large rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft ATR-72."
+        ]
+    },
+    "An-12": {
+        "positive": [
+            "The Antonov An-12 is a Soviet four-engine turboprop cargo aircraft designed for military and transport roles.",
+            "An-12 is known for its rugged design and ability to operate in remote areas."
+        ],
+        "negative": [
+            "a photo of not an aircraft An-12."
+        ],
+        "deepHigh": [
+            "The Antonov An-12 is a Soviet four-engine turboprop cargo aircraft designed for military and transport roles."
+        ],
+        "deepLow": [
+            "An-12, military transport aircraft, four turboprop engines, high-wing design, rugged aluminum body, Soviet-era livery"
+        ],
+        "ori": [
+            "a photo of an aircraft An-12."
+        ]
+    },
+    "BAE 146-200": {
+        "positive": [
+            "The BAE 146-200 is a regional jet with four engines and a high-wing configuration, designed for quiet operations.",
+            "This aircraft is known for its short takeoff and landing capability and distinctive four-engine design."
+        ],
+        "negative": [
+            "a photo of not an aircraft BAE 146-200."
+        ],
+        "deepHigh": [
+            "The BAE 146-200 is a regional jet with four engines and a high-wing configuration, designed for quiet operations."
+        ],
+        "deepLow": [
+            "BAE 146-200, white fuselage, blue tail fin, four turbofan engines, high-wing design, rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft BAE 146-200."
+        ]
+    },
+    "BAE 146-300": {
+        "positive": [
+            "The BAE 146-300 is a stretched variant of the 146-200, offering more passenger capacity with the same four-engine layout.",
+            "BAE 146-300 is widely used for short-haul regional flights and features a T-tail and high-wing design."
+        ],
+        "negative": [
+            "a photo of not an aircraft BAE 146-300."
+        ],
+        "deepHigh": [
+            "The BAE 146-300 is a stretched variant of the 146-200, offering more passenger capacity with the same four-engine layout."
+        ],
+        "deepLow": [
+            "BAE 146-300, white fuselage, blue tail fin, four turbofan engines, high-wing design, rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft BAE 146-300."
+        ]
+    },
+    "BAE-125": {
+        "positive": [
+            "The BAE-125 is a mid-size business jet known for its speed, luxury, and twin-engine configuration.",
+            "This aircraft is often used for executive travel and regional air charter operations."
+        ],
+        "negative": [
+            "a photo of not an aircraft BAE-125."
+        ],
+        "deepHigh": [
+            "The BAE-125 is a mid-size business jet known for its speed, luxury, and twin-engine configuration."
+        ],
+        "deepLow": [
+            "BAE-125, sleek silver fuselage, blue tail fin, twin jet engines, black cockpit windows, white wingtips"
+        ],
+        "ori": [
+            "a photo of an aircraft BAE-125."
+        ]
+    },
+    "Beechcraft 1900": {
+        "positive": [
+            "The Beechcraft 1900 is a 19-passenger, pressurized twin-engine turboprop aircraft used for regional air service.",
+            "Beechcraft 1900 is well-known for its reliability in short-haul commercial flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft Beechcraft 1900."
+        ],
+        "deepHigh": [
+            "The Beechcraft 1900 is a 19-passenger, pressurized twin-engine turboprop aircraft used for regional air service."
+        ],
+        "deepLow": [
+            "Beechcraft 1900, white fuselage, blue stripes, twin turboprop engines, high-wing design, rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Beechcraft 1900."
+        ]
+    },
+    "Boeing 717": {
+        "positive": [
+            "The Boeing 717 is a twin-engine, narrow-body jet designed for regional and short-haul routes.",
+            "717 is recognized for its T-tail and efficient rear-mounted engines."
+        ],
+        "negative": [
+            "a photo of not an aircraft Boeing 717."
+        ],
+        "deepHigh": [
+            "The Boeing 717 is a twin-engine, narrow-body jet designed for regional and short-haul routes."
+        ],
+        "deepLow": [
+            "Boeing 717, white fuselage, blue tail fin, twin rear engines, sleek narrow-body design, silver winglets"
+        ],
+        "ori": [
+            "a photo of an aircraft Boeing 717."
+        ]
+    },
+    "C-130": {
+        "positive": [
+            "The Lockheed C-130 Hercules is a versatile military transport aircraft with four turboprop engines.",
+            "C-130 is used worldwide for cargo, troop transport, and humanitarian missions."
+        ],
+        "negative": [
+            "a photo of not an aircraft C-130."
+        ],
+        "deepHigh": [
+            "The Lockheed C-130 Hercules is a versatile military transport aircraft with four turboprop engines."
+        ],
+        "deepLow": [
+            "C-130 with gray camouflage paint, four turboprop engines, high-mounted wings, boxy fuselage, and rear loading ramp"
+        ],
+        "ori": [
+            "a photo of an aircraft C-130."
+        ]
+    },
+    "C-47": {
+        "positive": [
+            "The C-47 is a military transport version of the Douglas DC-3, famous for its role in WWII.",
+            "C-47 aircraft are twin-prop planes used for cargo and paratroop missions."
+        ],
+        "negative": [
+            "a photo of not an aircraft C-47."
+        ],
+        "deepHigh": [
+            "The C-47 is a military transport version of the Douglas DC-3, famous for its role in WWII."
+        ],
+        "deepLow": [
+            "C-47 with silver metallic body, rounded nose, twin radial engines, large wings, and green camouflage pattern."
+        ],
+        "ori": [
+            "a photo of an aircraft C-47."
+        ]
+    },
+    "CRJ-200": {
+        "positive": [
+            "The CRJ-200 is a regional jet designed by Bombardier, known for its twin-engine design and compact size.",
+            "CRJ-200 is used widely in commuter markets with short to medium ranges."
+        ],
+        "negative": [
+            "a photo of not an aircraft CRJ-200."
+        ],
+        "deepHigh": [
+            "The CRJ-200 is a regional jet designed by Bombardier, known for its twin-engine design and compact size."
+        ],
+        "deepLow": [
+            "CRJ-200, white fuselage with blue stripes, tapered wings, circular engines, small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft CRJ-200."
+        ]
+    },
+    "CRJ-700": {
+        "positive": [
+            "The CRJ-700 is a stretched regional jet in the CRJ family, offering higher passenger capacity and range.",
+            "Bombardier's CRJ-700 is a popular aircraft for short to mid-range routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft CRJ-700."
+        ],
+        "deepHigh": [
+            "The CRJ-700 is a stretched regional jet in the CRJ family, offering higher passenger capacity and range."
+        ],
+        "deepLow": [
+            "CRJ-700, white fuselage with blue stripes, tapered wings, twin rear-mounted engines, small oval windows"
+        ],
+        "ori": [
+            "a photo of an aircraft CRJ-700."
+        ]
+    },
+    "CRJ-900": {
+        "positive": [
+            "The CRJ-900 is an extended regional jet designed for efficiency and comfort on medium-haul flights.",
+            "CRJ-900 features a long fuselage and rear-mounted twin engines."
+        ],
+        "negative": [
+            "a photo of not an aircraft CRJ-900."
+        ],
+        "deepHigh": [
+            "The CRJ-900 is an extended regional jet designed for efficiency and comfort on medium-haul flights."
+        ],
+        "deepLow": [
+            "CRJ-900, white fuselage with blue stripes, tapered wings, twin rear engines, small oval windows"
+        ],
+        "ori": [
+            "a photo of an aircraft CRJ-900."
+        ]
+    },
+    "Cessna 172": {
+        "positive": [
+            "The Cessna 172 is one of the most popular single-engine training aircraft in the world.",
+            "Cessna 172 is a high-wing airplane favored for its simplicity and safety in general aviation."
+        ],
+        "negative": [
+            "a photo of not an aircraft Cessna 172."
+        ],
+        "deepHigh": [
+            "The Cessna 172 is one of the most popular single-engine training aircraft in the world."
+        ],
+        "deepLow": [
+            "Cessna 172, white body with blue stripes, high-wing design, propeller at front, small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Cessna 172."
+        ]
+    },
+    "Cessna 208": {
+        "positive": [
+            "The Cessna 208 Caravan is a single-engine turboprop aircraft used for both passengers and cargo.",
+            "Cessna 208 is well-known for its rugged construction and STOL (short takeoff and landing) capability."
+        ],
+        "negative": [
+            "a photo of not an aircraft Cessna 208."
+        ],
+        "deepHigh": [
+            "The Cessna 208 Caravan is a single-engine turboprop aircraft used for both passengers and cargo."
+        ],
+        "deepLow": [
+            "Cessna 208, white fuselage, blue stripes, high-wing design, propeller blades, tinted cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Cessna 208."
+        ]
+    },
+    "Cessna 525": {
+        "positive": [
+            "The Cessna 525, also known as the CitationJet, is a light business jet designed for efficiency and short-range trips.",
+            "Cessna 525 is a compact jet known for its sleek fuselage and small twin-engine configuration."
+        ],
+        "negative": [
+            "a photo of not an aircraft Cessna 525."
+        ],
+        "deepHigh": [
+            "The Cessna 525, also known as the CitationJet, is a light business jet designed for efficiency and short-range trips."
+        ],
+        "deepLow": [
+            "Cessna 525, white fuselage, blue stripes, sleek tapered wings, twin rear engines, tinted cockpit windows."
+        ],
+        "ori": [
+            "a photo of an aircraft Cessna 525."
+        ]
+    },
+    "Cessna 560": {
+        "positive": [
+            "The Cessna 560 Citation V is a mid-size business jet favored for its speed and range.",
+            "Cessna 560 features a streamlined body and is often used for corporate travel."
+        ],
+        "negative": [
+            "a photo of not an aircraft Cessna 560."
+        ],
+        "deepHigh": [
+            "The Cessna 560 Citation V is a mid-size business jet favored for its speed and range."
+        ],
+        "deepLow": [
+            "Cessna 560, white fuselage, blue stripes, tapered wings, sleek nose cone, polished metal accents"
+        ],
+        "ori": [
+            "a photo of an aircraft Cessna 560."
+        ]
+    },
+    "Challenger 600": {
+        "positive": [
+            "The Challenger 600 is a wide-body business jet known for its comfort and transcontinental range.",
+            "Bombardier's Challenger 600 is a luxury jet used frequently for long-haul executive travel."
+        ],
+        "negative": [
+            "a photo of not an aircraft Challenger 600."
+        ],
+        "deepHigh": [
+            "The Challenger 600 is a wide-body business jet known for its comfort and transcontinental range."
+        ],
+        "deepLow": [
+            "Challenger 600, white fuselage, blue stripes, sleek tapered wings, dark cockpit windows, polished metal engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft Challenger 600."
+        ]
+    },
+    "DC-10": {
+        "positive": [
+            "The McDonnell Douglas DC-10 is a wide-body airliner with three engines and a distinctive tail-mounted engine.",
+            "DC-10 is known for its long-range capabilities and cargo variants."
+        ],
+        "negative": [
+            "a photo of not an aircraft DC-10."
+        ],
+        "deepHigh": [
+            "The McDonnell Douglas DC-10 is a wide-body airliner with three engines and a distinctive tail-mounted engine."
+        ],
+        "deepLow": [
+            "DC-10 with white fuselage, blue stripes, three rear-mounted engines, swept wings, and a T-tail"
+        ],
+        "ori": [
+            "a photo of an aircraft DC-10."
+        ]
+    },
+    "DC-3": {
+        "positive": [
+            "The DC-3 is a historic twin-engine aircraft known for revolutionizing air transport in the 1930s.",
+            "The Douglas DC-3 has a tailwheel design and was widely used during WWII."
+        ],
+        "negative": [
+            "a photo of not an aircraft DC-3."
+        ],
+        "deepHigh": [
+            "The DC-3 is a historic twin-engine aircraft known for revolutionizing air transport in the 1930s."
+        ],
+        "deepLow": [
+            "DC-3 with silver metallic body, rounded nose, twin radial engines, blue stripes, and large tail fin"
+        ],
+        "ori": [
+            "a photo of an aircraft DC-3."
+        ]
+    },
+    "DC-6": {
+        "positive": [
+            "The DC-6 is a four-engine propeller-driven aircraft used for both passenger and cargo transport in the mid-20th century.",
+            "Douglas DC-6 features classic radial engines and a long fuselage."
+        ],
+        "negative": [
+            "a photo of not an aircraft DC-6."
+        ],
+        "deepHigh": [
+            "The DC-6 is a four-engine propeller-driven aircraft used for both passenger and cargo transport in the mid-20th century."
+        ],
+        "deepLow": [
+            "DC-6, silver metallic fuselage, four radial engines, blue tail fin, oval cabin windows, aluminum wings"
+        ],
+        "ori": [
+            "a photo of an aircraft DC-6."
+        ]
+    },
+    "DC-8": {
+        "positive": [
+            "The DC-8 is a narrow-body, long-range jet airliner developed by Douglas Aircraft.",
+            "Douglas DC-8 has a distinctive long fuselage and four jet engines under low wings."
+        ],
+        "negative": [
+            "a photo of not an aircraft DC-8."
+        ],
+        "deepHigh": [
+            "The DC-8 is a narrow-body, long-range jet airliner developed by Douglas Aircraft."
+        ],
+        "deepLow": [
+            "DC-8, long narrow fuselage, four rear-mounted jet engines, silver metallic body, blue and white livery, pointed nose"
+        ],
+        "ori": [
+            "a photo of an aircraft DC-8."
+        ]
+    },
+    "DC-9-30": {
+        "positive": [
+            "The DC-9-30 is a short- to medium-range jet with rear-mounted engines and a T-tail.",
+            "McDonnell Douglas DC-9-30 is recognized for its high-performance in short-haul routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft DC-9-30."
+        ],
+        "deepHigh": [
+            "The DC-9-30 is a short- to medium-range jet with rear-mounted engines and a T-tail."
+        ],
+        "deepLow": [
+            "DC-9-30, white fuselage, blue tail, twin rear engines, rectangular windows, silver wings"
+        ],
+        "ori": [
+            "a photo of an aircraft DC-9-30."
+        ]
+    },
+    "DH-82": {
+        "positive": [
+            "The DH-82 Tiger Moth is a classic British biplane used for training and aerobatics.",
+            "De Havilland DH-82 features a tandem cockpit and double wings."
+        ],
+        "negative": [
+            "a photo of not an aircraft DH-82."
+        ],
+        "deepHigh": [
+            "The DH-82 Tiger Moth is a classic British biplane used for training and aerobatics."
+        ],
+        "deepLow": [
+            "DH-82 biplane, yellow wings, black stripes, open cockpit, fabric-covered fuselage, rounded tail fin"
+        ],
+        "ori": [
+            "a photo of an aircraft DH-82."
+        ]
+    },
+    "DHC-1": {
+        "positive": [
+            "The DHC-1 Chipmunk is a single-engine tandem trainer aircraft used after WWII.",
+            "De Havilland DHC-1 features a low-wing and is a popular vintage warbird."
+        ],
+        "negative": [
+            "a photo of not an aircraft DHC-1."
+        ],
+        "deepHigh": [
+            "The DHC-1 Chipmunk is a single-engine tandem trainer aircraft used after WWII."
+        ],
+        "deepLow": [
+            "DHC-1, yellow fuselage, high-wing design, black propeller, round cockpit windows, rugged landing gear"
+        ],
+        "ori": [
+            "a photo of an aircraft DHC-1."
+        ]
+    },
+    "DHC-6": {
+        "positive": [
+            "The DHC-6 Twin Otter is a high-wing STOL aircraft used for utility and commuter purposes.",
+            "De Havilland DHC-6 is known for its rugged construction and ability to land on short runways."
+        ],
+        "negative": [
+            "a photo of not an aircraft DHC-6."
+        ],
+        "deepHigh": [
+            "The DHC-6 Twin Otter is a high-wing STOL aircraft used for utility and commuter purposes."
+        ],
+        "deepLow": [
+            "DHC-6, twin-engine turboprop, high-wing design, white body with blue stripes, large rectangular windows, fixed landing gear"
+        ],
+        "ori": [
+            "a photo of an aircraft DHC-6."
+        ]
+    },
+    "DHC-8-100": {
+        "positive": [
+            "The DHC-8-100 is a turboprop regional airliner, part of the Dash 8 series by De Havilland.",
+            "DHC-8-100 is designed for short-haul flights with excellent fuel efficiency."
+        ],
+        "negative": [
+            "a photo of not an aircraft DHC-8-100."
+        ],
+        "deepHigh": [
+            "The DHC-8-100 is a turboprop regional airliner, part of the Dash 8 series by De Havilland."
+        ],
+        "deepLow": [
+            "DHC-8-100, white fuselage, blue tail, twin turboprop engines, high-wing design, rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft DHC-8-100."
+        ]
+    },
+    "DHC-8-300": {
+        "positive": [
+            "The DHC-8-300 is a larger variant in the Dash 8 family, offering more seating and range.",
+            "De Havilland's DHC-8-300 is a reliable twin-turboprop aircraft for regional travel."
+        ],
+        "negative": [
+            "a photo of not an aircraft DHC-8-300."
+        ],
+        "deepHigh": [
+            "The DHC-8-300 is a larger variant in the Dash 8 family, offering more seating and range."
+        ],
+        "deepLow": [
+            "DHC-8-300, white fuselage, blue stripes, twin turboprop engines, high-wing design, rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft DHC-8-300."
+        ]
+    },
+    "DR-400": {
+        "positive": [
+            "The Robin DR-400 is a popular single-engine French light aircraft with a tricycle landing gear.",
+            "DR-400 is well known in European general aviation for its ease of use and visibility."
+        ],
+        "negative": [
+            "a photo of not an aircraft DR-400."
+        ],
+        "deepHigh": [
+            "The Robin DR-400 is a popular single-engine French light aircraft with a tricycle landing gear."
+        ],
+        "deepLow": [
+            "DR-400 with matte black body, silver trim, angular edges, rubberized grip, and LED indicators"
+        ],
+        "ori": [
+            "a photo of an aircraft DR-400."
+        ]
+    },
+    "Dornier 328": {
+        "positive": [
+            "The Dornier 328 is a twin-turboprop commuter aircraft known for its speed and cabin comfort.",
+            "Dornier 328 is a regional airliner with a high-wing design and short-field performance."
+        ],
+        "negative": [
+            "a photo of not an aircraft Dornier 328."
+        ],
+        "deepHigh": [
+            "The Dornier 328 is a twin-turboprop commuter aircraft known for its speed and cabin comfort."
+        ],
+        "deepLow": [
+            "Dornier 328, white fuselage, blue tail fin, twin turboprop engines, rectangular cabin windows, high-wing design"
+        ],
+        "ori": [
+            "a photo of an aircraft Dornier 328."
+        ]
+    },
+    "E-170": {
+        "positive": [
+            "The Embraer E-170 is a twin-engine regional jet known for its efficiency and comfort.",
+            "E-170 is a small narrow-body aircraft used frequently on regional routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft E-170."
+        ],
+        "deepHigh": [
+            "The Embraer E-170 is a twin-engine regional jet known for its efficiency and comfort."
+        ],
+        "deepLow": [
+            "E-170 with white fuselage, blue tail fin, oval windows, twin jet engines, and winglets"
+        ],
+        "ori": [
+            "a photo of an aircraft E-170."
+        ]
+    },
+    "E-190": {
+        "positive": [
+            "The Embraer E-190 is a stretched version of the E-Jet series, suitable for medium-range regional flights.",
+            "E-190 features efficient engines and a spacious cabin in a small-jet form factor."
+        ],
+        "negative": [
+            "a photo of not an aircraft E-190."
+        ],
+        "deepHigh": [
+            "The Embraer E-190 is a stretched version of the E-Jet series, suitable for medium-range regional flights."
+        ],
+        "deepLow": [
+            "E-190, sleek silver fuselage, blue tail fin, oval windows, twin jet engines, white wingtips"
+        ],
+        "ori": [
+            "a photo of an aircraft E-190."
+        ]
+    },
+    "E-195": {
+        "positive": [
+            "The Embraer E-195 is the largest member of the E-Jet family, offering higher capacity and range.",
+            "E-195 is used for high-density regional routes with efficient performance."
+        ],
+        "negative": [
+            "a photo of not an aircraft E-195."
+        ],
+        "deepHigh": [
+            "The Embraer E-195 is the largest member of the E-Jet family, offering higher capacity and range."
+        ],
+        "deepLow": [
+            "E-195 with metallic silver casing, black rubber grips, angular edges, and LED indicator lights"
+        ],
+        "ori": [
+            "a photo of an aircraft E-195."
+        ]
+    },
+    "EMB-120": {
+        "positive": [
+            "The EMB-120 Brasilia is a twin-turboprop regional airliner developed by Embraer.",
+            "EMB-120 is used worldwide for commuter flights and short-runway operations."
+        ],
+        "negative": [
+            "a photo of not an aircraft EMB-120."
+        ],
+        "deepHigh": [
+            "The EMB-120 Brasilia is a twin-turboprop regional airliner developed by Embraer."
+        ],
+        "deepLow": [
+            "EMB-120, white fuselage, blue stripes, twin turboprop engines, rounded nose, small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft EMB-120."
+        ]
+    },
+    "ERJ 135": {
+        "positive": [
+            "The ERJ 135 is a regional jet with seating for about 37 passengers, known for comfort and efficiency.",
+            "Embraer's ERJ 135 is commonly used on short routes with moderate demand."
+        ],
+        "negative": [
+            "a photo of not an aircraft ERJ 135."
+        ],
+        "deepHigh": [
+            "The ERJ 135 is a regional jet with seating for about 37 passengers, known for comfort and efficiency."
+        ],
+        "deepLow": [
+            "ERJ 135, white fuselage with blue stripes, tapered wings, twin rear-mounted engines, small oval windows"
+        ],
+        "ori": [
+            "a photo of an aircraft ERJ 135."
+        ]
+    },
+    "ERJ 145": {
+        "positive": [
+            "The ERJ 145 is a popular 50-seat regional jet known for speed and economy.",
+            "Embraer ERJ 145 has twin rear-mounted engines and is widely used in regional fleets."
+        ],
+        "negative": [
+            "a photo of not an aircraft ERJ 145."
+        ],
+        "deepHigh": [
+            "The ERJ 145 is a popular 50-seat regional jet known for speed and economy."
+        ],
+        "deepLow": [
+            "ERJ 145, white fuselage with blue stripes, tapered wings, rear-mounted engines, small oval windows"
+        ],
+        "ori": [
+            "a photo of an aircraft ERJ 145."
+        ]
+    },
+    "Embraer Legacy 600": {
+        "positive": [
+            "The Legacy 600 is a business jet derived from the ERJ 145, offering a luxurious cabin and long-range capabilities.",
+            "Embraer Legacy 600 is used for corporate travel with a focus on comfort and style."
+        ],
+        "negative": [
+            "a photo of not an aircraft Embraer Legacy 600."
+        ],
+        "deepHigh": [
+            "The Legacy 600 is a business jet derived from the ERJ 145, offering a luxurious cabin and long-range capabilities."
+        ],
+        "deepLow": [
+            "Embraer Legacy 600, sleek white fuselage, blue stripe accents, tapered winglets, polished metal engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft Embraer Legacy 600."
+        ]
+    },
+    "Eurofighter Typhoon": {
+        "positive": [
+            "The Eurofighter Typhoon is a twin-engine multirole fighter known for its agility and advanced avionics.",
+            "Typhoon is a fourth-generation jet fighter developed by a European consortium."
+        ],
+        "negative": [
+            "a photo of not an aircraft Eurofighter Typhoon."
+        ],
+        "deepHigh": [
+            "The Eurofighter Typhoon is a twin-engine multirole fighter known for its agility and advanced avionics."
+        ],
+        "deepLow": [
+            "Eurofighter Typhoon, sleek gray body, delta wings, twin engines, dark camouflage pattern, metallic cockpit canopy"
+        ],
+        "ori": [
+            "a photo of an aircraft Eurofighter Typhoon."
+        ]
+    },
+    "F-16A/B": {
+        "positive": [
+            "The F-16A/B is a multirole fighter jet known for its agility and distinctive single-engine design.",
+            "F-16 Fighting Falcon is widely used across the world for air combat and ground attack missions."
+        ],
+        "negative": [
+            "a photo of not an aircraft F-16A/B."
+        ],
+        "deepHigh": [
+            "The F-16A/B is a multirole fighter jet known for its agility and distinctive single-engine design."
+        ],
+        "deepLow": [
+            "F-16A/B, gray camouflage, sleek delta wings, single-engine jet, dark cockpit canopy, USAF markings"
+        ],
+        "ori": [
+            "a photo of an aircraft F-16A/B."
+        ]
+    },
+    "F/A-18": {
+        "positive": [
+            "The F/A-18 is a twin-engine multirole fighter used by the U.S. Navy and Marine Corps.",
+            "F/A-18 Hornet is recognized for its carrier-based operations and versatility."
+        ],
+        "negative": [
+            "a photo of not an aircraft F/A-18."
+        ],
+        "deepHigh": [
+            "The F/A-18 is a twin-engine multirole fighter used by the U.S. Navy and Marine Corps."
+        ],
+        "deepLow": [
+            "F/A-18 with gray camouflage, angular wings, twin tail fins, jet intakes, and glossy metal surface"
+        ],
+        "ori": [
+            "a photo of an aircraft F/A-18."
+        ]
+    },
+    "Falcon 2000": {
+        "positive": [
+            "The Falcon 2000 is a French business jet with twin engines and a wide fuselage for corporate travel.",
+            "Dassault Falcon 2000 offers comfort and long-range performance for executive flights."
+        ],
+        "negative": [
+            "a photo of not an aircraft Falcon 2000."
+        ],
+        "deepHigh": [
+            "The Falcon 2000 is a French business jet with twin engines and a wide fuselage for corporate travel."
+        ],
+        "deepLow": [
+            "Falcon 2000, sleek white fuselage, blue stripe accents, tapered wings, polished metal engines, dark tinted windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Falcon 2000."
+        ]
+    },
+    "Falcon 900": {
+        "positive": [
+            "The Falcon 900 is a long-range business jet featuring a distinctive trijet configuration.",
+            "Dassault Falcon 900 combines range, luxury, and safety with its three-engine design."
+        ],
+        "negative": [
+            "a photo of not an aircraft Falcon 900."
+        ],
+        "deepHigh": [
+            "The Falcon 900 is a long-range business jet featuring a distinctive trijet configuration."
+        ],
+        "deepLow": [
+            "Falcon 900, sleek white fuselage, dark blue wingtips, polished metal engines, triangular tail fin, glossy cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Falcon 900."
+        ]
+    },
+    "Fokker 100": {
+        "positive": [
+            "The Fokker 100 is a medium-sized twinjet regional airliner with a T-tail and rear-mounted engines.",
+            "Fokker 100 is favored for short-haul flights and efficient performance."
+        ],
+        "negative": [
+            "a photo of not an aircraft Fokker 100."
+        ],
+        "deepHigh": [
+            "The Fokker 100 is a medium-sized twinjet regional airliner with a T-tail and rear-mounted engines."
+        ],
+        "deepLow": [
+            "Fokker 100, white fuselage with blue stripes, tapered wings, circular engines, glossy paint, dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Fokker 100."
+        ]
+    },
+    "Fokker 50": {
+        "positive": [
+            "The Fokker 50 is a twin turboprop airliner widely used for short-haul regional travel.",
+            "Fokker 50 is recognized by its high-wing design and reliable propeller engines."
+        ],
+        "negative": [
+            "a photo of not an aircraft Fokker 50."
+        ],
+        "deepHigh": [
+            "The Fokker 50 is a twin turboprop airliner widely used for short-haul regional travel."
+        ],
+        "deepLow": [
+            "Fokker 50, white fuselage, blue tail, twin turboprop engines, rectangular windows, high-wing design"
+        ],
+        "ori": [
+            "a photo of an aircraft Fokker 50."
+        ]
+    },
+    "Fokker 70": {
+        "positive": [
+            "The Fokker 70 is a shortened version of the Fokker 100 designed for regional service.",
+            "Fokker 70 features a compact fuselage and T-tail configuration ideal for smaller airports."
+        ],
+        "negative": [
+            "a photo of not an aircraft Fokker 70."
+        ],
+        "deepHigh": [
+            "The Fokker 70 is a shortened version of the Fokker 100 designed for regional service."
+        ],
+        "deepLow": [
+            "Fokker 70, white fuselage with blue stripes, tapered wings, dark cockpit windows, rear-mounted twin engines"
+        ],
+        "ori": [
+            "a photo of an aircraft Fokker 70."
+        ]
+    },
+    "Global Express": {
+        "positive": [
+            "The Bombardier Global Express is a long-range business jet with sleek design and luxury interiors.",
+            "Global Express offers intercontinental range with high-speed and comfort."
+        ],
+        "negative": [
+            "a photo of not an aircraft Global Express."
+        ],
+        "deepHigh": [
+            "The Bombardier Global Express is a long-range business jet with sleek design and luxury interiors."
+        ],
+        "deepLow": [
+            "Global Express, sleek silver body, blue racing stripes, glossy finish, aerodynamic curves, bold logo"
+        ],
+        "ori": [
+            "a photo of an aircraft Global Express."
+        ]
+    },
+    "Gulfstream IV": {
+        "positive": [
+            "The Gulfstream IV is a twin-engine business jet recognized for its range and streamlined profile.",
+            "Gulfstream IV is commonly used for corporate and government travel."
+        ],
+        "negative": [
+            "a photo of not an aircraft Gulfstream IV."
+        ],
+        "deepHigh": [
+            "The Gulfstream IV is a twin-engine business jet recognized for its range and streamlined profile."
+        ],
+        "deepLow": [
+            "Gulfstream IV, sleek white fuselage, blue stripe accents, tapered wings, oval cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Gulfstream IV."
+        ]
+    },
+    "Gulfstream V": {
+        "positive": [
+            "The Gulfstream V is a high-performance intercontinental business jet with extended range and luxury.",
+            "Gulfstream V features a distinctive elongated fuselage and elegant design."
+        ],
+        "negative": [
+            "a photo of not an aircraft Gulfstream V."
+        ],
+        "deepHigh": [
+            "The Gulfstream V is a high-performance intercontinental business jet with extended range and luxury."
+        ],
+        "deepLow": [
+            "Gulfstream V, sleek white fuselage, blue stripe accents, oval cabin windows, tapered wingtips, polished metal engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft Gulfstream V."
+        ]
+    },
+    "Hawk T1": {
+        "positive": [
+            "The Hawk T1 is a British jet trainer used by the Royal Air Force, known for its agile maneuverability.",
+            "BAE Hawk T1 is often seen in aerobatic displays like the Red Arrows."
+        ],
+        "negative": [
+            "a photo of not an aircraft Hawk T1."
+        ],
+        "deepHigh": [
+            "The Hawk T1 is a British jet trainer used by the Royal Air Force, known for its agile maneuverability."
+        ],
+        "deepLow": [
+            "Hawk T1, sleek gray body, pointed wings, black cockpit, white RAF markings, glossy metallic finish"
+        ],
+        "ori": [
+            "a photo of an aircraft Hawk T1."
+        ]
+    },
+    "Il-76": {
+        "positive": [
+            "The Ilyushin Il-76 is a heavy transport aircraft with four engines and a distinctive glass nose.",
+            "Il-76 is used by military and cargo operators for large payloads and long range."
+        ],
+        "negative": [
+            "a photo of not an aircraft Il-76."
+        ],
+        "deepHigh": [
+            "The Ilyushin Il-76 is a heavy transport aircraft with four engines and a distinctive glass nose."
+        ],
+        "deepLow": [
+            "Il-76, large military transport, high-wing design, four turbofan engines, gray camouflage paint, rear loading ramp"
+        ],
+        "ori": [
+            "a photo of an aircraft Il-76."
+        ]
+    },
+    "L-1011": {
+        "positive": [
+            "The Lockheed L-1011 TriStar is a wide-body trijet airliner known for its advanced avionics for its time.",
+            "L-1011 has a distinctive tail-mounted center engine and sleek design."
+        ],
+        "negative": [
+            "a photo of not an aircraft L-1011."
+        ],
+        "deepHigh": [
+            "The Lockheed L-1011 TriStar is a wide-body trijet airliner known for its advanced avionics for its time."
+        ],
+        "deepLow": [
+            "L-1011, white fuselage with blue stripes, three rear-mounted engines, T-tail design, glossy aluminum wings"
+        ],
+        "ori": [
+            "a photo of an aircraft L-1011."
+        ]
+    },
+    "MD-11": {
+        "positive": [
+            "The MD-11 is a wide-body trijet airliner developed by McDonnell Douglas with extended range.",
+            "MD-11 features a T-tail and three engines, commonly used for cargo today."
+        ],
+        "negative": [
+            "a photo of not an aircraft MD-11."
+        ],
+        "deepHigh": [
+            "The MD-11 is a wide-body trijet airliner developed by McDonnell Douglas with extended range."
+        ],
+        "deepLow": [
+            "MD-11 with white fuselage, blue tail, winglets, three engines, and a long, tapered nose"
+        ],
+        "ori": [
+            "a photo of an aircraft MD-11."
+        ]
+    },
+    "MD-80": {
+        "positive": [
+            "The MD-80 is a twin-engine narrow-body jet with rear-mounted engines and a T-tail.",
+            "McDonnell Douglas MD-80 was a popular choice for short- to medium-haul routes."
+        ],
+        "negative": [
+            "a photo of not an aircraft MD-80."
+        ],
+        "deepHigh": [
+            "The MD-80 is a twin-engine narrow-body jet with rear-mounted engines and a T-tail."
+        ],
+        "deepLow": [
+            "MD-80 with T-tail design, two rear-mounted engines, white fuselage, blue stripe livery, and narrow body shape"
+        ],
+        "ori": [
+            "a photo of an aircraft MD-80."
+        ]
+    },
+    "MD-87": {
+        "positive": [
+            "The MD-87 is a shorter version of the MD-80 series with improved runway performance.",
+            "MD-87 retains the classic T-tail and is designed for airports with tight constraints."
+        ],
+        "negative": [
+            "a photo of not an aircraft MD-87."
+        ],
+        "deepHigh": [
+            "The MD-87 is a shorter version of the MD-80 series with improved runway performance."
+        ],
+        "deepLow": [
+            "MD-87, white fuselage with blue tail, sleek tapered wings, dark cockpit windows, red engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft MD-87."
+        ]
+    },
+    "MD-90": {
+        "positive": [
+            "The MD-90 is an improved variant of the MD-80 series with updated engines and avionics.",
+            "McDonnell Douglas MD-90 features high-bypass rear-mounted engines and extended range."
+        ],
+        "negative": [
+            "a photo of not an aircraft MD-90."
+        ],
+        "deepHigh": [
+            "The MD-90 is an improved variant of the MD-80 series with updated engines and avionics."
+        ],
+        "deepLow": [
+            "MD-90, white fuselage, blue tail fin, twin rear engines, sleek narrow-body design, dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft MD-90."
+        ]
+    },
+    "Metroliner": {
+        "positive": [
+            "The Metroliner is a twin-turboprop commuter aircraft known for its narrow fuselage and speed.",
+            "Fairchild Swearingen Metroliner is used for regional flights and cargo operations."
+        ],
+        "negative": [
+            "a photo of not an aircraft Metroliner."
+        ],
+        "deepHigh": [
+            "The Metroliner is a twin-turboprop commuter aircraft known for its narrow fuselage and speed."
+        ],
+        "deepLow": [
+            "Metroliner with silver body, blue stripes, sleek aerodynamic shape, large front windows, and metallic finish"
+        ],
+        "ori": [
+            "a photo of an aircraft Metroliner."
+        ]
+    },
+    "Model B200": {
+        "positive": [
+            "The Beechcraft Model B200 is a versatile twin-turboprop aircraft used for executive and medical transport.",
+            "B200 Super King Air is recognized for its performance and reliability."
+        ],
+        "negative": [
+            "a photo of not an aircraft Model B200."
+        ],
+        "deepHigh": [
+            "The Beechcraft Model B200 is a versatile twin-turboprop aircraft used for executive and medical transport."
+        ],
+        "deepLow": [
+            "Model B200, sleek silver body, matte black accents, angular headlights, chrome grille, alloy wheels"
+        ],
+        "ori": [
+            "a photo of an aircraft Model B200."
+        ]
+    },
+    "PA-28": {
+        "positive": [
+            "The Piper PA-28 is a light aircraft often used for training and personal flying.",
+            "PA-28 series is known for its low-wing design and ease of handling."
+        ],
+        "negative": [
+            "a photo of not an aircraft PA-28."
+        ],
+        "deepHigh": [
+            "The Piper PA-28 is a light aircraft often used for training and personal flying."
+        ],
+        "deepLow": [
+            "PA-28, white fuselage, blue stripes, tapered wings, high-wing design, glossy finish"
+        ],
+        "ori": [
+            "a photo of an aircraft PA-28."
+        ]
+    },
+    "SR-20": {
+        "positive": [
+            "The Cirrus SR-20 is a modern composite aircraft with a side-yoke and advanced avionics.",
+            "SR-20 is a popular personal and training aircraft known for its safety features."
+        ],
+        "negative": [
+            "a photo of not an aircraft SR-20."
+        ],
+        "deepHigh": [
+            "The Cirrus SR-20 is a modern composite aircraft with a side-yoke and advanced avionics."
+        ],
+        "deepLow": [
+            "SR-20 with sleek silver body, black rubber grips, angular contours, and LED indicators"
+        ],
+        "ori": [
+            "a photo of an aircraft SR-20."
+        ]
+    },
+    "Saab 2000": {
+        "positive": [
+            "The Saab 2000 is a high-speed turboprop regional aircraft with excellent climb and cruise performance.",
+            "Saab 2000 combines turboprop efficiency with jet-like speed for regional airlines."
+        ],
+        "negative": [
+            "a photo of not an aircraft Saab 2000."
+        ],
+        "deepHigh": [
+            "The Saab 2000 is a high-speed turboprop regional aircraft with excellent climb and cruise performance."
+        ],
+        "deepLow": [
+            "Saab 2000, white fuselage, blue tail, twin turboprop engines, sleek tapered nose, rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Saab 2000."
+        ]
+    },
+    "Saab 340": {
+        "positive": [
+            "The Saab 340 is a twin-engine turboprop regional aircraft known for its reliability and fuel efficiency.",
+            "Saab 340 is commonly used for short-haul commuter routes with a distinctive high-wing design."
+        ],
+        "negative": [
+            "a photo of not an aircraft Saab 340."
+        ],
+        "deepHigh": [
+            "The Saab 340 is a twin-engine turboprop regional aircraft known for its reliability and fuel efficiency."
+        ],
+        "deepLow": [
+            "Saab 340, white fuselage with blue stripes, twin turboprop engines, high-wing design, rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Saab 340."
+        ]
+    },
+    "Spitfire": {
+        "positive": [
+            "The Supermarine Spitfire is a British WWII fighter plane known for its elliptical wings and legendary agility.",
+            "Spitfire aircraft are iconic symbols of aerial combat and aviation history."
+        ],
+        "negative": [
+            "a photo of not an aircraft Spitfire."
+        ],
+        "deepHigh": [
+            "The Supermarine Spitfire is a British WWII fighter plane known for its elliptical wings and legendary agility."
+        ],
+        "deepLow": [
+            "Spitfire with olive green body, elliptical wings, roundel markings, metallic propeller, sleek aerodynamic shape"
+        ],
+        "ori": [
+            "a photo of an aircraft Spitfire."
+        ]
+    },
+    "Tornado": {
+        "positive": [
+            "The Panavia Tornado is a multirole combat aircraft used by several European air forces.",
+            "Tornado jets feature variable-sweep wings and are known for low-level strike missions."
+        ],
+        "negative": [
+            "a photo of not an aircraft Tornado."
+        ],
+        "deepHigh": [
+            "The Panavia Tornado is a multirole combat aircraft used by several European air forces."
+        ],
+        "deepLow": [
+            "Tornado, dark funnel shape, swirling debris cloud, gray and black tones, rough textured base, menacing sky backdrop"
+        ],
+        "ori": [
+            "a photo of an aircraft Tornado."
+        ]
+    },
+    "Tu-134": {
+        "positive": [
+            "The Tupolev Tu-134 is a Soviet-era twinjet airliner with a glass nose and rear-mounted engines.",
+            "Tu-134 is recognized by its T-tail and military-grade rugged design."
+        ],
+        "negative": [
+            "a photo of not an aircraft Tu-134."
+        ],
+        "deepHigh": [
+            "The Tupolev Tu-134 is a Soviet-era twinjet airliner with a glass nose and rear-mounted engines."
+        ],
+        "deepLow": [
+            "Tu-134, sleek silver fuselage, twin jet engines, pointed nose, blue stripe livery, rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Tu-134."
+        ]
+    },
+    "Tu-154": {
+        "positive": [
+            "The Tupolev Tu-154 is a trijet Soviet airliner often used in Eastern Europe and Russia.",
+            "Tu-154 features rear-mounted engines and a swept-wing design built for speed and range."
+        ],
+        "negative": [
+            "a photo of not an aircraft Tu-154."
+        ],
+        "deepHigh": [
+            "The Tupolev Tu-154 is a trijet Soviet airliner often used in Eastern Europe and Russia."
+        ],
+        "deepLow": [
+            "Tu-154, white fuselage with blue stripes, T-tail design, three rear-mounted engines, rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Tu-154."
+        ]
+    },
+    "Yak-42": {
+        "positive": [
+            "The Yakovlev Yak-42 is a three-engine mid-range Soviet airliner with rear-mounted engines and T-tail.",
+            "Yak-42 is known for its rugged design and service in former Soviet regions."
+        ],
+        "negative": [
+            "a photo of not an aircraft Yak-42."
+        ],
+        "deepHigh": [
+            "The Yakovlev Yak-42 is a three-engine mid-range Soviet airliner with rear-mounted engines and T-tail."
+        ],
+        "deepLow": [
+            "Yak-42 with white fuselage, blue stripes, T-tail design, twin turbofan engines, and rectangular cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft Yak-42."
+        ]
+    },
+    "707-320": {
+        "positive": [
+            "The Boeing 707-320 is a long-range, narrow-body airliner developed in the early jet age.",
+            "707-320 is characterized by its four-engine layout and swept-wing design."
+        ],
+        "negative": [
+            "a photo of not an aircraft 707-320."
+        ],
+        "deepHigh": [
+            "The Boeing 707-320 is a long-range, narrow-body airliner developed in the early jet age."
+        ],
+        "deepLow": [
+            "707-320 with silver metallic fuselage, swept-back wings, four jet engines, and blue tail fin stripes"
+        ],
+        "ori": [
+            "a photo of an aircraft 707-320."
+        ]
+    },
+    "727-200": {
+        "positive": [
+            "The Boeing 727-200 is a stretched version of the 727 with three rear-mounted engines and a T-tail.",
+            "727-200 was widely used for domestic flights and is known for its distinctive trijet design."
+        ],
+        "negative": [
+            "a photo of not an aircraft 727-200."
+        ],
+        "deepHigh": [
+            "The Boeing 727-200 is a stretched version of the 727 with three rear-mounted engines and a T-tail."
+        ],
+        "deepLow": [
+            "727-200 with white fuselage, blue tail stripe, T-tail design, three rear-mounted engines, and oval cabin windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 727-200."
+        ]
+    },
+    "737-200": {
+        "positive": [
+            "The Boeing 737-200 is an early variant of the 737 family with low-bypass turbofan engines.",
+            "737-200 is a short-haul aircraft with a compact fuselage and simple design."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-200."
+        ],
+        "deepHigh": [
+            "The Boeing 737-200 is an early variant of the 737 family with low-bypass turbofan engines."
+        ],
+        "deepLow": [
+            "737-200 with white fuselage, blue stripe livery, rounded nose, twin rear engines, and small rectangular windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-200."
+        ]
+    },
+    "737-300": {
+        "positive": [
+            "The Boeing 737-300 is a second-generation 737 known for improved performance and quieter engines.",
+            "737-300 features a stretched fuselage and more efficient systems than its predecessor."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-300."
+        ],
+        "deepHigh": [
+            "The Boeing 737-300 is a second-generation 737 known for improved performance and quieter engines."
+        ],
+        "deepLow": [
+            "737-300 with white fuselage, blue tail fin, winglets, circular windows, and silver engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-300."
+        ]
+    },
+    "737-400": {
+        "positive": [
+            "The Boeing 737-400 is a stretched version of the 737-300 designed for higher passenger capacity.",
+            "737-400 maintains the twin-engine narrow-body layout with extended length."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-400."
+        ],
+        "deepHigh": [
+            "The Boeing 737-400 is a stretched version of the 737-300 designed for higher passenger capacity."
+        ],
+        "deepLow": [
+            "737-400 with white fuselage, blue tail fin, dark cockpit windows, and wing-mounted engines"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-400."
+        ]
+    },
+    "737-500": {
+        "positive": [
+            "The Boeing 737-500 is a shortened version of the 737 Classic series optimized for regional routes.",
+            "737-500 retains the efficient twin-engine design in a more compact body."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-500."
+        ],
+        "deepHigh": [
+            "The Boeing 737-500 is a shortened version of the 737 Classic series optimized for regional routes."
+        ],
+        "deepLow": [
+            "737-500 with white fuselage, blue tail fin, winglets, circular windows, and silver engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-500."
+        ]
+    },
+    "737-600": {
+        "positive": [
+            "The Boeing 737-600 is a short-body Next Generation 737 designed for efficiency on short routes.",
+            "737-600 features updated avionics and engines while maintaining a compact frame."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-600."
+        ],
+        "deepHigh": [
+            "The Boeing 737-600 is a short-body Next Generation 737 designed for efficiency on short routes."
+        ],
+        "deepLow": [
+            "737-600 with white fuselage, blue tail fin, sleek wings, circular windows, and silver engine nacelles"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-600."
+        ]
+    },
+    "737-700": {
+        "positive": [
+            "The Boeing 737-700 is a Next Generation aircraft popular for short to medium-range flights.",
+            "737-700 is known for fuel efficiency and advanced systems."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-700."
+        ],
+        "deepHigh": [
+            "The Boeing 737-700 is a Next Generation aircraft popular for short to medium-range flights."
+        ],
+        "deepLow": [
+            "737-700, white fuselage with blue stripes, tapered wings, circular engine nacelles, dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-700."
+        ]
+    },
+    "737-800": {
+        "positive": [
+            "The Boeing 737-800 is one of the most widely used commercial jets, known for versatility and range.",
+            "737-800 features modern avionics and an extended fuselage for higher capacity."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-800."
+        ],
+        "deepHigh": [
+            "The Boeing 737-800 is one of the most widely used commercial jets, known for versatility and range."
+        ],
+        "deepLow": [
+            "737-800, white fuselage with blue stripes, swept-back wings, circular engine nacelles, dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-800."
+        ]
+    },
+    "737-900": {
+        "positive": [
+            "The Boeing 737-900 is the largest variant of the 737 NG series designed for high-density routes.",
+            "737-900 has an extended fuselage with improved performance over earlier versions."
+        ],
+        "negative": [
+            "a photo of not an aircraft 737-900."
+        ],
+        "deepHigh": [
+            "The Boeing 737-900 is the largest variant of the 737 NG series designed for high-density routes."
+        ],
+        "deepLow": [
+            "737-900 with white fuselage, blue tail fin, winglets, and dark cockpit windows"
+        ],
+        "ori": [
+            "a photo of an aircraft 737-900."
+        ]
+    },
+    "747-100": {
+        "positive": [
+            "The Boeing 747-100 is the original model of the iconic 'Jumbo Jet' with a partial upper deck.",
+            "747-100 revolutionized long-haul air travel with its size and four-engine configuration."
+        ],
+        "negative": [
+            "a photo of not an aircraft 747-100."
+        ],
+        "deepHigh": [
+            "The Boeing 747-100 is the original model of the iconic 'Jumbo Jet' with a partial upper deck."
+        ],
+        "deepLow": [
+            "747-100 with white fuselage, blue stripe livery, four jet engines, swept-back wings, and red tail fin"
+        ],
+        "ori": [
+            "a photo of an aircraft 747-100."
+        ]
+    },
+    "747-200": {
+        "positive": [
+            "The Boeing 747-200 is a long-range version of the 747 with upgraded engines and payload capacity.",
+            "747-200 retains the classic humpback profile and four-engine layout."
+        ],
+        "negative": [
+            "a photo of not an aircraft 747-200."
+        ],
+        "deepHigh": [
+            "The Boeing 747-200 is a long-range version of the 747 with upgraded engines and payload capacity."
+        ],
+        "deepLow": [
+            "747-200 with white fuselage, blue cheatline, four turbofan engines, swept wings, and a humpbacked upper deck"
+        ],
+        "ori": [
+            "a photo of an aircraft 747-200."
+        ]
+    },
+    "747-300": {
+        "positive": [
+            "The Boeing 747-300 features a stretched upper deck compared to previous versions.",
+            "747-300 improved passenger capacity while retaining the iconic 747 structure."
+        ],
+        "negative": [
+            "a photo of not an aircraft 747-300."
+        ],
+        "deepHigh": [
+            "The Boeing 747-300 features a stretched upper deck compared to previous versions."
+        ],
+        "deepLow": [
+            "747-300 with blue-white livery, swept-back wings, four jet engines, and a humpbacked upper deck"
+        ],
+        "ori": [
+            "a photo of an aircraft 747-300."
+        ]
+    },
+    "747-400": {
+        "positive": [
+            "The Boeing 747-400 is a widely used long-range aircraft with winglets and upgraded avionics.",
+            "747-400 offers enhanced fuel efficiency and extended flight range."
+        ],
+        "negative": [
+            "a photo of not an aircraft 747-400."
+        ],
+        "deepHigh": [
+            "The Boeing 747-400 is a widely used long-range aircraft with winglets and upgraded avionics."
+        ],
+        "deepLow": [
+            "747-400 with blue-white livery, four turbofan engines, swept-back wings, and a hump-shaped upper deck"
+        ],
+        "ori": [
+            "a photo of an aircraft 747-400."
+        ]
+    },
+    "757-200": {
+        "positive": [
+            "The Boeing 757-200 is a narrow-body jetliner known for its range and performance.",
+            "757-200 features a sleek design and high thrust-to-weight ratio for short-field capability."
+        ],
+        "negative": [
+            "a photo of not an aircraft 757-200."
+        ],
+        "deepHigh": [
+            "The Boeing 757-200 is a narrow-body jetliner known for its range and performance."
+        ],
+        "deepLow": [
+            "757-200 with white fuselage, blue tail fin, winglets, twin jet engines, and silver underbelly"
+        ],
+        "ori": [
+            "a photo of an aircraft 757-200."
+        ]
+    }
+}
